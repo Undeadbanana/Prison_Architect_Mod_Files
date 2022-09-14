@@ -18,3 +18,6 @@ I don't really mod, so this isn't the place for questions about it. I spent a lo
 
 ### 4. Congratulations! You now have the power to spy on Paradox with me to make sure we know everything they're changing that could affect mods!
 ![View of update changes](https://i.imgur.com/Tc881Zu.png)
+
+
+I might remove all the bugfix folders. DoubleLift hasn't snuck any changes to moddable files in them over the last couple months, so when I copy over those folders/files there's usually no changes to display in a commit.
