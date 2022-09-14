@@ -318,7 +318,7 @@ BEGIN Event
     Action                  FoodFight
     Pool                    FoodFight
     RoomId                  Canteen
-    CooldownFromLastEvent   168
+    CooldownFromLastEvent   84
     BEGIN PreReq Type Room RoomId Canteen   END
     BEGIN PreReq Type CurrentRegime RegimeType Eat END
     BEGIN PreReq Type RoomValidForFoodFight RoomId Canteen END

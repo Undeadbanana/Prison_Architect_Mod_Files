@@ -94,7 +94,7 @@ BEGIN Gang
     SpecialRep              GymRat
     SpecialRep              DisrepectSurroundings
     
-    TargetCrime             Kidnapping 
+    TargetCrime             FalseAccounting
     
     PreferredContraband     Weapons 
     PreferredContraband     Tools 
@@ -128,7 +128,7 @@ BEGIN Gang
     SpecialRep              BattleTendency
     SpecialRep              SneakThief
     
-    TargetCrime             FalseAccounting 
+    TargetCrime             Kidnapping
     
     PreferredContraband     Luxuries 
     

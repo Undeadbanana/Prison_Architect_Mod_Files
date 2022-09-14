@@ -4038,6 +4038,7 @@ BEGIN Room
 	BEGIN LikelyObject	Id		DumbbellRack	END
 	BEGIN LikelyObject	Id		SnackMachine	END
 	BEGIN LikelyObject  Id		MetalStool		END
+	BEGIN LikelyObject	Id	GymMat			END
 
 	BEGIN Grading		Type	RoomSize	Size	100 GradeEffect 1	END
 	BEGIN Grading		Type	RoomSize	Size	200 GradeEffect 2	END
