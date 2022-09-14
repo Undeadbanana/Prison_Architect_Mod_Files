@@ -1,0 +1,292 @@
+"Clink"
+>27. Juni 2019
+	Das Clink-Update
+<->4 neue Fußböden und 4 neue Wände hinzugefügt.
+<->Verbesserte Performance und dadurch kürzere Ladezeiten.
+<->Sie können jetzt mehr Vorarbeiter einstellen, für größere Gefängnisse, in denen die Vorarbeiter auch in Programmen unterrichten.
+<->Bestehende Objekte haben jetzt alle Rotationen, für fehlende Ausrichtungen wurden neue Sprites ergänzt.
+<->Neuer Button 'Wachen rufen', der bestehende Wachen in der Nähe zu einem Ort ruft, der Spieler muss also keine neuen Wachen mehr einstellen, um auf Zwischenfälle zu reagieren. 
+<->Neuer Button 'Tunnelsuche', der Wachen befiehlt, alle Toiletten nach versteckten Fluchttunneln abzusuchen.  
+<->Das Schnellbau-Menü enthält neue Schnellräume für das schnellere und einfachere Bauen von Räumen.
+<->Sie können Gefangenen und Mitarbeitern jetzt sehr viel leichter folgen, indem Sie auf sie doppelklicken.
+
+
+Viel Spaß mit den Verbesserungen!
+
+~~~~~
+
+﻿„The Slammer“-Update
+>17. September 2019
+
+Liebe Spieler von Prison Architect,
+
+im Namen von Paradox und Double Eleven hoffen wir, dass Ihnen die neuen Inhalte in diesem Update gefallen. 
+Vielen Dank für all Ihre Vorschläge und Ideen, die uns bis jetzt erreicht haben. Vieles von dem, was wir umgesetzt haben, basiert auf Ihrem Feedback.
+Es wurden zahlreiche Verbesserungen aus der Community umgesetzt. Einige sind hier aufgeführt, aber es gibt noch viele mehr im Spiel selbst.
+
+Bitte zeigen Sie uns (@PrisonArchitect), wie Sie in Ihren Gefängnissen von all den Neuerungen Gebrauch machen! 
+
+Gaz, Games Design Manager bei Double Eleven.
+
+
+>[1/3] Neue Gegenstände
+
+<->Neue Bodentypen: Gitter, Schlamm, Scifi.
+<->Neue Sicherheitstür mit Kommunikationsklappe.
+<->Neue Beleuchtung: Straßenlampen, Fluchtlichter, Wandlampen.
+<->Neue Bäume: schneebedeckte Konifere, Palme.
+<->Sowie andere neue Objekte.
+
+
+>Klicken Sie auf WEITER, um mehr zu sehen ...
+
+
+
+>[2/3] Neue Funktionen
+
+<->Option für einen randlosen Fenstermodus.
+<->Objekte können verschoben/bewegt werden!
+<->Filter und Schaltflächen zum Sortieren von Gegenständen.
+<->Türen können jetzt genauso schnell gebaut werden wie Wände.
+<->Wachhunde und bewaffnete Wachen können Patrouillewegen und Zonen zugewiesen werden.
+<->Zusätzlich x10 Spielgeschwindigkeit.
+<->Häftlinge der höchsten Sicherheitsstufe wurden der Einlieferung hinzugefügt.
+<->Möglichkeit, zwei verschiedene überschneidende Patrouillenwege zu besitzen.
+<->Mehr Objekte und Möbel können gedreht werden.
+<->Verbesserte Grafiken für den Einsatz und die Logistik.
+<->Der Bereich mit dem Klonen-Werkzeug wurde vergrößert.
+<->Möglichkeit, dass beim Start eines neuen Spiels die Bürokratie erforscht ist.
+<->Auf Mutatoren (Menü) kann jetzt zugegriffen werden und sie können im laufenden Spiel angepasst werden.
+<->Gegenstände in Hülle und Fülle!
+<->Beim Start eines neuen Spiels kann ein Schnee- oder Dschungelbauland gewählt werden.
+<->Die Wachtürme schützen die Scharfschützen vor dem Wetter.
+<->Das Personal und die Hunde haben Namen.
+<->Im Objektmenü gibt es eine Filterfunktion, um nach Räumen zu suchen.
+<->Option, saubere Gefängnisse zu haben.
+<->Neue Schnellzugriffe in der oberen Leiste des Head-up-Displays.
+<->!
+
+
+>[3/3] Und mehr ...
+
+<->Die Scharfschützen tragen jetzt Gefängnisschlüssel.
+<->Die Häftlinge bevorzugen die Duschräume statt der Duschen in den Häftlingszellen.
+<->Die Überwachungskameras zeigen die Häftlinge und das Personal im Direktormodus.
+<->Die an den Maschinen stationierten Wachen verlassen ihre Posten nicht mehr, um Durchsuchungen oder Razzien durchzuführen.
+<->Die Wachen öffnen die Türen für verloren gegangene Hunde.
+<->Das Bücherregal erfüllt den Wunsch nach Bildung.
+<->Kurzbefehle für das Durchlaufen der Spielmenüs ([Z] und [X]) und das Schließen von Menüs ([C]).
+<->Zelltüren von Fertigräumen bleiben offen, bis der Raum fertiggestellt ist.
+<->Die Sprites für die Überwachungskameras zeigen jetzt die Richtung an, in die sie zeigen.
+<->Fehlerbehebungen bei den Heckengrafiken.
+<->Fehlerbehebungen bei den Metalldetektoren.
+<->Fehlerbehebungen am Warmwasserboiler, der sich nicht immer mit den Rohren verbunden hatte.
+<->Unterstützung für Modders.
+
+~~~~~~
+
+Update "The Sneezer"
+>21. November 2019
+
+Direktorinnen und Direktoren,
+
+Wir hoffen, dass euch dieses Update von Prison Architect gefällt.
+Die Liste der Neuerungen umfasst neue Brücken, Klontechniken und Verbesserungen bei der Planung.
+
+>[1/2] Neue Gegenstände
+
+<->Neue Wände: Art Deco und Oriental.
+<->Neue Bände: Kalkstein, Gras und Steine, Sandstein, Lunar.
+<->Neue Objekte: Spüle, Handtrockner, Wandschilder, Neue Bäume (Gruselig und Sakura), Kaktus, Parkbank, Elchkopf, Wegweiser, Bücherregal mit Geheimtür, und mehr...
+
+Klicken Sie auf WEITER, um mehr zu sehen
+
+>[2/2] Neue Funktionen
+
+<->Diverse neue Hunderassen, aus denen Sie vor und während des Spiels auswählen können!
+<->Auswahlmöglichkeit von Wandtypen für Schnellräume.
+<->Endlich sind BRÜCKEN im Spiel! Bauen Sie Brücken für Personal und Häftlinge über Straßen, Flüssen und Landflächen.
+<->Die täglichen Zahlungen für Häftlinge der höheren Sicherheitsstufen wurden angeglichen; Hohe Sicherheitsstufe, Todestrakt und psychisch Kranke zahlen mehr.
+<->Leere und besetzte Zellen können jetzt im Bereich Logistik unter "Zellenstatus" eingesehen werden.
+<->Neue Häftlingaktion in den Biografien: "Eskorte zur Krankenstation"
+<->Überführte Häftlinge werden in der Einlieferung angeboten.
+<->Im Bereich Einsatz wurde die Option Besucher-Ausrichtung hinzugefügt.
+<->Fundamente können jetzt mit weiteren Wandtypen gebaut werden.
+<->Das Klonwerkzeug wurde überarbeitet! Sie können die dargestellten Wände und Objekte jetzt drehen und wenden, der klonbare Bereich kann ganze Gefängnisse abdecken! UND Sie können auch zwischen den gespeicherten Spielständen klonen (BETA)! Die Baugeschwindigkeit wurde ebenfalls optimiert.
+<->Überarbeitete Planung! Setzen Sie ihre Pläne um, fügen Sie Türen hinzu und wählen Sie den Wandtyp. 
+<->Verbesserte Darstellung der Schnellräume mit detaillierter Ansicht der geplanten Wände.
+<->Neue Wüstenbauland-Option beim Start eines neuen Spiels.
+
+~~~~~~
+
+"THE BUCKET" UPDATE & “CLEARED FOR TRANSFER” DLC
+>DATE 14/05/20
+
+>"Cleared for Transfer"- Kostenloses DLC 
+Wir haben gerade das kostenlose DLC "Cleared for Transfer" veröffentlicht, mit der Privilegien für Häftlinge in bestimmten Sicherheitstrakten festgesetzt werden können. Insassen werden angeregt, ihr Verhalten zu ändern, um die Kriterien zu erfüllen und in einen Trakt mit einer niedrigeren Sicherheitsstufe versetzt zu werden, der höheren Komfort bietet.
+
+Holt Euch also das kostenlose DLC "Cleared for Transfer"!
+
+Gaz, Games Design Manager bei Double Eleven.
+
+>Update "The Bucket"
+Das kostenlose Update "The Bucket" ergänzt das DLC "Cleared for Transfer" und erweitert das Spiel um Wünsche der Community, neue Funktionen und Optimierungen. Folgendes erwartet Euch: 
+
+>[1/2] Neue Gegenstände
+
+<->Neue Gegenstände: Laufband, Baumtopf für den Innenbereich, Boxring, Kicker, Glasfenster, Direktor-Statue und viele mehr...
+<->Neue Wände: Verwittert, Zerfallen, Rostig, Slum, Bambuszaun, Sicherheitstrakte und mehr.
+<->Neue Türen: Bambustor, Weiße Streifen.
+<->Neue Böden: Blumiges Feld, Laufbahn (schnell), Bambus.
+<->Neue Zaunoption mit Grasuntergrund.
+
+>[2/2] Neue Funktionen
+
+<->Brandneuer Raum: SPORTSAAL.
+<->Neue Schnellräume: Waffenkammer, Krankenstation und Bücherei.
+<->Bestrafungen und Suchen können jetzt im Sicherheitstrakt initiiert werden! 
+<->Benutzerdefinierte Sicherheitstrakte können jetzt im Einsatzmenü erstellt werden.
+<->Im Einsatzmenü können jetzt Köche, Ärzte und weitere Mitarbeiter zugeteilt werden.
+<->Im Menü "Neue Schilder" können Zahlen und Buchstaben an Wände angebracht werden.
+<->Im Richtlinien-Menü können jetzt Mahlzeiten und Bewährungsoptionen für einzelne Sicherheitstrakte angepasst werden.
+<->Automatische Fundamente können im Planung-Menü aktiviert und deaktiviert werden.
+<->Neue Gefängnisarbeit Forstbetrieb.
+
+~~~~~~
+
+ERWEITERUNG "ISLAND BOUND" & 
+UPDATE "THE ROCK"
+>
+
+>"Island Bound" – Neuer DLC 
+<->Die neueste Erweiterung für Prison Architect ist jetzt online!
+<->Mit Island Bound bekommen Sie die Möglichkeit, Ihre eigenen isolierten Inselgefängnisse zu errichten und anschließend über den See- oder Luftweg mit Häftlingen, Verpflegung und anderen Ressourcen zu versorgen.
+<->Mit Island Bound bekommen Sie neue Spieloptionen, können ganz ohne Verbindung zum Festland auskommen und sogar gänzlich auf Straßen verzichten! 
+<->Es kommen Boote, Hubschrauber, Anleger und Landeplätze ins Spiel, die mit Einlieferungs- und Auslieferungszonen verknüpft werden können. Legen Sie jetzt fest, ob Häftlinge mit dem Schiff ankommen, während die Vorräte auf dem Luftweg geliefert werden.
+<->An jedem potenziellen Schlupfloch für Schmuggler können Sie Kontrollpunkte errichten, wo Häftlinge und Besucher von Wachen durchsucht werden, sowie Scanner aufstellen, um Schmuggelware in Lieferungen zu entdecken! 
+<->Darüber hinaus bringt Island Bound neue Karten mit sich, für die das Alcatraz-Gefängnis Pate stand, sowie neue Objekte, Böden, Fähren für den Verkehr zwischen den Inseln, eine Flugfeuerwehr, eine neue Elitetruppen-Einheit und vieles mehr!
+
+Gaz, Games Design Manager bei Double Eleven.
+
+Klicken Sie auf WEITER, um mehr zu sehen
+
+>"The Rock" Update
+Das kostenlose Update "The Rock" ergänzt die Erweiterung "Island Bound" und bringt diverse Verbesserungen mit sich.
+
+<->Wasserkacheln – Wasser kann jetzt mit Land und Land mit Wasser kombiniert werden, um eigene Inseln, Küstenlinien, Wassergräben usw. zu kreieren.
+
+<->Dynamischer Ruf – Wird diese Option aktiviert, können Häftlinge je nach deren Aktivität im Gefängnis ihren Ruf sammeln oder verlieren. Solche Charakteristiken, wie "Stark", "Hart" oder "Geübter Kämpfer", werden mit der Zeit im Hof oder dem neuen Sportsaal gewonnen, um beispielsweise in Einzelhaft wieder verloren zu werden. Das gilt für viele weitere Charakteristiken und Umstände.
+
+~~~~~~
+
+„GRÜNE INITIATIVE“ DLC & 
+Update „The Glasshouse“
+>
+
+>Grüne Initiative - Neuer DLC 
+>   Früchte der Arbeit:
+<->Dank der neuen Landwirtschaft können Häftlinge Kartoffeln, Weizen, Äpfel und weitere Pflanzen anbauen. Die Ernte kann exportiert oder für Mahlzeiten verwendet werden.
+>
+>   Drei Außenräume dienen dem Anbau:
+<->Obstgarten, Farmfeld und Gemüsebeet. Stellen Sie Farmarbeiter ein, bauen Sie Vorratskammern zur Aufbewahrung der Produkte und Schuppen für die Ausrüstung.
+>
+>   Es droht Ärger:
+<->Neue Nutzpflanzen bedeuten neue Schmuggelware. Häftlinge können jetzt insgeheim Drogen anbauen und Zutaten für die Schnapsproduktion beschaffen. Felder werden zu Bandenrevieren, seien Sie auf der Hut!
+>
+>   Ein grünerer New Deal:
+<->Gefängnisse werden mit Solar-, Wind- und Hybridstromquellen versorgt. Überschüssiger Strom kann mithilfe des Stromexportmeters wieder verkauft werden.
+
+
+Klicken Sie auf WEITER, um mehr zu sehen
+
+
+>Update „The Glasshouse“
+<->Das kostenlose Glasshouse-Update stimmt auf die Erweiterung Grüne Initiative ein und bringt einige der am meisten von der Community gewünschten Verbesserungen mit sich:
+<->Neues Recyclingsystem inklusive Recyclingtonne.
+<->Neue Schnellräume: Hof, Hain und Hecken-Irrgarten.
+<->Verbesserte Funktionalität der Aktionen Wegwerfen und Abreißen.
+<->Neue Sortierungsmethoden im Objektmenü.
+
+~~~~~~
+
+DLC „SECOND CHANCES“ & 
+Update „The Pen“
+>Öffnet die Tore!
+
+>Second Chance – Neue DLC:
+>   Kompetenzen aufbauen:
+<->Drei neue Räume, in denen Häftlinge lernen und arbeiten können; eine Bäckerei und ein Restaurant bedienen zivile Besucher, während in dem Besprechungsraum neue Programme durchgeführt werden können
+<->Einige Häftlinge verfügen bereits über passende Arbeitserfahrung für Jobs im Gefängnis
+<->Die Löhne der Gefängnisjobs können jetzt angepasst werden 
+>
+>   Vorbereitung auf Bewährung:
+<->Fünf neue Besserungsprogramme stehen zur Verfügung: Beratung durch gebesserter Häftlinge, Drei-Verstöße-Training und Programm, Konfliktbewältigung und Tiertherapie!
+<->Haftstrafen können je nach Betragen des Häftlings verkürzt oder verlängert werden
+<->Das Besserungs- und Rehabilitierungsmenü gibt eine Übersicht über die Rückfallquoten aller Häftlinge, deren Arbeitserfahrung und der Anzahl der rückfälligen Häftlinge
+
+Klicken Sie auf WEITER, um mehr zu sehen
+
+
+
+>   Frei zu gehen:
+<->Verdienen Sie einen Bonus für jeden erfolgreich gebesserten Häftling, der sich in die Gesellschaft integriert. Für rückfällige Häftlinge drohen Strafen – und sie können mit noch schlechteren Gewohnheiten im Gefängnis landen!
+
+>   Und mehr...
+<->Bestimmen Sie für jede Sicherheitsstufe eine individuelle Farbe der Häftlingsuniform
+<->Profitieren Sie von neuen Zuschüssen, um die Kosten der Besserungsprogramme zu decken
+<->Schnellräume: Bäckerei, Restaurant und Besprechungsraum
+<->DLC-Inforeiter steht auf der To-Do-Liste
+
+>Update „The Pen“
+<->Drogensuche! Ein neuer Sicherheitsbefehl ermöglicht den Hundeführern, spezifisch nach Drogen zu suchen 
+<->Neue Richtlinie, die Personal das Tragen von Schlüsseln ermögicht
+<->Neuer Schnellraum: Rezeption
+<->Einlieferung anpassen: Ermöglicht Ihnen, die Einlieferungszeiten individuell anzupassen
+<->Gelockerte Außenbereich-Beschränkungen für Klassenraum und Kantine
+<->Eine Vielzahl neuer Objekte
+
+~~~~~~
+
+DLC „PERFECT STORM“ & 
+UPDATE „THE TOWER“  
+>Trauen Sie nicht der Ruhe vor dem Sturm! b
+
+>Perfect Storm – Neuer DLC:
+>   Seien Sie auf das Schlimmste vorbereitet:
+<->Neue Option zur Aktivierung von extremen Wetterereignissen und Rattenplagen unterschiedlicher Intensität
+<->Diverse Unterstützungsoptionen, neue Gegenstände und Einrichtungen, Trainingsprogramme, Notdienste und Versorgungspläne
+<->Sie können auch Schallabschreckung gegen Ratten, Feuerlöscher, Alarme und andere Objekte verwenden, um für drohende Katastrophen gewappnet zu sein und sich auf Wetteränderungen einzustellen 
+>
+>   Hüten Sie sich vor den Ratten:
+<->Sobald bestimmte Voraussetzungen erfüllt sind, können Ratten in Ihrem Gefängnis auftauchen, halten Sie es also sauber und versuchen Sie, alle Tunnel im Auge zu behalten
+<->Lassen Sie sich nicht von den niedlichen Gesichtern täuschen, denn in größerer Zahl können Ratten Krankheiten verursachen, Stromkabel und Zäune beschädigen und sogar Tunnel graben
+>
+>   Katastrophales Wetter – Teil 1: 
+<->Es wurden drei Arten von Extremwetterlagen hinzugefügt, die alle 3 verschiedene Intensitätsstufen haben und jeweils Ereignisse enthalten, die zusehends gefährlicher werden
+Klicken Sie auf WEITER, um mehr zu sehen
+
+>
+>   Katastrophales Wetter – Teil 2: 
+<->Starker Frost – Die Kälte kann Anlagen und Gegenstände beschädigen, Straßen und Flächen vereisen und Häftlinge krank machen
+<->Gewittersturm – Stürme können gefährlich und zerstörerisch sein, elektrische Geräte beschädigen, Feuer auslösen, die strukturelle Integrität von Gebäuden schwächen und stellen eine Gefahr für Häftlinge und Personal dar
+<->Hitzewelle – Dieses heiße Wetter führt das neue Bedürfnis Flüssigkeitszufuhr für Personal und Häftlinge ein, das zu Hitzschlag führen kann, wenn es nicht beachtet wird. Die Hitze kann auch Gegenstände beschädigen, halten Sie also Ihre Augen offen!
+>
+>   Update „THE TOWER“ - Teil 1: 
+<->Es wurden zwei neue Wachhunde hinzugefügt, ein Shiba Inu und ein Schwarzer Setter, die jeweils über die Option verfügen, kleine Haufen rund um das Gefängnis zu hinterlassen
+<->Die Besuchszeiten können jetzt angepasst werden, je mehr Zeit ein Häftling mit Familie und Freunden verbringt, desto positiver wirkt sich das auf seine Bedürfnisse aus
+<->Scharfschützen können jetzt auch nicht tödliche Munition verwenden, um Ausbrecher und gefährliche Häftlinge zu stoppen, ohne sie zu töten
+<->Des Weiteren wurden neue Gegenstände und Bodenbeläge hinzugefügt
+
+>
+>   Update „THE TOWER“ - Teil 2: 
+<->Farbige Personaltüren
+<->Sofa, Luxusschreibtisch, Holz- und Drehstühle
+<->Holz- und Bleiglafenster
+<->Farnstrauch, Efeu, Weidenbaum und Baum (kahl)	 
+<->Laminatboden, Teppich und Feldgras
+
+>	Spezieller Dank geht an: 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+

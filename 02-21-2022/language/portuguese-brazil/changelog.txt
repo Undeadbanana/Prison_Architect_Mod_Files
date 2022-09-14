@@ -1,0 +1,306 @@
+"Clink"
+>27 de junho de 2019
+	Atualização do Xilindró
+<->Adicionamos 4 novos tipos de chão e 4 novos tipos de parede.	
+<->Melhoramos o desempenho para ajudar a baixar o tempo de carregamento.	
+<->Aumentamos o número de capatazes que podem ser contratados em prisões maiores, onde capatazes também ensinam programas.	
+<->Agora objetos existentes possuem rotação total; adicionamos novos "sprites" para as orientações ausentes.	
+<->Novo botão de "Resposta dos Guardas" que comanda guardas existentes próximos a irem até um local, em vez de o jogador ter que contratar guardas adicionais para lidar com incidentes. 	
+<->Novo botão, "Procurar Túneis", que comanda os guardas a revistarem todos os vasos sanitários em busca de túneis de fuga.  	
+<->Mais salas rápidas adicionadas ao menu de construção rápida, para que possam construir salas de forma mais rápida e fácil.	
+<->Ficou muito mais fácil seguir prisioneiros e funcionários; agora é só clicar duas vezes neles.	
+
+
+Esperamos que se divirtam jogando com essas novas melhorias!
+
+~~~~~
+
+﻿Atualização "O Xilindró"
+>17 de setembro de 2019
+
+Queridos jogadores de Prison Architect,
+
+A Paradox e a Double Eleven esperam que você aproveite as novidades desta atualização. 
+Agradecemos todas as sugestões e ideias enviadas. Muito do que fizemos foi baseado nos seus comentários.
+Inúmeras melhorias da comunidade foram implementadas. Algumas listadas aqui e muitas outras para encontrar no jogo.
+
+Marque @PrisonArchitect para nos mostrar como você está usando o novo material nas suas prisões! 
+
+Gaz, gerente de design de jogos da Double Eleven.
+
+
+>[1/3] Novos itens
+
+<->Novos tipos de piso; Gradeado, Lama, Sci-Fi.
+<->Nova porta de segurança com passagem para bandeja de comida.
+<->Novas luzes; Postes, Holofotes, Luzes de parede.
+<->Novas árvores; Árvore nevada, Palmeira.
+<->Mais outros novos objetos.
+
+
+>Clique em PRÓXIMO para ver mais...
+
+
+
+>[2/3] Novos recursos
+
+<->Opção de modo janela sem bordas.
+<->Recurso realocar/mover objetos!
+<->Filtros para o menu de itens e botão "organizar por".
+<->As portas agora podem ser construídas rapidamente nas paredes.
+<->Cães de guarda e guardas armados podem ser atribuídos para rotas de ronda e zonas!
+<->Velocidade de jogo x10.
+<->Detentos da SuperMax adicionados à Admissão.
+<->Capacidade de 2 rotas de ronda diferentes que se intersectam.
+<->Rotações para mais objetos e móveis.
+<->Visuais de alocação e logística aprimorados.
+<->Região da ferramenta Clone aumentada.
+<->Opção de ter Burocracia pesquisada ao iniciar um novo jogo.
+<->Agora, os modificadores (menu) podem ser acessados e ajustados no meio do jogo.
+<->Muitos e muitos itens!
+<->Novas opções de terreno de Neve e Selva ao iniciar um novo jogo.
+<->Torres de vigilância abrigam franco-atiradores do mau tempo.
+<->Nomes de funcionários e cães.
+<->O menu Objetos traz um recurso de busca de cômodos.
+<->Opção para ter prisões mais limpas.
+<->Novos links rápidos na barra de interface superior.
+<->!
+
+
+>[3/3] e mais...
+
+<->Os franco-atiradores agora carregam chaves da cadeia.
+<->Os prisioneiros priorizam os chuveiros coletivos aos chuveiros das celas de outros detentos.
+<->O circuito interno mostra detentos e funcionários no modo Diretor.
+<->Guardas posicionados em máquinas não abandonam os postos para buscas e revistas.
+<->Guardas abrirão as portas para cães perdidos.
+<->A estante de livros atende à necessidade de Alfabetização.
+<->Teclas de atalho para navegar pelos menus do jogo [Z] e [X] e fechá-los [C].
+<->As portas das celas do Cômodo Rápido permanecem abertas até que o cômodo seja concluído.
+<->As imagens das câmeras do circuito interno agora mostram para que direção estão apontando.
+<->Correções na aparência das cercas-vivas.
+<->Correções nos detectores de metais.
+<->Correções no aquecedor de água, que nem sempre se conectava aos tubos.
+<->Suporte para mods.
+
+~~~~~~
+
+Atualização “O Xadrez”
+>21 de novembro de 2019
+
+Caros Diretores,
+
+Esperamos que curtam esta atualização de Prison Architect.
+Confira abaixo um resumo dos itens mais notáveis, incluindo: novas passarelas, melhorias de clonagem e planejamento.
+
+>[1/2] Novos itens
+
+<->Novas paredes: Art Déco e Oriental.
+<->Novos pisos: Calcário, Grama e Pedras, Arenito, Lunar.
+<->Novos Objetos: Pia, Secador de Mãos, Placa de Parede, árvores Assustadora e Sakura, Cacto, Banco de Pátio, Cabeça de Alce, Sinalização, Porta Secreta de Estante muito mais...
+
+Clique em PRÓXIMO para ver mais...
+
+>[2/2] Novos Recursos
+
+<->Diversos tipos novos de cães para escolher, antes e durante uma partida!
+<->Opção de escolher o tipo de parede para Aposentos rápidos.
+<->E as PASSARELAS finalmente chegaram! Coloque-as sobre estradas, água e outros terrenos, para os funcionários e prisioneiros atravessarem.
+<->Pagamentos diários equilibrados para detentos de maior risco; Segurança Máxima, Prisão Preventiva, Corredor da Morte e Criminosos Psicóticos pagam mais.
+<->Celas vazias e ocupadas podem ser visualizadas na Logística, através do novo botão “Condição da Cela”.
+<->Ação extra de prisioneiro adicionada à Bios: “Acompanhar até a enfermaria”
+<->Os prisioneiros transferidos são oferecidos na admissão.
+<->Opção de Direção Única de Visitantes adicionada à Alocação.
+<->Agora, as fundações podem ser construídas com mais tipos de paredes.
+<->Ferramenta de clonagem reformulada! Agora, você pode girar e inverter, paredes e objetos agora são exibidos, a área clonável pode cobrir prisões inteiras! E você pode até mesmo clonar entre os jogos salvos (BETA)! A velocidade de construção também foi otimizada.
+<->Planejamento reestruturado! Construa seus projetos, adicione portas e escolha o tipo de parede. 
+<->Exibição Rápida de Aposentos aprimorada, agora mostrando onde as paredes serão construídas.
+<->Nova opção do Terreno Deserto ao criar um novo jogo.
+
+~~~~~~
+
+DLC “CLEARED FOR TRANSFER” E ATUALIZAÇÃO “THE BUCKET"
+>DATE 14/05/20
+
+>“Cleared for Transfer” - DLC grátis 
+Acabamos de lançar o DLC grátis “Cleared for Transfer”. Ele permite configurar os privilégios de seus prisioneiros de acordo com o setor de segurança. Os detentos serão incentivados a mudarem seus hábitos, de modo a atenderem seus critérios e serem transferidos para uma ala mais branda da prisão (e mais confortável).
+
+Baixe já o DLC “Cleared for Transfer” de graça!
+
+Gaz, gerente de design de jogos na Double Eleven.
+
+>Atualização “The Bucket”
+A atualização gratuita “The Bucket” complementa o DLC “Cleared for Transfer”, junto a diversos pedidos da comunidade, novas funcionalidades, aprimoramentos e muito mais. Novidades incluídas; 
+
+>[1/2] Novos Itens
+
+<->Novos Itens: Esteira, recipiente de árvore interno, ringue de boxe, futebol de mesa, janela de vidro, estátua do diretor e muito mais...
+<->Novas paredes: Deteriorada, decadente, enferrujada, casebre, cerca de bambu, setores de segurança e muito mais.
+<->Novas Portas: Portão de bambu, listras brancas.
+<->Novos pisos: Campo florido, pista de corrida (rápida), bambu.
+<->Nova opção de cerca com grama embaixo.
+
+>[2/2] Novos Recursos
+
+<->Novo tipo de cômodo de ACADEMIA.
+<->Novos cômodos de construção rápida, incluindo Arsenal, Enfermaria e Biblioteca.
+<->Punições e buscas agora podem ser iniciadas por Setor de Segurança! 
+<->Setores de Segurança personalizados agora podem ser criados para Alocação.
+<->A Alocação agora permite atribuir cozinheiros, médicos e outros membros para a equipe.
+<->“Novas placas” para adicionar números e letras às suas paredes.
+<->A Política da Interface do Usuário agora permite opções de refeição e audiência ajustadas por Setor de Segurança.
+<->Autofundações podem ser ligadas/desligadas no planejamento.
+<->Novo trabalho prisional de sivicultura.
+
+~~~~~~
+
+Expansão “ISLAND BOUND” & 
+Atualização “THE ROCK”
+>
+
+>“Island Bound”: Novo DLC 
+<->A última expansão de Prison Architect já está disponível!
+<->Com Island Bound, os jogadores têm a liberdade e a habilidade de criar suas próprias prisões isoladas, com entregas, prisioneiros e outros serviços transportados pelo mar e pelo ar.
+<->Island Bound introduz opções extras de terreno para iniciar sua prisão, tudo para remover qualquer conexão com o continente. Dá para jogar até sem a estrada! 
+<->Também são introduzidos Barcos, Helicópteros, Docas e Heliportos, que podem ser ligados às suas áreas de entrega e exportação. Agora você pode optar por enviar separadamente os detentos para um lado da prisão ou da ilha, e mandar as entregas serem feitas por via aérea em outro lugar.
+<->Com mais pontos de entrada para contrabando, também podem ser construídas novos Pontos de controle, para que os guardas possam revistar prisioneiros e visitantes, e você pode criar scanners para descobrir o contrabando escondido dentro das entregas! 
+<->Island Bound também vem com novos mapas pré-prontos inspirados em Alcatraz, novos objetos, pisos, balsas para ligar as ilhas, bombeiros aéreos, uma equipe de operações de elite, e muito mais!
+
+Gaz, gerente de design de jogos na Double Eleven.
+
+Clique em PRÓXIMO para ver mais...
+
+> Atualização “The Rock”
+A atualização gratuita “The Rock” complementa a Expansão “Island Bound”, trazendo também outras melhorias.
+
+<->Pisos de água: pode-se adicionar água à terra, e terra à água para moldar suas próprias ilhas, litoral, fossos e muito mais.
+
+<->Reputações Dinâmicas de Prisioneiros: quando ativada, esta nova opção permite aos prisioneiros ganhar e perder características de reputação dependendo de suas atividades dentro das prisões. Reputações como “Forte”, “Resistente” ou “Lutador Habilidoso” podem ser conquistadas com o tempo no Pátio ou na nova Academia, ou perdidas devido ao confinamento na solitária, por exemplo. Muitas outras reputações também podem ser obtidas ou perdidas através de várias experiências diferentes.
+
+~~~~~~
+
+DLC "NA ONDA ECOLÓGICA" E
+ATUALIZAÇÃO "Estufa"
+>Preparem-se para sujar as mãos, diretores!
+
+>Na onda ecológica - Novo DLC
+>   Frutos do trabalho:
+<->Agricultura com novo trabalho, permitindo que prisões plantem batatas, trigo, maçãs e outras coisas. A comida pode ser exportada ou usada em refeições.
+>
+>   Espaço para crescer:
+<->3 aposentos externos - pomar, campo de cultivo e lote de legumes e verduras. Você pode recrutar fazendeiros, montar uma despensa e construir um galpão.
+>
+>   Confusão crescente:
+<->Novas plantações = novo contrabando. Agora pode plantar entorpecentes e pegar ingredientes para  bebidas. Os campos viram território de gangue: mantenha os guardas em alerta!
+>
+>   Nova onda ecológica:
+<->As prisões se tornam mais ecológicas com fontes de energia solar, eólica e híbridas. Use o o medidor de exportação de energia para vender excesso de energia criado.
+
+
+Clique em PRÓXIMO para ver mais...
+
+
+>Atualização “Estufa”
+<->A atualização gratuita “Estufa” dá o tom para a expansão “Na onda ecológica”, trazendo para você algumas das melhorias mais solicitadas pela comunidade:
+<->Novo sistema de reciclagem, incluindo o objeto Lixeira de reciclagem.
+<->Novos aposentos rápidos: Quintal, Bosque e Labirinto de Sebes.
+<->Melhorias na funcionalidade Descartar e Demolir.
+<->Novos métodos de classificação do menu de objetos.
+
+~~~~~~
+
+DLC "SECOND CHANCES" e 
+atualização "The Pen"
+>Abra os portões!
+
+>Second Chances - Novo DLC:
+>   Desenvolvendo habilidades para a vida:
+<->3 novas dependências para os prisioneiros trabalharem e aprenderem: uma Padaria e um Restaurante para fazer comida para os civis visitantes, e uma sala de reuniões para acomodar as novas sessões do Programa
+<->Alguns prisioneiros têm experiência de trabalho anterior adequada para empregos dentro da prisão
+<->Esses empregos na prisão agora podem ter os salários ajustados
+>
+>   Preparação para Liberdade Condicional:
+<->5 novos Programas de Reabilitação para se inscreverem: Consulta de Presidiário Reintegrado, Treinamento "3 Advertências", Resolução de Conflitos e Terapia com Animais!
+<->As penas podem ser reduzidas/aumentadas dependendo do comportamento do prisioneiro
+<->Um menu Reintegração e Reabilitação para monitorar as taxas de reincidência de todos os detentos, seus níveis de experiência profissional e o número de prisioneiros reincidentes
+
+
+
+Clique em PRÓXIMO para ver mais...
+
+>Second Chances - Novo DLC:
+>   Livre para Ir:
+<->Ganhe bônus para cada prisioneiro reformado que se reintegrar à sociedade. Serão aplicadas multas aos presos reincidentes - que também poderão voltar à prisão com características ainda piores do que antes!
+
+>   E mais...
+<->Personalize a cor de uniforme do presidiário para qualquer tipo de segurança
+<->Aproveite os novos subsídios para ajudar nos custos de reintegração
+<->Salas rápidas: Padaria, Restaurante e Sala de Reuniões
+<->Aba Info do DLC adicionada na lista de tarefas
+
+
+
+
+
+
+
+
+
+
+
+Clique em PRÓXIMO para ver mais...
+
+>Atualização "The Pen"
+<->Busca de Narcóticos! Uma nova Ordem de Segurança que permite aos Adestradores procurarem especificamente por drogas
+<->Uma política de Chaves dos Funcionários permitindo que todos os funcionários transportem chaves
+<->Nova Sala Rápida: Recepção
+<->Admissão Personalizada: permite que você escolha a hora de chegada das admissões
+<->Restrições relaxadas de dependências externas para a Sala de Aula e a Refeitório
+<->Uma grande variedade de novos objetos
+
+~~~~~~
+
+DLC "PERFECT STORM" e 
+ATUALIZAÇÃO "THE TOWER" 
+>Não confie na calmaria antes da tempestade! 
+
+>Perfect Storm - Novo DLC:
+>   Prepare-se para o pior:
+<->Novas opções estão disponíveis para habilitar eventos climáticos e um sistema de infestação de ratos em diferentes níveis de intensidade.
+<->Várias opções de suporte agora estão disponíveis, novos itens e instalações, programas de treinamento, serviços de emergência e planos de cobertura.
+<->Você poderá instalar repelentes para ratos, extintores e alarmes de incêndio, além de itens que ajudarão a detectar e se preparar para mudanças climáticas.
+>
+>   Cuidado com os ratos:
+<->Depois de atender a alguns requisitos mínimos, ratos podem passar a aparecer na sua prisão. Por isso, é importante mantê-la limpa e remover os túneis criados pelas pragas.
+<->Não confie na fofurice deles. Os ratos parecem só fazer bagunça e comer ingredientes de início, mas, em maiores números, podem causar doenças, danificar cabos elétricos, cercas e até cavar túneis.
+>
+>   Clima Calamitoso - parte 1: 
+<->Três tipos de climas extremos foram adicionados, cada um com 3 níveis de intensidade e subeventos cada vez mais perigosos.
+Clique em PRÓXIMO para ver mais...
+
+>
+>   Clima Calamitoso - parte 2: 
+<->Frio congelante - o frio pode causar danos à infraestrutura e a outros itens, congelar o chão e as paredes e afetar seus detentos.
+<->Tempestade de raios - tempestades podem ser perigosas e destrutivas, causando danos a aparelhos elétricos, incêndios, reduzindo a integridade estrutural e criando perigos específicos para seus detentos e sua equipe.
+<->Onda de calor - o clima quente introduz a necessidade de hidratação para a equipe e detentos, além de causar insolação se não for atendida. O calor também afeta objetos, então não durma no ponto!
+>
+>   Atualização "THE TOWER" - parte 1: 
+<->Dois novos cães de guarda, baseados no Shiba Inu e no Setter Preto, respectivamente. Também há a opção de permitir que os cães deixem "presentinhos" espalhados pela sua prisão.
+<->A duração da visitação agora pode ser personalizada. Mais tempo com a família e amigos oferece um efeito mais forte e duradouro nos reforços de necessidades.
+<->Atiradores agora têm uma alternativa não letal que permite que prisioneiros em fuga sejam detidos sem grandes danos.
+<->Além dessas opções, novos itens e tipos de pisos foram adicionados. 
+
+>
+>   Atualização "THE TOWER" - parte 2: 
+<->Portas de serviço coloridas
+<->Sofá, Mesa de luxo, cadeiras giratórias e de madeira
+<->Janelas de madeira e vitrais
+<->Samambaia, Hera, Salgueiro, Árvore (sem folhas)	 
+<->Piso laminado, Carpete, Gramado
+
+>	Agradecimentos especiais a 
+8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+
+
+
