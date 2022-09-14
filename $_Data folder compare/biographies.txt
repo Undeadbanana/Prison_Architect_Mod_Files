@@ -419,8 +419,8 @@ END
 BEGIN CriminalTrait
     Name            Sexual
     ChanceLow       0
-    ChanceMedium    10
-    ChanceHigh      10
+    ChanceMedium    0
+    ChanceHigh      0
 END
 
 BEGIN CriminalTrait
@@ -450,6 +450,15 @@ BEGIN CriminalTrait
     ChanceMedium    10
     ChanceHigh      0
 END
+
+BEGIN CriminalTrait
+    Name            Loyal
+    ChanceLow       20
+    ChanceMedium    50
+    ChanceHigh      20
+    ChanceVeryHigh  10
+END
+
 
 # =============================================================================
 # Crimes
@@ -875,30 +884,6 @@ BEGIN Crime
     Trait           Vehicular
 END
 
-BEGIN Crime
-    Name            Rape
-    MinSentence     4
-    MaxSentence     15
-    Risk            High
-    Trait           Sexual
-    Trait           Violent
-END
-
-BEGIN Crime
-    Name            GrossIndecency
-    MinSentence     2
-    MaxSentence     10
-    Risk            Low
-    Trait           Sexual
-END
-
-BEGIN Crime
-    Name            Voyeurism
-    MinSentence     1
-    MaxSentence     2
-    Risk            Low
-    Trait           Sexual
-END
 
 
 
@@ -1117,7 +1102,96 @@ BEGIN Reputation
     ChanceHigh      15
 END
 
+BEGIN Reputation
+    Name            Recruiter
+    ChanceLow       0
+    ChanceMedium    10
+    ChanceHigh      10
+    ChanceVeryHigh  5
+END
 
+BEGIN Reputation
+    Name            Resourceful
+    ChanceLow       15
+    ChanceMedium    10
+    ChanceHigh      5
+    ChanceVeryHigh  0
+END
+
+BEGIN Reputation
+    Name            ExGangMember
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+BEGIN Reputation
+    Name            Enforcer
+    ChanceLow       0
+    ChanceMedium    5
+    ChanceHigh      10
+    ChanceVeryHigh  10
+END
+
+BEGIN Reputation
+    Name            CunninglyBrutal
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+BEGIN Reputation
+    Name            UnderCoverDon
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+
+BEGIN Reputation
+    Name            GymRat
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+
+BEGIN Reputation
+    Name            DisrepectSurroundings
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+
+BEGIN Reputation
+    Name            BattleTendency
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+BEGIN Reputation
+    Name            SneakThief
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+    ChanceVeryHigh  0
+END
+
+BEGIN Reputation
+    Name            Loyal
+    ChanceLow       5
+    ChanceMedium    10
+    ChanceHigh      15
+    ChanceVeryHigh  10
+END
 
 BEGIN WorkCredential
     Name            Cook

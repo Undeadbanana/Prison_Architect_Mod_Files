@@ -20,7 +20,7 @@ BEGIN Custom
     CAPTION     codex_new_weathertype
     XPOS        Scaled          1070
     YPOS        Scaled          2332
-    WIDTH       Scaled          1300
+    WIDTH       Scaled          2400
     HEIGHT      Scaled          333
 END
 
@@ -32,10 +32,44 @@ BEGIN DropDownMenu
     HEIGHT      Scaled          333
 END
 
+BEGIN Custom
+    NAME        GangModeCaption
+    CAPTION     codex_option_gangs
+    XPOS        Scaled          1070
+    YPOS        Scaled          2900
+    WIDTH       Scaled          1300
+    HEIGHT      Scaled          333
+END
+
+BEGIN DropDownMenu
+    NAME        GangsType
+    XPOS        Scaled          3551
+    YPOS        Scaled          2900
+    WIDTH       Scaled          1200
+    HEIGHT      Scaled          333
+END
+
+BEGIN Custom
+    NAME        MoreLieutenantsCaption
+    CAPTION     codex_option_gangs
+    XPOS        Scaled          1070
+    YPOS        Scaled          3500
+    WIDTH       Scaled          1300
+    HEIGHT      Scaled          333
+END
+
+BEGIN DropDownMenu
+    NAME        MoreLieutenants
+    XPOS        Scaled          3551
+    YPOS        Scaled          3500
+    WIDTH       Scaled          1200
+    HEIGHT      Scaled          333
+END
+
 BEGIN SelectionList
     NAME        List
     XPOS        Scaled          1002
-    YPOS        Scaled          2793
+    YPOS        Scaled          4000
     WIDTH       Scaled          3650
     HEIGHT      Scaled          6061
 END
@@ -61,7 +95,7 @@ BEGIN IconBox
     NAME        GuardDogs
     XPOS        Scaled          750
     YPOS        Scaled          7500
-    WIDTH       Scaled          4000
+    WIDTH       Scaled          3500
     HEIGHT      Scaled          800
 END
 
@@ -164,4 +198,3 @@ BEGIN Custom
     WIDTH       Scaled          3350
     HEIGHT      Scaled          461
 END
-

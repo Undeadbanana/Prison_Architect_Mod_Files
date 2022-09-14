@@ -4,11 +4,11 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Changelog complet
+codex_viewchangelog	Journal intégral des changements
 codex_legal	Légal
-codex_privacy	Politique de confidentialité
-codex_terms-of-use	conditions d'utilisation
-codex_eula	Accord de licence D'utilisateur final
+codex_privacy	Politique de Confidentialité
+codex_terms-of-use	Conditions D'utilisation
+codex_eula	Accord de Licence D'utilisateur final
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Atelier
 
 
 mm_updatenotes_Date	27 juin 2019
-mm_updatenotes_Header	The Clink Update
+mm_updatenotes_Header	Mise à jour “La taule”
 mm_updatenotes_01	Ajout de 4 nouveaux revêtements carrelés et 4 nouveaux revêtements de mur.
 mm_updatenotes_02	Améliorations des performances, pour réduire les temps de chargement.
 mm_updatenotes_03	Augmentation du nombre de contremaîtres que vous pouvez embaucher, pour les prisons les plus grandes dans lesquelles les contremaîtres offrent une formation.
@@ -671,10 +671,10 @@ quickbuild_PsychiatristOffice	Bureau de psychiatre
 # =============================================================================
 
 interfacedeployment_insaneseczone	Sécurité Criminels aliénés seulement
-interfacetopbar_PrisonerCells_insaneSecOnly	Capacité en criminels aliénés : 
+interfacetopbar_PrisonerCells_insaneSecOnly	Capacité en criminels aliénés : *X
 
 roomgrading_PsychiatristOffice_info	Déverrouillez et placez des objets supplémentaires dans le Bureau du psychiatre pour améliorer le traitement offert aux criminels aliénés.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	sont déverrouillés par des détenus criminellement aliénés qui suivent des programmes de consultation psychiatrique.
 roomgrading_PsychiatristOffice_Item	Objet : *X
 roomgrading_PsychiatristOffice_Quality	Aptitude du Psychiatre : *Q
 roomgrading_PsychiatristOffice_Upgrade	Améliorez le Bureau du psychiatre pour augmenter son efficacité.
@@ -847,8 +847,8 @@ administrator_requiresoffice_psychiatrist	Nécessite un bureau de psychiatre
 dlc_upsell	Cette sauvegarde utilise du contenu de l'extension *D Directeur. Comme nous n'avons pas pu détecter l'extension sur votre système, certaines fonctionnalités seront désactivées. Considérez l'achat de l'extension *D Directeur pour profiter de la meilleure expérience possible avec Prison Architect.
 dlc_upsell_multiplayer	L'hôte de cette partie multijoueur a acheté l'extension *D Directeur, à laquelle vous pouvez également accéder en tant qu'invité. Amusez-vous bien !
 
-dlc_insane	Unité psychiatrique : Édition
-dlc_seaandair	Island Bound
+dlc_insane	Unité psychiatrique : Édition Directeur
+dlc_seaandair	Destination île déserte
 
 regime_work_pyscho	Programmes/Temps libre
 regime_worklockdown_pyscho	Programme/Cellule
@@ -936,7 +936,7 @@ codex_option_doubleClick	Double clic pour déplacer les objets
 # Clone Tool
 # =============================================================================
 
-BuildCost_CloneRoom	Cloner Salle
+BuildCost_CloneRoom	Cloner une pièce
 
 # =============================================================================
 # Missing Strings
@@ -948,7 +948,7 @@ codex_joinonline	Rejoindre une partie en ligne
 codex_join	Rejoindre une partie
 codex_usernamelabel	Nom d'utilisateur :
 codex_namelabel	Nom de la partie : 
-codex_passwordlabel	Mot de passe :
+codex_passwordlabel	Mot de passe :
 codex_passwordprotectedlabel	Protection par mot de passe ?
 codex_listedlabel	Inscription publique ?
 codex_roomlistlabel	Liste des parties : 
@@ -957,7 +957,7 @@ codex_retrievingserverlistlabel	Récupération de la liste des parties : 
 codex_datausage	Utilisation des données : Envoyées - *Sko/s, Reçues - *Rko/s
 codex_multiplayeroptions	Gérer les joueurs
 codex_playeroptions	Joueurs
-codex_regionlabel	Région :
+codex_regionlabel	Région :
 
 multiplayer_chooseroomname	Veuillez choisir un nom pour la partie.
 multiplayer_chooseusername	Veuillez choisir un nom d'utilisateur
@@ -1206,7 +1206,7 @@ buildtoolbar_popup_obj_bambooDoor	Une porte en bambou fabriquée à la main, ass
 buildtoolbar_popup_obj_canvas	Un moyen d'expression créatif pour que les prisonniers expriment leurs sentiments sans qu'ils aient besoin de se poignarder.
 buildtoolbar_popup_obj_PetBird	Un petit compagnon qui apporte un peu de compagnie aux détenus.\n -Répond aux besoins de Famille, Confort et Luxe.
 buildtoolbar_popup_obj_SoftPillow	Cet oreiller moelleux en plumes améliore la qualité et le confort du lit d'un prisonnier.\n Répond aux besoins de Confort et de Sommeil.
-buildtoolbar_popup_obj_BoxingRing	Un gymnase de prison se doit d'en avoir un. La plupart des détenus préfère peindre sur cette toile.\n -Répond aux besoins d'Exercice et de Détente.
+buildtoolbar_popup_obj_BoxingRing	Un gymnase de prison se doit d'en avoir un. La plupart des détenus sont tous amateurs du noble art.
 buildtoolbar_popup_obj_DumbbellRack	Pour vos détenus qui aiment soulever de la fonte.\n -Répond au besoin d'Exercice.
 buildtoolbar_popup_obj_Treadmill	Pour les prisonniers qui veulent rester en forme. Ceux qui s'entrainent sérieusement pourront même courir plus vite.\n -Répond au besoin d'Exercice.
 buildtoolbar_popup_obj_Fan	Un ventilateur sur pied rustique, qui permet de refroidir un peu l'air autour de lui.
@@ -1795,9 +1795,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Créé des chemins qui permettent aux
 buildtoolbar_popup_uts_ScannerMonitor	Un moniteur pour qu'un garde puisse repérer des objets qui passent en contrebande, et qui doit être connecté à un Scanner. L'aptitude d'un garde à repérer de la contrebande est liée à son état de fatigue.
 buildtoolbar_popup_uts_ScannerMachine	Une machine destinée aux zones de Livraisons et de Stockage qui scanne les caisses en bois pour rechercher des marchandises de contrebande. Doit être connectée à un Moniteur de scanner pour qu'un garde repère la contrebande. L'aptitude d'un garde à repérer de la contrebande est liée à son état de fatigue.
 buildtoolbar_popup_obj_Checkpoint	Un Point de contrôle pour fouiller les prisonniers et les visiteurs qui le franchissent. Les prisonniers ne peuvent le franchir que dans une seule direction lorsqu'un garde est présent.
-buildtoolbar_popup_mat_waterShallow	Créé des zones d'eau peu profonde pour créer de jolis rivages, entre des sols de Sable et d'Eau. On peut marcher sur ces tuiles, à la différence de l'eau ordinaire. -$*A (extérieur seulement)
-buildtoolbar_popup_mat_waterLarge	Créé de grandes zones d'eau, de lacs et d'océans. -$*A (extérieur seulement)
-buildtoolbar_popup_mat_WoodenDockFloor	Un beau sol en bois, idéal pour des quais. -$*A (extérieur seulement)
+buildtoolbar_popup_mat_waterShallow	Créé des zones d'eau peu profonde pour créer de jolis rivages, entre des sols de Sable et d'Eau. On peut marcher sur ces tuiles, à la différence de l'eau ordinaire.
+buildtoolbar_popup_mat_waterLarge	Créé de grandes zones d'eau, de lacs et d'océans.
+buildtoolbar_popup_mat_WoodenDockFloor	Un beau sol en bois, idéal pour des quais.
 
 landscape_hint	(Peut être construit sur l'eau)
 
@@ -1830,7 +1830,7 @@ transportZones_hover_hint	Liens vers les Héliports, les Quais et la route, via 
 # DLC Upsell
 # =============================================================================
 
-objective_ReadSandALetter	Lettre du PDG (Island Bound)
+objective_ReadSandALetter	Lettre du PDG (Destination île déserte)
 island_letter	Madame, Monsieur,\n\n\nBienvenue dans votre nouvelle vie d'architecte de prisons insulaires ! Voici quelques conseils pour vous aider à vous lancer dans l'aménagement de quais, d'héliports et de prisons situées sur des îles.\n\n1. Îles - Selon la prison, il se peut que vous n'ayez aucun lien physique avec le continent, et si c'est le cas, vous aurez besoin de BATEAUX et d'HÉLICOPTÈRES pour assurer vos services de transport. Construisez des QUAIS et des HÉLIPORTS et déterminez leurs activités : recevoir des livraisons spécifiques, de nouveaux prisonniers, de nouvelles unités d'urgence et plus encore, par la mer et par les airs. -Assurez-vous que les quais sont construits avec une voie de navigation dégagée pour les bateaux qui vont et viennent. -Des QUAIS POUR FERRYS peuvent être construits pour relier les îles entre elles, ainsi qu'avec des PONTS et des DALLES spéciales. -Votre prison peut désormais être mieux protégée grâce aux nouvelles unités ELITE OPS, ainsi qu'avec les hélicoptères qui peuvent combattre les incendies depuis les airs.\n\n2. Personnalisation des livraisons et des transports - Via la LOGISTIQUE, vous pouvez personnaliser les services qui sont affectés à chaque quai, héliport et route, ce qui permet d'accroître l'efficacité de votre prison. Les quais et les héliports peuvent être reliés à des zones de livraison, de réception et d'exportation supplémentaires. Cela vous permettra de faire livrer des denrées alimentaires plus près de la cuisine, ou de faire entrer de nouveaux détenus Haute sécurité plus près de l'aile Haute sécurité de votre île, par exemple. Les possibilités sont infinies !\n\n3. Aménagement paysager - L'eau peut être placée de manière à créer des douves ou des océans autour de votre prison, et la terre peut être modelée avec des rivages, en utilisant de la terre et d'autres types de sols. Toute terre ou île plus petite créée dans l'eau sera créée immédiatement.\n\n4. Nouvelles mesures de sécurité - La contrebande peut toujours arriver par bateau et par hélicoptère, c'est pourquoi nous vous fournissons également de nouveaux équipements haute technologie ! - Construisez des scanners dans les zones de livraison et de stockage pour vérifier les caisses et les boîtes. Vous aurez besoin d'un garde bien réveillé pour regarder un MONITEUR DE SCANNER connecté. -Assignez des gardes aux POINTS DE CONTRÔLE pour fouiller tous les prisonniers et les visiteurs de passage. C'est un excellent moyen de découvrir de la contrebande, mais il peut réduire le flux de prisonniers s'il n'est pas placé stratégiquement.\n\nEnfin, même les îles ne sont pas à l'abri des évasions. Il peut donc être judicieux d'ériger des tours de Snipers sur vos rives, pour surveiller les “baigneurs”.\n\nC'est à peu près tout - Bonne chance !\n\nLe PDG,\nPrison Architects Corp.
 
 
@@ -2955,7 +2955,7 @@ objective_GoingGreenInfo_child_1	Les principales caractéristiques du programme 
 d11_cropDistributionHint	Clic droit : Gérer la distribution
 dlc_name_psychWard	Unité psychiatrique
 dlc_name_prisonWing	Transfert autorisé
-dlc_name_seaAirLand	Island Bound
+dlc_name_seaAirLand	Destination île déserte
 dlc_name_greenMachine	Virage vert
 interfacemode_objectType_filter_requiresWater	Plomberie
 interfacemode_objectType_filter_requiresElectricity	Électronique
@@ -3026,7 +3026,7 @@ objectiveWindow_FilterButton_0_tooltip	Tâches en cours
 objectiveWindow_FilterButton_1_tooltip	Des informations décrivant et expliquant les principales caractéristiques du programme Virage vert
 escapemode_info_board	Embarquer dans le ferry
 reports_ingredients_usageTitle	Ratio d'utilisation ingrédients Frais / Importés
-objective_HelpEnvironmentallyFriendly	Responsable con el medio ambiente
+objective_HelpEnvironmentallyFriendly	Respectueux de l’environnement
 object_OxStatue	Statue de buffle
 object_PaperDragonHead	Dragon (tête)
 object_PaperDragonBody	Dragon (entier)
@@ -3116,19 +3116,19 @@ uniform_color_14	Saumon
 uniform_color_15	Velours
 uniform_color_16	Violet
 uniform_color_17	Vert citron
-uniform_color_18	Rose pimpant
+uniform_color_18	Rose fluo
 uniform_color_19	Aqua
-uniform_color_20	Gun Metal
-uniform_color_21	Le sable
-uniform_color_22	Bourgogne
-uniform_color_23	Slop
+uniform_color_20	Métallique
+uniform_color_21	Sable
+uniform_color_22	Bordeaux
+uniform_color_23	Tâches
 uniform_color_24	Acide
-uniform_color_25	Orage
+uniform_color_25	Tempête
 uniform_color_26	Violet
 uniform_color_27	Saleté
 uniform_color_28	Acier
 uniform_color_29	Lilas
-uniform_color_30	Coquille d'oeuf
+uniform_color_30	Coquille d'œuf
 uniform_color_31	Océan
 uniform_color_32	Gruau
 object_TherapyAnimal	Animal de zoothérapie
@@ -3284,7 +3284,7 @@ d11_reform_program_pass_rate	Taux de réussite des programmes de réhabilitation
 d11_reform_released_prisoners_design_info	Une fois qu'un détenu a été libéré de votre prison, vous serez informé de ses actions ultérieures, selon qu'il a récidivé ou s'est réhabilité et a trouvé du travail. Votre prison recevra respectivement une amende ou une récompense.
 d11_reform_prisoners_action_reformed	RÉHABILITÉ !
 d11_reform_prisoners_action_reoffended	RÉCIDIVE !
-d11_reform_prisoners_action_reoffended_returned	a été renvoyé à votre prison.
+d11_reform_prisoners_action_reoffended_returned	*X a été renvoyé à votre prison.
 d11_reform_prisoners_outcome_reformed	A trouvé du travail comme *X en ville.
 d11_reform_prisoners_outcome_reoffended	A été arrêté et retournera en prison.
 d11_reform_prisoners_outcome_reoffended_returned	Soyez prudent car les détenus deviennent plus dangereux quand leur temps de détention augmente.
@@ -3480,7 +3480,7 @@ interface_action_range	Rang
 objective_HelpCalamities_child_3	canicule
 weather_CalamityHeatwave	canicule
 d11_staffalert_title_CalamityHeatwave01	canicule
-report_Coverage	COUVERTURE
+report_Coverage	Couverture
 d11_coverage_staff_only	Personnel seulement
 codex_new_weathertype_disabled	Désactivé
 d11_on	MARCHE
@@ -3711,10 +3711,11 @@ objective_grant_subsidence_description	Réparez tous les dégâts subis par les 
 objective_grant_subsidence_hire	Engagez des réparateurs pour réparer les murs et les clôtures endommagés.
 objective_grant_utilityretrofit	Subvention pour la modernisation des services publics
 objective_grant_utilityretrofit_description	Une invasion de rats peut entraîner de graves problèmes de rendement pour les entreprises locales. Une subvention a été mise à disposition des entreprises locales pour assurer un service normal.
-objective_grant_utilityretrofit_build	Construisez 50 tuiles de câbles électriques résistants.
+objective_grant_utilityretrofit_build	Construisez 50 tuiles de blindage de câbles.
 calamity_grants_onboarding	La météo est de plus en plus changeante depuis quelques années. Nous avons eu de la chance cette fois-ci, mais la prison doit être préparée à toute éventualité. Les entreprises peuvent recevoir des subventions après des intempéries. J'espère que vous en profiterez quand elles seront disponibles.
 grant_category_CollapsedWallFence	Clôture effondrée :
 grant_category_HasObject	A :
+grant_category_EverHadObject	A :
 grant_category_CalamityHappened	Une calamité est arrivée :
 action_brewing	Brassage
 action_electricalsabotaging	Sabotage
@@ -3872,6 +3873,362 @@ buildtoolbar_stayIndoorsCalamity	Calamité
 buildtoolbar_popup_uts_WeatherMachine	La machine météo fournit des prévisions météorologiques avancées. Elle prédit la durée des événements, la température, les précipitations, la vitesse du vent et les conditions de visibilité. En outre, elle indique le délai de survenance d'un événement météorologique inquiétant.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Une double porte utilisable par le personnel.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Une double porte utilisable par le personnel.
-codex_tooltip_startingSeason    Choisissez votre saison de départ. La météo évoluera naturellement au fil des saisons.
-object_AirPestControlHeli	Air Dératisator	
+codex_tooltip_startingSeason	Choisissez votre saison de départ. La météo évoluera naturellement au fil des saisons.
+object_AirPestControlHeli	Air Dératisator
 
+codex_option_default	Par défaut
+dlc_name_kimber	Gangs
+quickbuild_Gymnasium	Gymnase
+boilingpoint_Needs	Besoins
+boilingpoint_ProgramCompletion	Programmes terminés
+boilingpoint_RoomQuality	Qualité des pièces
+buildtoolbar_popup_help_BoilingPoint_3	^Astuces
+securitymenu_popup_recentMisconduct	Mauvaises conduites récentes :
+securitymenu_PrisonerTypeDefault	Par défaut
+securitymenu_PrisonerTypeDangerous	Dangereux
+rapsheet_assignguard	Affecter un gardien
+buildtoolbar_popup_help_securitymenu_4	^Astuces
+objective_HelpPrograms	Programmes
+objective_grant_positiveEnergyGrant_yard	Construire une cour
+gang_green	Vert
+d11_gang_bonebreakers_goal	Destruction
+d11_gang_misconduct	Mauvaise conduite :
+d11_heatmap_deaths	Morts :
+interface_action_CleanGraffiti	Nettoyage
+schedulesearch_menu_Frequency	Fréquence
+reputation_Resourceful	Débrouillard
+action_Withdrawal	En manque
+action_ListenToRadio	Écouter la radio
+codex_option_plotType	Type de terrain
+codex_tooltip_plotType	Cela vous permettra de générer un terrain de départ particulier. Par défaut sera de la terre et de l'herbe, Jungle ressemble à une jungle dense, Enneigé sera couvert de neige, Désert sera un désert de sable, Lunaire est similaire à une surface lunaire, Île sera entouré d'eau et utilisera un quai pour bateaux au lieu d'une route ; et Île connectée sera entouré d'eau avec un pont la reliant à la route.
+survey_letter_1	Cher Directeur,\n\n\nNous vous remercions de votre participation à l'analyse des nouvelles fonctionnalités et des nouveaux systèmes de la prison.\nEn tant que PDG, il est de ma responsabilité de recueillir les commentaires de tous les directeurs afin d'améliorer l'expérience.\n\nJ'apprécierais que vous preniez quelques minutes pour remplir ce questionnaire que j'ai créé à votre intention.\n\nLe PDG,\nPrison Architects Corp.
+survey_letter_2	Cher Directeur,\n\n\nNous vous remercions une fois de plus pour votre participation continue à l'analyse des nouvelles fonctionnalités et des nouveaux systèmes de la prison. \n\nComme vous avez consacré du temps supplémentaire à l'analyse des nouvelles fonctionnalités et des nouveaux systèmes, j'apprécierais vos commentaires actualisés dans cette enquête.\n\nLe PDG,\nPrison Architects Corp.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	C'est plutôt un limier à friandises qu'un féroce chien d'attaque.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	Le doberman est le chien policier ultime.
+object_ChocolateLabrador	Labrador chocolat
+buildtoolbar_popup_obj_ChocolateLabrador	Aime se faire de nouveaux amis, et c'est encore plus drôle quand cet ami essaie de s'évader.
+object_BlackShepherd	Berger allemand noir
+buildtoolbar_popup_obj_BlackShepherd	Ils ont peut-être l'air mignons, mais ils mordent tous ceux qui se trouvent sur leur chemin.
+object_TattooRemovalMachine	Outil de retrait des tatouages
+buildtoolbar_popup_obj_TattooRemovalMachine	Cet objet est indispensable pour réhabiliter un membre de gang. Enlever ses tatouages est la première étape pour le réhabiliter.
+object_MetalStool	Tabouret métallique
+buildtoolbar_popup_obj_MetalStool	Un joli petit tabouret en métal.
+equipment_TattooRemovalTool	Outil de retrait des tatouages
+room_TheCage	La cage
+buildtoolbar_popup_room_TheCage	Une unité extérieure qu'un détenu peut utiliser pour faire de l'exercice, tout en étant isolé des autres détenus.
+quickbuild_TheCage	La cage
+buildtoolbar_quickbuild_TheCage	Une unité extérieure qu'un détenu peut utiliser pour faire de l'exercice, tout en étant isolé des autres détenus.
+material_CageFence	Clôture cage
+buildtoolbar_popup_mat_CageFence	Une clôture à chaîne destinée à contenir les détenus pendant l'exercice.
+room_TattooRemovalRoom	Salle de retrait des tatouages
+buildtoolbar_popup_room_TattooRemovalRoom	C'est ici que vos détenus peuvent passer par le processus douloureux et fastidieux de se faire enlever leurs tatouages de gang.
+quickbuild_TattooRemovalRoom	Salle de retrait des tatouages
+buildtoolbar_quickbuild_TattooRemovalRoom	C'est ici que vos détenus peuvent passer par le processus douloureux et fastidieux de se faire enlever leurs tatouages de gang.
+object_PullUpBars	Barres à tractions
+buildtoolbar_popup_obj_PullUpBars	Une pièce d'équipement d'exercice bon marché, mais populaire auprès des détenus plus endurcis.
+object_KneeRaise	Lever de genoux
+buildtoolbar_popup_obj_KneeRaise	Une pièce d'équipement d'exercice bon marché, mais populaire auprès des détenus plus endurcis.
+object_PushUpStones	Pierres à pompes
+buildtoolbar_popup_obj_PushUpStones	Une pièce d'équipement d'exercice bon marché, mais populaire auprès des détenus plus endurcis.
+object_GangGraffiti	Graffiti de gang
+d11_hover_info_gang_graffiti_1	+15 % de Force dans le territoire pour les membres de gangs
+d11_hover_info_gang_graffiti_2	+15 % de Résistance dans le territoire pour les membres de gangs
+object_FightRing	Ring de combat
+buildtoolbar_popup_obj_FightRing	Si vos détenus se battent sur le ring, ils ne se battront pas dans les couloirs.\n -Répond aux besoins en matière d'Exercice et de Détente.
+quickbuild_FightClubRoom	Salle Fight Club
+buildtoolbar_quickbuild_FightClubRoom	On ne parle pas de cette pièce, car elle n'existe pas.
+room_FightClubRoom	Salle Fight Club
+buildtoolbar_popup_room_FightClubRoom	On ne parle pas de cette pièce, car elle n'existe pas.
+object_CageGate	Portail cage
+buildtoolbar_popup_obj_CageGate	Un portail qui fonctionne parfaitement avec les clôtures. Fonctionne de la même manière qu'une porte.
+buildtoolbar_popup_obj_RemoteDoor	Cette porte est conçue pour être accessible en utilisant un servomoteur en état de marche. Assurez-vous d'avoir suffisamment de gardiens pour contrôler l'entrée et la sortie de ce type de portes ou installez des plaques de pression.
+object_RemoteDoorOrange	Porte à distance (Orange)
+buildtoolbar_popup_obj_RemoteDoorOrange	Cette porte est conçue pour être accessible en utilisant un servomoteur en état de marche. Assurez-vous d'avoir suffisamment de gardiens pour contrôler l'entrée et la sortie de ce type de portes ou installez des plaques de pression.
+object_RemoteDoorRed	Porte à distance (Rouge)
+buildtoolbar_popup_obj_RemoteDoorRed	Cette porte est conçue pour être accessible en utilisant un servomoteur en état de marche. Assurez-vous d'avoir suffisamment de gardiens pour contrôler l'entrée et la sortie de ce type de portes ou installez des plaques de pression.
+object_RemoteDoorYellow	Porte à distance (Jaune)
+buildtoolbar_popup_obj_RemoteDoorYellow	Cette porte est conçue pour être accessible en utilisant un servomoteur en état de marche. Assurez-vous d'avoir suffisamment de gardiens pour contrôler l'entrée et la sortie de ce type de portes ou installez des plaques de pression.
+object_RemoteDoorWhite	Porte à distance (Blanche)
+buildtoolbar_popup_obj_RemoteDoorWhite	Cette porte est conçue pour être accessible en utilisant un servomoteur en état de marche. Assurez-vous d'avoir suffisamment de gardiens pour contrôler l'entrée et la sortie de ce type de portes ou installez des plaques de pression.
+object_GymInstructor	Moniteur de gym
+object_FilingCabinetFancy	Armoire à classeurs (fantaisie)
+buildtoolbar_popup_obj_FilingCabinetFancy	Récompensez vos membres du personnel en leur offrant une armoire à classeurs fantaisie.
+material_LongGrass	Herbe haute
+codex_tooltip_gangsEnhanced	Vous pouvez désormais modifier l'admission des prisonniers à rejoindre vos gangs. En ayant plus de membres de gangs dans votre prison, le recrutement des gangs sera plus rapide, votre prison deviendra plus chaotique et dangereuse.\n\n  Legacy - Expérimenter la difficulté des gangs telle qu'elle était auparavant (Novice) \n  Bas (par défaut) : idéal pour les joueurs débutants ou intermédiaires. \n  Moyen - Joueurs expérimentés \n  Haut - Joueurs experts recherchant un gros défi.
+codex_tooltip_morelieutenants	Les Lieutenants jouent un rôle important dans la conquête de nouveaux territoires pour leur gang respectif. Si vous voulez que les gangs soient plus actifs, envisagez de réduire le nombre de membres nécessaires par Lieutenants. Ne choisissez des nombres inférieurs à 6 que si vous voulez relever un défi.
+codex_option_morelieutenants	Plus de lieutenants
+codex_tooltip_codex_option_morelieutenants	Les Lieutenants jouent un rôle important dans la conquête de nouveaux territoires pour leur gang respectif. Si vous voulez que les gangs soient plus actifs, envisagez de réduire le nombre de membres nécessaires par Lieutenants. Ne choisissez des nombres inférieurs à 6 que si vous voulez relever un défi.
+codex_option_GangSpecialReputations	Réputations spéciales des gangs
+codex_tooltip_GangSpecialReputations	Les gangs se voient attribuer de nouvelles réputations qui modifient la façon dont ses membres se comportent dans votre prison.
+codex_option_AllDogs	Tous les chiens
+codex_tooltip_AllDogs	En choisissant cette option, tous les chiens disponibles seront activés et chaque recrutement sera aléatoire.
+codex_tooltip_RandomWardens	En choisissant cette option, un gardien sera choisi au hasard pour vous.
+interfacecontraband_BoilingPoint	Point D’Explosion
+buildtoolbar_contraband_BoilingPoint	Indique les points à améliorer pour les détenus malheureux.
+boilingpoint_header	POINT D’EXPLOSION
+boilingpoint_OverallTemperature	Température générale
+boilingpoint_StatusEffects	Effets d'état
+boilingpoint_OverallTemperature_popup	Il y a quelques éléments qui échappent à notre contrôle lorsqu'il s'agit de rendre nos détenus heureux et calmes, comme leur personnalité ou le nombre de condamnations dont ils font l'objet. Plus un détenu est en colère, plus la température de la prison monte et plus il est susceptible de mal se comporter.
+boilingpoint_Needs_popup	Actuellement, vous avez *X détenus qui ne peuvent pas satisfaire leurs besoins.\n\nVeuillez vous assurer qu'ils ont accès à des salles ou des objets pour pouvoir satisfaire leurs besoins.
+boilingpoint_ProgramCompletion_popup	Actuellement, vous avez *X détenus qui n'ont terminé aucun programme.\n\nPlus un détenu a terminé de programmes, plus il a de chances d'être calme. Ajoutez quelques programmes pour qu'ils puissent y participer, mais assurez-vous que leur régime l'autorise. Certains programmes peuvent être répétés.
+boilingpoint_StatusEffects_popup	Vous avez actuellement *X détenus qui souffrent d'effets négatifs.\n\nPensez à surveiller de plus près la contrebande, notamment l'alcool ou les stupéfiants.\n\nQuand les détenus ont des effets positifs, ils sont moins susceptibles de mal se comporter.
+boilingpoint_RoomQuality_popup	Actuellement, vous avez *X détenus qui sont dans des cellules de mauvaise qualité.\n\nAugmentez la qualité de leurs cellules pour qu'ils soient plus heureux et plus calmes. Certains détenus ne pourront pas bénéficier de cellules de haute qualité. Vous pouvez utiliser les aménagements de peine pour réduire les exigences.
+buildtoolbar_popup_help_BoilingPoint_1	La vue Point d'explosion vous montre la température actuelle de la prison. Ce menu met en évidence les zones problématiques de votre prison, telles que la qualité des cellules, les besoins, les effets d'état et les niveaux de participation aux programmes.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Si vous n'arrivez toujours pas à contrôler un détenu en particulier, pensez à le mettre en confinement ou en isolement pour qu'il se calme.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Veillez à ce que les besoins fondamentaux de tous les détenus soient respectés.
+buildtoolbar_popup_help_BoilingPoint_5	- Investissez dans des programmes de réhabilitation, de thérapie, de traitement et de travail, et assurez-vous que leur régime leur permet d'y participer.
+buildtoolbar_popup_help_BoilingPoint_6	- Les détenus de basse sécurité auront une tolérance plus élevée, car ils ont des peines plus courtes.
+boilingpoint_advisor_onboarding	Ce détenu est très agité, on dirait qu'il a atteint son point d'explosion. Peut-être ne faisons-nous pas assez pour nos détenus. Assurez-vous que leurs besoins sont satisfaits, améliorez leurs conditions de vie et donnez-leur quelque chose à faire. Consultez le menu Point d'explosion dans le menu Renseignements pour plus d'informations.
+interfacecontraband_SecurityMenu	Menu Sécurité
+buildtoolbar_contraband_SecurityMenu	Consultez une liste de tous les détenus considérés comme dangereux ou en danger, et appliquez des mesures de sécurité à ceux qui nécessitent une gestion plus poussée.
+securitymenu_header	Menu Sécurité
+securitymenu_popup_prisonerSelect	Clic gauche pour sélectionner le détenu
+securitymenu_popup_dangerousReputations	Réputations dangereuses :
+securitymenu_popup_dangerousTraits	Traits dangereux :
+securitymenu_popup_crimesCommitted	Crimes :
+securitymenu_PrisonerType	Type de détenu :
+securitymenu_PrisonerTypeVulnerable	Vulnérable
+securitymenu_MarkingTypeUnmarked	Non marqué
+securitymenu_SelectArea	Sélectionner la zone
+securitymenu_SelectAreaCancel	Désélectionner la zone
+securitymenu_RestrictAccess	Restreindre l'accès :
+securitymenu_TransferPrisoners	Transfert de détenu(s) :
+securitymenu_transferSecurityLevel	Niveau de sécurité :
+securitymenu_GuardAssignment	Affectation de gardien :
+securitymenu_MarkPrisoner	Marquer le détenu :
+securitymenu_RemovePrisoner	Retirer un détenu :
+securitymenu_RemovePrisonerButton	Retirer un détenu
+securitymenu_RemovedPrisoner	Détenu retiré
+securitymenu_RemovePrisoner_message	Retirer un détenu\n\nC'est la solution dernier recours pour traiter avec les pires des délinquants. Contre un coût élevé, vous pourrez envoyer ce détenu dans un autre établissement pénitentiaire. Cette action ne peut être effectuée qu'une fois tous les 5 jours.
+securitymenu_RestrictAccess_tooltip	Bloque l'entrée de zones spécifiques au(x) détenu(s) sélectionné(s), et les gardiens tentent de les maîtriser quand ils y entrent. Les membres d'un gang ne peuvent pas être restreints dans leurs propres zones/territoires.
+securitymenu_TransferPrisoner_tooltip	Déplacez les détenus sélectionnés vers un système de sécurité spécifique pour vous aider à les gérer.
+securitymenu_MarkPrisoner_tooltip	Placez un repère visuel sur les détenus sélectionnés, pour vous permettre de mieux surveiller les individus les plus dangereux, ou ceux qui sont le plus en danger.
+rapsheet_assignguard_end	Retirer l'affectation du gardien
+job_PrisonerAssignment	Affectation du prisonnier
+assignment_confirm_message	Souhaitez-vous affecter un gardien ?
+assignment_description_message	Si vous voulez garder un œil sur ce détenu, vous pouvez lui affecter un gardien. Veuillez vous assurer que vous avez suffisamment de gardiens disponibles.
+assignment_error_message	Il est impossible d'attribuer un gardien à ce détenu pour le moment. Veuillez réessayer plus tard.\n\nSoit ils viennent d'arriver, soit ils sont enchaînés, soit ils sont en confinement.
+buildtoolbar_popup_help_securitymenu_1	Le menu Sécurité répertorie tous les membres de la prison qui sont vus comme des membres dangereux ou vulnérables dans la population des détenus. Grâce à ce menu, certaines actions peuvent être appliquées aux détenus afin de leur apporter un soutien supplémentaire et d'autoriser une meilleure gestion de ces détenus.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Par défaut, les détenus dangereux et vulnérables sont répertoriés ensemble, mais l'option “type de détenu” vous autorise à appliquer une action à des groupes spécifiques.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Certaines actions peuvent être appliquées à un groupe, alors que d'autres ne peuvent être appliquées qu'à des individus sélectionnés. Mettez en surbrillance et cliquez avec le bouton gauche de la souris sur un détenu pour le sélectionner.\n\n
+buildtoolbar_popup_help_securitymenu_5	- L'option d'affectation des gardiens vous aidera à garder les détenus à l'abri des autres, tout en gardant un œil sur eux afin d'empêcher toute mauvaise conduite. Les gardiens ne resteront pas aux côtés d'un détenu pendant ses moments d'intimité, comme pendant ses périodes de sommeil et de douche.
+buildtoolbar_popup_help_securitymenu_6	- Si un détenu cause trop de problèmes dans votre prison et est trop difficile à gérer, l'option Retirer le prisonnier vous permettra de le renvoyer. Cette action a un temps de recharge et ne peut pas être effectuée tous les jours. Elle a également un coût monétaire.
+objectiveWindow_FilterButton_4_title	À propos de Gangs
+objectiveWindow_FilterButton_4_tooltip	Tout ce que vous devez connaître sur Gangs
+objective_HelpGangBehaviourAndType	Comportement des gangs
+objective_HelpGangBehaviourAndType_Description	De nouveaux gangs ont été introduits, chacun se comportant de manière légèrement différente des autres.
+objective_HelpGangBehaviourAndType_child_1	Les Vipères
+objective_HelpGangBehaviourAndType_child_1_Description	Les Vipers sont une bande sournoise qui se concentre sur l'infection de leurs codétenus avec leur trafic de narcotiques, et ils n'ont pas peur de la violence.
+objective_HelpGangBehaviourAndType_child_2	Les Cass'os
+objective_HelpGangBehaviourAndType_child_2_Description	Les Cass'os peuvent être considérés comme des voyous portés sur la bagarre. Ils se concentrent davantage sur la violence et la destruction qu'autre chose.
+objective_HelpGangBehaviourAndType_child_3	Les Chacals
+objective_HelpGangBehaviourAndType_child_3_Description	Les Chacals sont les plus ingénieux. Ils se concentrent sur le contrôle de territoires et la vente de contrebande pour augmenter leur puissance financière.
+objective_HelpGangActivities	Activités des gangs
+objective_HelpGangActivities_Description	Les activités des gangs seront variées : ils géreront leurs propres territoires, tenteront des actions d'éclat contre les membres clés de la prison, émettront des demandes et autres actions similaires.
+objective_HelpGangActivities_child_1	Activités spécialisées
+objective_HelpGangActivities_child_1_Description	Chaque gang prendra part à des activités spécialisées en fonction de leurs différentes personnalités. Les Vipères se concentrent sur la production et la vente de narcotiques, les Cass'os sur les combats et la destruction, et les Chacals sont intéressés par l'agrandissement de leur territoire et le gain d'argent.
+objective_HelpGangActivities_child_2	Activités des territoires
+objective_HelpGangActivities_child_2_Description	Avec de nouveaux territoires viennent de nouveaux comportements. Les gangs vont désormais “faire la police” dans les zones qu'ils contrôlent, en s'assurant que les autres prisonniers se comportent bien et paient pour utiliser les objets qui s'y trouvent, même pendant leur temps de travail. Les membres des gangs pourront également acquérir de grandes quantités d'objets de contrebande en fonction de la pièce qu'ils contrôlent, et des “revendeurs” apparaîtront pour vendre ces objets aux autres détenus.
+objective_HelpGangActivities_child_3	Demandes des gangs
+objective_HelpGangActivities_child_3_Description	Une fois qu'un gang a acquis suffisamment de pouvoir et de confiance au sein de la prison, il commence à formuler certaines demandes. Ces demandes vont de l'obtention de nouveaux équipements à plus de temps pour la cour ou du temps libre, et vous disposez d'un certain temps pour répondre à ces demandes. Si vous ne répondez pas à ces demandes, les répercussions commenceront immédiatement, le gang causant généralement une certaine forme de destruction ou de violence.
+objective_HelpCrookedGuards	Gardien véreux
+objective_HelpCrookedGuards_Description	Bien que nous aimons croire que notre courageux personnel est pur et incorruptible, ce n'est malheureusement pas toujours le cas.
+objective_HelpCrookedGuards_child_1	Soudoiement des gardiens
+objective_HelpCrookedGuards_child_1_Description	Tous les types de gardiens peuvent être soudoyés pour regarder de l'autre côté quand certaines fautes surviennent pendant 48 heures, laissant leur contrebande aux prisonniers lorsqu'ils la trouvent et facilitant la prise de contrôle des territoires par les gangs. Heureusement, en utilisant des informateurs, les gardiens suspects peuvent être signalés, ce qui donne au joueur la possibilité de renvoyer les gardiens qui ont été corrompus.
+objective_HelpCrookedGuards_child_2	Corruption des gardiens
+objective_HelpCrookedGuards_child_2_Description	Certains gardiens peuvent être corrompus en interagissant trop avec les membres de gangs, et être payés pour faire passer de la contrebande pour les gangs. Les informateurs peuvent marquer les gardiens suspects pour vous, tandis que les détecteurs de contrebande et les chiens de gardien seront également capables de trouver cette contrebande alors qu'elle est encore en leur possession.
+objective_HelpGangIntelligence	Renseignements sur les gangs
+objective_HelpGangIntelligence_Description	Avec un tel potentiel de mauvais comportements au sein d'une prison, les renseignements sont toujours essentiels pour assurer la sécurité de votre établissement. Le menu de renseignements sur les gangs vous fournira des informations sur chaque gang de votre prison, en indiquant le nombre de membres pour chacun, leurs fonds, ainsi qu'un décompte de base des écarts de conduite qu'ils ont effectués pendant leur incarcération. Il indique également tous les mouvements ou activités auxquels participent les gangs, pour vous aider à afficher le niveau de dangerosité de chaque gang.
+objective_HelpSecurityOptions	Options de sécurité
+objective_HelpSecurityOptions_Description	Une liste de “prisonniers importants” sera répertoriée dans un nouveau menu, avec tous les détenus considérés comme étant soit en danger, soit comme étant eux-mêmes un danger pour les autres. Grâce à ce menu, les prisonniers qui doivent faire l'objet d'une attention particulière peuvent être marqués afin d'être surveillés plus facilement pendant le jeu normal, ou pour effectuer d'autres actions telles que la restriction de l'accès d'un prisonnier à certaines zones, le transfert de groupes à des niveaux de sécurité spécifiques, et même l'élimination des détenus problématiques en les envoyant dans un autre établissement, bien que cela nécessite le paiement d'une lourde amende.
+objective_HelpPrograms_Description	Pour garder en sécurité et aider vos prisonniers, les gardiens peuvent maintenant recevoir une nouvelle formation qui les autorisera à désarmer facilement un prisonnier armé. Les prisonniers auront également de nouveaux programmes à leur disposition, avec des programmes récréatifs pour les aider à se réformer et tenter de les calmer ou leur faire évacuer un peu de stress, ainsi que des programmes de réhabilitation qui aideront à réorienter les prisonniers en les éloignant du style de vie des gangs, ce qui leur permettra d'accomplir leur peine d'une manière plus pacifique et constructive.
+objective_grant_positiveEnergyGrant	Énergie positive
+objective_grant_positiveEnergyGrant_Description	Les membres de gangs doivent concentrer leur esprit (et leur énergie) sur l'exercice plutôt que sur la violence. Des recherches ont montré que l'exercice réduit la violence. Installez des équipements d'exercice en plein air dans la cour.
+objective_grant_positiveEnergyGrant_bench	Ajouter un banc de musculation
+objective_grant_advancedProtectionGrant	Protection avancée
+objective_grant_advancedProtectionGrant_Description	La protection du personnel est primordiale lorsque l'on a affaire à des bandes organisées. Nous devons nous assurer que notre personnel est formé au plus haut niveau pour sa sécurité.
+objective_grant_advancedProtectionGrant_training	Faire passer la Certification de désarmement à 20 gardiens.
+objective_grant_gangWelfareGrant	Paix des gangs
+objective_grant_gangWelfareGrant_Description	Transformer la guerre des gangs en paix des gangs est une priorité absolue. Les membres de gang ont de bonnes chances de se réhabiliter lorsqu'ils sont consultés dans des programmes qui peuvent les aider à quitter ce style de vie.
+objective_grant_gangWelfareGrant_exGangMembers	Réhabilitez 15 membres de gang en ex-membres de gang.
+objective_grant_exGangProtectionGrant	Programme de protection des anciens membres de gang
+objective_grant_exGangProtectionGrant_Description	Le gouvernement offre un financement pour la construction d'une aile spéciale, afin de protéger les anciens membres de gangs en cours de réhabilitation.
+objective_grant_protectionCells	Construisez 10 cellules dans un secteur Sous protection
+objective_grant_protectionShower	Construire une salle de douche dans un secteur Sous protection
+objective_grant_protectionCanteen	Construire une cantine dans un secteur Sous protection
+objective_grant_protectionKitchen	Construire une cuisine dans un secteur Sous protection
+objective_grant_protectionYard	Construire une cour dans un secteur Sous protection
+objective_grant_protectionGuards	Affecter un gardien à un secteur Sous protection
+objective_grant_protectionExGang	Affecter 1 ex-membre de gang au niveau de sécurité Sous protection des gardes
+grant_category_adminHired	Administrateur recruté :
+reformprogram_TattooRemovalProgram	Programme de retrait des tatouages
+reformprogram_TattooRemovalProgram_text	Si vos détenus regrettent de s'être fait tatouer par un gang, vous pouvez faciliter leur réinsertion en leur proposant des séances de retrait de tatouages. Une fois ce programme terminé, ils deviendront une cible.
+reformprogram_HandToHandCombat	Certification de désarmement
+reformprogram_HandToHandCombat_text	Lorsque la situation se durcit, nous devenons plus durs. Formez vos gardes à des techniques avancées pour désarmer vos détenus.
+reformprogram_GangRehabilitation	Réhabilitation du gang
+reformprogram_GangRehabilitation_text	Si un membre de gang a causé trop de problèmes dans la prison, essayez de lui faire réussir ce programme. C'est la première étape pour couper les liens avec leur gang et tourner une nouvelle page. En achevant ce programme, il deviendra une cible. Envoyé pour : Violence et destruction.
+reform_program_intake_ReferralGangViolenceDestruction	Envoyé pour : Violence et Destruction Gangs seulement.
+reform_program_intake_GangOnly	Gangs seulement
+reformprogram_FaithProgram	Programme religieux
+reformprogram_FaithProgram_text	Les détenus qui participent à ce programme intensif seront plus disposés à se défaire de leurs mauvaises habitudes et à embrasser une vie meilleure. S'ils réussissent ce programme, ils pourraient avoir envie de rompre leurs liens avec leur gang.
+reformprogram_BreatheProgram	Thérapie respiratoire
+reformprogram_BreatheProgram_text	Apprenez à vos détenus à respirer et à se détendre. Après chaque cours, vos détenus se sentiront beaucoup plus calmes, et pourraient même envisager de mieux se comporter.
+reformprogram_FightClub	Fight Club
+reformprogram_FightClub_text	Ces séances d'entraînement sont destinées à canaliser l'énergie destructrice de vos détenus pour des combats dans un environnement contrôlé. Ils peuvent être trop fatigués pour se battre après. C'était quoi la première règle déjà ?
+reform_program_properties_TeacherUsesSameEquipment	L'enseignant a besoin de *X
+reform_program_properties_GangMemberCanAttend	Les membres de gang peuvent participer
+gang_vipers	Les Vipères
+gang_bonebreakers	Les Cass'os
+gang_jackals	Les Chacals
+gang_red	Rouge
+gang_blue	Bleu
+gang_yellow	Ex-membres de gang
+objective_GangDemand	Demandes des gangs
+objective_GangDemand_description	Les chefs de gang enhardis feront un certain nombre de demandes pour améliorer la qualité de vie en prison. Le non-respect de ces demandes peut entraîner une émeute. Assurez-vous que votre prison est préparée à cette éventualité.
+GangDemand_announcement	Les membres du gang vont causer beaucoup de problèmes si nous ne cédons pas à leurs exigences.
+objective_Gang_ContrabandToolsPunishment_child	*G - Diminuer la punition de Trouver des outils à *X heures.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Diminuer la punition de Trouver des outils à aucune
+objective_Gang_MurderPunishment_child	*G - Diminuer les sanctions pour Meurtre pendant *X heures.
+objective_Gang_MurderPunishment_Escalated_child	*G - Diminuer les sanctions pour Meurtre pendant *X heures.
+objective_Gang_MoreYardTime_child	*G - Augmenter le régime du temps de Cour à *X heures.
+objective_Gang_MoreYardTime_Escalated_child	*G - Augmenter le régime du temps de Cour à *X heures.
+objective_Gang_PullUpBars_child	*G - Avoir *X Barres à tractions.
+objective_Gang_PullUpBars_Escalated_child	*G - Avoir *X Barres à tractions.
+objective_Gang_TyreApparatus_child	*G - Avoir *X Assemblage de pneus
+objective_Gang_TyreApparatus_Escalated_child	*G - Avoir *X Assemblage de pneus
+objective_Gang_PunchBag_child	*G - Avoir *X Sacs de frappe.
+objective_Gang_PunchBag_Escalated_child	*G - Avoir *X Sacs de frappe.
+objective_Gang_PushUpStones_child	*G - Avoir *X Pierres à pompes.
+objective_Gang_PushUpStones_Escalated_child	*G - Avoir *X Pierres à pompes.
+objective_Gang_RequireYard_child	*G - Avoir un *X.
+objective_Gang_RequireYard_Escalated_child	*G - Avoir un *X.
+objective_Gang_RequireLibrary_child	*G - Avoir un *X.
+objective_Gang_RequireLibrary_Escalated_child	*G - Avoir un *X.
+objective_Gang_RequireMailRoom_child	*G - Avoir un *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Avoir un *X.
+d11_gangdemand_success	Nous avons reçu de l'argent pour gérer cette situation.
+d11_gangdemand_fail	Veillez à ce que cette situation ne se reproduise pas.
+d11_gangCompensation	Compensation du gang
+d11_gang_goal	Objectif du gang :
+d11_gang_jackals_goal	Contrôle de la prison
+d11_gang_traits	Traits du gang :
+d11_gang_officer	Officier de gang :
+d11_gang_territories	Territoires :
+d11_gang_kills	Tués par le gang :
+d11_heatmap_gang	Gang impliqué :
+d11_heatmap_day	Jour :
+d11_heatmap_time	Heure :
+d11_gang_event_pr.gf	Combat de gang
+d11_gang_event_g.tc	Changement de territoire
+gangSegregationMessage	Choisissez les gangs qui sont habituellement autorisés à entrer dans certaines zones.
+interfacedeployment_GangSegregation	Ségrégation du gang
+buildtoolbar_deployment_GangSegregation	Pour assurer un certain niveau de contrôle sur la répartition des gangs, ceux-ci peuvent être affectés dans des espaces de vie différents, ce qui permet de les tenir éloignés les uns des autres pour éviter toute instigation inutile.
+research_StaffVetting	Vérification du personnel
+researchtooltip_StaffVetting	Réduit la probabilité que les nouveaux gardiens soient corrompus. Déverrouille l'enquête sur les gardiens, vous autorisant à repérer les gardes véreux en utilisant vos Informateurs Confidentiels.
+buildtoolbar_GuardInvestigation	Enquête sur un gardien
+buildtoolbar_tooltip_GuardInvestigation	Travaillez avec vos Informateurs Confidentiels et votre Chef de la sécurité pour enquêter sur vos gardiens et débusquer la corruption. Plus vos Informateurs actifs ont accès à des zones, plus vous démasquerez de gardiens véreux. Le Chef ne doit pas organiser un programme ou assister à une exécution.
+buildtoolbar_CI_requirement	Au moins un Informateur
+guardinvestigation_underway	ENQUÊTE SUR UN GARDIEN EN COURS
+guardinvestigation_investigated	Enquête *A/*B Gardiens
+informant_investigating	Enquête en cours
+crookedguard_fired_reward	Gardien véreux viré
+crookedguard_advisor_onboarding	Nous avons découvert un gardien véreux qui travaille avec un gang. Je l'ai marqué dans l'onglet Personnel de vos Rapports. Assurez-vous de le virer.
+buildtoolbar_popup_staff_doghandler	Les maîtres-chiens et leurs compagnons canins peuvent détecter la contrebande sur les détenus qui passent à proximité.
+buildtoolbar_popup_staff_kimber_doghandler	Les maîtres-chiens et leurs compagnons canins peuvent détecter la contrebande sur les détenus et les gardiens corrompus qui passent à proximité.
+d11_prisoner_replacement	Remplacement du prisonnier
+d11_prisoner_replacement_tooltip	La valeur de la population de détenus sera reconstituée jusqu'au nombre souhaité, le rapport des niveaux de sécurité restant le même là où c'est possible. Tous les détenus supplémentaires seront demandés suivant le système standard.
+job_cleanupobject	Nettoyage *X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X MEMBRES DE GANG SONT FURIEUX (Graffiti effacé)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X MEMBRES DE GANG SONT FURIEUX (Chef transféré dans une cellule de moindre qualité)
+research_CCTVImprovement	Amélioration de la vidéosurveillance
+researchtooltip_CCTVImprovement	Améliorez l'utilisation de votre équipement de vidéosurveillance. Vous permet de consulter les cônes de visibilité de la vidéosurveillance et voir quels détenus se comportent mal dans leur champ de vision.
+d11_cctv_cone	Cône de vidéosurveillance
+d11_toggle_cctv_cone_detail	Activer/désactiver les cônes des caméras de vidéosurveillance
+d11_left_click_to_clean	Clic gauche pour nettoyer
+d11_gang_graffiti_message	Les gangs marquent leur territoire, ce qui les rend plus féroces lorsqu'ils le défendent. Envoyez un Concierge lorsque le désordre est sûr. Les gangs ne seront pas heureux que leur “art” soit enlevé - ils pourraient avoir envie de se venger.
+d11_gangBulkIntake_advisor_onboarding	La Commission des prisons transfère les détenus problématiques vers d'autres prisons avec une gestion plus compétente, j'espère que vous serez en mesure de gérer ces nouveaux éléments avec facilité. Les examens des détenus sont maintenant effectués sur une base hebdomadaire.
+d11_gangBulkIntake_staffAlert	Le bus d'admission des prisonniers membres de gang arrive
+d11_gangdealer_advisor_onboarding	Nous avons identifié un Dealer sur le territoire du gang. Une grosse somme d'argent lui a été confisquée.
+d11_CI_advisor_onboarding	Coopérez avec vos Informateurs Confidentiels pour dénicher les gardiens corrompus. Ils seront envoyés au bureau du chef pour partager les informations dont ils disposent. Assurez-vous d'avoir recruté des Informateurs Confidentiels, et cliquez sur l'icône (?) dans le menu Renseignements pour plus d'informations.
+d11_LeaderAssassination_advisor_onboarding	Certains gangs deviennent trop agressifs et prévoient d'assassiner le chef de l'autre gang. S'ils réussissent, cela affectera leurs territoires actuels.
+d11_GangTargetting_advisor_onboarding	Les membres d'un gang se regroupent parce qu'ils ont des intérêts communs, parfois aussi parce qu'ils n'aiment pas certains délits criminels, et ils essaieront de cibler ces personnes.
+d11_staffalert_title_making_move	Le gang passe à l'action.
+d11_staffalert_summary_making_move	Nous avons l'information qu'un gang est en train de passer à l'action.
+d11_staffalert_summary_gangdealer	Un Dealer a été découvert, vous avez reçu 500 $
+d11_staffalert_summary_TerritoryPlacement	Cette pièce a été revendiquée par un gang, et c'est trop dangereux d'y entrer pour notre personnel. Expulsez-les de cette pièce.
+crisisSector_CustomSearchArea	Personnaliser la zone de recherche
+crisisSector_ScheduleSearch	Calendrier personnalisé
+schedulesearch_menu_TargettedArea	Zone ciblée
+schedulesearch_menu_StartTime	Heure de début
+schedulesearch_menu_ExistingSchedule	Calendrier existant
+schedulesearch_menu_CurrentTime	Heure actuelle
+schedulesearch_menu_CurrentFrequency	Fréquence actuelle
+crisisSector_UnlockedOnly	Déverrouillé seulement
+schedulesearch_menu_SaveSelection	Sauvegarder la sélection
+reputation_Recruiter	Recruteur
+reputationtooltip_Recruiter	Ce détenu, s'il fait partie d'un gang, sera plus susceptible d'inciter d'autres détenus à le rejoindre.
+reputationtooltip_Resourceful	Ce détenu sera plus enclin à passer du temps à lire des livres, il connaîtra également les endroits où se trouve la contrebande et pourra l'intercepter pour son gang.
+reputation_ExGangMember	Ex-membre de gang
+reputationtooltip_ExGangMember	Ce détenu a décidé que la vie de membre de gang n'était pas pour lui, mais le gang n'apprécie pas cette décision.
+reputation_CunninglyBrutal	Sournoisement brutal
+reputationtooltip_CunninglyBrutal	Les Vipères tenteront d'attaquer des cibles dans les angles morts des caméras de sécurité.
+reputation_SneakThief	Voleur discret
+reputationtooltip_SneakThief	Tous les Chacals ont des techniques de pickpocket, quelle que soit leur réputation.
+reputation_BattleTendency	Tendance au conflit
+reputationtooltip_BattleTendency	Si les Chacals sont plus nombreux que les gardiens dans une aile de la prison, ils seront plus violents envers le personnel de cette aile.
+reputation_DisrepectSurroundings	Vandale
+reputationtooltip_DisrepectSurroundings	Les Cass'os dégraderont des objets lorsque leurs besoins ne sont pas satisfaits.
+reputation_UnderCoverDon	Boss sous couverture
+reputationtooltip_UnderCoverDon	Le chef des Vipères se fera passer comme un membre ordinaire du gang, ne se dévoilant que lorsqu'il est puni.
+reputation_Enforcer	Exécuteur
+reputationtooltip_Enforcer	Ce détenu intimidera les autres détenus, sauf s'ils appartiennent au même gang. Il est également très efficace pour prendre le contrôle de territoires pour le compte de son gang.
+reputation_GymRat	Accro à la gym
+reputationtooltip_GymRat	Les Cass'os passeront leur temps libre dans un gymnase ou dans la cour.
+reputation_Loyal	Loyal
+reputationtooltip_Loyal	Ce détenu sera plus enclin à rester dans le gang et à s'énerver si son chef de gang est puni.
+traits_violent	Violent
+traits_lethal	Meurtrier
+finance_cost_gangdealer	Dealer de gang repéré
+object_PrisonerLetter	Lettre de prisonnier
+object_LoveLetter	Lettre d'amour
+object_LoveLetterOpened	Lettre d'amour (ouverte)
+interface_prisonerWritingLetter	Écrit à ses proches
+interface_prisonerWritingLoveLetter	Écrit à quelqu'un de TRÈS spécial
+warden_wardengangsjlocks_name	Capitaine J. Locks
+warden_wardengangsjlocks_desc	Le personnel sous le commandement de Locks est capable d'aller au-delà de ses limites, pour que les détenus deviennent des détenus modèles. \n\n- +30 % d'endurance du personnel (Nécessite 10 % de repos supplémentaire).\n -10 % aux chances de récidive des détenus.
+warden_wardengangsjlocks_desc_short	Endurance supplémentaire pour le personnel\n -10 % aux chances de récidive des détenus.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Ce monsieur bien élevé saura baratiner n'importe qui, il se débrouillera pour obtenir les meilleurs prix pour votre détenu. Le genre de gars qui utilise des coupons au supermarché ! \n\n- Réduction de 25 % des coûts de nourriture. \n- Les programmes qui font appel à des intervenants externes coûtent 20 % de moins.
+warden_wardengangscook_desc_short	- Réduction de 25 % des coûts de nourriture.\n- Les programmes qui font appel à des intervenants externes coûtent 20 % de moins.
+rapsheet_manualCellSwap_hint	Choisissez de donner à ce détenu une simple amélioration/rétrogradation en le déplaçant vers une nouvelle cellule disponible, ou choisissez manuellement la cellule vers laquelle il doit être déplacé.
+rapsheet_cellUpgrade	Améliorer la cellule
+rapsheet_cellDowngrade	Rétrograder la cellule
+rapsheet_cellChoice	Choisir une nouvelle cellule
+rapsheet_ChangeCell	Changer de cellule
+ChangeCellUpgradeSuccessful	Vous avez réussi à promouvoir *X dans une meilleure cellule.
+ChangeCellDowngradeSuccessful	Vous avez rétrogradé *X et l'avez placé dans une plus mauvaise cellule.
+ChangeCellNoAvailableRooms	Il n'y a aucune salle disponible pour y déplacer *X. Voulez-vous utiliser le menu personnalisé d'échange de pièces ?
+ChangeCellDowngradingGangLeader	Vous êtes sur le point de déplacer un chef de gang dans une cellule de qualité inférieure, ce qui va perturber son gang et pourrait causer des problèmes dans votre prison.
+freeCell_movePrisoner	Faites un clic droit pour déplacer le prisonnier dans cette cellule.
+occupiedCell_movePrisoner	Faites un clic droit pour échanger le détenu avec l'occupant de cette cellule.
+occupiedCell_selectablePrisoner	Faites un clic droit pour sélectionner ce détenu et choisir où vous souhaitez le déplacer.
+mutator_name_NoMinRoomSize	Pas de taille de pièce
+mutator_tooltip_NoMinRoomSize	Il n'y a plus d'exigences en matière de taille de pièce ! Mais vous devez toujours vous procurer les objets requis pour que la pièce fonctionne.
+action_GangBusiness	Affaires du gang
+action_GangRecruitment	Recrutement pour le gang
+action_GangPromotion	Promotion du gang
+action_ActionHerb	Sabotage
+action_LoadBaby	Transporter un bébé
+action_WarmUp	Échauffement
+action_GetSnack	Manger un snack
+action_Drink	Prendre une boisson
+action_DoPullUps	Faire des tractions
+action_KneeRaises	Lever de genoux
+action_PushUps	Pompes
+reform_program_properties_RequiresAllStudentsPresent	Nécessite la présence de tous les élèves
+d11_tableClaim_title	Sous le contrôle de *G
+d11_tableClaim_desc	Pour les chasser de leurs tables, déplacez-les ou démontez-les.
+d11_tableClaim_desc_cont	Mais cela risque de les mettre en colère.
+schedulesearch_menu_ClearSchedule	Effacer le calendrier

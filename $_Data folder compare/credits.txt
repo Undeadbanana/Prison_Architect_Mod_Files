@@ -63,6 +63,7 @@ Giovanna "Sneak Attack" Mateus
 Maria "Bunny" Cerqueira
 Cara "Why is She Still Here" Hudson
 Joe "Choke and Stroke" Parker
+Adam "I was 9 when this game came out" Al-Taie
 
 <h2>Art
 Nick "I Wish I Wasn't Related To Phil Sedgeman" Patrick
@@ -71,6 +72,7 @@ Bruno "Nib Stabber" Henriques
 Cara "Nickname" Ho
 Rebecca "I'm A Wizard, Harry" McKie-Coils
 Stephen "The Stone" Sharples
+Fang "Sweet Tooth" Jing Tay
 James Finlayson
 
 <h2>Technical Artist
@@ -84,6 +86,7 @@ Abbie "The Reaper of Souls" Howard
 <h2>Programming Lead
 Phil "The Artist" Sedgeman
 Thang "Tano" Phung Dinh
+Giang "It works on my machine" Tong
 
 <h2>Programming
 Dan "The Enforcer" Bardsley
@@ -115,7 +118,6 @@ Rob "CCTV" Ware
 John "You Wot!?" Waring
 Jack "The Brown Bear" Brown
 Marin "The Fixer" Jelica
-Giang "It works on my machine" Tong
 K. Komal "The Exterminator" Shashank
 Craig "Escapee Power Man" Palmer
 Alex "Corn Addict" Parcell
@@ -192,6 +194,7 @@ Kevin "Kebs Chicken Rice" Lau Lee Yong
 Eugene "There is only 1 Laksa" Tam You Jun
 Martin "The Death Thouser" Chu Chee Loong
 Eu "Mass Murderer Ishikawa" Wai Him
+Ong "MerimacMac" Ban Hoe
 
 <h2>Special Thanks
 James Finlayson

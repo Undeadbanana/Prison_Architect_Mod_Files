@@ -119,18 +119,18 @@ Fai clic su AVANTI per vedere di più...
 
 ~~~~~~
 
-AGGIORNAMENTO "IL RUDERE" E DLC "CLEARED FOR TRANSFER"
+AGGIORNAMENTO "IL RUDERE" E DLC "TRASFERIMENTO AUTORIZZATO"
 >DATE 14/05/20
 
->"Cleared for Transfer" - DLC gratuito 
-Abbiamo appena pubblicato il DLC gratuito "Cleared for Transfer", con cui puoi decidere i privilegi per i detenuti a seconda del settore di sicurezza. I detenuti saranno incoraggiati a cambiare comportamento per soddisfare i tuoi criteri e farsi trasferire in un'ala a sicurezza minore (e più confortevole).
+>"Trasferimento autorizzato" - DLC gratuito 
+Abbiamo appena pubblicato il DLC gratuito "Trasferimento autorizzato", con cui puoi decidere i privilegi per i detenuti a seconda del settore di sicurezza. I detenuti saranno incoraggiati a cambiare comportamento per soddisfare i tuoi criteri e farsi trasferire in un'ala a sicurezza minore (e più confortevole).
 
-Scarica gratis il DLC "Cleared for Transfer"!
+Scarica gratis il DLC "Trasferimento autorizzato"!
 
 Gaz, games design manager di Double Eleven
 
 >Aggiornamento "Il rudere"
-L'aggiornamento gratuito "Il rudere" affianca il DLC "Cleared for Transfer" e risponde alle richieste della community, aggiunge funzioni, migliorie e altro ancora. Ecco alcuni esempi. 
+L'aggiornamento gratuito "Il rudere" affianca il DLC "Trasferimento autorizzato" e risponde alle richieste della community, aggiunge funzioni, migliorie e altro ancora. Ecco alcuni esempi. 
 
 >[1/2] Nuovi oggetti
 
@@ -155,24 +155,24 @@ L'aggiornamento gratuito "Il rudere" affianca il DLC "Cleared for Transfer" e ri
 ~~~~~~
 
 
-Espansione "ISLAND BOUND" e 
+Espansione "CONFINATI SU UN ISOLA" e 
 Aggiornamento "THE ROCK"
 >
 
->"Island Bound" - Nuovo DLC 
+>"Confinati su un isola" - Nuovo DLC 
 <->È ora disponibile la nuova espansione di Prison Architect!
-<->Con Island Bound, i giocatori avranno la possibilità di creare un'isola-prigione con consegne, detenuti e altri servizi trasportati per via aerea e marittima.
-<->Island Bound introduce anche nuove opzioni di trama per avviare la tua prigione, rimuovendo ogni tipo di collegamento con la terraferma. Potrai persino giocare senza strada! 
+<->Con Confinati su un isola, i giocatori avranno la possibilità di creare un'isola-prigione con consegne, detenuti e altri servizi trasportati per via aerea e marittima.
+<->Confinati su un isola introduce anche nuove opzioni di trama per avviare la tua prigione, rimuovendo ogni tipo di collegamento con la terraferma. Potrai persino giocare senza strada! 
 <->Saranno a disposizione anche barche, elicotteri, moli ed eliporti, che potrai collegare alle tue aree di consegna e di esportazione. Ora puoi scegliere di far arrivare i detenuti in un punto preciso della tua prigione, e far consegnare le scorte per via aerea da un'altra parte.
 <->Visto che adesso il contrabbando può sfruttare più punti di entrata, potrai costruire anche nuovi punti di controllo, dove le guardie perquisiranno prigionieri e visitatori, e scanner per scoprire oggetti contrabbandati nelle consegne! 
-<->Island Bound include anche nuove mappe preimpostate ispirate ad Alcatraz, nuovi oggetti, pavimenti, traghetti per collegare le isole, elicotteri dei pompieri, una nuova squadra operazioni élite e tanto altro!
+<->Confinati su un isola include anche nuove mappe preimpostate ispirate ad Alcatraz, nuovi oggetti, pavimenti, traghetti per collegare le isole, elicotteri dei pompieri, una nuova squadra operazioni élite e tanto altro!
 
 Gaz, games design manager di Double Eleven
 
 Fai clic su AVANTI per vedere di più...
 
 >Aggiornamento "The Rock"
-L'aggiornamento gratuito "The Rock" fa da complemento all'espansione "Island Bound" insieme ad altri miglioramenti.
+L'aggiornamento gratuito "The Rock" fa da complemento all'espansione "Confinati su un isola" insieme ad altri miglioramenti.
 
 <->Caselle acqua - Potrai creare aree d'acqua sulla terra e viceversa per dare forma a isole, coste, fossati e altro.
 
@@ -211,10 +211,10 @@ Fai clic su AVANTI per vedere di più...
 
 ~~~~~~
 
-DLC "SECOND CHANCES" e 
+DLC "SECONDE OPPORTUNITÀ" e 
 aggiornamento "The Pen"
 >Aprite i cancelli!
->Second Chances - Nuovo DLC:
+>Seconde Opportunità - Nuovo DLC:
 >   Apprendere competenze di vita:
 <->Tre nuove stanze in cui i detenuti possono lavorare e imparare. Un panificio e un ristorante per produrre cibo per i visitatori civili e una sala incontri per ospitare i nuovi programmi.
 <->Alcuni detenuti hanno esperienze lavorative preesistenti compatibili con il lavoro carcerario.
@@ -245,11 +245,11 @@ Fai clic su AVANTI per vedere di più...
 
 ~~~~~~
 
-DLC "PERFECT STORM" E 
+DLC "TEMPESTA PERFETTA" E 
 AGGIORNAMENTO "THE TOWER" 
 >Non fidarti della calma prima della tempesta!
 
->Perfect Storm - Nuovo DLC:
+>Tempesta perfetta - Nuovo DLC:
 >   Preparati al peggio:
 <-> Sono disponibili nuove opzioni per attivare eventi meteorologici e un sistema di infestazione di topi a vari livelli di intensità
 <->Ora sono disponibili diverse opzioni di aiuto: nuovi oggetti e strutture, corsi di formazione, servizi di emergenza e piani di copertura
@@ -286,5 +286,40 @@ Fai clic su AVANTI per vedere di più...
 >	 Ringraziamenti speciali a 
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
  
+~~~~~~
 
+"DLC ""GANG"" E 
+AGGIORNAMENTO ""AQUILONE"" 
+>Più forti, più furbi e adesso anche con uniformi coordinate!
+
+>""Gang"" - Nuovo DLC
+>   Nuove gang della prigione:
+<->Sono arrivati nella tua prigione tre nuovi tipi di gang, e ciascuna porta con sé il suoi guai e i suoi problemi di gestione. 
+<->Ciascuna di queste gang ha una sua personalità e degli obiettivi specifici, da diffondere la propria influenza nella prigione a conquistare il mercato del contrabbando.
+<->Per aiutare a controllare quanto rendono difficile gestire la tua prigione, abbiamo aggiunto opzioni per controllare il numero di queste bande e il numero di capibastone che ciascuna può avere, e questo influisce sul numero di interventi da parte della gang.
+>
+>   Nuove gang, nuovi comportamenti:
+<->Ciascuna delle nuove gang avrà attività specializzate, dal narcotraffico all'uso della forza per mostrare agli altri chi comanda.
+<->Ora le gang possono conquistare nuove aree, facendosi pagare dagli altri detenuti durante il lavoro forzato e sistemando un ""trafficante"" nelle loro aree per aiutarli a vendere tutto ciò che recuperano.
+<->Quando una gang è abbastanza numerosa, potrà iniziare a fare richieste per rendersi la ""villeggiatura"" un po' più comoda, e le conseguenze per chi non accetta possono essere disastrose.
+Fai clic su AVANTI per vedere di più...
+
+>   Guardie corrotte:
+<->Quando una gang ha preso il sopravvento su tutte le altre, può iniziare ad avere un effetto negativo sulle tue guardie.
+<->Ora le guardie possono essere corrotte dai membri della gang, in modo che ""chiudano un occhio"" quando una gang ha qualche malefatta in mente.
+<->Certe guardie possono anche essere pagate per aiutare le gang nel contrabbando.
+>
+>   Gestione e sicurezza:
+<->Per aiutarti a gestire lo staff sospetto, puoi usare informatori tra i detenuti per segnalare le guardie che sono state corrotte.
+<->Sono anche disponibili nuovi corsi per la addestrare le guardie, oppure per aiutare i membri delle gang a uscire dal giro e tornare a una normale e pacifica vita da detenuti.
+<->Gli ex membri di una gang diventeranno bersagli per chi è rimasto nella gang, perciò sarà meglio cercare di separare gli uni dagli altri, quando è possibile.
+<->Per i detenuti più difficili da gestire, infine, sono disponibili nuove opzioni di sicurezza, dal segnalare specifici individui per aumentarne la visibilità al trasferire i più problematici in un'altra struttura.
+Fai clic su AVANTI per vedere di più...
+
+>
+>   Aggiornamento ""AQUILONE""
+<->Nuovi direttori e tipi di cani: Dylan Cook e il capitano J. Locks si sono uniti alla squadra di direttori disponibili, insieme a una nuova opzione di selezione ""casuale"" e a 4 nuovi tipi di cani da guardia!
+<->Ora puoi scambiare manualmente le celle designate dei detenuti, per poter scegliere chi va dove. Tuttavia, i capi delle gang tenderanno ad avere la priorità sulla cella migliore nelle aree controllate dalla loro fazione.
+<->Anche il sistema degli arrivi è stato aggiornato: per prima cosa, i detenuti in attesa di smistamento ora andranno alla reception invece di aspettare fuori al freddo; inoltre, hai a disposizione una nuova opzione ""Sostituzione del detenuto"" che aiuterà a mantenere la popolazione della prigione allineata al rapporto attuale tra i livelli di sicurezza.
+<->Insieme a queste nuove funzioni, avrai anche una nuova opzione modificatore che rimuove i requisiti di dimensione delle stanze, oltre ad alcuni miglioramenti alle telecamere a circuito chiuso che puoi attivare dal menu Schieramento."
 

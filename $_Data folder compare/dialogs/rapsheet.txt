@@ -18,7 +18,7 @@ BEGIN Custom
     NAME        Title
     XPOS        Scaled          1012
     YPOS        Scaled          662
-    WIDTH       Scaled          8333
+    WIDTH       Scaled          7750
     HEIGHT      Scaled          583
 END
 
@@ -66,7 +66,7 @@ END
 BEGIN Custom
     NAME        Category
     XPOS        Scaled          4109
-    YPOS        Scaled          1497
+    YPOS        Scaled          1450
     WIDTH       Scaled          2333
     HEIGHT      Scaled          250
 END
@@ -107,7 +107,7 @@ END
 BEGIN DropDownMenu
     NAME        CategoryDropDown
     XPOS        Scaled          6554
-    YPOS        Scaled          1496
+    YPOS        Scaled          1450
     WIDTH       Scaled          2333
     HEIGHT      Scaled          333
 END
@@ -149,7 +149,7 @@ BEGIN Button
     NAME        SearchCell
     CAPTION     job_searchcell
     XPOS        Scaled          6555
-    YPOS        Scaled          2415
+    YPOS        Scaled          2336
     WIDTH       Scaled          2333
     HEIGHT      Scaled          333
 END
@@ -158,26 +158,26 @@ BEGIN Button
     NAME        SearchCellBlock
     CAPTION     job_searchcellblock
     XPOS        Scaled          6554
-    YPOS        Scaled          2832
+    YPOS        Scaled          2779
     WIDTH       Scaled          2333
-    HEIGHT      Scaled          332
+    HEIGHT      Scaled          333
 END
 
 BEGIN Button
     NAME        Search
     CAPTION     job_searchentity
     XPOS        Scaled          6554
-    YPOS        Scaled          1993
+    YPOS        Scaled          1893
     WIDTH       Scaled          2333
-    HEIGHT      Scaled          332
+    HEIGHT      Scaled          333
 END
 
 BEGIN DropDownMenu
     NAME        Action
     XPOS        Scaled          6554
-    YPOS        Scaled          3250
+    YPOS        Scaled          3225
     WIDTH       Scaled          2333
-    HEIGHT      Scaled          332
+    HEIGHT      Scaled          333
 END
 
 BEGIN Button
@@ -186,15 +186,32 @@ BEGIN Button
     XPOS        Scaled          1111
     YPOS        Scaled          9166
     WIDTH       Scaled          7777
-    HEIGHT      Scaled          332
+    HEIGHT      Scaled          333
 END
 
 BEGIN Button
     NAME        EndPunishment
     CAPTION     punish_end
-    XPOS        Scaled          3999
-    YPOS        Scaled          3250
-    WIDTH       Scaled          2444
-    HEIGHT      Scaled          332
+    XPOS        Scaled          4074
+    YPOS        Scaled          3225
+    WIDTH       Scaled          2333
+    HEIGHT      Scaled          333
 END
 
+BEGIN Button
+    NAME        AssignGuard
+    CAPTION     rapsheet_assignguard
+    XPOS        Scaled          4074
+    YPOS        Scaled          2779
+    WIDTH       Scaled          2333
+    HEIGHT      Scaled          333
+END
+
+BEGIN DropDownMenu
+    NAME        ChangeCell
+    CAPTION     rapsheet_ChangeCell
+    XPOS        Scaled          4074
+    YPOS        Scaled          3225
+    WIDTH       Scaled          2333
+    HEIGHT      Scaled          333
+END

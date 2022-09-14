@@ -83,7 +83,7 @@ BEGIN Research
     Sprite               Cctv  
     Cost                 -2000  
     Time                 360  
-    X                    1180  
+    X                    1100  
     Y                    100  
     NonWideX             920  
     NonWideY             300  
@@ -96,7 +96,7 @@ BEGIN Research
     Sprite               RemoteDoor  
     Cost                 -2000  
     Time                 360  
-    X                    1000  
+    X                    980  
     Y                    320  
     NonWideX             800  
     NonWideY             500  
@@ -147,7 +147,7 @@ BEGIN Research
     Admin                Security  
     Cost                 -1000  
     Time                 360  
-    X                    1000  
+    X                    980  
     Y                    140  
     NonWideX             800  
     NonWideY             320  
@@ -159,7 +159,7 @@ BEGIN Research
     Admin                Security  
     Cost                 -1000  
     Time                 360  
-    X                    1000  
+    X                    980  
     Y                    260  
     NonWideX             800  
     NonWideY             440  
@@ -222,7 +222,7 @@ BEGIN Research
     Admin                Security  
     Cost                 -1000  
     Time                 360  
-    X                    1000  
+    X                    980  
     Y                    200  
     NonWideX             800  
     NonWideY             380  

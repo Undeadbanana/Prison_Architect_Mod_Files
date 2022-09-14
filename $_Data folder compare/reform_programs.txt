@@ -200,6 +200,7 @@ BEGIN Program
     Properties      CanEscortStudent
     Properties      OutsideOfWork
     Properties      CanHireExternally
+	Properties		GangMemberCanAttend
 END
 
 BEGIN Program
@@ -222,5 +223,6 @@ BEGIN Program
     Properties      OutsideOfWork
     Properties      CanHireExternally
     Properties      Repeatable
+	Properties		GangMemberCanAttend
     WaitTime        3
 END

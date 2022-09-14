@@ -67,8 +67,8 @@ dialogcomponent_selectionlist	Urvalslista
 dialogcomponent_selectionlistitem	Posturvalslista
 dialogcomponent_scrollbar	Rullningsfält
 dialogcomponent_progressbar	Framstegsfält
-dialogcomponent_canvas	Canvas
-dialogcomponent_iconbox	Ikonbox
+dialogcomponent_canvas	Målarduk
+dialogcomponent_iconbox	Ikonruta
 
 dialogposition_absolute	Absolut
 dialogposition_relative	Relativ
@@ -119,7 +119,7 @@ soundparametereditor_typetitle	Typ
 soundparametereditor_linktitle	Anknyts till
 soundparametereditor_updatetitle	Typ av uppdatering
 soundparametereditor_smoothing	Smoothing
-soundparametereditor_chaintitle	Chain
+soundparametereditor_chaintitle	Kedja
 
 soundeditor_newdsp	Lägg till DSP
 sounddspeditor_title	DSP-redigerare
@@ -1083,7 +1083,7 @@ codex_mod_translationcaption	Är detta en översättning till ett annat språk?
 
 codex_language	Språk
 codex_language_englishdefault	English (Default)
-codex_language_default	Default Language
+codex_language_default	Standardspråk
 codex_language_download	Hämtar…
 codex_language_failed_download	Misslyckades med att hämta översättningen
 codex_language_failed_download_msg	Den valda översättningen kunde inte hämtas.
@@ -1863,7 +1863,7 @@ schedule_zone_minseconly	Lågsäkerhet
 schedule_zone_medseconly	Normal säkerhet
 schedule_zone_maxseconly	Högsäkerhet
 schedule_zone_protectedonly	Skyddshäkte
-schedule_zone_supermaxonly	Superhög säkerhet
+schedule_zone_supermaxonly	Högsta säkerhetsklass
 schedule_zone_deathrowonly	Dödscell
 schedule_zone_staffonly	Endast personal
 schedule_zone_unlocked	Olåst
@@ -1936,8 +1936,8 @@ status_effect_overheating	Överhettning
 status_effect_exposure	Exponering
 status_effect_foodpoisoning	Matförgiftning
 status_effect_riledup	Triggad
-status_effect_statusswimming	Simning
-status_effect_statusdrowning	Drunkning
+status_effect_statusswimming	Simmar
+status_effect_statusdrowning	Drunknar
 
 condition_treated	Behandlad
 condition_needstreating	Behöver behandling
@@ -3295,8 +3295,8 @@ clock_speed_5	>>>
 clock_speed_10	>>>>
 clock_speed_half	…
 clock_add_hour	+
-clock_am	AM
-clock_pm	PM
+clock_am	på morgonen
+clock_pm	på kvällen
 
 # =============================================================================
 # Events

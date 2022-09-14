@@ -282,3 +282,43 @@ Double Eleven 游戏设计经理 Gaz。
 >	 特别鸣谢 
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
+
+
+~~~~~~
+
+"“帮派”DLC 与 
+“风筝”更新 
+>更粗暴、更睿智且提供相配的制服！
+
+>帮派 - 新 DLC：
+>   新的监狱帮派：
+<->三类新帮派来到你的监狱，带来了他们各自的麻烦和管理问题。 
+<->每一个帮派都有自己的个性和目标，有的想在监狱内扩大自己的影响力，有的想抢夺违禁品市场。
+<->为了帮助你控制帮派给监狱管理带来的难度，我们增加了一个选项，方便你控制这些帮派的数量，以及各帮派的骨干人数，这两项指标会影响帮派搞事情的次数。
+>
+>   新帮派意味着新的行动的出现：
+<->每个新帮派都有各自的特殊活动，有的是引入更多的毒品，有的则是通过武力告诉其他人谁是真正的老大。
+<->帮派现在可以抢夺新的地盘，强迫其他囚犯上交部分劳役所得薪水，同时还可以在自己的地盘内设立一名帮派“经销商”，帮助出售他们获得的任何东西。
+<->当一个帮派的成员积累到足够多的数量时，他们还可以开始提要求，根据自己的需求对服刑期限指手画脚。如果不接受这些要求，则可能导致灾难性的后果。
+点击“下一页”查看更多……
+
+>   腐败警卫：
+<->当一个帮派的势力足够大时，他们会开始对警卫产生不利影响。
+<->帮派成员此时会对警卫行贿，以确保当他们计划采取某种不当行为时，警卫可以视而不见。
+<->某些警卫还可以通过为帮派偷运违禁品而获得酬劳。
+>
+>   管理与安保：
+<->为了处理可疑工作人员，可以在线人囚犯的协助下揪出腐败的警卫。
+<->本 DLC 还提供新的方案，可用于培训警卫，也可用于帮助帮派成员脱离帮派，从而在监禁期间重新过上正常、平静的生活。
+<->帮派前成员将会成为帮派现成员的报复目标，因此最好尽量将帮派与其前成员彼此隔开。
+<->针对监狱中较难管理的成员，我们还提供了新的安保选项，包括对特定人员进行标记以方便识别，以及将问题最严重的人员送往其他监狱等等。
+点击“下一页”查看更多……
+
+>
+>   “风筝”更新：
+<->新典狱长与新品种警犬，Dylan Cook 与 J. Locks 队长加入到现有的典狱长队伍行列，带来了一个新的“随机”选择选项，以及 4 个新品种警犬！
+<->现在可以手动完成囚犯指定牢房互换，这样你就可以选择让谁去哪里。不过，帮派头目往往会在自己管辖的任何地盘内优先选择最好的牢房。
+<->我们还对接收系统进行了更新，首先，囚犯现在可以排队等候进入接待室，而不是在寒冷的室外等候，另外新增了一个“囚犯替换”选项，方便你根据不同安保级别囚犯的目前比例维持囚犯人数。
+<->除了这些新功能之外，我们还增加了一个新的更改器选项，可以消除对于房间大小的要求。我们还对闭路电视监控系统进行了一些改进，你可以通过部署菜单进行切换。"
+
+

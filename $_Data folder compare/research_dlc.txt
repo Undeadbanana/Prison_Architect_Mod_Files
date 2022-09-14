@@ -50,3 +50,30 @@ BEGIN Research
     NonWideX             80  
     NonWideY             260 
 END
+
+BEGIN Research
+	Name				StaffVetting
+	Type				Ability
+	Requires			Security
+	Admin				Security
+    Sprite              Guard
+	Cost				-1000
+	Time				360
+	X					980
+	Y					560
+	NonWideX			800
+	NonWideY			740
+END
+
+BEGIN Research
+	Name				CCTVImprovement
+	Type				Ability
+	Requires			Cctv
+	Admin				Security
+	Cost				-1000
+	Time				180
+	X                    1220  
+    Y                    100  
+    NonWideX             680  
+    NonWideY             300  
+END

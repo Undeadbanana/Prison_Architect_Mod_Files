@@ -156,24 +156,24 @@ Gaz, Double Eleven Oyun Tasarım Müdürü
 
 ~~~~~~
 
-"ISLAND BOUND" VE 
+"ADA YOLUNDA" VE 
 "ROCK UPDATE" Genişleme Paketleri
 >
 
->"Island Bound" - Yeni DLC 
+>"Ada Yolunda" - Yeni DLC 
 <->Prison Architect'in yeni genişleme paketi çıktı!
-<->Island Bound paketiyle oyuncular dünyadan yalıtılmış hapishaneler yapıp buralara deniz ve hava yoluyla mal, mahkum ve diğer hizmetleri getirtebilecek.
-<->Island Bound'la hapishanenizi kurmaya başlarken seçebileceğiniz ek arsa seçenekleri ve ana karayla bağlantıyı koparma seçeneği geliyor. Yol olmadan bile oynayabilirsiniz. 
+<->Ada Yolunda paketiyle oyuncular dünyadan yalıtılmış hapishaneler yapıp buralara deniz ve hava yoluyla mal, mahkum ve diğer hizmetleri getirtebilecek.
+<->Ada Yolunda'la hapishanenizi kurmaya başlarken seçebileceğiniz ek arsa seçenekleri ve ana karayla bağlantıyı koparma seçeneği geliyor. Yol olmadan bile oynayabilirsiniz. 
 <->Teslimat ve dışsatım alanlarınıza bağlanacak Tekneler, Helikopterler, İskeleler ve Helikopter pistleri yapmak da mümkün. Artık mahkumları deniz yoluyla adanızın ya da hapishanenizin bir tarafına getirtip teslimatları hava yoluyla başka yönden alabilirsiniz.
 <->Kaçak malların gireceği yeni yollar olacağı için yeni Kontrol Noktası istastyonları da inşa edilebilir. Gardiyanlar buralarda mahkumların ve ziyaretçilerin üstünü arayabilir, tarayıcı cihazları da tahta kasaları tarayıp teslimatların içine saklanmış kaçak malları bulabilir! 
-<->Island Bound ayrıca Alcatraz hapishanesinden ilham alan önceden hazırlanmış haritalarla, yeni nesnelerle, zeminlerle, adaları birbirine bağlayan Vapurlarla, Hava İtfaiyecileriyle, yeni bir Seçkin Operasyon Timi'yle ve daha pek çok içerikle geliyor!
+<->Ada Yolunda ayrıca Alcatraz hapishanesinden ilham alan önceden hazırlanmış haritalarla, yeni nesnelerle, zeminlerle, adaları birbirine bağlayan Vapurlarla, Hava İtfaiyecileriyle, yeni bir Seçkin Operasyon Timi'yle ve daha pek çok içerikle geliyor!
 
 Gaz, Double Eleven Oyun Tasarım Müdürü
 
 Dahasını görmek için İLERİ'ye tıklayın...
 
 >"The Rock" Güncellemesi
-"The Rock", "Island Bound" genişleme paketini tamamlayan ve başka iyileştirmeler de getiren ücretsiz bir güncelleme.
+"The Rock", "Ada Yolunda" genişleme paketini tamamlayan ve başka iyileştirmeler de getiren ücretsiz bir güncelleme.
 
 <->Su Kareleri - Kendi adalarınıza, kıyılarınıza, hendeklerinize şekil vermek için karaya su, suya kara ekleyebilirsiniz.
 
@@ -309,4 +309,40 @@ Dahasını görmek için İLERİ'ye tıklayın...
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
+
+"""ÇETELER"" DLC'Sİ VE 
+""UÇURTMA"" GÜNCELLEMESİ 
+>Daha sertler, daha akıllılar, üstelik uyumlu üniformaları da var!
+
+>Çeteler - Yeni DLC:
+>   Yeni hapishane çeteleri:
+<->Hapishaneye üç yeni çete daha geldi. Her türlü belayı ve yönetim sorununu da beraberlerinde getirdiler. 
+<->Bu çetelerin hepsinin kendilerine özgü karakteristik özellikleri ve hedefleri var. Bu hedefler, hapishanede nam salmaktan kaçak mal pazarını tekellerine almaya kadar sıralanıyor.
+<->Yeni çetelerin gelişiyle hapishanenin zorluk seviyesi de artacak. Bu yüzden çetelerin ve elebaşlarının sayısını kontrol edebilmek için seçenekler ekledik. Böylece çetelerin çevirebileceği dolapların sayısı ayarlanabilecek.
+>
+>   Yeni çeteler, yeni davranışlar:
+<->Yeni çetelerin, hapishaneye daha fazla uyuşturucu sokmaktan tut da diğerlerine kimin patron olduğunu göstermek için güç kullanmaya kadar değişen kendilerine özgü eylemleri de var.
+<->Çeteler artık yeni bölgeleri işgal edebilir, diğer mahkumlardan herhangi bir iş için para alabilir, ayrıca ele geçirdikleri şeyleri satmak için kendi bölgelerine çete ""torbacısı"" koyabilirler.
+<->Bir çetenin üye sayısı yeterince arttığında, içeride geçirdikleri zamanı biraz daha konforlu hale getirmek için taleplerde bulunmaya başlayabilirler. Bu talepleri kabul etmemenin sonuçları felaket olabilir.
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>   Yozlaşmış Gardiyanlar:
+<->Çeteler yaygınlaştıkça, gardiyanların üzerinde bıraktıkları olumsuz etkiler de artar.
+<->Çeteler, gardiyanlara rüşvet verebilir. Böylece yapmamaları gereken bir şey yaptıklarında gardiyanlar ""başka tarafa bakabilir"".
+<->Çeteler, bazı gardiyanlara içeri kaçak mal sokmaları için de para yedirebilir.
+>
+>   Yönetim ve Güvenlik:
+<->Şüpheli personellerle başa çıkmak için mahkumlar muhbir olarak kullanılabilir. Yozlaşmış gardiyanları gösterirler.
+<->Hem gardiyanları eğitmek hem de çete üyelerini çetelerinden uzaklaştırmak ve hapishanede normal, huzurlu bir hayata dönmelerine yardımcı olmak için yeni programlarımız var.
+<->Eski çete üyeleri, mevcut çetelerin hedefinde olacaktır. Bu yüzden çeteleri, eski çete üyelerinden mümkün olduğunda uzaklaştırmak en iyisi.
+<->Hapishanede hizaya getirmesi zor mahkumlar için, belirli mahkumları görünürlük için işaretlemekten sorun çıkaranları başka bir tesise göndermeye kadar birçok yeni güvenlik seçeneğimiz de var.
+Dahasını görmek için İLERİ'ye tıklayın...
+
+>
+>   ""UÇURTMA"" Güncellemesi:
+<->Yeni müdürler ve köpek cinsleri! Dylan Cook ve Yüzbaşı J. Locks müdürlerimiz arasına katıldılar. Ayrıca yeni bir ""rastgele"" seçim özelliği ve 4 yeni bekçi köpeği cinsi de var!
+<->Mahkumların hücrelerini artık belirlenebilir. Böylece hangi mahkumun hangi hücreye gideceği seçilebilir. Yine de çetelerinin sözünün geçtiği alanlarda çete liderleri en iyi hücreleri alır.
+<->Alım sistemini de güncelledik. Artık giriş işlemleri sırasında mahkumlar soğukta beklemek yerine resepsiyon odasında bekleyecek. Ayrıca mevcut güvenlik seviyesi oranına göre hapishane nüfusunu korumaya yardımcı olacak yeni bir ""Mahkum Yer Değişimi"" seçeneği ekledik.
+<->Bu yeni özelliklerin yanı sıra, oda boyutu gerekliliğini kaldırmak için yeni bir dönüştürücü seçeneği ekledik ve yerleştirme menüsünden açılıp kapatılabilen CCTV kameralarında bazı iyileştirmeler yaptık."
 

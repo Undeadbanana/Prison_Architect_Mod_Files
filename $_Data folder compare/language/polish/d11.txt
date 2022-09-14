@@ -4,11 +4,11 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Pełny dziennik zmian
+codex_viewchangelog	Pełny Dziennik Zmian
 codex_legal	Prawny
-codex_privacy	Polityka prywatności
-codex_terms-of-use	Warunki korzystania
-codex_eula	umowa licencyjna użytkownika końcowego
+codex_privacy	Polityka Prywatności
+codex_terms-of-use	Warunki Korzystania
+codex_eula	Umowa Licencyjna Użytkownika Końcowego
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Warsztat
 
 
 mm_updatenotes_Date	27 czerwca 2019
-mm_updatenotes_Header	Aktualizacja - Clink
+mm_updatenotes_Header	Aktualizacja „Kić”
 mm_updatenotes_01	Dodano x4 nowe kafle podłogowe i x4 nowe rodzaje ścian.
 mm_updatenotes_02	Zwiększona wydajność i skrócony czas wczytywania.
 mm_updatenotes_03	Zwiększona liczba brygadzistów do zatrudnienia w większych więzieniach, gdzie prowadzą oni również zajęcia programowe.
@@ -495,7 +495,7 @@ object_parkbench	Ławka (park)
 object_fencegateguard	Brama ogrodzeniowa (strażnicza)
 object_oaktable	Stół (dąb)
 object_oakbench	Ławka (dąb)
-object_BoomBoxRoundHouse	Magnetowid
+object_BoomBoxRoundHouse	Magnetofon
 
 object_classic	Klasyczny
 object_dalmation	Dalmatyńczyk
@@ -674,7 +674,7 @@ interfacedeployment_insaneseczone	Paranoidalny rygor bezpieczeństwa
 interfacetopbar_PrisonerCells_insaneSecOnly	Maks. liczba chorych psychicznie: *X
 
 roomgrading_PsychiatristOffice_info	Odblokuj i umieść dodatkowe przedmioty w gabinecie psychiatrycznym, aby poprawić skuteczność terapii psychicznie chorych więźniów.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	są odblokowywane poprzez chorych psychicznie przestępców biorących udział w konsultacjach psychiatrycznych.
 roomgrading_PsychiatristOffice_Item	Przedmiot: *X
 roomgrading_PsychiatristOffice_Quality	Klasa psychiatry: *Q
 roomgrading_PsychiatristOffice_Upgrade	Ulepsz gabinet psychiatryczny, aby zwiększyć jego potencjał.
@@ -847,7 +847,7 @@ administrator_requiresoffice_psychiatrist	Wymaga gabinetu psychiatrycznego
 dlc_upsell	Ten zapis stanu gry zawiera treści z rozszerzenia „*D”. Jako że nie wykryliśmy go u ciebie, niektóre funkcje zostaną wyłączone. Kup „*D”, aby bawić się jeszcze lepiej podczas gry w Prison Architect.
 dlc_upsell_multiplayer	Gospodarz tej gry wieloosobowej zakupił rozszerzenie „*D”, dlatego jako gość również będziesz mieć do niego dostęp. Miłej zabawy!
 
-dlc_insane	Psych Ward: Warden's Edition
+dlc_insane	Oddział psychiatryczny: wersja naczelnika
 dlc_seaandair	Wyspa
 
 regime_work_pyscho	Programy/Czas wolny
@@ -1207,7 +1207,7 @@ buildtoolbar_popup_obj_bambooDoor	Ręcznie wykonana bambusowa brama pasującą d
 buildtoolbar_popup_obj_canvas	Twórczy sposób wyrażania emocji przez więźniów bez potrzeby kłucia się nawzajem.
 buildtoolbar_popup_obj_PetBird	Mały towarzysz, który dotrzyma towarzystwa więźniom.\n -Spełnia potrzebę rodziny, komfortu i luksusu.
 buildtoolbar_popup_obj_SoftPillow	Jeszcze wygodniejsze łóżko więzienne z puszystą pierzastą poduszką.\n -Spełnia potrzeby komfortu i snu.
-buildtoolbar_popup_obj_BoxingRing	Musi być w każdej więziennej sali gimnastycznej. Większość więźniów woli malować na tym płótnie.\n -Spełnia potrzeby ćwiczeń i rekreacji.
+buildtoolbar_popup_obj_BoxingRing	Musi być w każdej więziennej sali gimnastycznej. Większość więźniów woli malować na tym płótnie.
 buildtoolbar_popup_obj_DumbbellRack	Dla więźniów lubiących przypakować.\n -Spełnia potrzebę ćwiczeń.
 buildtoolbar_popup_obj_Treadmill	Pozwala więziom zachować kondycję. Więźniowie, którzy ostro trenują, mogą nawet stać się szybszymi biegaczami.\n -Spełnia potrzebę ćwiczeń.
 buildtoolbar_popup_obj_Fan	Staroświecki, stojący wentylator, który w niewielkim stopniu schładza powietrze.
@@ -1791,9 +1791,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Utwórz ścieżki, aby więźniowie i
 buildtoolbar_popup_uts_ScannerMonitor	Monitor strażnika łączony z Urządzeniem skanera pozwalający wykrywać kontrabandę. Wykrywanie kontrabandy przez strażnika zależy od jego poziomu zmęczenia.
 buildtoolbar_popup_uts_ScannerMachine	Maszyna używana w obszarach dostaw i magazynowych do skanowania drewnianych skrzyń pod kątem kontrabandy. Aby wykrywać kontrabandę, musi być połączona z Monitorem skanera. Wykrywanie kontrabandy przez strażnika zależy od jego poziomu zmęczenia.
 buildtoolbar_popup_obj_Checkpoint	Punkt kontrolny, gdzie przeszukiwani są więźniowie i odwiedzający. Więźniowie mogą przechodzić go tylko w jednym kierunku.\n-Musi pracować tu strażnik.
-buildtoolbar_popup_mat_waterShallow	Utwórz obszary płytkiej wody, aby powstały ładne linie brzegowe pomiędzy posadzką Piasek i Woda. Po tych kafelkach można chodzić jak po zwykłej wodzie. - $*A (tylko na zewnątrz)
-buildtoolbar_popup_mat_waterLarge	Utwórz duże obszary wodne, jeziora i oceany. - $*A (tylko na zewnątrz)
-buildtoolbar_popup_mat_WoodenDockFloor	Solidna posadzka drewniana, idealnie nadaje się na przystań. - $*A (tylko na zewnątrz)
+buildtoolbar_popup_mat_waterShallow	Utwórz obszary płytkiej wody, aby powstały ładne linie brzegowe pomiędzy posadzką Piasek i Woda. Po tych kafelkach można chodzić jak po zwykłej wodzie.
+buildtoolbar_popup_mat_waterLarge	Utwórz duże obszary wodne, jeziora i oceany.
+buildtoolbar_popup_mat_WoodenDockFloor	Solidna posadzka drewniana, idealnie nadaje się na przystań.
 
 landscape_hint	(Można używać na wodzie)
 
@@ -1927,7 +1927,7 @@ material_ReclaimedBrickFloor	Cegła z odzysku
 material_ReclaimedRubberFloor	Guma z odzysku
 material_HayBailWall	Słomiana ściana
 material_WoodenFence	Drewniany płot
-material_GardenWall	Żywopłot
+material_GardenWall	Ściana ogrodu
 material_SellMaterial	Sprzedaj materiał
 
 # =============================================================================
@@ -3061,11 +3061,11 @@ dlc_name_prisonWing	Gotowi do przeniesienia
 d11_farm_search_freq_option_never	Nigdy
 report_target_rewards	[Nagrody]
 report_target_progress	[Postępy]
-objective_HelpEnvironmentallyFriendly	Przyjazny dla środowiska
+objective_HelpEnvironmentallyFriendly	Przyjazne dla środowiska
 codex_options_staffalertscaption	Alarmy dla personelu
 reform_program_and	oraz
 object_FoodTrayPack	Paczki tacek na jedzenie
-buildtoolbar_popup_obj_FoodTrayPack	Paczka 40 tacek na jedzenie – kliknij dwukrotnie / przytrzymaj, aby purchase.contraband_Ingredient
+buildtoolbar_popup_obj_FoodTrayPack	Paczka 40 tacek na jedzenie – kliknij dwukrotnie / przytrzymaj, aby purchase.
 objective_intake_closedriot	Nowi więźniowie niedostępni podczas buntu więźniów
 d11_staffalert_summary_BasicFarming03	W przeciwieństwie do innych roślin, drzewa owocowe nieustannie owocują i dlatego nie trzeba ich ponownie sadzić.
 reputation_swimmer_high	Pływak
@@ -3222,7 +3222,7 @@ d11_reform_program_pass_rate	Stopień zaliczenia programu resocjalizacyjnego
 d11_reform_released_prisoners_design_info	Po opuszczeniu więzienia przez więźnia dostaniesz informacje o jego działaniach: recydywie, resocjalizacji i znalezieniu pracy. Twoje więzienie zostanie odpowiednio nagrodzone lub ukarane.
 d11_reform_prisoners_action_reformed	POMYŚLNA RESOCJALIZACJA!
 d11_reform_prisoners_action_reoffended	RECYDYWA!
-d11_reform_prisoners_action_reoffended_returned	– odesłano z powrotem do więzienia.
+d11_reform_prisoners_action_reoffended_returned	– *X odesłano z powrotem do więzienia.
 d11_reform_prisoners_outcome_reformed	Znajduje pracę w mieście: *X.
 d11_reform_prisoners_outcome_reoffended	Aresztowano i przetransportowano do więzienia.
 d11_reform_prisoners_outcome_reoffended_returned	Uważaj, więźniowie wraz z każdym powrotem do więzienia stają się bardziej niebezpieczni.
@@ -3443,7 +3443,7 @@ weather_Sun	Słonecznie
 objective_HelpCalamities_child_3	Fala upałów
 weather_CalamityHeatwave	Fala upałów
 d11_staffalert_title_CalamityHeatwave01	Fala upałów
-report_Coverage	POKRYCIE
+report_Coverage	Pokrycie
 d11_coverage_staff_only	Tylko dla personelu
 codex_new_weathertype_disabled	Wył.
 d11_on	WŁ.
@@ -3677,10 +3677,11 @@ objective_grant_subsidence_description	Odbuduj wszelkie uszkodzenia ścian czy o
 objective_grant_subsidence_hire	Zatrudnij konserwatorów do naprawy uszkodzonych ścian i ogrodzeń.
 objective_grant_utilityretrofit	Dotacja na modernizację placówki
 objective_grant_utilityretrofit_description	Plaga szczurów może spowodować wiele poważnych problemów dla miejscowych przedsiębiorstw. Utworzono dotację dla lokalnych przedsiębiorców, by chronić ich dostęp do mediów.
-objective_grant_utilityretrofit_build	Zbuduj 50 pól wzmocnionych przewodów elektrycznych.
+objective_grant_utilityretrofit_build	Zbuduj 50 pól Osłona przewodów.
 calamity_grants_onboarding	Od kilku lat pogoda staje się coraz bardziej nieprzewidywalna. Tym razem mieliśmy szczęście, ale więzienie musi być przygotowane na każdą ewentualność. Istnieją dotacje przyznawane miejscowym przedsiębiorstwom po intensywnych zjawiskach pogodowych. Ufam, że odpowiednio wykorzystasz te środki, gdy tylko będą dostępne.
 grant_category_CollapsedWallFence	Powalone ogrodzenie:
 grant_category_HasObject	Ma:
+grant_category_EverHadObject	Ma:
 grant_category_CalamityHappened	Doszło do katastrofy:
 action_brewing	Warzenie
 action_electricalsabotaging	Sabotaż
@@ -3840,6 +3841,362 @@ buildtoolbar_stayIndoorsCalamity	Katastrofa
 buildtoolbar_popup_uts_WeatherMachine	Stacja pogodowa zapewnia rozbudowaną prognozę pogody. Z jej pomocą można przewidzieć czas trwania zjawiska pogodowego, temperaturę, opady atmosferyczne, prędkość wiatru i widoczność. Dodatkowo zapewnia ostrzeżenie i odliczanie przed wszelkimi groźnymi zjawiskami pogodowymi.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Podwójne drzwi dla personelu.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Podwójne drzwi dla personelu.
-codex_tooltip_startingSeason    Wybierz pierwszą porę roku. Pogoda będzie się naturalnie zmieniała wraz ze zmianami pór roku.
+codex_tooltip_startingSeason	Wybierz pierwszą porę roku. Pogoda będzie się naturalnie zmieniała wraz ze zmianami pór roku.
 object_AirPestControlHeli	Dezynsekcja lotnicza
 
+codex_option_default	Domyślne
+dlc_name_kimber	Gangi
+quickbuild_Gymnasium	Sala gimnastyczna
+boilingpoint_Needs	Potrzeby
+boilingpoint_RoomQuality	Jakość pomieszczeń
+buildtoolbar_popup_help_BoilingPoint_3	^Wskazówki
+securitymenu_popup_recentMisconduct	Ostatnie złe zachowanie:
+securitymenu_PrisonerTypeDefault	Domyślnie
+securitymenu_PrisonerTypeDangerous	Niebezpieczny
+rapsheet_assignguard	Przypisz strażnika
+buildtoolbar_popup_help_securitymenu_4	^Wskazówki
+objective_HelpPrograms	Programy
+objective_grant_positiveEnergyGrant_yard	Zbuduj dziedziniec
+gang_green	Zielony
+d11_gang_bonebreakers_goal	Zniszczenie
+d11_gang_misconduct	Złe zachowanie:
+d11_heatmap_deaths	Zgony:
+interface_action_CleanGraffiti	Wyczyść
+schedulesearch_menu_Frequency	Częstotliwość
+action_Withdrawal	Odstawienie
+codex_option_plotType	Typ działki
+codex_tooltip_plotType	Dzięki temu wygenerujesz określoną działkę startową. Domyślna działka będzie posiadać glebę i trawę, działka w dżungli będzie przypominać gęstą dżunglę, ośnieżona działka będzie pokryta śniegiem, działka pustynna będzie przypominać pustynię, działka księżycowa będzie przypominać powierzchnię Księżyca, wyspa będzie otoczona wodą i będzie wykorzystywać przystań dla łodzi zamiast drogi, a wyspa połączona będzie otoczona wodą i będzie posiadać most łączący ją z drogą.
+survey_letter_1	Szanowny naczelniku,\n\n\ndziękuję za udział w testach nowych funkcji i systemów więziennych.\n\nMoim obowiązkiem jako CEO jest gromadzenie opinii od wszystkich naczelników, aby nadal usprawniać cały proces.\n\nWypełnij krótką stworzoną przeze mnie ankietę.\n\nCEO,\nPrison Architects Corp.
+survey_letter_2	Szanowny naczelniku,\n\n\njeszcze raz dziękuję za udział w testowaniu nowych funkcji i systemów więziennych. \n\nMasz za sobą dużo czasu spędzonego na testach nowych funkcji i systemów, dlatego przesyłam ankietę do wyrażenia opinii na ich temat.\n\nCEO,\nPrison Architects Corp.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Bardziej pies na przysmaki niż pies obronny.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	Doberman to doskonały pies policyjny.
+object_ChocolateLabrador	Czekoladowy labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Uwielbia poznawać nowych przyjaciół. Jeszcze lepiej, gdy przed nim uciekają.
+object_BlackShepherd	Czarny owczarek niemiecki
+buildtoolbar_popup_obj_BlackShepherd	Może i wygląda słodko, ale skosi każdego, kto wejdzie mu w drogę.
+object_TattooRemovalMachine	Maszyna do usuwania tatuaży
+buildtoolbar_popup_obj_TattooRemovalMachine	Ten przedmiot jest niezbędny do resocjalizacji członka gangu. Usunięcie tatuaży to pierwszy krok do udanej resocjalizacji.
+object_MetalStool	Metalowy stołek
+buildtoolbar_popup_obj_MetalStool	Zgrabny metalowy stołek niewielkich rozmiarów.
+equipment_TattooRemovalTool	Narzędzie do usuwania tatuaży
+room_TheCage	Klatka
+buildtoolbar_popup_room_TheCage	Jednostka zewnętrzna, w której może ćwiczyć jeden więzień, gdy jest odizolowany od reszty.
+quickbuild_TheCage	Klatka
+buildtoolbar_quickbuild_TheCage	Jednostka zewnętrzna, w której może ćwiczyć jeden więzień, gdy jest odizolowany od reszty.
+material_CageFence	Ogrodzenie typu klatka
+buildtoolbar_popup_mat_CageFence	Płot z siatki drucianej, które oddziela więźniów podczas ćwiczeń.
+room_TattooRemovalRoom	Pomieszczenie do usuwania tatuaży
+buildtoolbar_popup_room_TattooRemovalRoom	Miejsce, w którym więźniowie mogą przejść przez bolesny i długotrwały proces usuwania tatuaży.
+quickbuild_TattooRemovalRoom	Pomieszczenie do usuwania tatuaży
+buildtoolbar_quickbuild_TattooRemovalRoom	Miejsce, w którym więźniowie mogą przejść przez bolesny i długotrwały proces usuwania tatuaży.
+object_PullUpBars	Drążki do podciągania
+buildtoolbar_popup_obj_PullUpBars	Tani sprzęt do ćwiczeń, który jest popularny pośród bardziej zaprawionych więźniów.
+object_KneeRaise	Przyrząd do podciągania
+buildtoolbar_popup_obj_KneeRaise	Tani sprzęt do ćwiczeń, który jest popularny pośród bardziej zaprawionych więźniów.
+object_PushUpStones	Kamienie do pompek
+buildtoolbar_popup_obj_PushUpStones	Tani sprzęt do ćwiczeń, który jest popularny pośród bardziej zaprawionych więźniów.
+object_GangGraffiti	Graffiti gangu
+d11_hover_info_gang_graffiti_1	+15% do siły na terenie dla członków gangu
+d11_hover_info_gang_graffiti_2	+15% do wytrzymałości na terenie dla członków gangu
+object_FightRing	Ring do walk
+buildtoolbar_popup_obj_FightRing	Gdy więźniowie walczą w ringu, nie myślą o walkach na spacerniaku.\n - Spełnia potrzeby związane z ćwiczeniami i rekreacją.
+quickbuild_FightClubRoom	Pomieszczenie klubu walki
+buildtoolbar_quickbuild_FightClubRoom	Pierwsza zasada jest taka, że o tym pomieszczeniu się nie mówi.
+room_FightClubRoom	Pomieszczenie klubu walki
+buildtoolbar_popup_room_FightClubRoom	Pierwsza zasada jest taka, że o tym pomieszczeniu się nie mówi.
+object_CageGate	Brama typu klatka
+buildtoolbar_popup_obj_CageGate	Brama, która świetnie współgra z ogrodzeniami. Działa tak samo jak drzwi.
+buildtoolbar_popup_obj_RemoteDoor	Te drzwi zaprojektowano do pracy z kontrolerem. Upewnij się, że masz dostatecznie dużo strażników, aby kontrolować wejścia i wyjścia wykorzystujące tego typu drzwi lub zainstaluj płytki dotykowe.
+object_RemoteDoorOrange	Drzwi zdalnie sterowane (pomarańczowe)
+buildtoolbar_popup_obj_RemoteDoorOrange	Te drzwi zaprojektowano do pracy z kontrolerem. Upewnij się, że masz dostatecznie dużo strażników, aby kontrolować wejścia i wyjścia wykorzystujące tego typu drzwi lub zainstaluj płytki dotykowe.
+object_RemoteDoorRed	Drzwi zdalnie sterowane (czerwone)
+buildtoolbar_popup_obj_RemoteDoorRed	Te drzwi zaprojektowano do pracy z kontrolerem. Upewnij się, że masz dostatecznie dużo strażników, aby kontrolować wejścia i wyjścia wykorzystujące tego typu drzwi lub zainstaluj płytki dotykowe.
+object_RemoteDoorYellow	Drzwi zdalnie sterowane (żółte)
+buildtoolbar_popup_obj_RemoteDoorYellow	Te drzwi zaprojektowano do pracy z kontrolerem. Upewnij się, że masz dostatecznie dużo strażników, aby kontrolować wejścia i wyjścia wykorzystujące tego typu drzwi lub zainstaluj płytki dotykowe.
+object_RemoteDoorWhite	Drzwi zdalnie sterowane (białe)
+buildtoolbar_popup_obj_RemoteDoorWhite	Te drzwi zaprojektowano do pracy z kontrolerem. Upewnij się, że masz dostatecznie dużo strażników, aby kontrolować wejścia i wyjścia wykorzystujące tego typu drzwi lub zainstaluj płytki dotykowe.
+object_GymInstructor	Instruktor na siłowni
+object_FilingCabinetFancy	Szafa na akta (fikuśna)
+buildtoolbar_popup_obj_FilingCabinetFancy	Nagrodź personel, dając im wymyślną szafkę na akta.
+material_LongGrass	Długa trawa
+codex_tooltip_gangsEnhanced	Teraz możesz zmienić napływ więźniów, którzy dołączają do gangów. Posiadanie większej ilości członków gangu w więzieniu przyspieszy proces rekrutacji do gangu, a więzienie stanie się bardziej chaotyczne i niebezpieczne.\n\n  Klasyczny – Trudność gangów taka jak poprzednio (nowicjusz) \n  Niski (domyślnie) – Idealny dla nowicjuszy i graczy z pewnym doświadczeniem \n  Średni – Dla doświadczonych graczy \n  Wysoki – Dla ekspertów, którym zależy na poważnym wyzwaniu
+codex_tooltip_morelieutenants	Porucznicy odgrywają ważną rolę w zdobywaniu nowego terenu dla swoich gangów. Jeśli chcesz, aby gangi były bardziej aktywne, rozważ zmniejszenie liczby członków wymaganych na każdego porucznika. Wybierz liczbę niższą niż 6 tylko wtedy, gdy zależy ci na prawdziwym wyzwaniu.
+codex_option_morelieutenants	Więcej poruczników
+codex_tooltip_codex_option_morelieutenants	Porucznicy odgrywają ważną rolę w zdobywaniu nowego terenu dla swoich gangów. Jeśli chcesz, aby gangi były bardziej aktywne, rozważ zmniejszenie liczby członków wymaganych na każdego porucznika. Wybierz liczbę niższą niż 6 tylko wtedy, gdy zależy ci na prawdziwym wyzwaniu.
+codex_option_GangSpecialReputations	Specjalne reputacje gangu
+codex_tooltip_GangSpecialReputations	Gangi zyskują nowe reputacje, które zmieniają sposób zachowania ich członków w więzieniu.
+codex_option_AllDogs	Wszystkie psy
+codex_tooltip_AllDogs	Wybranie tej opcji sprawi, że dostępne będą wszystkie psy, a każde zatrudnienie będzie losowe.
+codex_tooltip_RandomWardens	Wybranie tej opcji sprawi, że naczelnik zostanie wybrany losowo.
+interfacecontraband_BoilingPoint	Punkt Zapalny
+buildtoolbar_contraband_BoilingPoint	Pokazuje obszary do poprawy w zakresie zadowolenia więźniów.
+boilingpoint_header	Punkt Zapalny
+boilingpoint_OverallTemperature	Ogólna atmosfera
+boilingpoint_ProgramCompletion	Ukończone programy
+boilingpoint_StatusEffects	Stany
+boilingpoint_OverallTemperature_popup	Istnieje kilka rzeczy, które są poza twoją kontrolą, a które wpływają na zadowolenie i spokój więźniów, takie jak ich osobowość lub liczba posiadanych przez nich wyroków. Im bardziej wściekły więzień, tym gorsza atmosfera w więzieniu i tym większa szansa, że więźniowie będą się źle zachowywać.
+boilingpoint_Needs_popup	Obecnie posiadasz *X więźniów, których potrzeby nie są zaspokojone.\n\nUpewnij się, że więźniowie mogą zaspokoić potrzeby i mają dostęp do pomieszczeń lub obiektów.
+boilingpoint_ProgramCompletion_popup	Obecnie *X więźniów nie ukończyło żadnego programu.\n\nIm więcej programów ukończy więzień, tym większa szansa, że będzie spokojny. Dodaj programy, aby więźniowie mogli w nich uczestniczyć i upewnij się, że pozwala na to harmonogram. Niektóre programy można powtarzać.
+boilingpoint_StatusEffects_popup	Obecnie *X więźniów doświadcza negatywnych stanów.\n\nRozważ baczniejsze obserwowanie kontrabandy, zwłaszcza alkoholu czy narkotyków.\n\nGdy więźniowie doświadczają pozytywnych stanów, istnieje mniejsze ryzyko, że będą się źle zachowywać.
+boilingpoint_RoomQuality_popup	Obecnie *X więźniów mieszka w pomieszczeniach słabej jakości.\n\nPopraw jakość pomieszczeń, aby zwiększyć zadowolenie i spokój. Niektórzy więźniowie nie kwalifikują się do pomieszczeń wyższej jakości. Możesz użyć funkcji dostosowania wyroku, aby zmniejszyć wymagania.
+buildtoolbar_popup_help_BoilingPoint_1	Widok Punkt zapalny pokazuje bieżącą atmosferę panującą w więzieniu. W tym menu zaznaczono problematyczne obszary więzienia, takie jak jakość cel, potrzeby, stany i poziomy uczestnictwa w programach.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Jeśli nadal nie masz określonego więźnia pod kontrolą, rozważ umieszczenie go w zamknięciu lub izolatce, aby go uspokoić.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Upewnij się, że wszyscy więźniowie mają możliwość zaspokojenia podstawowych potrzeb.
+buildtoolbar_popup_help_BoilingPoint_5	- Zainwestuj w resocjalizację, terapię, leczenie i programy i upewnij się, że harmonogram pozwala na uczestnictwo w nich.
+buildtoolbar_popup_help_BoilingPoint_6	- Więźniowie z bloków o niskim rygorze będą mieli wyższą tolerancję, ponieważ ich wyroki są krótsze.
+boilingpoint_advisor_onboarding	Więzień źle się zachowuje. Zdaje się, że osiągnął punkt zapalny. Może nie robimy wystarczająco dużo dla naszych więźniów. Upewnij się, że ich potrzeby są zaspokojone, warunki życia zadowalające i że więźniowie mają co robić. Sprawdź menu dotyczące punktu zapalnego, aby dowiedzieć się więcej.
+interfacecontraband_SecurityMenu	Menu bezpieczeństwa
+buildtoolbar_contraband_SecurityMenu	Sprawdź listę wszystkich więźniów, którzy są uznawani za niebezpiecznych lub zagrożonych. Wprowadź działania zabezpieczające dla wszystkich więźniów, którzy wymagają dalszego zarządzania.
+securitymenu_header	Menu bezpieczeństwa
+securitymenu_popup_prisonerSelect	Kliknij lewym przyciskiem myszy, aby wybrać więźnia
+securitymenu_popup_dangerousReputations	Niebezpieczne reputacje:
+securitymenu_popup_dangerousTraits	Niebezpieczne cechy:
+securitymenu_popup_crimesCommitted	Przestępstwa:
+securitymenu_PrisonerType	Typ więźnia:
+securitymenu_PrisonerTypeVulnerable	Zagrożony
+securitymenu_MarkingTypeUnmarked	Nieoznaczony
+securitymenu_SelectArea	Wybierz obszar
+securitymenu_SelectAreaCancel	Cofnij wybór obszaru
+securitymenu_RestrictAccess	Ogranicz dostęp:
+securitymenu_TransferPrisoners	Przenieś więźnia/więźniów:
+securitymenu_transferSecurityLevel	Poziom bezpieczeństwa
+securitymenu_GuardAssignment	Przypisanie strażnika:
+securitymenu_MarkPrisoner	Zaznacz więźnia:
+securitymenu_RemovePrisoner	Usuń więźnia:
+securitymenu_RemovePrisonerButton	Usuń więźnia
+securitymenu_RemovedPrisoner	Usunięty więzień
+securitymenu_RemovePrisoner_message	Usuń więźnia\n\nTo ostateczne rozwiązanie w przypadku najgorszych kryminalistów. Za wysoką opłatą możesz odesłać tego więźnia do innej placówki. Działanie to można przeprowadzać raz na pięć dni.
+securitymenu_RestrictAccess_tooltip	Zablokuj wejście do określonych obszarów, uniemożliwiając więźniom dostęp do nich bez strażników próbujących ich obezwładnić. Nie można ograniczyć dostępu do własnych obszarów / terenów dla członków gangu.
+securitymenu_TransferPrisoner_tooltip	Przenieś wybranych więźniów do określonego systemu bezpieczeństwa, aby ułatwić zarządzanie.
+securitymenu_MarkPrisoner_tooltip	Zastosuj wizualne oznaczenie wybranych więźniów, aby lepiej śledzić tych, którzy albo są niebezpieczni, albo są zagrożeni przez innych.
+rapsheet_assignguard_end	Cofnij przypisanie strażnika
+job_PrisonerAssignment	Przydzielanie więźniów
+assignment_confirm_message	Czy chcesz przypisać strażnika?
+assignment_description_message	Jeśli chcesz mieć więźnia na oku, możesz przypisać do niego strażnika. Upewnij się, że masz wystarczająco dużo strażników.
+assignment_error_message	Obecnie do tego więźnia nie można przypisać strażnika. Spróbuj ponownie później.\n\nWięzień dopiero dotarł, jest w celi lub w zamknięciu.
+buildtoolbar_popup_help_securitymenu_1	Menu bezpieczeństwa zawiera listę wszystkich członków więzienia, którzy są albo niebezpiecznymi, albo podatnymi na niebezpieczeństwo więźniami. W tym menu można zastosować pewne działania, aby zapewnić wsparcie i umożliwić lepsze zarządzanie tymi więźniami.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Domyślnie niebezpieczni i podatni na niebezpieczeństwo więźniowie są wymienieni razem, ale używając opcji „typ więźnia” możesz zastosować konkretne działanie do określonych grup.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Niektóre działania można zastosować do grupy, a inne tylko do wybranych osób. Aby wybrać więźnia, zaznacz go i kliknij lewym przyciskiem myszy.\n\n
+buildtoolbar_popup_help_securitymenu_5	- Opcja przypisania strażnika chroni więźniów przed innymi, a jednocześnie pozwala mieć oko na pozostałych więźniów i zapobiec niebezpiecznym sytuacjom. Strażnicy nie będą pozostawać z więźniem w czasie prywatnym, na przykład podczas snu lub kąpieli.
+buildtoolbar_popup_help_securitymenu_6	- Jeśli więzień powoduje zbyt wiele problemów i nie można sobie z nim poradzić, zawsze możesz użyć opcji usunięcia więźnia. Działanie to jest ograniczone czasowo, nie można wykonywać go każdego dnia i wiąże się z kosztami.
+objectiveWindow_FilterButton_4_title	Informacje o gangach
+objectiveWindow_FilterButton_4_tooltip	Wszystko, co musisz wiedzieć o gangach
+objective_HelpGangBehaviourAndType	Zachowania gangów
+objective_HelpGangBehaviourAndType_Description	Nowe gangi zostały sobie przedstawione. Każdy z nich zachowuje się trochę inaczej.
+objective_HelpGangBehaviourAndType_child_1	Żmije
+objective_HelpGangBehaviourAndType_child_1_Description	Żmije to przebiegła banda, która skupia się na uzależnianiu innych więźniów od kontrolowanych przez siebie narkotyków. Każdy członek stanowi śmiertelne zagrożenie.
+objective_HelpGangBehaviourAndType_child_2	Łamacze kości
+objective_HelpGangBehaviourAndType_child_2_Description	Łamacze Kości to banda mięśniaków, którzy w pierwszej kolejności skupiają się na przemocy i destrukcji.
+objective_HelpGangBehaviourAndType_child_3	Szakale
+objective_HelpGangBehaviourAndType_child_3_Description	Szakale to najbardziej pomysłowy gang, który skupia się na kontroli terenu i sprzedaży kontrabandy, aby zwiększać swoją finansową dominację.
+objective_HelpGangActivities	Działania gangów
+objective_HelpGangActivities_Description	Działania gangów mogą obejmować zarządzanie własnym terenem, szerokie rozgrywki przeciwko kluczowym członkom więzienia, stawianie żądań graczowi i podobne akcje.
+objective_HelpGangActivities_child_1	Wyspecjalizowane działania
+objective_HelpGangActivities_child_1_Description	Każdy gang bierze udział w wyspecjalizowanych działaniach w zależności od różnych osobowości. Żmije skupiają się na produkcji i sprzedaży narkotyków, Łamacze Kości na walkach i destrukcji, podczas gdy Szakalom bardziej zależy na zdobywaniu terenu i pieniędzy.
+objective_HelpGangActivities_child_2	Działania terenowe
+objective_HelpGangActivities_child_2_Description	Nowe tereny wiążą się z nowymi zachowaniami. Gangi od teraz będą „nadzorować” kontrolowane przez siebie obszary, pilnując, aby więźniowie dobrze się zachowywali i płacili za korzystanie ze znajdujących się tam przedmiotów, nawet podczas pracy. Członkowie gangu będą także pozyskiwać duże ilości kontrabandy w zależności od kontrolowanego pomieszczenia. Pojawią się również „dilerzy”, który będą sprzedawać te przedmioty innym więźniom.
+objective_HelpGangActivities_child_3	Żądania gangu
+objective_HelpGangActivities_child_3_Description	Gdy gang zyska odpowiednią reputację i poklask w więzieniu, zacznie stawiać pewne żądania. Żądania te mogą obejmować nowy sprzęt, więcej czasu na dziedzińcu lub więcej czasu wolnego. Gracz ma określony czas na spełnienie tych żądań. Jeśli ich nie spełni, zaczną się natychmiastowe działania odwetowe, a gang zacznie niszczyć więzienie i stosować przemoc.
+objective_HelpCrookedGuards	Skorumpowani strażnicy
+objective_HelpCrookedGuards_Description	Chcielibyśmy myśleć, że nasz personel jest bez skazy, ale niestety nie zawsze tak jest.
+objective_HelpCrookedGuards_child_1	Łapówkarstwo strażników
+objective_HelpCrookedGuards_child_1_Description	Wszyscy strażnicy mogą zostać przekupieni, aby przymykać oko na pewne wykroczenia przez 48 godzin, pozostawiając więźniów z kontrabandą, którą znajdą, a także ułatwiając gangom zdobywanie nowego terenu. Na szczęście dzięki informatorom można wskazać podejrzanych strażników, dając graczowi szansę na zwolnienie tych, którzy zostali skorumpowani.
+objective_HelpCrookedGuards_child_2	Korupcja strażników
+objective_HelpCrookedGuards_child_2_Description	Niektórzy strażnicy mogą ulec korupcji, przebywając przez zbyt długi czas z członkami gangu, którzy zapłacą im za szmuglowanie kontrabandy. Informatorzy mogą wskazać podejrzanych strażników, a wykrywacze kontrabandy i psy strażnicze odnajdą kontrabandę, która wciąż pozostaje w więzieniu.
+objective_HelpGangIntelligence	Informacje na temat gangów
+objective_HelpGangIntelligence_Description	Biorąc pod uwagę ogromny potencjał do złego zachowania, informacje mają kluczowe znaczenie dla bezpieczeństwa twojej placówki. Menu z informacjami na temat gangów zawiera dane o każdym gangu w więzieniu i obejmuje listę członków każdego z nich, jak również podstawowe liczniki złych zachowań, do których doszło podczas pobytu w więzieniu. Pokazuje także ruchy i działania każdego gangu, aby odzwierciedlić poziom zagrożenia.
+objective_HelpSecurityOptions	Opcje bezpieczeństwa
+objective_HelpSecurityOptions_Description	W nowym menu zostanie uwzględniona lista „ważnych więźniów”. Wszyscy wpisani tam więźniowie zostaną uznani za zagrożonych przez innych lub za zagrożenie wobec innych. Dzięki temu menu więźniowie, którzy potrzebują dodatkowej uwagi, mogą zostać oznaczeni, aby z łatwością obserwować ich podczas rozgrywki. Możliwe są również inne działania, takie jak ograniczenie dostępu więźnia do określonych obszarów, przenoszenie grup do określonych poziomów bezpieczeństwa, a nawet usuwanie problematycznych więźniów, wysyłając ich do innej placówki. Działanie takie wiąże się jednak z wysoką opłatą.
+objective_HelpPrograms_Description	Aby zabezpieczyć i wspierać więźniów, strażnicy mogą przejść nowe szkolenie, które umożliwi im łatwe rozbrojenie więźniów. Więźniowie także będą mieli do dyspozycji nowe programy, w tym rekreacyjne, które pomogą w resocjalizacji, uspokoją ich lub pomogą w walce ze stresem. Programy resocjalizacyjne umożliwią więźniom zrezygnowanie z życia w gangu i dokończenie wyroku w spokojniejszy i bardziej konstruktywny sposób.
+objective_grant_positiveEnergyGrant	Pozytywna energia
+objective_grant_positiveEnergyGrant_Description	Członkowie gangu muszą skupić umysł (i energię) na ćwiczeniach, a nie na przemocy. Badania wykazały, że wysiłek fizyczny zmniejsza tego typu zachowania. Wystaw na dziedzińcu sprzęt do ćwiczeń.
+objective_grant_positiveEnergyGrant_bench	Dodaj ławkę do podnoszenia ciężarów
+objective_grant_advancedProtectionGrant	Zaawansowana ochrona
+objective_grant_advancedProtectionGrant_Description	Ochrona personelu ma kluczowe znaczenie podczas pracy ze zorganizowanymi gangami. Musimy upewnić się, że nasz personel jest przeszkolony na najwyższym poziomie, aby zapewnić pracownikom bezpieczeństwo.
+objective_grant_advancedProtectionGrant_training	Przeszkol 20 strażników w zakresie rozbrajania.
+objective_grant_gangWelfareGrant	Dobrobyt gangów
+objective_grant_gangWelfareGrant_Description	Przemiana wojny gangów w sielankę gangów to główny priorytet. Członkowie gangu mają dużą szansę na resocjalizację, jeśli wezmą udział w programach, które pomogą im zerwać ze starym życiem.
+objective_grant_gangWelfareGrant_exGangMembers	Zresocjalizuj 15 członków gangu, aby stali się byłymi członkami gangu.
+objective_grant_exGangProtectionGrant	Program ochrony byłych członków gangu
+objective_grant_exGangProtectionGrant_Description	Rząd oferuje fundusze na budowę skrzydła ochronnego, aby chronić członków gangu, którzy są na dobrej drodze do resocjalizacji.
+objective_grant_protectionCells	Zbuduj 10 cel w strefie chronionej
+objective_grant_protectionShower	Zbuduj łazienkę w strefie chronionej
+objective_grant_protectionCanteen	Zbuduj stołówkę w strefie chronionej
+objective_grant_protectionKitchen	Zbuduj kuchnię w strefie chronionej
+objective_grant_protectionYard	Zbuduj dziedziniec w strefie chronionej
+objective_grant_protectionGuards	Przypisz strażnika do strefy chronionej
+objective_grant_protectionExGang	Przypisz 1 byłego członka gangu do poziomu bezpieczeństwa Ochrona
+grant_category_adminHired	Zatrudniony administrator:
+reformprogram_TattooRemovalProgram	Program usuwania tatuaży
+reformprogram_TattooRemovalProgram_text	Jeśli twoi więźniowie żałują posiadanych tatuaży, możesz ułatwić ich resocjalizację dzięki sesjom usuwania tatuaży. Ukończenie tego programu sprawi, że staną się celem.
+reformprogram_HandToHandCombat	Szkolenie z rozbrajania
+reformprogram_HandToHandCombat_text	Gdy robi się ciężko, my ciężko pracujemy. Przeszkol strażników w zakresie zaawansowanych technik rozbrajania więźniów.
+reformprogram_GangRehabilitation	Resocjalizacja członka gangu
+reformprogram_GangRehabilitation_text	Jeśli członek gangu powoduje zbyt wiele problemów w więzieniu, nakłoń go do ukończenia tego programu. To pierwszy krok na drodze do zerwania z gangiem i przejścia na jasną stronę mocy. Ukończenie tego programu sprawi, że więzień stanie się celem. Podstawa do skierowania: przemoc i destrukcja.
+reform_program_intake_ReferralGangViolenceDestruction	Podstawa do skierowania: przemoc i destrukcja. Tylko gangi.
+reform_program_intake_GangOnly	Tylko gangi
+reformprogram_FaithProgram	Program wiary w siebie
+reformprogram_FaithProgram_text	Więźniowie uczestniczący w tym intensywnym programie będą bardziej chętni do pożegnania się ze złym stylem życia i przyjęciem nowej drogi. Jeśli ukończą ten program, mogą zechcieć zerwać wszelkie kontakty z gangiem.
+reformprogram_BreatheProgram	Terapia oddechowa
+reformprogram_BreatheProgram_text	Naucz więźniów, jak oddychać i się relaksować. Po każdych zajęciach więźniowie będą dużo spokojniejsi. Mogą nawet rozważyć lepsze zachowanie.
+reformprogram_FightClub	Klub walki
+reformprogram_FightClub_text	Te sesje treningowe mają na celu przekierowanie destrukcyjnej energii więźniów na walkę w kontrolowanym środowisku. Po walce więźniowie mogą być zmęczeni. Jak brzmiała pierwsza zasada tajnego klubu walki?
+reform_program_properties_TeacherUsesSameEquipment	Nauczyciel wymaga: *X
+reform_program_properties_GangMemberCanAttend	Mogą uczestniczyć członkowie gangu
+gang_vipers	Żmije
+gang_bonebreakers	Łamacze kości
+gang_jackals	Szakale
+gang_red	Czerwony
+gang_blue	Niebieski
+gang_yellow	Byli członkowie gangu
+objective_GangDemand	Żądania gangu
+objective_GangDemand_description	Ośmieleni liderzy gangu będą stawiać różne żądania, aby poprawić swoją jakość życia w więzieniu. Jeśli nie spełnisz żądań, może dojść do buntu. Upewnij się, że jeśli tak się stanie, twoje więzienie jest na to gotowe.
+GangDemand_announcement	Jeśli nie spełnimy żądań członków gangu, mogą przysporzyć wiele problemów.
+objective_Gang_ContrabandToolsPunishment_child	*G – Skróć karę za odnalezienie narzędzia do *X godz.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G – Zmniejsz karę za odnalezienie narzędzia do braku kary
+objective_Gang_MurderPunishment_child	*G – Skróć karę za morderstwo do *X godz.
+objective_Gang_MurderPunishment_Escalated_child	*G – Skróć karę za morderstwo do *X godz.
+objective_Gang_MoreYardTime_child	*G – Wydłuż czas na dziedzińcu do *X godz.
+objective_Gang_MoreYardTime_Escalated_child	*G – Wydłuż czas na dziedzińcu do *X godz.
+objective_Gang_PullUpBars_child	*G – Posiadaj *X szt. drążków do podciągania.
+objective_Gang_PullUpBars_Escalated_child	*G – Posiadaj *X szt. drążków do podciągania.
+objective_Gang_TyreApparatus_child	*G – Posiadaj *X szt. narzędzi do opon.
+objective_Gang_TyreApparatus_Escalated_child	*G – Posiadaj *X szt. narzędzi do opon.
+objective_Gang_PunchBag_child	*G – Posiadaj *X szt. worków treningowych.
+objective_Gang_PunchBag_Escalated_child	*G – Posiadaj *X szt. worków treningowych.
+objective_Gang_PushUpStones_child	*G – Posiadaj *X szt. kamieni do pompek.
+objective_Gang_PushUpStones_Escalated_child	*G – Posiadaj *X szt. kamieni do pompek.
+objective_Gang_RequireYard_child	*G – Posiadaj: *X.
+objective_Gang_RequireYard_Escalated_child	*G – Posiadaj: *X.
+objective_Gang_RequireLibrary_child	*G – Posiadaj: *X.
+objective_Gang_RequireLibrary_Escalated_child	*G – Posiadaj: *X.
+objective_Gang_RequireMailRoom_child	*G – Posiadaj: *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G – Posiadaj: *X.
+d11_gangdemand_success	Otrzymaliśmy pieniądze za poradzenie sobie z tą sytuacją.
+d11_gangdemand_fail	Upewnij się, że ta sytuacja więcej się nie powtórzy.
+d11_gangCompensation	Wynagrodzenie gangu
+d11_gang_goal	Cel gangu:
+d11_gang_jackals_goal	Kontrola więzienia
+d11_gang_traits	Cechy gangu:
+d11_gang_officer	Oficerowie gangu:
+d11_gang_territories	Tereny:
+d11_gang_kills	Zabójstwa gangu:
+d11_heatmap_gang	Zaangażowany gang:
+d11_heatmap_day	Dzień zajścia:
+d11_heatmap_time	Czas zajścia:
+d11_gang_event_pr.gf	Bójka gangu
+d11_gang_event_g.tc	Zmiana terenu
+gangSegregationMessage	Wybierz, które gangi zazwyczaj mogą wchodzić do określonych obszarów.
+interfacedeployment_GangSegregation	Segregacja gangu
+buildtoolbar_deployment_GangSegregation	Aby zapewnić pewien poziom kontroli nad rozmieszczeniem gangów, można je przypisać do innych przestrzeni życiowych, przez co będą od siebie oddzielone.
+research_StaffVetting	Sprawdzanie personelu
+researchtooltip_StaffVetting	Zmniejsza ryzyko skorumpowania nowych strażników. Odblokowuje dochodzenie w sprawie strażników, dzięki któremu możesz odkryć skorumpowanych strażników przy pomocy informatorów.
+buildtoolbar_GuardInvestigation	Dochodzenie w sprawie strażnika
+buildtoolbar_tooltip_GuardInvestigation	Współpracuj z informatorami i szefem ochrony, aby sprawdzić strażników i wywęszyć korupcję. Im większy zasięg mają twoi aktywni informatorzy, tym więcej skorumpowanych strażników ujawnią. Szef nie może prowadzić programu lub egzekucji.
+buildtoolbar_CI_requirement	Co najmniej jeden informator
+guardinvestigation_underway	TRWA DOCHODZENIE W SPRAWIE STRAŻNIKA
+guardinvestigation_investigated	Sprawdzono *A/*B strażników
+informant_investigating	Dochodzenie
+crookedguard_fired_reward	Zwolniono skorumpowanego strażnika
+crookedguard_advisor_onboarding	Odkryliśmy skorumpowanego strażnika, który współpracuje z gangiem. Jest zaznaczony w karcie personelu w dziale raportów. Pamiętaj, aby go zwolnić.
+buildtoolbar_popup_staff_doghandler	Przewodnicy i ich psy mogą wykryć kontrabandę, przechodząc obok więźniów.
+buildtoolbar_popup_staff_kimber_doghandler	Przewodnicy i ich psy mogą wykryć kontrabandę u więźniów i skorumpowanych strażników, przechodząc obok nich.
+d11_prisoner_replacement	Przeniesienie więźnia
+d11_prisoner_replacement_tooltip	Wartość populacji więźniów zostanie uzupełniona do żądanej liczby z zachowaniem takiego samego współczynnika poziomów bezpieczeństwa, jeśli będzie to możliwe. Wszelkie nadwyżki więźniów będą podlegały systemowi standardowemu
+job_cleanupobject	Wyczyść *X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X CZŁONKÓW GANGU JEST WŚCIEKŁYCH (usunięto graffiti)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X CZŁONKÓW GANGU JEST WŚCIEKŁYCH (szef przeniesiony do gorszej celi)
+research_CCTVImprovement	Ulepszenie monitoringu
+researchtooltip_CCTVImprovement	Popraw wykorzystanie sprzętu do monitoringu. Umożliwia obserwowanie zakresów monitoringu oraz źle zachowujących się więźniów w ich polu widzenia.
+d11_cctv_cone	Zakres monitoringu
+d11_toggle_cctv_cone_detail	Przełącz zakresy kamer monitoringu
+d11_left_click_to_clean	Kliknij lewym przyciskiem myszy, aby posprzątać
+d11_gang_graffiti_message	Gangi oznaczają swój teren, przez co zacieklej go bronią. Gdy to bezpieczne, wyślij woźnego, aby poradził sobie z tym bałaganem. Gangi nie będą zadowolone z usunięcia ich „dzieł sztuki” – mogą się zemścić.
+d11_gangBulkIntake_advisor_onboarding	Komisja więzienia przenosi problematycznych więźniów do innych placówek posiadających bardziej kompetentny zarząd. Ufam, że z łatwością poradzisz sobie z nowym nabytkiem. Teraz przegląd więźniów jest przeprowadzany raz w tygodniu.
+d11_gangBulkIntake_staffAlert	Nadjeżdża autobus z członkiem gangu
+d11_gangdealer_advisor_onboarding	Na terytorium gangu zidentyfikowaliśmy dilera. Skonfiskowano od niego dużą sumę pieniędzy.
+d11_CI_advisor_onboarding	Współpracuj ze swoimi informatorami, aby odkryć skorumpowanych strażników. Zostaną wysłani do biura szefa, aby podzielić się posiadanymi informacjami. Pamiętaj, aby zrekrutować informatorów. Sprawdź ikonę (?) w menu wywiadu, aby uzyskać więcej informacji.
+d11_LeaderAssassination_advisor_onboarding	Gangi stają się zbyt agresywne i planują zabójstwo szefa przeciwnego gangu. Jeśli im się uda, będzie to miało wpływ na zajmowany przez nie teren.
+d11_GangTargetting_advisor_onboarding	Członkowie gangu gromadzą się razem, ponieważ mają wspólne zainteresowania, a czasem nie lubią określonych wykroczeń i będą się starali namierzyć osoby, które je popełniły.
+d11_staffalert_title_making_move	Gang zamierza coś zrobić.
+d11_staffalert_summary_making_move	Mamy informacje, że gang zamierza coś zrobić.
+d11_staffalert_summary_gangdealer	Odkryto dilera. Otrzymujesz 500 $.
+d11_staffalert_summary_TerritoryPlacement	To pomieszczenie zostało zajęte przez gang i jest zbyt niebezpieczne dla pracowników. Wyrzuć więźniów z pomieszczenia.
+crisisSector_CustomSearchArea	Niestandardowy obszar przeszukiwania
+crisisSector_ScheduleSearch	Niestandardowy harmonogram
+schedulesearch_menu_TargettedArea	Docelowy obszar
+schedulesearch_menu_StartTime	Czas rozpoczęcia
+schedulesearch_menu_ExistingSchedule	Istniejący harmonogram
+schedulesearch_menu_CurrentTime	Bieżący czas
+schedulesearch_menu_CurrentFrequency	Bieżąca częstotliwość
+crisisSector_UnlockedOnly	Tylko odblokowane
+schedulesearch_menu_SaveSelection	Zapisz wybór
+reputation_Recruiter	Rekruter
+reputationtooltip_Recruiter	Ten więzień, jeśli jest członkiem gangu, będzie próbował zrekrutować innych więźniów do gangu.
+reputation_Resourceful	Zaradny
+reputationtooltip_Resourceful	Ten więzień większość czasu będzie spędzał nad książkami. Będzie też wiedział, gdzie znajduje się kontrabanda, którą być może przechwyci dla swojego gangu.
+reputation_ExGangMember	Były członek gangu
+reputationtooltip_ExGangMember	Ten więzień zdecydował, że życie w gangu nie jest dla niego. Niestety gang nie jest z tego zadowolony.
+reputation_CunninglyBrutal	Niezwykle brutalny
+reputationtooltip_CunninglyBrutal	Żmije będą atakować cele w martwych punktach ochrony.
+reputation_SneakThief	Przebiegły złodziej
+reputationtooltip_SneakThief	Wszystkie Szakale mają umiejętność kradzieży kieszonkowej niezależnie od reputacji.
+reputation_BattleTendency	Tendencja do walki
+reputationtooltip_BattleTendency	Jeśli w skrzydle więzienia Szakale będą liczniejsi niż strażnicy, ci więźniowie będą bardziej agresywni w stosunku do pracującego tam personelu.
+reputation_DisrepectSurroundings	Wandal
+reputationtooltip_DisrepectSurroundings	Łamacze Kości będą niszczyć przedmioty, jeśli ich żądania nie zostaną spełnione.
+reputation_UnderCoverDon	Cichociemny
+reputationtooltip_UnderCoverDon	Szef Żmij będzie udawał zwykłego żołnierza. Ujawni się dopiero po ukaraniu.
+reputation_Enforcer	Egzekutor
+reputationtooltip_Enforcer	Ten więzień będzie zastraszał innych więźniów, chyba że należą do tego samego gangu. Jest też dobry w zajmowaniu terenów dla gangu.
+reputation_GymRat	Miłośnik siłowni
+reputationtooltip_GymRat	Łamacze Kości spędzają wolny czas na siłowni lub na dziedzińcu.
+reputation_Loyal	Lojalny
+reputationtooltip_Loyal	Ten więzień raczej zostanie w gangu i zdenerwuje się, jeśli szef gangu zostanie ukarany.
+traits_violent	Agresywny
+traits_lethal	Śmiertelny
+finance_cost_gangdealer	Odkryto dilera gangu
+object_PrisonerLetter	List więźnia
+object_LoveLetter	List miłosny
+object_LoveLetterOpened	List miłosny (otwarty)
+interface_prisonerWritingLetter	Pisze do ukochanej osoby
+interface_prisonerWritingLoveLetter	Pisze do WYJĄTKOWEJ osoby
+warden_wardengangsjlocks_name	Kapitan J. Locks
+warden_wardengangsjlocks_desc	Personel pod rozkazami Locks jest w stanie przekroczyć swoje ograniczenia, a więźniowie stają się modelowymi osadzonymi. \n\n- +30% do wytrzymałości personelu (wymaga 10% więcej odpoczynku). \n- -10% do szansy na ponowne popełnienie przestępstwa przez więźnia.
+warden_wardengangsjlocks_desc_short	- Personel ma wyższą wytrzymałość.\n- Więźniowie o 10% rzadziej ponownie popełniają przestępstwa.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Ten dżentelmen przegada każdego i wynegocjuje najlepsze ceny dla twojego więzienia. Lepiej uwierz, że w supermarketach korzysta z kuponów! \n\n- Koszty żywności obniżone o 25%. \n- Programy wymagające zewnętrznych nauczycieli kosztują o 20% mniej.
+warden_wardengangscook_desc_short	- Koszty żywności obniżone o 25%.\n- Programy wymagające zewnętrznych nauczycieli kosztują o 20% mniej.
+rapsheet_manualCellSwap_hint	Zapewnij temu więźniowi zwiększenie / zmniejszenie jakości celi, przenosząc go do nowej dostępnej celi lub ręcznie wybierając, do której celi powinien zostać przeniesiony.
+rapsheet_cellUpgrade	Zwiększ jakość celi
+rapsheet_cellDowngrade	Obniż jakość celi
+rapsheet_cellChoice	Wybierz nową celę
+rapsheet_ChangeCell	Zmień celę
+ChangeCellUpgradeSuccessful	Udało się przenieść do lepszej celi: *X.
+ChangeCellDowngradeSuccessful	Udało się przenieść do gorszej celi: *X.
+ChangeCellNoAvailableRooms	Brak wolnych pomieszczeń, do których można przenieść: *X. Czy chcesz użyć niestandardowego menu zamiany pomieszczeń?
+ChangeCellDowngradingGangLeader	Zamierzasz przenieść przywódcę gangu do celi o niższym standardzie. To zdenerwuje gang i może być powodem problemów w więzieniu.
+freeCell_movePrisoner	Kliknij prawym przyciskiem myszy, aby przenieść więźnia do tej celi.
+occupiedCell_movePrisoner	Kliknij prawym przyciskiem, aby zamienić więźnia z osobą zajmującą tę celę.
+occupiedCell_selectablePrisoner	Kliknij prawym przyciskiem, aby zaznaczyć tego więźnia i wybrać, gdzie chcesz go przenieść.
+mutator_name_NoMinRoomSize	Brak rozmiaru pomieszczenia
+mutator_tooltip_NoMinRoomSize	Koniec z wymaganiami dotyczącymi rozmiaru pomieszczenia! Nadal jednak musisz uwzględnić potrzebne przedmioty.
+action_GangBusiness	Sprawa gangu
+action_GangRecruitment	Rekrutacja do gangu
+action_GangPromotion	Awans w gangu
+action_ActionHerb	Ubijanie
+action_LoadBaby	Noszenie dziecka
+action_WarmUp	Rozgrzewka
+action_ListenToRadio	Słuchanie radia
+action_GetSnack	Weź przekąskę
+action_Drink	Weź napój
+action_DoPullUps	Pompki
+action_KneeRaises	Podciąganie
+action_PushUps	Pompki
+reform_program_properties_RequiresAllStudentsPresent	Wymaga obecności wszystkich uczestników
+d11_tableClaim_title	Kontrolowany przez *G
+d11_tableClaim_desc	Aby usunąć ich ze stolików, przenieś je lub zdemontuj.
+d11_tableClaim_desc_cont	Pamiętaj, że działanie to ich rozwścieczy.
+schedulesearch_menu_ClearSchedule	Wyczyść harmonogram

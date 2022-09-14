@@ -5,7 +5,7 @@
 # =============================================================================
 
 codex_viewchangelog	完整更新記錄
-codex_legal	法律
+codex_legal	法務
 codex_privacy	隱私
 codex_terms-of-use	使用條款
 codex_eula	最終用戶許可協議
@@ -70,7 +70,7 @@ quickbuild_workshop	車間
 
 
 mm_updatenotes_Date	2019 年 6 月 27 日
-mm_updatenotes_Header	牢房升級
+mm_updatenotes_Header	“牢房”更新
 mm_updatenotes_01	新增 4 種地磚和 4 種牆面。
 mm_updatenotes_02	效能提升，減少遊戲載入時間。
 mm_updatenotes_03	對於工頭也教授課程的大型監獄，增加可雇傭的工頭數量。
@@ -672,7 +672,7 @@ interfacedeployment_insaneseczone	精神病防護區
 interfacetopbar_PrisonerCells_insaneSecOnly	精神病犯容量：*X
 
 roomgrading_PsychiatristOffice_info	在精神科醫生辦公室解鎖並放置額外物品，來提高對於精神病犯的治療效果。\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	解鎖透過精神病罪犯參加心理諮詢課程。
 roomgrading_PsychiatristOffice_Item	項目：*X
 roomgrading_PsychiatristOffice_Quality	精神科醫生能力：*Q
 roomgrading_PsychiatristOffice_Upgrade	升級精神科醫生辦公室，來提高他們的能力。
@@ -699,16 +699,16 @@ objective_readinsaneletter_description	在將精神病犯納入你的監獄之�
 # Wardens
 # =============================================================================
 
-warden_wardeninsanehawk_name	Hawk Hartman
-warden_wardeninsanehawk_desc	作為一位前警務人員，Hartman 把寶貴的訓練技巧傳授給了他的保安人員。\n\n -所有警衛減少遺失員工鑰匙的次數\n -接收技巧後提升警衛耐力
+warden_wardeninsanehawk_name	霍克·哈特曼
+warden_wardeninsanehawk_desc	作為一位前警務人員，霍克·哈特曼 把寶貴的訓練技巧傳授給了他的保安人員。\n\n -所有警衛減少遺失員工鑰匙的次數\n -接收技巧後提升警衛耐力
 warden_wardeninsanehawk_desc_short	- 接收技巧後提升警衛耐力。
 
-warden_wardeninsaneslugworth_name	Dr Slugworth
-warden_wardeninsaneslugworth_desc	所有其他監獄都拒絕時，Slugworth 為最凶惡的精神病犯敞開了大門，他相信自己能幫助他們。\n\n - 精神科醫生的治療效果提升 20%\n - 接收精神病犯的機率更高！
+warden_wardeninsaneslugworth_name	斯拉格沃斯博士
+warden_wardeninsaneslugworth_desc	所有其他監獄都拒絕時，斯拉格沃斯博士 為最凶惡的精神病犯敞開了大門，他相信自己能幫助他們。\n\n - 精神科醫生的治療效果提升 20%\n - 接收精神病犯的機率更高！
 warden_wardeninsaneslugworth_desc_short	- 接收更多的精神病犯。精神科醫生的治療效果更佳。
 
-warden_wardeninsanehudson_name	Dr Hudson
-warden_wardeninsanehudson_desc	Dr Hudson 準備進行其他典獄長做不到的事…\n\n - 應急服務工作速度提升 20%，且到達時間更早\n - 維修成本降低 10%
+warden_wardeninsanehudson_name	哈德森博士
+warden_wardeninsanehudson_desc	哈德森博士 準備進行其他典獄長做不到的事…\n\n - 應急服務工作速度提升 20%，且到達時間更早\n - 維修成本降低 10%
 warden_wardeninsanehudson_desc_short	- 回應時間更快速，維修成本更低。
 
 # =============================================================================
@@ -845,7 +845,7 @@ administrator_requiresoffice_psychiatrist	需要精神科醫生辦公室
 dlc_upsell	該存檔使用來自《*D》擴充包的內容。由於我們無法在你的系統上檢測出該擴充包，因此一些功能將無法使用。請考慮購買《*D》以獲取《監獄建築師》完整體驗。
 dlc_upsell_multiplayer	此多人遊戲主機已購買《*D》擴充包，以訪客身份進入也可使用該擴充包。玩得愉快！
 
-dlc_insane	精神病區：典獄長版
+dlc_insane	精神病房：典獄長版本
 dlc_seaandair	島嶼界限
 
 regime_work_pyscho	方案/自由時間
@@ -1203,7 +1203,7 @@ buildtoolbar_popup_obj_bambooDoor	有個人做了個竹製大門來搭配竹製�
 buildtoolbar_popup_obj_canvas	這種創新方式讓囚犯能夠表達他們的感受，而不用互相捅刀子。
 buildtoolbar_popup_obj_PetBird	能夠陪伴囚犯的小夥伴。\n- 滿足家庭、舒適和享受的需求。
 buildtoolbar_popup_obj_SoftPillow	使用毛茸茸的羽毛枕頭可進一步提升囚犯床鋪的品質和舒適度。\n- 滿足舒適和睡眠需求。
-buildtoolbar_popup_obj_BoxingRing	沒有畫布，監獄健身房就不完整。大部分犯人更喜歡在這塊畫布上作畫。\n- 滿足鍛煉和娛樂需求。
+buildtoolbar_popup_obj_BoxingRing	沒有健身房的監獄是不完整的。大多數犯人更喜歡在這幅畫布上用對方的鮮血作畫。
 buildtoolbar_popup_obj_DumbbellRack	適合志趣相投的囚犯。\n- 滿足鍛煉需求。
 buildtoolbar_popup_obj_Treadmill	適合要保持健康的囚犯。苦練的囚犯甚至可能跑得更快。\n- 滿足鍛煉需求。
 buildtoolbar_popup_obj_Fan	老式立扇，有助於稍微冷卻周圍的空氣。
@@ -1796,9 +1796,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	建造供囚犯和工作人員穿過�
 buildtoolbar_popup_uts_ScannerMonitor	連接至掃描器時，監視器可幫助警衛發現違禁品。警衛發現違禁品的能力將取決於其疲勞度。
 buildtoolbar_popup_uts_ScannerMachine	用於交貨區和儲藏室的機器，可掃描木製板條箱中的違禁品。必須連接至掃描器，才可幫助警衛發現違禁品。警衛發現違禁品的能力將取決於其疲勞度。
 buildtoolbar_popup_obj_Checkpoint	用於搜查經過的囚犯和訪客的檢查站。有警衛的情況下，囚犯僅能從一個方向通過檢查站。
-buildtoolbar_popup_mat_waterShallow	在沙子和水域之間建立淺水區，進而建立更好的海岸線。與正常的水域不同，這些地磚可以供人在上面行走。- $*A (僅限室外)
-buildtoolbar_popup_mat_waterLarge	建立大面積的水域、湖泊和海洋。- $*A (僅限室外)
-buildtoolbar_popup_mat_WoodenDockFloor	實木地板，非常適合造船廠。- $*A (僅限室外)
+buildtoolbar_popup_mat_waterShallow	在沙子和水域之間建立淺水區，進而建立更好的海岸線。與正常的水域不同，這些地磚可以供人在上面行走。
+buildtoolbar_popup_mat_waterLarge	建立大面積的水域、湖泊和海洋。
+buildtoolbar_popup_mat_WoodenDockFloor	實木地板，非常適合造船廠。
 
 landscape_hint	(可在水上建造)
 
@@ -3023,7 +3023,7 @@ objectiveWindow_FilterButton_0_tooltip	進行中的任務
 objectiveWindow_FilterButton_1_tooltip	描述和解釋「邁向綠色」主要特色的一系列資訊
 escapemode_info_board	登上渡輪
 reports_ingredients_usageTitle	新鮮食材和外來食材使用量比率
-objective_HelpEnvironmentallyFriendly	环境友好
+objective_HelpEnvironmentallyFriendly	環境友善
 object_OxStatue	牛的雕像
 object_PaperDragonHead	龍（頭）
 object_PaperDragonBody	龍（身）
@@ -3288,7 +3288,7 @@ d11_reform_program_pass_rate	改造課程通過率
 d11_reform_released_prisoners_design_info	囚犯從你的監獄被釋放後，你可以查看他們出獄後的動向，如果他們再犯罪或改過自新並成功找到工作，你的監獄會分別受到處罰或獎勵。
 d11_reform_prisoners_action_reformed	已改造！
 d11_reform_prisoners_action_reoffended	再次犯罪！
-d11_reform_prisoners_action_reoffended_returned	被送回了你的監獄。
+d11_reform_prisoners_action_reoffended_returned	*X 被送回了你的監獄。
 d11_reform_prisoners_outcome_reformed	他們在鎮上的*X找到了工作。
 d11_reform_prisoners_outcome_reoffended	他們被逮捕了，並會被送回監獄。
 d11_reform_prisoners_outcome_reoffended_returned	請注意，囚犯服刑時間越長就會變得越危險。
@@ -3714,10 +3714,11 @@ objective_grant_subsidence_description	利用政府的下陷補助金，修復�
 objective_grant_subsidence_hire	雇用修理工修理受損的牆壁和柵欄。
 objective_grant_utilityretrofit	公用事業設施改造補助金
 objective_grant_utilityretrofit_description	蟲害可能導致本地企業產值出現嚴重問題。有關部門已向本地企業發放補助金，以保護其公用事業設施的供應。
-objective_grant_utilityretrofit_build	建造 50 條重型電纜。
+objective_grant_utilityretrofit_build	建造 50 電纜保護器
 calamity_grants_onboarding	近年來，天氣越發失常。這次我們僥倖躲過一劫，但監獄應為所有可能情況做好充分準備。有關部門在惡劣天氣結束後向本地企業發放了補助金。我相信資金到位後你會善加利用。
 grant_category_CollapsedWallFence	倒塌的柵欄：
 grant_category_HasObject	已有物品：
+grant_category_EverHadObject	已有物品：
 grant_category_CalamityHappened	災難發生：
 action_brewing	正在醞釀
 action_electricalsabotaging	正在破壞
@@ -3750,7 +3751,7 @@ PestControlPlan	害蟲防治計劃
 ArsonAccidentsPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買滅火器和警報器的價格、開設消防安全課程的費用以及工人的日薪。
 PreservationPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買砂礫箱的價格、開設防寒課程的費用以及工人的日薪。
 RestorationPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買重型電纜和鋼筋的價格、開設電工培訓課程的費用以及工人的日薪。
-HealthSafetyPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買急救站的價格、開設急救和泰瑟槍培訓課程的費用以及醫生和醫務人員的日薪。
+HealthSafetyPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買急救站的價格、開設急救和泰瑟槍培訓課程的費用以及醫生和護理人員的日薪。
 PestControlPlan_hint	除了自動請求緊急服務外，該計劃還提供多項優惠，以降低購買捕鼠器和聲波驅蟲器的價格、開設害蟲防治課程的費用以及清潔工和園丁的日薪。
 d11_coverage_automatic_emergency_services	自動緊急服務
 d11_coverage_squads_requested	已請求小隊援助
@@ -3875,5 +3876,361 @@ buildtoolbar_stayIndoorsCalamity	災難
 buildtoolbar_popup_uts_WeatherMachine	氣象儀提供進階版天氣預報，不僅可以預測天氣持續時間、溫度、降水、風速和能見度等條件，還可預報極端天氣事件並提供倒數計時。
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	供员工使用的双开门。
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	供员工使用的双开门。
-codex_tooltip_startingSeason    選擇初始季節，天氣會隨季節自然變化。
+codex_tooltip_startingSeason	選擇初始季節，天氣會隨季節自然變化。
 object_AirPestControlHeli	空中害蟲防治
+codex_option_default	預設
+dlc_name_kimber	幫派
+quickbuild_Gymnasium	健身房
+boilingpoint_Needs	需求
+boilingpoint_ProgramCompletion	課程已完成
+boilingpoint_RoomQuality	牢房品質
+buildtoolbar_popup_help_BoilingPoint_3	^提示
+securitymenu_popup_recentMisconduct	近期不當行為：
+securitymenu_PrisonerTypeDefault	預設
+securitymenu_PrisonerTypeDangerous	危險分子
+rapsheet_assignguard	分配警衛
+buildtoolbar_popup_help_securitymenu_4	^提示
+objective_HelpPrograms	課程
+objective_grant_positiveEnergyGrant_yard	建造庭院
+gang_green	綠幫
+d11_gang_bonebreakers_goal	損毀公物
+d11_gang_misconduct	不當行為：
+d11_heatmap_deaths	死亡：
+interface_action_CleanGraffiti	清理
+schedulesearch_menu_Frequency	頻率
+reputation_Resourceful	足智多謀
+action_Withdrawal	戒毒
+action_ListenToRadio	聽廣播
+codex_option_plotType	地塊類型
+codex_tooltip_plotType	此選項可產生特定的起始地塊。預設地塊為泥土和雜草，「叢林」地塊類似於茂密的叢林，「冰天雪地」地塊表面由大雪覆蓋，「沙漠」地塊為一片沙地，「月球」地塊類似於月球表面，「島嶼」地塊四面環水，使用船隻碼頭（而非道路）與外界連通；「連接小島」地塊水面環繞，但有橋樑與道路連接。
+survey_letter_1	親愛的典獄長，\n\n\n感謝您參與監獄新功能和系統的測試。\n\n作為首席執行長，我的責任是收集所有典獄長的意見，以進一步改善體驗。\n\n如果您能花幾分鐘時間填寫我為您設計的問卷調查，我將不勝感激。\n\n首席執行長\n監獄建築師集團
+survey_letter_2	親愛的典獄長，\n\n\n再次感謝您繼續參與監獄新功能和系統的測試。\n\n在投入更多時間測試新功能和系統之後，希望您在本次調查中提供最新反饋。\n\n首席執行長\n監獄建築師集團
+object_Beagle	比格犬
+buildtoolbar_popup_obj_Beagle	相較於發動進攻而言，獵犬更喜歡吃零食。
+object_Doberman	杜賓犬
+buildtoolbar_popup_obj_Doberman	杜賓犬是優秀警犬。
+object_ChocolateLabrador	巧克力色拉布拉多犬
+buildtoolbar_popup_obj_ChocolateLabrador	喜歡結交新朋友，如果新朋友逃跑，那麼樂趣加倍。
+object_BlackShepherd	黑色德國牧羊犬
+buildtoolbar_popup_obj_BlackShepherd	雖然外形看似可愛，但會撲倒任何膽敢擋路的人。
+object_TattooRemovalMachine	紋身去除機
+buildtoolbar_popup_obj_TattooRemovalMachine	改造幫派成員的必備物品。去除紋身是改造他們的第一步。
+object_MetalStool	金屬凳
+buildtoolbar_popup_obj_MetalStool	外觀精緻的小金屬凳。
+equipment_TattooRemovalTool	紋身去除工具
+room_TheCage	牢籠
+buildtoolbar_popup_room_TheCage	一件露天設施，可供一名囚犯在其中運動，將他們與其他囚犯隔離開來。
+quickbuild_TheCage	牢籠
+buildtoolbar_quickbuild_TheCage	一件露天設施，可供一名囚犯在其中運動，將他們與其他囚犯隔離開來。
+material_CageFence	牢籠柵欄
+buildtoolbar_popup_mat_CageFence	一道鐵網圍欄，用於防止運動中的囚犯逃走。
+room_TattooRemovalRoom	紋身去除室
+buildtoolbar_popup_room_TattooRemovalRoom	囚犯在這裡經歷痛苦、漫長的過程，最終將身上的幫派紋身去除。
+quickbuild_TattooRemovalRoom	紋身去除室
+buildtoolbar_quickbuild_TattooRemovalRoom	囚犯在這裡經歷痛苦、漫長的過程，最終將身上的幫派紋身去除。
+object_PullUpBars	引體向上桿
+buildtoolbar_popup_obj_PullUpBars	一件廉價運動器材，深受較為老練的囚犯歡迎。
+object_KneeRaise	屈膝舉腿
+buildtoolbar_popup_obj_KneeRaise	一件廉價運動器材，深受較為老練的囚犯歡迎。
+object_PushUpStones	俯臥撐石
+buildtoolbar_popup_obj_PushUpStones	一件廉價運動器材，深受較為老練的囚犯歡迎。
+object_GangGraffiti	幫派塗鴉
+d11_hover_info_gang_graffiti_1	轄區內幫派成員武力+15%
+d11_hover_info_gang_graffiti_2	轄區內幫派成員堅韌+15%
+object_FightRing	拳擊場
+buildtoolbar_popup_obj_FightRing	如果囚犯能在拳擊場上一決高下，就不會在監獄側翼中鬥毆。\n-滿足運動和娛樂的需要。
+quickbuild_FightClubRoom	搏擊俱樂部房間
+buildtoolbar_quickbuild_FightClubRoom	無論誰問起，都不要承認此房間的存在。
+room_FightClubRoom	搏擊俱樂部房間
+buildtoolbar_popup_room_FightClubRoom	無論誰問起，都不要承認此房間的存在。
+object_CageGate	牢籠大門
+buildtoolbar_popup_obj_CageGate	可以完美搭配圍欄使用的監獄大門，功能和門一樣。
+buildtoolbar_popup_obj_RemoteDoor	此門開關透過伺服器系統遙控控制。確保有足夠的警衛控制此類大門的進出，或安裝壓力墊
+object_RemoteDoorOrange	遙控門（橘色）
+buildtoolbar_popup_obj_RemoteDoorOrange	此門開關透過伺服器系統遙控控制。確保有足夠的警衛控制此類大門的進出，或安裝壓力墊
+object_RemoteDoorRed	遙控門（紅色）
+buildtoolbar_popup_obj_RemoteDoorRed	此門開關透過伺服器系統遙控控制。確保有足夠的警衛控制此類大門的進出，或安裝壓力墊
+object_RemoteDoorYellow	遙控門（黃色）
+buildtoolbar_popup_obj_RemoteDoorYellow	此門開關透過伺服器系統遙控控制。確保有足夠的警衛控制此類大門的進出，或安裝壓力墊
+object_RemoteDoorWhite	遙控門（白色）
+buildtoolbar_popup_obj_RemoteDoorWhite	此門開關透過伺服器系統遙控控制。確保有足夠的警衛控制此類大門的進出，或安裝壓力墊
+object_GymInstructor	健身教練
+object_FilingCabinetFancy	檔案櫃（豪華）
+buildtoolbar_popup_obj_FilingCabinetFancy	給員工豪華檔案櫃以茲獎勵。
+material_LongGrass	茂密雜草
+codex_tooltip_gangsEnhanced	現在可更改幫派接收監獄囚犯的速度。監獄中幫派成員越多，幫派招募速度就越快，監獄也會變得更加混亂和危險。\n\n傳統模式-體驗之前的幫派難度（適合新手）\n「低強度模式」（預設）-適合新手或中級玩家\n中強度模式-熟練玩家\n高強度模式-渴望高難度挑戰的專家
+codex_tooltip_morelieutenants	幹部在各個幫派爭奪新地盤過程中扮演著重要角色。如果你想讓幫派更活躍，考慮減少每個幹部所需的成員數量。如果想挑戰一下自己，可以將數值設定為6以下。
+codex_option_morelieutenants	更多幹部
+codex_tooltip_codex_option_morelieutenants	幹部在各個幫派爭奪新地盤過程中扮演著重要角色。如果你想讓幫派更活躍，考慮減少每個幹部所需的成員數量。如果想挑戰一下自己，可以將數值設定為6以下。
+codex_option_GangSpecialReputations	幫派特別聲譽
+codex_tooltip_GangSpecialReputations	幫派被賦予新的聲譽，並會據此改變其成員在監獄裡的行為方式。
+codex_option_AllDogs	所有警犬
+codex_tooltip_AllDogs	選擇此選項將啟用所有可用警犬並在每次聘用時隨機選擇。
+codex_tooltip_RandomWardens	選擇此選項將隨機為你選擇一名典獄長。
+interfacecontraband_BoilingPoint	爆發點
+buildtoolbar_contraband_BoilingPoint	顯示不滿囚犯可改進的地方。
+boilingpoint_header	爆發點
+boilingpoint_OverallTemperature	整體氛圍
+boilingpoint_StatusEffects	狀態效果
+boilingpoint_OverallTemperature_popup	在確保囚犯開心和保持冷靜這件事上，有些東西我們無法掌控，比如囚犯的個性，以及他們背負罪名的數量。囚犯越是憤怒，監獄氛圍就越緊張，而且他們不守規矩的可能性也更大。
+boilingpoint_Needs_popup	目前你有*X名囚犯需求得不到滿足。\n\n請確保他們能夠進入房間或拿取物品，以滿足他們的需求。
+boilingpoint_ProgramCompletion_popup	目前你有*X名囚犯尚未完成任何課程。\n\n囚犯完成課程數量越多，他們越有可能保持冷靜。增加一些制度允許囚犯參加範圍內的課程。某些課程可重複進行。
+boilingpoint_StatusEffects_popup	目前你有*X名囚犯受負面效果影響。\n\n建議加大對違禁品的稽查力度，特別是酒精和麻醉品。\n\n囚犯受正面效果影響時，不守規矩的可能性會降低。
+boilingpoint_RoomQuality_popup	目前你有*X名囚犯關押在條件較差的牢房。\n\n提升牢房品質能讓他們更開心和冷靜。某些囚犯沒有資格入住高品質牢房，可以使用「刑期調整」來降低要求。
+buildtoolbar_popup_help_BoilingPoint_1	爆發點視圖會顯示目前監獄氛圍。此選單會反白顯示監獄中有問題部分，如牢房品質、需求、狀態效果，以及課程參與水準。\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~如果某個囚犯始終不服管教，建議把他關進禁閉室或單獨監禁，好讓他們冷靜下來。\n\n
+buildtoolbar_popup_help_BoilingPoint_4	-確保所有囚犯基本需求都能得到滿足。
+buildtoolbar_popup_help_BoilingPoint_5	-投資改造、治療、醫療和工作課程，並確保囚犯的體制允許他們參與其中。
+buildtoolbar_popup_help_BoilingPoint_6	-輕刑犯容忍度更高，因為他們的刑期較短。
+boilingpoint_advisor_onboarding	這名囚犯正在鬧事，他似乎已經到了爆發點。或許我們做的還不夠，沒有確保囚犯的需求得到滿足，沒能改善他們的生活條件，也沒能給他們安排事情做。查看爆發點情報選單獲取更多資訊。
+interfacecontraband_SecurityMenu	保全選單
+buildtoolbar_contraband_SecurityMenu	查看被視為危險分子或有人身危險的囚犯清單，對任何需要進一步管理的囚犯實施保全措施。
+securitymenu_header	保全選單
+securitymenu_popup_prisonerSelect	點選左鍵選擇囚犯
+securitymenu_popup_dangerousReputations	危險聲譽：
+securitymenu_popup_dangerousTraits	危險特徵：
+securitymenu_popup_crimesCommitted	罪行：
+securitymenu_PrisonerType	囚犯類型：
+securitymenu_PrisonerTypeVulnerable	有人身危險
+securitymenu_MarkingTypeUnmarked	未標記
+securitymenu_SelectArea	選擇區域
+securitymenu_SelectAreaCancel	取消選擇區域
+securitymenu_RestrictAccess	限制進入：
+securitymenu_TransferPrisoners	轉移囚犯：
+securitymenu_transferSecurityLevel	保全級別
+securitymenu_GuardAssignment	警衛分配：
+securitymenu_MarkPrisoner	標記囚犯：
+securitymenu_RemovePrisoner	遣送囚犯：
+securitymenu_RemovePrisonerButton	遣送囚犯
+securitymenu_RemovedPrisoner	已遣送囚犯
+securitymenu_RemovePrisoner_message	遣送囚犯\n\n這是對付冥頑不化囚犯的最後手段，你可以花一大筆錢把這名囚犯送去另一所監獄。該操作每5天可進行一次。
+securitymenu_RestrictAccess_tooltip	封鎖特定區域的入口，選定囚犯只有在警衛看管的情況下才能進入。不能限制幫派成員進入自己的轄區。
+securitymenu_TransferPrisoner_tooltip	將選定囚犯轉移至特定保全系統以便於管控。
+securitymenu_MarkPrisoner_tooltip	為選定的囚犯增加視覺標記，方便監控危險分子，以及有人身危險的囚犯。
+rapsheet_assignguard_end	取消分配警衛
+job_PrisonerAssignment	囚犯分配
+assignment_confirm_message	是否要分配一名警衛？
+assignment_description_message	如果想要盯緊這名囚犯，建議分配一名警衛看管。請務必確保警衛人數充足。
+assignment_error_message	目前無法分配警衛對此囚犯進行看管，請稍後再試。\n\n囚犯為剛抵達，在牢房或禁閉狀態。
+buildtoolbar_popup_help_securitymenu_1	保全選單列出了監獄中所有被視為危險分子或有人身危險的囚犯。透過此選單，你可以對囚犯採取某些行動以提供進一步的支援，並使這些囚犯得到更好的管理。\n\n
+buildtoolbar_popup_help_securitymenu_2	~預設情況下，危險分子和有人身危險的囚犯會同時列出，但你可以透過「囚犯類型」選項對特定群體採取行動。\n\n
+buildtoolbar_popup_help_securitymenu_3	~有些行動可以應用在群體身上，而某些只能應用到選定的個人，反白顯示並以左鍵點選囚犯來進行選擇。\n\n
+buildtoolbar_popup_help_securitymenu_5	-警衛分配選項既有助於確保囚犯的安全，也可以同時監控其他人，防止不當行為發生。警衛不會在囚犯的私人時間待在他們身邊，比如睡覺和洗澡的時候。
+buildtoolbar_popup_help_securitymenu_6	-如果你監獄中的某些囚犯經常惹事，並且難以管束，可透過「遣送囚犯」選項把他們送走。此行動有冷卻時間，不能每天執行，同時需要耗費一定的金錢。
+objectiveWindow_FilterButton_4_title	「幫派」簡介
+objectiveWindow_FilterButton_4_tooltip	關於幫派的一切
+objective_HelpGangBehaviourAndType	幫派行為
+objective_HelpGangBehaviourAndType_Description	引入新幫派，每個幫派行為方式都略有不同。
+objective_HelpGangBehaviourAndType_child_1	毒蛇幫
+objective_HelpGangBehaviourAndType_child_1_Description	毒蛇幫都是一群陰險狡詐之徒，利用對毒品的控制權毒害其他囚犯，幫派成員本身也都非常狠毒。
+objective_HelpGangBehaviourAndType_child_2	碎骨幫
+objective_HelpGangBehaviourAndType_child_2_Description	碎骨幫是一群肌肉發達的暴徒，主要從事暴力和破壞活動，在其他方面鮮有涉足。
+objective_HelpGangBehaviourAndType_child_3	豺狼幫
+objective_HelpGangBehaviourAndType_child_3_Description	豺狼幫足智多謀，主要關注轄區控制和違禁品銷售，以提升自身經濟實力。
+objective_HelpGangActivities	幫派活動
+objective_HelpGangActivities_Description	幫派活動包括經營和管理自己的轄區，恭維監獄關鍵成員，對玩家提出要求，以及類似的行動。
+objective_HelpGangActivities_child_1	特殊活動
+objective_HelpGangActivities_child_1_Description	每個幫派都會根據各自特點舉辦特殊活動，毒蛇幫主要從事毒品生產和銷售，碎骨幫善於鬥毆和破壞，豺狼幫主要關注搶佔更多轄區和賺錢。
+objective_HelpGangActivities_child_2	轄區活動
+objective_HelpGangActivities_child_2_Description	新轄區會帶來新活動。幫派會「管理」他們控制的區域，確保其他囚犯守規矩，在使用區域內任何設施支付現金，即使在工作時間也不例外。幫派成員還會在其控制的房間內藏匿大量違禁品，而「貿易商」負責將這些物品賣給其他囚犯。
+objective_HelpGangActivities_child_3	幫派需求
+objective_HelpGangActivities_child_3_Description	當幫派在監獄中獲得足夠大的勢力和威望後，他們就會開始提出特定的要求，包括添置新設施、增加庭院和自由活動時間等，玩家有一定的時間來滿足這些要求。如果玩家未能滿足要求，抗議就會接連不斷，幫派成員往往會四處破壞或實施暴力活動。
+objective_HelpCrookedGuards	腐敗警衛
+objective_HelpCrookedGuards_Description	雖然我們希望勇敢的員工們公正廉潔、剛正不阿，但不幸的是，現實情況並非總是如此。
+objective_HelpCrookedGuards_child_1	警衛賄賂
+objective_HelpCrookedGuards_child_1_Description	所有類型的警衛都可以被賄賂，並在48小時內對其他人的某些不當行為進行調查，即使發現行賄囚犯有違禁品也不會收繳，還能讓幫派更容易搶奪地盤。幸運的是，線人可以指出可疑的警衛，讓玩家有機會開除腐敗的警衛。
+objective_HelpCrookedGuards_child_2	警衛腐敗
+objective_HelpCrookedGuards_child_2_Description	某些警衛可能會因為與幫派成員接觸過多而變得腐敗，為幫派走私違禁品換取酬勞。線人可以指出可疑的警衛，而違禁品探測器和警犬也可以發現他們隨身攜帶的違禁品。
+objective_HelpGangIntelligence	幫派情報
+objective_HelpGangIntelligence_Description	監獄中到處都在上演著不當行為，因此情報是保證設施安全的關鍵。幫派情報選單可提供監獄內每個幫派的資訊，列出每個幫派的成員數量、資金情況，以及入獄以來的不當行為總數。選單還會顯示幫派參與的任何課程或活動，以此展示每個幫派的危險程度。
+objective_HelpSecurityOptions	保全選項
+objective_HelpSecurityOptions_Description	「重點囚犯」名單將在新選單中列出，其中所有囚犯都被認為對他人構成威脅或自身受到威脅。透過此選單，你可以標記出需要給予額外關注的囚犯，方便在正常遊戲過程中對其加強看管，也便於在其他遊戲行為過程中重點關照；另外選單中還會顯示其他行動，如限制囚犯進入特定區域，將囚犯群體轉移到特定的安全級別，甚至將問題囚犯轉送其他監獄，儘管這樣做需要支付巨額罰款。
+objective_HelpPrograms_Description	為了幫助保護和管理囚犯，警衛現在可以接受新培訓，經過訓練後，警衛可輕鬆繳械囚犯。囚犯也有可參加的新課程。娛樂課程有助於囚犯完成改造，還能幫助囚犯平靜下來，減輕身上的壓力。改造課程有助於囚犯遠離幫派活動，讓他們以更加平靜和建設性的方式度過自己的刑期。
+objective_grant_positiveEnergyGrant	正能量
+objective_grant_positiveEnergyGrant_Description	幫派成員需要把注意力（和精力）集中到運動而不是暴力上。研究表明，運動可以減少暴力行為。在院子裡設置一些戶外運動器材。
+objective_grant_positiveEnergyGrant_bench	添置舉重床
+objective_grant_advancedProtectionGrant	進階保護
+objective_grant_advancedProtectionGrant_Description	應付組織化的幫派時，員工保護至關重要，必須確保員工訓練完備，能夠在最大程度上保護他們的安全。
+objective_grant_advancedProtectionGrant_training	成功培訓20名警衛完成「繳械認證」。
+objective_grant_gangWelfareGrant	幫派幫扶
+objective_grant_gangWelfareGrant_Description	將幫派鬥爭轉變為幫派幫扶是重中之重。幫派成員透過參與幫扶課程，有助於他們脫離幫派生活改過自新。
+objective_grant_gangWelfareGrant_exGangMembers	成功將15名幫派成員改造為前幫派成員。
+objective_grant_exGangProtectionGrant	前幫派成員保護課程
+objective_grant_exGangProtectionGrant_Description	政府提議出資建立重點保護側翼，以保護改造過程中的前幫派成員。
+objective_grant_protectionCells	在重點保護區建造10間牢房
+objective_grant_protectionShower	在重點保護區建造淋浴間
+objective_grant_protectionCanteen	在重點保護區建造餐廳
+objective_grant_protectionKitchen	在重點保護區建造廚房
+objective_grant_protectionYard	在重點保護區建造庭院
+objective_grant_protectionGuards	分配一名警衛至重點保護區
+objective_grant_protectionExGang	將1名前幫派成員分配至重點保護保全級別
+grant_category_adminHired	管理者已聘用：
+reformprogram_TattooRemovalProgram	紋身去除課程
+reformprogram_TattooRemovalProgram_text	如果囚犯後悔紋身，可以透過提供去除紋身的課程來幫助他們改造。完成課程將使他們成為目標囚犯。
+reformprogram_HandToHandCombat	繳械認證
+reformprogram_HandToHandCombat_text	遇強則強。訓練警衛繳械囚犯所需的進階技能。
+reformprogram_GangRehabilitation	幫派改造
+reformprogram_GangRehabilitation_text	如果幫派成員在監獄裡製造了過多的麻煩，嘗試讓他們完成此培訓課程。這是他們與幫派斷絕關係、翻開新篇章的第一步。完成課程將使他們成為目標囚犯。推薦類型：暴力和毀壞公物。
+reform_program_intake_ReferralGangViolenceDestruction	移交：僅限暴力和毀壞公物的幫派。
+reform_program_intake_GangOnly	僅限幫派
+reformprogram_FaithProgram	信仰課程
+reformprogram_FaithProgram_text	囚犯參與此集中課程後，更有可能主動放棄他們的不良生活方式，擁抱更好的生活。囚犯在完成課程後可能會與幫派斷絕聯繫。
+reformprogram_BreatheProgram	呼吸療法
+reformprogram_BreatheProgram_text	教你的囚犯如何呼吸和放鬆。每節課結束後，囚犯會感覺平靜很多，他們甚至可能會考慮表現得更好。
+reformprogram_FightClub	搏擊俱樂部
+reformprogram_FightClub_text	訓練課程的目標是引導囚犯在受控環境中發洩破壞性能量。課程結束後，囚犯可能會因為過於疲勞而無力參與鬥毆。等等，第一條規則是什麼來著？
+reform_program_properties_TeacherUsesSameEquipment	教師需要*X
+reform_program_properties_GangMemberCanAttend	幫派成員可參加
+gang_vipers	毒蛇幫
+gang_bonebreakers	碎骨幫
+gang_jackals	豺狼幫
+gang_red	紅幫
+gang_blue	藍幫
+gang_yellow	前幫派成員
+objective_GangDemand	幫派需求
+objective_GangDemand_description	膽大妄為的幫派頭目會提出一系列要求，以改善監獄生活品質。如果不能滿足他們的要求，可能會導致暴亂，確保監獄為此做好準備。
+GangDemand_announcement	如果拒絕接受幫派成員提出的要求，他們將製造許多麻煩。
+objective_Gang_ContrabandToolsPunishment_child	*G-將找到工具的懲罰持續時間減少至*X小時。
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G-免去找到工具帶來的懲罰
+objective_Gang_MurderPunishment_child	*G-將謀殺的懲罰減少至*X小時。
+objective_Gang_MurderPunishment_Escalated_child	*G-將謀殺的懲罰減少至*X小時。
+objective_Gang_MoreYardTime_child	*G-將日程表庭院時間增加至*X小時。
+objective_Gang_MoreYardTime_Escalated_child	*G-將日程表庭院時間增加至*X小時。
+objective_Gang_PullUpBars_child	*G-擁有*X個引體向上桿。
+objective_Gang_PullUpBars_Escalated_child	*G-擁有*X個引體向上桿。
+objective_Gang_TyreApparatus_child	*G-擁有*X輪胎器械。
+objective_Gang_TyreApparatus_Escalated_child	*G-擁有*X輪胎器械。
+objective_Gang_PunchBag_child	*G-擁有*X個沙袋。
+objective_Gang_PunchBag_Escalated_child	*G-擁有*X個沙袋。
+objective_Gang_PushUpStones_child	*G-擁有*X個俯臥撐石。
+objective_Gang_PushUpStones_Escalated_child	*G-擁有*X個俯臥撐石。
+objective_Gang_RequireYard_child	*G-擁有一個*X。
+objective_Gang_RequireYard_Escalated_child	*G-擁有一個*X。
+objective_Gang_RequireLibrary_child	*G-擁有一個*X。
+objective_Gang_RequireLibrary_Escalated_child	*G-擁有一個*X。
+objective_Gang_RequireMailRoom_child	*G-擁有一個*X。
+objective_Gang_RequireMailRoom_Escalated_child	*G-擁有一個*X。
+d11_gangdemand_success	我們成功處理了這種情況，拿到了一筆錢。
+d11_gangdemand_fail	確保這種情況不會再發生。
+d11_gangCompensation	幫派補償
+d11_gang_goal	幫派目標：
+d11_gang_jackals_goal	監獄控制
+d11_gang_traits	幫派特點：
+d11_gang_officer	幫派幹部：
+d11_gang_territories	轄區：
+d11_gang_kills	幫派謀殺：
+d11_heatmap_gang	牽涉幫派：
+d11_heatmap_day	發生日期：
+d11_heatmap_time	發生時間：
+d11_gang_event_pr.gf	幫派打鬥
+d11_gang_event_g.tc	轄區變動
+gangSegregationMessage	選擇通常允許哪些幫派進入特定區域。
+interfacedeployment_GangSegregation	幫派隔離
+buildtoolbar_deployment_GangSegregation	為了在一定程度上控制幫派聚集，可以將成員分配到不同的生活空間，讓他們彼此遠離，避免出現不必要的騷動。
+research_StaffVetting	員工審查
+researchtooltip_StaffVetting	降低新警衛變腐敗的可能性。解鎖「警衛調查」後，可借助秘密線人提供的情報揪出腐敗警衛。
+buildtoolbar_GuardInvestigation	警衛調查
+buildtoolbar_tooltip_GuardInvestigation	與秘密線人和保全主管合作，共同調查警衛，揪出腐敗問題。你的活躍秘密線人覆蓋範圍越大，就能揭露越多腐敗警衛。警長不能主持課程或參與行刑。
+buildtoolbar_CI_requirement	至少一名秘密線人
+guardinvestigation_underway	警衛調查正在進行
+guardinvestigation_investigated	已調查*A/*B名警衛
+informant_investigating	調查中
+crookedguard_fired_reward	腐敗警衛已開除
+crookedguard_advisor_onboarding	我們發現一名腐敗警衛與幫派竄通。我已在「報告」視窗中的「員工」標籤將其標出。記得把他給開除。
+buildtoolbar_popup_staff_doghandler	警犬訓練師和他們的工作犬可以在囚犯近距離經過時發現他們身上的違禁品。
+buildtoolbar_popup_staff_kimber_doghandler	警犬訓練師和他們的工作犬可以在囚犯和腐敗警衛近距離經過時發現他們身上的違禁品。
+d11_prisoner_replacement	囚犯替換
+d11_prisoner_replacement_tooltip	囚犯人數被補充至所期望的數量，而安全級別的比率盡可能保持不變。超出規定數量的囚犯均需按照標準系統提出申請
+job_cleanupobject	清理*X
+interfacetopbar_tension_angrygangmembersgraffiti	+*X名幫派成員非常生氣（塗鴉清除）
+interfacetopbar_tension_angrygangmembersleadercell	+*X名幫派成員非常生氣（頭目轉移至條件較差的牢房）
+research_CCTVImprovement	閉路電視監控系統升級
+researchtooltip_CCTVImprovement	提高閉路電視監控系統使用效率。能夠看到閉路電視監控系統視線，並且能發現視野中行為不端的囚犯
+d11_cctv_cone	閉路電視監控系統視線
+d11_toggle_cctv_cone_detail	切換閉路電視監控系統視線
+d11_left_click_to_clean	點選左鍵清理
+d11_gang_graffiti_message	幫派會標記屬於他們的地盤，在守衛己方地盤時會更加兇猛。派清潔工在安全的情況下清理混亂場面。清理標記會引起幫派成員不滿，他們甚至可能伺機報復。
+d11_gangBulkIntake_advisor_onboarding	監獄委員會正在將問題囚犯轉移到其他管理更嚴格的監獄，我相信你能輕鬆處理這些新來的囚犯。目前我們計畫每星期進行一次囚犯審查。
+d11_gangBulkIntake_staffAlert	幫派成員接收囚車即將抵達
+d11_gangdealer_advisor_onboarding	我們在幫派地盤發現了一名貿易商，並從他那裡搜刮了一大筆錢。
+d11_CI_advisor_onboarding	與秘密線人合作，揪出腐敗的警衛。線人會被送往警長辦公室分享他們掌握的情報。確保招募幾名秘密線人，點選「情報」選單上的(?)圖示獲取詳細資訊。
+d11_LeaderAssassination_advisor_onboarding	幫派變得過於激進，他們正計畫暗殺另一個幫派頭目。如果成功，他們目前的地盤便能得到擴張。
+d11_GangTargetting_advisor_onboarding	幫派成員因共同價值觀而聚在一起，有時他們也憎恨某些犯罪行為，因此會針對犯有此類罪行的囚犯。
+d11_staffalert_title_making_move	幫派即將展開行動。
+d11_staffalert_summary_making_move	我們得到情報，有幫派將要展開行動。
+d11_staffalert_summary_gangdealer	發現一名貿易商，你獲得500美元獎勵
+d11_staffalert_summary_TerritoryPlacement	此房間已被幫派佔據，對於工作人員來說過於危險。立刻把他們撤出。
+crisisSector_CustomSearchArea	自訂搜查區域
+crisisSector_ScheduleSearch	自訂排程
+schedulesearch_menu_TargettedArea	目標區域
+schedulesearch_menu_StartTime	開始時間
+schedulesearch_menu_ExistingSchedule	現有排程
+schedulesearch_menu_CurrentTime	目前時間
+schedulesearch_menu_CurrentFrequency	目前頻率
+crisisSector_UnlockedOnly	僅已解鎖
+schedulesearch_menu_SaveSelection	儲存選擇
+reputation_Recruiter	招募者
+reputationtooltip_Recruiter	此類囚犯如果屬於某個幫派，會更有可能接收其他囚犯加入他的幫派。
+reputationtooltip_Resourceful	此類囚犯會花更多時間讀書，還知道違禁品藏在哪裡，並且會截獲違禁品交給自己的幫派。
+reputation_ExGangMember	前幫派成員
+reputationtooltip_ExGangMember	此類囚犯決定脫離幫派生活，但所在幫派對此十分不滿。
+reputation_CunninglyBrutal	陰險毒辣
+reputationtooltip_CunninglyBrutal	毒蛇幫會在保全盲區襲擊目標囚犯。
+reputation_SneakThief	偷雞摸狗
+reputationtooltip_SneakThief	所有豺狼幫成員無論聲譽如何，都會扒竊他人物品。
+reputation_BattleTendency	好勇鬥狠
+reputationtooltip_BattleTendency	如果監獄側翼中豺狼幫人數多於警衛，他們會對側翼工作人員更加暴力。
+reputation_DisrepectSurroundings	破壞者
+reputationtooltip_DisrepectSurroundings	碎骨幫會在需求無法滿足時破壞公物。
+reputation_UnderCoverDon	臥底
+reputationtooltip_UnderCoverDon	毒蛇幫頭目平時偽裝成幫派打手，只有遭受懲罰時才會暴露身分。
+reputation_Enforcer	執行者
+reputationtooltip_Enforcer	此類囚犯會恐嚇其他犯人，除非他們屬於同一個幫派。他們也非常適合為幫派接管轄區。
+reputation_GymRat	健身狂
+reputationtooltip_GymRat	碎骨幫自由時間會在健身房或庭院中活動。
+reputation_Loyal	忠誠
+reputationtooltip_Loyal	如果幫派頭目遭到懲罰，囚犯更可能留在幫派中，還會感到憤怒
+traits_violent	暴力
+traits_lethal	致命
+finance_cost_gangdealer	發現的幫派貿易商
+object_PrisonerLetter	囚犯信件
+object_LoveLetter	情書
+object_LoveLetterOpened	情書（已打開）
+interface_prisonerWritingLetter	給情人寫信
+interface_prisonerWritingLoveLetter	給十分特別的人寫信
+warden_wardengangsjlocks_name	J·洛克斯隊長
+warden_wardengangsjlocks_desc	在洛克斯的管理下，工作人員能夠突破極限，而囚犯各個都堪稱模範。\n\n-員工耐力增加30%（休息時間增加10%）。\n-囚犯再犯罪幾率-10%。
+warden_wardengangsjlocks_desc_short	-員工耐力增加。\n-囚犯再犯罪率降低10%。
+warden_wardengangscook_name	狄蘭·庫克
+warden_wardengangscook_desc	這位先生能言善辯，任何人都會被他說動，他會設法為你的監獄爭取到最好的價格。你最好相信他會在超市用優惠券！\n\n-食品成本降低25%。\n-需要外部教師的課程成本降低20%。
+warden_wardengangscook_desc_short	-食品成本降低25%。\n-需要外部教師的課程成本降低20%。
+rapsheet_manualCellSwap_hint	選擇對囚犯進行簡單的升級/降級，讓他們移動到一個新的可用牢房，或手動選擇將他們遷移至某個牢房。
+rapsheet_cellUpgrade	升級牢房
+rapsheet_cellDowngrade	降級牢房
+rapsheet_cellChoice	選擇新牢房
+rapsheet_ChangeCell	更換牢房
+ChangeCellUpgradeSuccessful	你已成功將*X升級至更好的牢房。
+ChangeCellDowngradeSuccessful	你已成功將*X降級至更差的牢房。
+ChangeCellNoAvailableRooms	沒有可用房間可供*X調換。是否使用自訂房間調換選單。
+ChangeCellDowngradingGangLeader	你即將把一名幫派頭目調換至條件更差的牢房，這麼做會激怒幫派成員，可能導致監獄出現騷動。
+freeCell_movePrisoner	點選右鍵將囚犯移動到此牢房。
+occupiedCell_movePrisoner	點選右鍵將囚犯與牢房內囚犯交換。
+occupiedCell_selectablePrisoner	點選右鍵選定囚犯，然後再選擇將囚犯安置到何處。
+mutator_name_NoMinRoomSize	無房間大小
+mutator_tooltip_NoMinRoomSize	沒有房間大小需求！但還需要獲取所需物品後，房間才能正常運作。
+action_GangBusiness	幫派生意
+action_GangRecruitment	幫派招募
+action_GangPromotion	幫派提拔
+action_ActionHerb	破壞中
+action_LoadBaby	背孩子
+action_WarmUp	熱身
+action_GetSnack	吃零食
+action_Drink	喝酒
+action_DoPullUps	引體向上
+action_KneeRaises	屈膝舉腿
+action_PushUps	俯臥撐
+reform_program_properties_RequiresAllStudentsPresent	需要所有學生在場
+d11_tableClaim_title	由*G控制
+d11_tableClaim_desc	如想撤除囚犯的桌子，直接移動或拆除即可。
+d11_tableClaim_desc_cont	不過這樣做會讓他們生氣。
+schedulesearch_menu_ClearSchedule	清除排程

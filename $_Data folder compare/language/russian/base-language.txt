@@ -1936,8 +1936,8 @@ status_effect_overheating	Перегрев
 status_effect_exposure	Воздействие
 status_effect_foodpoisoning	Пищевое отравление
 status_effect_riledup	В ярости
-status_effect_statusswimming	Плавание
-status_effect_statusdrowning	Утопление
+status_effect_statusswimming	Плывет
+status_effect_statusdrowning	Утопает
 
 condition_treated	Вылечен
 condition_needstreating	Нуждается в лечении

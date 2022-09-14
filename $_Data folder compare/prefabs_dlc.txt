@@ -1003,6 +1003,7 @@ BEGIN Prefab
 	w	9
 	h	9
 	Icon		Grove
+	Research        GroundsKeeping
 	CustomArea 1
 	
 	BEGIN Material	Type	Grass		x	0	y	0	w 	9	h	9	END
@@ -1059,7 +1060,7 @@ BEGIN Prefab
 	Name	Yard
 	w	19
 	h	14
-	Icon		Yard
+	Icon		RoomYard
 	RoomType	Yard
 	CustomArea 1
 	
@@ -1325,4 +1326,77 @@ BEGIN Prefab
 	BEGIN Object    Type    Light			x   2   y   2   orX 0   orY 1	END
 
 	VersionAdded	5000	
+END
+
+BEGIN Prefab
+    Name        TheCage
+    w           3
+    h           4
+    RoomType    TheCage
+	CustomArea 1
+
+	BEGIN Material	Type	Dirt	x   1	y   1	w   1	h   2	END
+	BEGIN Material 	Type	CageFence				x   0	y   0	w 	3	h	1	END
+	BEGIN Material 	Type	CageFence				x   0	y   1	w 	1	h	3	END
+	BEGIN Material 	Type	CageFence				x   2	y   1	w 	1	h	3	END
+    BEGIN Object    Type    CageGate    			x   1   y   3   orX 0   orY 1   END 
+ END
+
+ BEGIN Prefab
+    Name        TattooRemovalRoom
+    w           5
+    h           6
+    RoomType    TattooRemovalRoom
+
+	BEGIN Material	Type	WhiteTiles	x   1	y   1	w   3	h   4	END
+	BEGIN Material	Type	WhiteTiles	x   2	y   5	w   1	h   1	END
+	BEGIN Object 	Type	TattooRemovalMachine	x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	Light	x   2	y   3	orX 0   orY 1	END
+	BEGIN Object 	Type	Plant	x   1	y   4	w 	1	h	1	END
+	BEGIN Object 	Type	CoatStand	x   3	y   4	w 	1	h	1	END
+    BEGIN Object    Type    Door	x   2   y   5   orX 0   orY 1   END 
+ END
+ 
+  BEGIN Prefab
+    Name        FightClubRoom
+    w           8
+    h           8
+    RoomType    FightClubRoom
+
+	BEGIN Material	Type	WoodenFloor		x   1	y   1	w   6	h   6	END
+	BEGIN Object 	Type	BoomBoxRoundhouse	x   1	y   1	orX 0   orY 1	END
+	BEGIN Object 	Type	TrainingDummy	x   1	y   3	orX	1	orY	1	END
+	BEGIN Object 	Type	PunchBag		x   2	y   4	orX	1	orY	1	END
+    BEGIN Object    Type    FightRing		x   3   y   3   orX 0   orY 1   END 
+    BEGIN Object    Type    ChairYellow		x   4   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    SofaChairBrown	x   5   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    WaterCooler		x   6   y   1   orX 0   orY 1   END
+    BEGIN Object    Type    Chair			x   6   y   2   orX -1  orY 0   END
+    BEGIN Object    Type    Door			x   3   y   0   orX 0   orY 1   END
+ END
+
+BEGIN Prefab
+   Name        Gymnasium
+   w           9
+   h           9
+   RoomType    Gymnasium
+        
+        BEGIN Material Type  ReclaimedRubberFloor      x   1  y  1  w 7  h 7  END
+        BEGIN Object   Type  SmallBench                x   1  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  BoomBoxRoundhouse         x   3  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  WaterCooler               x   6  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  DrinkMachine              x   7  y  1  orX 0  orY 1 END
+        BEGIN Object   Type  PunchBag                  x   4  y  4  orX 1  orY 1 END
+        BEGIN Object   Type  GymMat                    x   1  y  3  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   1  y  5  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   3  y  3  orX 1  orY 0 END
+	BEGIN Object   Type  GymMat                    x   3  y  5  orX 1  orY 0 END
+	BEGIN Object   Type  DumbbellRack              x   1  y  6  orX -1 orY 0 END
+	BEGIN Object   Type  DumbbellRack              x   1  y  7  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  3  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  5  orX -1 orY 0 END
+	BEGIN Object   Type  WeightsBench              x   7  y  7  orX -1 orY 0 END
+	BEGIN Object   Type  Treadmill		       x   3  y  6  orX 0  orY 1 END
+	BEGIN Object   Type  Treadmill		       x   5  y  6  orX 0  orY 1 END
+        BEGIN Object   Type  Door                      x   4  y  0  orX 0  orY 1 END
 END

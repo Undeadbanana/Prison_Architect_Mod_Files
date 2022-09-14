@@ -625,9 +625,32 @@ BEGIN Provider
 END
 
 BEGIN Provider
+	Action	        Drink
+	ProviderType	Object
+	Object	        WaterCooler
+	Slot	        -1
+	PrimaryNeed	    Hydration
+	PrimaryRate	    -20.00000
+	SecondaryNeed	Bladder
+	SecondaryRate	5.00000
+	ActionType	    Use
+	Flags           NoRoomRequired
+END
+
+BEGIN Provider
 	Action	        Sit
 	ProviderType	Object
 	Object	        WoodenStool
+	Slot	        0
+	PrimaryNeed	    Comfort
+	PrimaryRate	    -0.300000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        Sit
+	ProviderType	Object
+	Object	        MetalStool
 	Slot	        0
 	PrimaryNeed	    Comfort
 	PrimaryRate	    -0.300000
@@ -645,3 +668,86 @@ BEGIN Provider
     BroadcastRange  20.0
 END
 
+BEGIN Provider
+	Action	        DoPullUps
+	ProviderType	Object
+	Object	        PullUpBars
+	Slot 			0
+	PrimaryNeed	    Exercise
+	PrimaryRate		-0.30000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        KneeRaises
+	ProviderType	Object
+	Object	        KneeRaise
+	Slot 			0
+	PrimaryNeed	    Exercise
+	PrimaryRate		-0.30000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        KneeRaises
+	ProviderType	Object
+	Object	        KneeRaise
+	Slot 			1
+	PrimaryNeed	    Exercise
+	PrimaryRate		-0.30000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        PushUps
+	ProviderType	Object
+	Object	        PushUpStones
+	Slot 			0
+	PrimaryNeed	    Exercise
+	PrimaryRate		-0.30000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        Fight
+	ProviderType	Object
+	Object	        FightRing
+	Slot	        0
+	PrimaryNeed	    Exercise
+	PrimaryRate	    -3.00000
+	SecondaryNeed    Recreation
+	SecondaryRate    -3.00000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        Fight
+	ProviderType	Object
+	Object	        FightRing
+	Slot	        1
+	PrimaryNeed	    Exercise
+	PrimaryRate	    -3.00000
+	SecondaryNeed    Recreation
+	SecondaryRate    -3.00000
+	ActionType	    Use
+END
+
+
+BEGIN Provider
+	Action	        Exercise
+	ProviderType	Room
+	Room	        FightClubRoom
+	PrimaryNeed	    Freedom
+	ActionType	    Exercise
+	Flags	        Shareable
+END
+
+BEGIN Provider
+	Action	        Exercise
+	ProviderType	Room
+	Room	        FightClubRoom
+	PrimaryNeed	    Hygiene
+	PrimaryRate		0.50000
+	ActionType	    Exercise
+	Flags	        Shareable
+END

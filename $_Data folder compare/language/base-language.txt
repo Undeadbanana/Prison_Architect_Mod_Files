@@ -603,7 +603,7 @@ buildtoolbar_deployment_SharedZone      All prisoners will be allowed in this se
 buildtoolbar_deployment_MinSecZone      Only minimum security prisoners will be permitted to enter this sector.
 buildtoolbar_deployment_MedSecZone      Only medium security prisoners will be permitted to enter this sector.
 buildtoolbar_deployment_MaxSecZone      Only maximum security prisoners will be permitted to enter this sector.
-buildtoolbar_deployment_ProtectedZone   Only 'protected custody' prisoners will be permitted to enter this sector.
+buildtoolbar_deployment_ProtectedZone   Only 'protected custody' prisoners will be permitted to enter this sector. If prisoners needs are not met in this sector they will utilise Shared sector rooms. Assign prisoners to this sector by changing their security level to Protective Custody in the prisoners Biography tab.
 buildtoolbar_deployment_SuperMaxZone    Only 'superMax' security prisoners will be permitted to enter this sector.
 buildtoolbar_deployment_DeathRowZone    Only 'death row' prisoners will be permitted to enter this sector.
 buildtoolbar_deployment_StaffOnlyZone   Only staff will be permitted to enter this sector.
@@ -3599,7 +3599,7 @@ mutator_tooltip_burnthedead             Anyone killed in your prison will sponta
 mutator_tooltip_gangwarfare             Only gang members will arrive in your prison. (No effect if Gangs are disabled.)
 mutator_tooltip_massescapes             Prisoners are far more likely to try and dig their way out of your prison, removing any usual limits on escape tunnels.
 mutator_tooltip_notunnels               Prisoners cannot dig escape tunnels.
-mutator_tooltip_morecontraband          More contrband is smuggled into prison, and prisoners are far more likely to steal contraband when given the opportunity. 
+mutator_tooltip_morecontraband          More contraband is smuggled into prison, and prisoners are far more likely to steal contraband when given the opportunity. 
 mutator_tooltip_nocontrabandlimits      Removes limits on the types of contraband that can be imported into the prison. Guns? Mops? Clipboards?! All fair game.
 mutator_tooltip_highdanger              The danger level of your prison is always at maximum, you are far more likely to to get prisoners who are violent, and they are much more likely to get into fights. 
 mutator_tooltip_superdrugs              Prisoners who take drugs or alcohol will randomly gain a reputation trait, making them progressively more difficult to deal with.

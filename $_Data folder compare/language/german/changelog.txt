@@ -1,6 +1,6 @@
-"Clink"
+"DAS KLIRREN"
 >27. Juni 2019
-	Das Clink-Update
+	Das Klirren-Update
 <->4 neue Fußböden und 4 neue Wände hinzugefügt.
 <->Verbesserte Performance und dadurch kürzere Ladezeiten.
 <->Sie können jetzt mehr Vorarbeiter einstellen, für größere Gefängnisse, in denen die Vorarbeiter auch in Programmen unterrichten.
@@ -15,7 +15,7 @@ Viel Spaß mit den Verbesserungen!
 
 ~~~~~
 
-﻿„The Slammer“-Update
+﻿„DER SLAMMER“-Update
 >17. September 2019
 
 Liebe Spieler von Prison Architect,
@@ -85,7 +85,7 @@ Gaz, Games Design Manager bei Double Eleven.
 
 ~~~~~~
 
-Update "The Sneezer"
+Update "DER NIESER"
 >21. November 2019
 
 Direktorinnen und Direktoren,
@@ -119,18 +119,18 @@ Klicken Sie auf WEITER, um mehr zu sehen
 
 ~~~~~~
 
-"THE BUCKET" UPDATE & “CLEARED FOR TRANSFER” DLC
+"DER EIMER" UPDATE & “ZUR ÜBERTRAGUNG FREIGEGEBEN” DLC
 >DATE 14/05/20
 
->"Cleared for Transfer"- Kostenloses DLC 
-Wir haben gerade das kostenlose DLC "Cleared for Transfer" veröffentlicht, mit der Privilegien für Häftlinge in bestimmten Sicherheitstrakten festgesetzt werden können. Insassen werden angeregt, ihr Verhalten zu ändern, um die Kriterien zu erfüllen und in einen Trakt mit einer niedrigeren Sicherheitsstufe versetzt zu werden, der höheren Komfort bietet.
+>"Zur Übertragung freigegeben"- Kostenloses DLC 
+Wir haben gerade das kostenlose DLC "Zur Übertragung freigegeben" veröffentlicht, mit der Privilegien für Häftlinge in bestimmten Sicherheitstrakten festgesetzt werden können. Insassen werden angeregt, ihr Verhalten zu ändern, um die Kriterien zu erfüllen und in einen Trakt mit einer niedrigeren Sicherheitsstufe versetzt zu werden, der höheren Komfort bietet.
 
-Holt Euch also das kostenlose DLC "Cleared for Transfer"!
+Holt Euch also das kostenlose DLC "Zur Übertragung freigegeben"!
 
 Gaz, Games Design Manager bei Double Eleven.
 
->Update "The Bucket"
-Das kostenlose Update "The Bucket" ergänzt das DLC "Cleared for Transfer" und erweitert das Spiel um Wünsche der Community, neue Funktionen und Optimierungen. Folgendes erwartet Euch: 
+>Update "Der Eimer"
+Das kostenlose Update "Der Eimer" ergänzt das DLC "Zur Übertragung freigegeben" und erweitert das Spiel um Wünsche der Community, neue Funktionen und Optimierungen. Folgendes erwartet Euch: 
 
 >[1/2] Neue Gegenstände
 
@@ -154,24 +154,24 @@ Das kostenlose Update "The Bucket" ergänzt das DLC "Cleared for Transfer" und e
 
 ~~~~~~
 
-ERWEITERUNG "ISLAND BOUND" & 
-UPDATE "THE ROCK"
+ERWEITERUNG "INSEL GEBUNDEN" & 
+UPDATE "DER STEIN"
 >
 
->"Island Bound" – Neuer DLC 
+>"Insel Gebunden" – Neuer DLC 
 <->Die neueste Erweiterung für Prison Architect ist jetzt online!
-<->Mit Island Bound bekommen Sie die Möglichkeit, Ihre eigenen isolierten Inselgefängnisse zu errichten und anschließend über den See- oder Luftweg mit Häftlingen, Verpflegung und anderen Ressourcen zu versorgen.
-<->Mit Island Bound bekommen Sie neue Spieloptionen, können ganz ohne Verbindung zum Festland auskommen und sogar gänzlich auf Straßen verzichten! 
+<->Mit Inselgebunden bekommen Sie die Möglichkeit, Ihre eigenen isolierten Inselgefängnisse zu errichten und anschließend über den See- oder Luftweg mit Häftlingen, Verpflegung und anderen Ressourcen zu versorgen.
+<->Mit Inselgebunden bekommen Sie neue Spieloptionen, können ganz ohne Verbindung zum Festland auskommen und sogar gänzlich auf Straßen verzichten! 
 <->Es kommen Boote, Hubschrauber, Anleger und Landeplätze ins Spiel, die mit Einlieferungs- und Auslieferungszonen verknüpft werden können. Legen Sie jetzt fest, ob Häftlinge mit dem Schiff ankommen, während die Vorräte auf dem Luftweg geliefert werden.
 <->An jedem potenziellen Schlupfloch für Schmuggler können Sie Kontrollpunkte errichten, wo Häftlinge und Besucher von Wachen durchsucht werden, sowie Scanner aufstellen, um Schmuggelware in Lieferungen zu entdecken! 
-<->Darüber hinaus bringt Island Bound neue Karten mit sich, für die das Alcatraz-Gefängnis Pate stand, sowie neue Objekte, Böden, Fähren für den Verkehr zwischen den Inseln, eine Flugfeuerwehr, eine neue Elitetruppen-Einheit und vieles mehr!
+<->Darüber hinaus bringt Inselgebunden neue Karten mit sich, für die das Alcatraz-Gefängnis Pate stand, sowie neue Objekte, Böden, Fähren für den Verkehr zwischen den Inseln, eine Flugfeuerwehr, eine neue Elitetruppen-Einheit und vieles mehr!
 
 Gaz, Games Design Manager bei Double Eleven.
 
 Klicken Sie auf WEITER, um mehr zu sehen
 
->"The Rock" Update
-Das kostenlose Update "The Rock" ergänzt die Erweiterung "Island Bound" und bringt diverse Verbesserungen mit sich.
+>"Der Stein" Update
+Das kostenlose Update "Der Stein" ergänzt die Erweiterung "Inselgebunden" und bringt diverse Verbesserungen mit sich.
 
 <->Wasserkacheln – Wasser kann jetzt mit Land und Land mit Wasser kombiniert werden, um eigene Inseln, Küstenlinien, Wassergräben usw. zu kreieren.
 
@@ -180,7 +180,7 @@ Das kostenlose Update "The Rock" ergänzt die Erweiterung "Island Bound" und bri
 ~~~~~~
 
 „GRÜNE INITIATIVE“ DLC & 
-Update „The Glasshouse“
+Update „DAS GLASHAUS“
 >
 
 >Grüne Initiative - Neuer DLC 
@@ -200,8 +200,8 @@ Update „The Glasshouse“
 Klicken Sie auf WEITER, um mehr zu sehen
 
 
->Update „The Glasshouse“
-<->Das kostenlose Glasshouse-Update stimmt auf die Erweiterung Grüne Initiative ein und bringt einige der am meisten von der Community gewünschten Verbesserungen mit sich:
+>Update „Das Glashaus“
+<->Das kostenlose Glasshaus-Update stimmt auf die Erweiterung Grüne Initiative ein und bringt einige der am meisten von der Community gewünschten Verbesserungen mit sich:
 <->Neues Recyclingsystem inklusive Recyclingtonne.
 <->Neue Schnellräume: Hof, Hain und Hecken-Irrgarten.
 <->Verbesserte Funktionalität der Aktionen Wegwerfen und Abreißen.
@@ -209,11 +209,11 @@ Klicken Sie auf WEITER, um mehr zu sehen
 
 ~~~~~~
 
-DLC „SECOND CHANCES“ & 
-Update „The Pen“
+DLC „ZWEITE CHANCE“ & 
+Update „DER STIFT“
 >Öffnet die Tore!
 
->Second Chance – Neue DLC:
+>Zweite Chance – Neue DLC:
 >   Kompetenzen aufbauen:
 <->Drei neue Räume, in denen Häftlinge lernen und arbeiten können; eine Bäckerei und ein Restaurant bedienen zivile Besucher, während in dem Besprechungsraum neue Programme durchgeführt werden können
 <->Einige Häftlinge verfügen bereits über passende Arbeitserfahrung für Jobs im Gefängnis
@@ -237,7 +237,7 @@ Klicken Sie auf WEITER, um mehr zu sehen
 <->Schnellräume: Bäckerei, Restaurant und Besprechungsraum
 <->DLC-Inforeiter steht auf der To-Do-Liste
 
->Update „The Pen“
+>Update „Der Stift“
 <->Drogensuche! Ein neuer Sicherheitsbefehl ermöglicht den Hundeführern, spezifisch nach Drogen zu suchen 
 <->Neue Richtlinie, die Personal das Tragen von Schlüsseln ermögicht
 <->Neuer Schnellraum: Rezeption
@@ -247,11 +247,11 @@ Klicken Sie auf WEITER, um mehr zu sehen
 
 ~~~~~~
 
-DLC „PERFECT STORM“ & 
-UPDATE „THE TOWER“  
+DLC „PERFEKTER STURM“ & 
+UPDATE „DER TURM“  
 >Trauen Sie nicht der Ruhe vor dem Sturm! b
 
->Perfect Storm – Neuer DLC:
+>Perfekter Sturm – Neuer DLC:
 >   Seien Sie auf das Schlimmste vorbereitet:
 <->Neue Option zur Aktivierung von extremen Wetterereignissen und Rattenplagen unterschiedlicher Intensität
 <->Diverse Unterstützungsoptionen, neue Gegenstände und Einrichtungen, Trainingsprogramme, Notdienste und Versorgungspläne
@@ -271,14 +271,14 @@ Klicken Sie auf WEITER, um mehr zu sehen
 <->Gewittersturm – Stürme können gefährlich und zerstörerisch sein, elektrische Geräte beschädigen, Feuer auslösen, die strukturelle Integrität von Gebäuden schwächen und stellen eine Gefahr für Häftlinge und Personal dar
 <->Hitzewelle – Dieses heiße Wetter führt das neue Bedürfnis Flüssigkeitszufuhr für Personal und Häftlinge ein, das zu Hitzschlag führen kann, wenn es nicht beachtet wird. Die Hitze kann auch Gegenstände beschädigen, halten Sie also Ihre Augen offen!
 >
->   Update „THE TOWER“ - Teil 1: 
+>   Update „Der Turm“ - Teil 1: 
 <->Es wurden zwei neue Wachhunde hinzugefügt, ein Shiba Inu und ein Schwarzer Setter, die jeweils über die Option verfügen, kleine Haufen rund um das Gefängnis zu hinterlassen
 <->Die Besuchszeiten können jetzt angepasst werden, je mehr Zeit ein Häftling mit Familie und Freunden verbringt, desto positiver wirkt sich das auf seine Bedürfnisse aus
 <->Scharfschützen können jetzt auch nicht tödliche Munition verwenden, um Ausbrecher und gefährliche Häftlinge zu stoppen, ohne sie zu töten
 <->Des Weiteren wurden neue Gegenstände und Bodenbeläge hinzugefügt
 
 >
->   Update „THE TOWER“ - Teil 2: 
+>   Update „Der Turm“ - Teil 2: 
 <->Farbige Personaltüren
 <->Sofa, Luxusschreibtisch, Holz- und Drehstühle
 <->Holz- und Bleiglafenster
@@ -289,4 +289,40 @@ Klicken Sie auf WEITER, um mehr zu sehen
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
+
+"„BANDEN“ DLC & 
+UPDATE „DRACHEN“ 
+>Härter, gerissener – und jetzt mit passenden Uniformen!
+
+>Banden – Neuer DLC:
+>   Neue Gefängnisbanden:
+<->Drei neue Banden machen sich in Ihrem Gefängnis breit. Jede von ihnen ist individuell ausgeprägt, stiftet Unruhe auf ihre eigene Art, und bringt besondere Probleme mit sich. 
+<->Ihre Ziele reichen von der Ausbreitung des Einflusses in Ihrem Gefängnis bis hin zur Übernahme des Schmuggelmarktes.
+<->Damit Sie den Schwierigkeitsgrad kontrollieren können, die diese Banden mit sich bringen, haben wir eine Reihe von Beschränkungsoptionen auf die Anzahl der Gangs und der in ihnen tätigen Leutnants eingeführt, um die Menge ihrer Aktionen zu kontrollieren.
+>
+>   Neue Banden bringen neue Verhaltensweisen mit sich:
+<->Jede neue Bande wird sich auf bestimmte Aktivitäten spezialisieren, von der Einführung neuer Drogen bis zur Anwendung von Gewalt, um den anderen zu zeigen, wer der Boss ist.
+<->Banden können jetzt neue Bereiche unter Kontrolle bringen, Schutzgeld von anderen Gefangenen erpressen, und einen Dealer in ihrem Territorium installieren, der ihre „Ware“ verkauft.
+<->Wenn eine Bande genügend Mitglieder gewinnt, kann sie auch anfangen, Forderungen zu stellen, um sich ihren Aufenthalt etwas angenehmer zu gestalten. Werden die Forderungen abgelehnt, kann das verheerende Folgen haben.
+Klicken Sie auf WEITER, um mehr zu sehen ...
+
+>   Korrupte Wachen:
+<->Sobald sich eine Bande zu sehr ausbreitet, kann sie einen negativen Einfluss auf Ihre Wachen ausüben,
+<->sie bestechen und dazu zu bringen, wegzuschauen, wenn Bandenmitglieder illegale Aktionen durchführen.
+<->Bestimmte Wachen lassen sich sogar für den Schmuggel von verbotener Ware bezahlen.
+>
+>   Management und Sicherheit:
+<->Um gegen verdächtiges Personal vorzugehen, können Informanten eingesetzt werden, die auf korrupte Wächter aufmerksam machen.
+<->Darüber hinaus sind neue Programme verfügbar, um sowohl Wachen zu trainieren und Bandenmitgliedern zu helfen, zu einem normalen und friedlichen Leben innerhalb der Gefängnismauern zurückzukehren.
+<->Ehemalige Bandenmitglieder werden zur Zielscheibe ihrer Ex-Kameraden, es empfiehlt sich daher, Gangs und Abtrünnige möglichst voneinander zu trennen.
+<->Für Insassen Ihres Gefängnisses, die schwieriger zu handhaben sind, stehen neue Sicherheitsoptionen zur Verfügung, von der Markierung bestimmter Personen zur besseren Überwachung bis hin zur Verlegung der problematischsten Personen in eine andere Einrichtung.
+Klicken Sie auf WEITER, um mehr zu sehen ...
+
+>
+>   Update „DRACHEN“:
+<->Neue Wachen und Hundearten – Dylan Cook und Captain J. Locks haben sich dem Wächterteam angeschlossen, bringen eine neue „zufällige“ Auswahloption, sowie 4 neue Arten von Wachhunden mit sich!
+<->Die Zellen der Gefangenen können jetzt manuell getauscht werden, sodass Sie selbst bestimmen können, wer wohin kommt. Die Anführer der Banden neigen jedoch dazu, der besten Zelle in ihrem Gebiet den Vorzug zu geben.
+<->Das Einlieferungssystem wurde ebenfalls überarbeitet: Die Häftlinge, die auf ihre Bearbeitung warten, werden nun in den Aufnahmeraum verlegt, statt in der Kälte zu warten, und es gibt eine neue Option namens „Häftlingswechsel“, mit der die Population auf der Grundlage des aktuellen Sicherheitsniveaus gehalten werden kann.
+<->Neben diesen neuen Funktionen können jetzt auch Anforderungen an die Raumgröße aufgehoben und Verbesserungen an den Überwachungskameras im Einsatzmenü vorgenommen werden."
 

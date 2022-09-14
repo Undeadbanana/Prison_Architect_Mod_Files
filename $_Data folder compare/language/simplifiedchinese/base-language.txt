@@ -1916,7 +1916,7 @@ status_effect_none	无
 status_effect_suppressed	被镇压
 status_effect_goodfood	饮食充足
 status_effect_drunk	喝醉
-status_effect_high	欣快
+status_effect_high	高
 status_effect_withdrawal	戒毒
 status_effect_tazed	电晕
 status_effect_overdosed	药物过量
@@ -2914,8 +2914,8 @@ prisoner_availablemoney	现金：*X美元
 
 informant_title	線人
 informant_coverage	覆蓋率
-informant_suspicion	懷疑度
-informant_status	狀態
+informant_suspicion	怀疑度
+informant_status	状态
 informant_none	你没有记录在案的秘密线人
 informant_hint	（招募被监禁的囚犯——比如单独禁闭）
 informant_recruitable	（潜在机密线人）

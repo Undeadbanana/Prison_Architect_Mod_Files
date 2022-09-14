@@ -3295,8 +3295,8 @@ clock_speed_5	>>>
 clock_speed_10	>>>>
 clock_speed_half	...
 clock_add_hour	+
-clock_am	AM
-clock_pm	PM
+clock_am	VORM.
+clock_pm	NACHM.
 
 # =============================================================================
 # Events

@@ -377,3 +377,40 @@ Click NEXT to see more...
 
 >	Special thanks to 
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
+
+~~~~~~
+
+"GANGS" DLC & 
+“KITE” UPDATE 
+>Tougher, smarter, and now with matching uniforms!
+
+>Gangs - New DLC:
+>   New prison gangs:
+<->Three new gang types have arrived to your prison to bring their own specific brands of trouble and management issues.  
+<->Each of these gangs will have their own personality and goals, from spreading their influence around your prison to taking over the contraband market.
+<->To help control the level of difficulty they bring to your prison we've added options to control the number of these gangs as well as the number of lieutenants each can have, which in turn affects the number of plays that gangs can make.
+>
+>   New gangs means new behaviours:
+<->Each of the new gangs will have their own specialised activities, from introducing more narcotics to using force to show the others who the boss is.
+<->Gangs can now take over new areas, making other prisoners pay them during any labour whilst also setting up a gang "dealer" in their areas to help sell anything they acquire.
+<->When a gang gains enough members they're also able to start making demands to make their stay a little more to their liking, the consequences for not accepting these demands can be disastrous.
+Click NEXT to see more...
+
+>   Crooked Guards:
+<->When a gang becomes prevalent enough, they can start having a negative effect on your guards.
+<->Guards can now be bribed by gang members, doing so will make sure that they "look the other way" when a gang plans to perform some kind of misconduct.
+<->Certain guards can also be paid to smuggle in contraband for gangs.
+>
+>   Management and Security:
+<->To help deal with suspicious staff, prisoner informants can be used to help point out any guards that have been corrupted.
+<->New programs are also available to both train guards and to also help gang members turn away from their gang and return to a normal, peaceful, life in incarceration.
+<->Ex-gang members will become targets for existing gang members so it's best to try and segregate gangs and ex-members away from one another when able.
+<->For those members of your prison that are harder to manage, new security options are also available, from marking specific individuals to help visibility to sending the most problematic ones away to another facility.
+Click NEXT to see more...
+
+>
+>   “KITE” Update:
+<->New wardens and dog types, Dylan Cook and Captain J. Locks have joined the team of available wardens bringing with them a new "random" selection option, along with 4 new types of guard dogs!
+<->Prisoners can now have their designated cells swapped manually, allowing you to pick who goes where. Though, gang leaders will tend to get priority on the best cell within any area belonging to their group.
+<->The intake system has been given an update also, first with prisoners now waiting for processing moving to the reception room instead of waiting out in the cold, along with a new a "Prisoner Replacement" option that will help maintain the prisons population based on the current ratio of security levels.
+<->Along with these new features there is also a new mutator option to remove room size requirements and some improvements to CCTV cameras that can be toggled through the deployment menu. 

@@ -292,6 +292,42 @@ Double Elevenゲームデザインマネージャー、Gazからのメッセー�
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
+
+"「ギャング」DLC & 
+「カイト」アップデート 
+>よりタフに、よりスマートに、そしてお揃いの衣装も登場！
+
+>ギャング - 新DLC：
+>   新たな刑務所ギャング：
+<->それぞれ特有のトラブルや管理に関する問題を引き起こす新しい種類のギャングが3つ刑務所に追加されました。 
+<->これらのギャングたちは、刑務所内で勢力を広げたり、禁制品市場を占拠したりと、それぞれ異なる目標を持っています。
+<->また、ギャングたちが刑務所にもたらす難易度を変更するために、ギャングの人数と各ギャングが持てる副官の数を変更するオプションを追加しました。これはギャングのプレイ回数に影響を与えます。
+>
+>   新たなギャングと新たな行動：
+<->新しいギャングたちは、より多くの麻薬を持ち込んだり、力を使ってボスが誰であるかを相手に示したりと、それぞれ特有の活動を行います。
+<->ギャングが新しいエリアを占領し、他の囚人に労働の対価を支払わせたり、そのエリアにギャングの「ディーラー」を設置し、手に入れたものを販売することができるようになりました。
+<->ギャングのメンバーが十分に増えれば、滞在をさらに自分たちの好みに合うように要求することもできるようになり、その要求を受け入れない場合、悲惨な結果になることもあります。
+続きを読むには 次へ をクリックしてください....
+
+>   不良看守
+<->各エリアでギャングの数が増えると、看守に悪影響が及ぶ場合があります。
+<->看守がギャングから賄賂を受け取ることができるようになりました。これにより、ギャングが何らかの不正行為を行う際、看守は「見て見ぬふり」をします。
+<->また、特定の看守は、お金を受け取ってギャングのために禁制品を持ち込むことができます。
+>
+>   管理とセキュリティ：
+<->不審な職員に対処するため、囚人の情報提供者を利用して、汚職行為を働いている看守を摘発することができます。
+<->また、看守の訓練と同時に、ギャングのメンバーがギャングから離れ、通常の平穏な収監生活に戻るための新しいプログラムも用意されています。
+<->元ギャングは既存のギャングメンバーのターゲットになるため、出来る限りギャングと元メンバーを分けるようにしましょう。
+<->また、管理が困難なメンバーに対しては、特定の人物をマークして視認性を高めたり、最も問題のある人物を別の施設に移送するなどといった新しいセキュリティオプションも用意されています。
+続きを読むには 次へ をクリックしてください....
+
+>
+>   「カイト」アップデート：
+<->刑務所長のディラン・クックとキャプテン・J・ロックス、そして4種類の警察犬が新たに追加されました！これらには「ランダム」選択オプションが用意されています。
+<->また、囚人たちの独房を手動で入れ替えることができるようになり、誰がどこに入るかを選択できるようになりました。ただし、ギャングのリーダーは、自分たちのグループに属するエリア内で最も良い独房を優先的に確保する傾向があります。
+<->また、囚人受け入れシステムもアップデートされ、手続き待ちの囚人は寒空の下で待機することなく大部屋に移動し、現在のセキュリティレベルの割合に応じた囚人数を維持するための「囚人入れ替え」オプションも新たに導入されました。
+<->これらの新機能に加え、部屋の広さの条件を取り除く新たな変異物オプションや、配置メニューから切り替え可能な監視カメラに関するいくつかの変更も実施されました。"
 
 
 

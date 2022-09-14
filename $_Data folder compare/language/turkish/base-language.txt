@@ -1936,8 +1936,8 @@ status_effect_overheating	Aşırı Isınma
 status_effect_exposure	Maruz Kalma
 status_effect_foodpoisoning	Gıda Zehirlenmesi
 status_effect_riledup	Sinirli
-status_effect_statusswimming	Yüzme
-status_effect_statusdrowning	Boğulma
+status_effect_statusswimming	Yüzüyor
+status_effect_statusdrowning	Boğuluyor
 
 condition_treated	Tedavi Edilmiş
 condition_needstreating	Tedaviye İhtiyacı Var
@@ -3295,8 +3295,8 @@ clock_speed_5	>>>
 clock_speed_10	>>>>
 clock_speed_half	...
 clock_add_hour	+
-clock_am	AM
-clock_pm	PM
+clock_am	ÖĞLEDEN ÖNCE
+clock_pm	ÖĞLEDEN SONRA
 
 # =============================================================================
 # Events

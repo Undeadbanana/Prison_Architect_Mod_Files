@@ -732,6 +732,7 @@ BEGIN Object
 	END
     Properties           Material
     Properties           SlowDelivery
+    Properties           Undamageable
     SpecialRestriction	 NoShadow
 END
 
@@ -758,7 +759,8 @@ BEGIN Object
 		Sprite			d_D11Ingredient01
 		StackSprite		d_D11StackMealsCooked01
 	END
-    Properties           Material
+    Properties          Material
+    Properties          Undamageable
 END
 
 BEGIN Object     
@@ -1495,6 +1497,7 @@ BEGIN Object
     MoveSpeedFactor      0.800000  
     Toughness            1.00000  
     MaxStackSize         -1  
+    RenderDepth          2
     Properties           Rubbish
     Sprite               Garbage  
 END
@@ -1885,7 +1888,7 @@ BEGIN Object
     Price                -20  
     Filter		 RequiresWater
     RenderDepth          -1  
-	GroundBaseOveride		1
+	GroundBaseOveride	 1.1
     AttachToWall         false
     BlockedBy            Wall    
     BlockedBy            UtilityStation  
@@ -2397,6 +2400,7 @@ BEGIN Object
     BlockedBy            StaticObject  
     BlockedBy            UtilityStation  
     Research             PrisonLabour
+    RenderDepth	         1
 END
 
 BEGIN Object
@@ -3198,7 +3202,7 @@ END
 
 BEGIN Material   
     Name                 LongGrass
-    ConstructionTime     -1.00000
+    ConstructionTime     1.00000
     MoveCost             0.700000  
     SoftEdged            1  
     IndoorOutdoor        1  
@@ -3694,6 +3698,7 @@ BEGIN Room
     Capturable           true
     Properties           Housing
     Properties           QualityGraded
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize  x 2  y 3  END
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
@@ -3718,6 +3723,7 @@ BEGIN Room
 	BEGIN LikelyObject	Id		BathroomSink	END
 	BEGIN LikelyObject	Id		WoodenTable		END
 	BEGIN LikelyObject	Id		WoodenStool		END
+	BEGIN LikelyObject	Id		MetalStool		END
 	BEGIN LikelyObject	Id		Painting1		END
 	BEGIN LikelyObject	Id		Painting2		END
 	BEGIN LikelyObject	Id		ChessTable		END
@@ -3740,7 +3746,7 @@ BEGIN Room
     BEGIN Grading       Type    Item    Id      Radio           END
 	BEGIN Grading       Type    Item    Id      BoomBoxRoundhouse END
     BEGIN Grading       Type    Item    Id      Bookshelf  Alt ShortBookcase  END
-    BEGIN Grading       Type    Item    Id      Chair   Alt WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair  Multi true  END
+    BEGIN Grading       Type    Item    Id      Chair   Alt WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair,MetalStool  Multi true  END
     BEGIN Grading       Type    Item    Id      PetBird         END
     BEGIN Grading       Type    Item    Id      SoftPillow      END
     BEGIN Grading       Type    Item    Id      SinkMirror      END
@@ -3759,6 +3765,7 @@ BEGIN Room
     Capturable           true
     Properties           Housing
     Properties           QualityGraded
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize  x 4  y 4  END
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
@@ -3772,6 +3779,7 @@ BEGIN Room
     BEGIN LikelyObject  Id 		Drain 			END
 	BEGIN LikelyObject	Id		ChestOfDrawers	END
 	BEGIN LikelyObject	Id		WoodenStool		END
+	BEGIN LikelyObject	Id		MetalStool		END
     BEGIN LikelyObject  Id      ShortBookcase   END
 	BEGIN LikelyObject	Id		Painting1		END
 	BEGIN LikelyObject	Id		Painting2		END
@@ -3788,7 +3796,7 @@ BEGIN Room
     BEGIN Grading       Type    Item    Id      Radio           END
 	BEGIN Grading       Type    Item    Id      BoomBoxRoundhouse END
     BEGIN Grading       Type    Item    Id      Bookshelf  Alt ShortBookcase   END
-    BEGIN Grading       Type    Item    Id      Chair   Alt WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair   Multi true  END
+    BEGIN Grading       Type    Item    Id      Chair   Alt WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair,MetalStool   Multi true  END
     BEGIN Grading       Type    Item    Id      PetBird         END
     BEGIN Grading       Type    Item    Id      SoftPillow      END
     BEGIN Grading       Type    Item    Id      SinkMirror      END
@@ -3806,6 +3814,7 @@ BEGIN Room
     Name                 HoldingCell  
     Capturable           true
     Properties           Housing
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize  x 5  y 5  END
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
@@ -3825,6 +3834,7 @@ BEGIN Room
     Properties           Housing
     Properties           QualityGraded
     Properties           RequiresSector
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize  x 2  y 3  END
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
@@ -3852,6 +3862,8 @@ BEGIN Room
 	BEGIN LikelyObject	Id		TableFootball	END
 	BEGIN LikelyObject	Id		TableTennis		END
 	BEGIN LikelyObject	Id		PoolTable		END
+	BEGIN LikelyObject	Id		WoodenStool		END
+	BEGIN LikelyObject	Id		MetalStool		END
 
     BEGIN Grading       Type    OutsideWindow	GradeEffect 2 END
     BEGIN Grading       Type    Item    Id      ShowerHead  Quantity 1 END
@@ -3862,7 +3874,7 @@ BEGIN Room
 	BEGIN Grading       Type    Item    Id      BoomBoxRoundhouse END
     BEGIN Grading       Type    Item    Id      Fan           END
     BEGIN Grading       Type    Item    Id      Bookshelf  Alt ShortBookcase   END
-    BEGIN Grading       Type    Item    Id      Chair   Alt Bench,SmallBench,OakBench,WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair   Multi true  END 
+    BEGIN Grading       Type    Item    Id      Chair   Alt Bench,SmallBench,OakBench,WoodenStool,LeatherChair,OfficeChair,SofaChairSingle,SofaChairDouble,SofaChairBrown,ChairYellow,SwivelChair,MetalStool   Multi true  END 
     BEGIN Grading       Type    Item    Id      SinkMirror      END
 	BEGIN Grading       Type    Item    Id      ComfyBed        END
 	BEGIN Grading		Type	BadWalls	Percent 50	GradeEffect -1			END
@@ -3876,6 +3888,7 @@ BEGIN Room
     Properties          Housing
     Properties          WomenOnly
     Properties          MothersOnly
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize  x 4  y 4  END
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
@@ -3924,6 +3937,7 @@ BEGIN Room
     Properties           RequiresSector
     Properties           DiningArea
     Properties           QualityGraded
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type Object  Id ServingTable Alt SmallServingTable END
     BEGIN Requirement Type Object  Id Table Alt SmallTable,OakTable,DiningTableLarge,DiningTableSmall,DinerBooth END
     BEGIN Requirement Type Object  Id Bench Alt SmallBench,OakBench,DiningChair,DinerBooth END
@@ -3979,6 +3993,8 @@ END
 
 BEGIN Room       
     Name                 Shower  
+    Properties           RequiresSector
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type Object  Id ShowerHead  END
     BEGIN LikelyObject	Id		Drain			END
 	BEGIN LikelyObject	Id		Bucket			END
@@ -4021,6 +4037,7 @@ BEGIN Room
     BEGIN LikelyObject  Id      TrainingDummy	END
 	BEGIN LikelyObject	Id		DumbbellRack	END
 	BEGIN LikelyObject	Id		SnackMachine	END
+	BEGIN LikelyObject  Id		MetalStool		END
 
 	BEGIN Grading		Type	RoomSize	Size	100 GradeEffect 1	END
 	BEGIN Grading		Type	RoomSize	Size	200 GradeEffect 2	END
@@ -4106,8 +4123,8 @@ BEGIN Room
     Research             Security
     BEGIN Requirement Type MinimumSize  x 4  y 4  END
     BEGIN Requirement Type Object  Id OfficeDesk Alt FancyDesk END
-    BEGIN Requirement Type Object  Id Chair  Alt OfficeChair,WoodenStool,ChairYellow,SwivelChair  END
-    BEGIN Requirement Type Object  Id FilingCabinet  END
+    BEGIN Requirement Type Object  Id Chair  Alt OfficeChair,WoodenStool,ChairYellow,SwivelChair,MetalStool  END
+    BEGIN Requirement Type Object  Id FilingCabinet Alt FilingCabinetFancy  END
     BEGIN LikelyObject	Id		CctvMonitor		END
     BEGIN LikelyObject  Id      DoorControlSystem  END
     BEGIN LikelyObject  Id      PhoneMonitor    END
@@ -4122,8 +4139,8 @@ BEGIN Room
     Name                 Office  
     BEGIN Requirement Type MinimumSize  x 4  y 4  END
     BEGIN Requirement Type Object  Id OfficeDesk Alt FancyDesk END
-    BEGIN Requirement Type Object  Id Chair  Alt OfficeChair,WoodenStool,ChairYellow,SwivelChair  END
-    BEGIN Requirement Type Object  Id FilingCabinet  END
+    BEGIN Requirement Type Object  Id Chair  Alt OfficeChair,WoodenStool,ChairYellow,SwivelChair,MetalStool  END
+    BEGIN Requirement Type Object  Id FilingCabinet  Alt FilingCabinetFancy END
     BEGIN Requirement Type Indoor  END
     BEGIN LikelyObject	Id		StaffDoor	    END
     BEGIN LikelyObject	Id		LeatherChair	END
@@ -4258,6 +4275,8 @@ END
 
 BEGIN Room       
     Name                 Visitation
+    Properties           RequiresSector
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type Indoor  END
     BEGIN Requirement Type Object  Id VisitorTable  Alt VisitorTableSecure END
     BEGIN LikelyObject	Id		VisitorTableSecure	END
@@ -4282,6 +4301,7 @@ BEGIN Room
     BEGIN Requirement Type Enclosed END
     BEGIN LikelyObject	Id		SolitaryDoor	END
 	Properties           RequiresSector
+	Properties           CanAssignGangSegregation
 END
 
 BEGIN Room       
@@ -4313,7 +4333,7 @@ BEGIN Room
     Name                 Staffroom
     BEGIN Requirement Type Indoor END
     BEGIN Requirement Type MinimumSize  x 4  y 4  END
-    BEGIN Requirement Type Object  Id SofaChairDouble Alt WoodenStool END
+    BEGIN Requirement Type Object  Id SofaChairDouble Alt WoodenStool,MetalStool END
     BEGIN Requirement Type Object  Id DrinkMachine  END
     BEGIN LikelyObject	Id		Radio	END
 	BEGIN LikelyObject	Id		BoomBoxRoundhouse	END
@@ -4422,6 +4442,8 @@ END
 
 BEGIN Room
     Name                Chapel
+    Properties           RequiresSector
+	Properties           CanAssignGangSegregation
     BEGIN Requirement Type MinimumSize x 6 y 6 END
     BEGIN Requirement Type Indoor END
     BEGIN Requirement Type Object Id Altar END

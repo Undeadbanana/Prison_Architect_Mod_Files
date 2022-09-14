@@ -9,7 +9,7 @@ BEGIN ScrollBar
 	NAME	Scroll
 	XPOS        SCALED 	10700
     	YPOS        SCALED 	0
-    	WIDTH       SCALED	850
+    	WIDTH       SCALED	500
     	HEIGHT      SCALED	5550
 END
 

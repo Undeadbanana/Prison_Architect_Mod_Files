@@ -8,7 +8,7 @@ codex_viewchangelog	Tüm Değişiklikler
 codex_legal	Yasal
 codex_privacy	Gizlilik Politikası
 codex_terms-of-use	Kullanım Şartları
-codex_eula	son kullanıcı lisans sözleşmesi
+codex_eula	Son Kullanıcı Lisans Sözleşmesi
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Atölye
 
 
 mm_updatenotes_Date	27 Haziran 2019
-mm_updatenotes_Header	Kodes Güncellemesi
+mm_updatenotes_Header	刑務所アップデート
 mm_updatenotes_01	4 yeni yer kaplaması ve 4 yeni duvar çeşidi eklendi.
 mm_updatenotes_02	Yükleme sürelerini kısaltmak için performans iyileştirmeleri yapıldı.
 mm_updatenotes_03	Ustabaşıların eğitim de verdiği daha büyük hapishaneler için, işe alınabilen ustabaşı sayısı arttırıldı.
@@ -674,7 +674,7 @@ interfacedeployment_insaneseczone	Sadece Cezai Ehliyeti Olmayanlar
 interfacetopbar_PrisonerCells_insaneSecOnly	Suç İşleyebilen Deli Kapasitesi: *X
 
 roomgrading_PsychiatristOffice_info	Suç işleyebilen deli mahkumların tedavi kalitesini arttırmak için yeni nesneler açıp Psikiyatrist Ofisi'ne ekle.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	Psikiyatrik Danışmanlık Programı'na katılan cezai ehliyeti olmayan mahkumlar aracılığıyla kilidi açılır.
 roomgrading_PsychiatristOffice_Item	Nesne: *X
 roomgrading_PsychiatristOffice_Quality	Psikiyatrist Yeteneği: *Q
 roomgrading_PsychiatristOffice_Upgrade	Psikiyatristin yeteneğini arttırmak için Psikiyatrist Ofisi'ni yükselt.
@@ -847,7 +847,7 @@ administrator_requiresoffice_psychiatrist	Psikiyatrist Ofisi Gerektirir
 dlc_upsell	Bu kayıt dosyası "*D" genişleme paketinin içeriklerini kullanıyor. Paketi sisteminde bulamadığımızdan bazı özzellikler devre dışı kalacak. Prison Architech deneyimini iyileştirmek için lütfen "*D"ı al.
 dlc_upsell_multiplayer	Bu çok oyunculu oyunun ev sahibi "*D"ı almış. Konuğu olarak sen de bu pakete erişebileceksin. İyi eğlenceler!
 
-dlc_insane	Psych Ward: Warden’s Edition
+dlc_insane	Psych Ward: Warden's Edition
 dlc_seaandair	Ada Yolunda
 
 regime_work_pyscho	Programlar/Boş Zaman
@@ -1045,7 +1045,7 @@ equipment_Soap	Sabun
 # =============================================================================
 
 room_gymnasium	Spor Salonu
-buildtoolbar_popup_room_gymnasium	Mahkûmların egzersiz yaparak gerginliklerini atabilecekleri ya da anlaşmazlıkları eski usül çözmek için idman yapabilecekleri bir yer.
+buildtoolbar_popup_room_gymnasium	Mahkumların egzersiz yaparak gerginliklerini atabilecekleri ya da anlaşmazlıkları eski usül çözmek için idman yapabilecekleri bir yer.
 
 
 buildtoolbar_popup_help_CellStatus_1	Hücre Durumu görünümü sana hangi hücrelerin dolu (turuncu), hangilerinde çete (kırmızı) ve hangilerinin boş (yeşil) olduğunu gösterir.
@@ -1206,7 +1206,7 @@ buildtoolbar_popup_obj_bambooDoor	Bambu çitle uyumlu olsun diye bambudan, insan
 buildtoolbar_popup_obj_canvas	Mahkumların duygularını birbirlerini bıçaklamadan, yaratıcı bir biçimde ifade etmesini sağlayan bir yöntem.
 buildtoolbar_popup_obj_PetBird	Mahkumlarına yoldaşlık edecek mini minicik bir dost.\n -Aile, Konfor ve Lüks Mallar ihtiyaçlarını karşılar.
 buildtoolbar_popup_obj_SoftPillow	Mahkumun yatağının kalitesini ve rahatlığını kabarık, kuş tüyü bir yastıkla daha da arttır.\n -Konfor ve Uyku ihtiyaçlarını karşılar.
-buildtoolbar_popup_obj_BoxingRing	Hapishane spor salonlarının olmazsa olmazı. Çoğu mahkum eserlerini burada vermeyi tercih eder.\n -Egzersiz ve Dinlenme ihtiyaçlarını karşılar.
+buildtoolbar_popup_obj_BoxingRing	Hapishane spor salonlarının olmazsa olmazı. Çoğu mahkum eserlerini burada vermeyi tercih eder.
 buildtoolbar_popup_obj_DumbbellRack	Kasına düşkün mahkumlara.\n -Egzersiz ihtiyacını karşılar.
 buildtoolbar_popup_obj_Treadmill	Mahkumların formda kalması için. Sıkı egzersiz yapan mahkumlar daha da hızlı koşar.\n -Egzersiz ihtiyacını karşılar.
 buildtoolbar_popup_obj_Fan	Etrafındaki havayı azıcık serinleten eski moda ayaklı vantilatör.
@@ -1789,9 +1789,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Mahkumların ve personelin suyu aşab
 buildtoolbar_popup_uts_ScannerMonitor	Bir Tarayıcı Makine'ye bağlandığında gardiyanların kaçak malları tespit etmesini sağlayan monitör. Gardiyanın kaçak mal tespit etme becerisi yorgunluk düzeyine bağlıdır.
 buildtoolbar_popup_uts_ScannerMachine	Tahta kasaları tarayıp kaçak malların bulunmasını sağlayan, Teslimat ve Depo alanlarına uygun bir makine. Gardiyanın kaçak mal teslim etmesi için bir Tarayıcı Monitörü'ne bağlı olmalıdır. Gardiyanın kaçak mal tespit etme becerisi yorgunluk düzeyine bağlıdır.
 buildtoolbar_popup_obj_Checkpoint	Geçen mahkumların ve ziyaretçilerin üstünün arandığı bir Kontrol Noktası istasyonu. Mahkumlar kontrol noktasından tek bir yönde geçebilir.\n-Başında bir gardiyan durmalıdır.
-buildtoolbar_popup_mat_waterShallow	Kum ve Su zeminlerin arasında daha hoş görünümlü kıyılar yapmak için sığ su alanları yarat. Normal suyun aksine bunların üzerinde yürünebilir. - $*A (sadece dışarısı)
-buildtoolbar_popup_mat_waterLarge	Geniş su alanları, göller ve okyanuslar yarat. - $*A (sadece dışarısı)
-buildtoolbar_popup_mat_WoodenDockFloor	İskelelere çok uygun, sağlam keresteden zemin. - $*A (sadece dışarısı)
+buildtoolbar_popup_mat_waterShallow	Kum ve Su zeminlerin arasında daha hoş görünümlü kıyılar yapmak için sığ su alanları yarat. Normal suyun aksine bunların üzerinde yürünebilir.
+buildtoolbar_popup_mat_waterLarge	Geniş su alanları, göller ve okyanuslar yarat.
+buildtoolbar_popup_mat_WoodenDockFloor	İskelelere çok uygun, sağlam keresteden zemin.
 
 landscape_hint	(Suyun üzerine inşa edilebilir)
 
@@ -2592,7 +2592,7 @@ interfacetopbar_tension_activeeliteops	Alanda + *X seçkin operasyoncu
 interfacetopbar_budget_othermoneyin	Diğer Gelirler: Günde *M $
 interfacetopbar_budget_othermoneyout	Diğer Giderler: Günde *M$
 
-objectiveWindow_FilterButton_1_title	Going Green
+objectiveWindow_FilterButton_1_title	Yeşille Dost
 
 d11_manageCropsInstructions	Bir yüzdenin üzerine tıklayarak onu kilitleyebilir ve diğer odaların miktarının değişmesini durdurabilirsin. Veya ok düğmelerini kullanarak yüzdeleri değiştirebilirsin. Ekin türü başına miktarın üst sınırı tüm bağlantılı odalarda %100'dür.
 
@@ -3198,7 +3198,7 @@ d11_reform_program_pass_rate	Islah Programından Geçme Oranı
 d11_reform_released_prisoners_design_info	Bir mahkum hapishanenden tahliye olduktan sonra, tekrar suç işlemelerine ya da ıslah olup iş bulmalarına bağlı olarak eylemlerinden haberdar edileceksin. Hapishanen buna göre ceza ya da ödül alacak.
 d11_reform_prisoners_action_reformed	ISLAH OLDU!
 d11_reform_prisoners_action_reoffended	TEKRAR SUÇ İŞLEDİ!
-d11_reform_prisoners_action_reoffended_returned	hapishanene geri gönderildi.
+d11_reform_prisoners_action_reoffended_returned	*X hapishanene geri gönderildi.
 d11_reform_prisoners_outcome_reformed	Şehrin şu işletmesinde iş buldu: *X
 d11_reform_prisoners_outcome_reoffended	Tutuklandı ve yeniden hapse dönecek.
 d11_reform_prisoners_outcome_reoffended_returned	Dikkat et çünkü mahkumların hapse girme sayısı arttıkça daha tehlikeli olurlar.
@@ -3419,7 +3419,7 @@ weather_Sun	Güneşli
 objective_HelpCalamities_child_3	Sıcak hava dalgası
 weather_CalamityHeatwave	Sıcak hava dalgası
 d11_staffalert_title_CalamityHeatwave01	Sıcak hava dalgası
-report_Coverage	ETKİ ALANI
+report_Coverage	Etki̇ alani
 d11_coverage_staff_only	Sadece Personel
 codex_new_weathertype_disabled	Devre dışı
 d11_on	AÇIK
@@ -3653,10 +3653,11 @@ objective_grant_subsidence_description	Devletin Çökme Hibesi'ni kullanarak hap
 objective_grant_subsidence_hire	Hasarlı duvarları ve çitleri tamir etmek için Tamirci işe al.
 objective_grant_utilityretrofit	Yardımcı Birim Tadilat Hibesi
 objective_grant_utilityretrofit_description	Haşere istilası yerel şirketlerin faaliyetlerinde ciddi sorunlara yol açabilir. Yerel şirketlerin Yardımcı Birim şebekesini korumak için bir hibe sunuldu.
-objective_grant_utilityretrofit_build	50 kare Ağır Hizmet elektrik kablosu döşe.
+objective_grant_utilityretrofit_build	50 kare Kablo Koruyucular döşe.
 calamity_grants_onboarding	Hava durumu son yıllarda daha değişken bir hal aldı. Bu kez şanslıydık ama hapishane bütün olasılıklara hazır olmalı. Kötü hava koşullarından sonra yerel şirketlere bazı hibeler teklif edilir. Mümkün olduğunda bunlardan faydalanacağına inanıyorum.
 grant_category_CollapsedWallFence	Yıkılan Çit:
 grant_category_HasObject	Sahip Olunan Nesne:
+grant_category_EverHadObject	Sahip Olunan Nesne:
 grant_category_CalamityHappened	Yaşanan Felaket:
 action_brewing	Mayalıyor
 action_electricalsabotaging	Sabote Ediyor
@@ -3816,5 +3817,361 @@ buildtoolbar_stayIndoorsCalamity	Felaket
 buildtoolbar_popup_uts_WeatherMachine	Hava Durumu Makinesi gelişmiş bir hava durumu tahmini sağlar. Hava durumunun süresini, sıcaklığı, yağış miktarını, rüzgâr hızını ve görüş uzaklığını tahmin eder. Ayrıca yaklaşan herhangi bir endişe verici hava durumu olayı için geri sayım süresi verir.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Personelin kullanabileceği çift kanatlı bir kapı.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Personelin kullanabileceği çift kanatlı bir kapı.
-codex_tooltip_startingSeason    Başlangıç mevsimini seç. Hava durumu mevsimler geçtikçe doğal bir şekilde değişecek.
+codex_tooltip_startingSeason	Başlangıç mevsimini seç. Hava durumu mevsimler geçtikçe doğal bir şekilde değişecek.
 object_AirPestControlHeli	Haşerelerle Havadan Mücadele
+codex_option_default	Varsayılan
+dlc_name_kimber	Çeteler
+quickbuild_Gymnasium	Spor Salonu
+boilingpoint_Needs	İhtiyaçlar
+boilingpoint_RoomQuality	Oda Kalitesi
+buildtoolbar_popup_help_BoilingPoint_3	^İpuçları
+securitymenu_popup_recentMisconduct	Son Kötü Davranış:
+securitymenu_PrisonerTypeDefault	Varsayılan
+securitymenu_PrisonerTypeDangerous	Tehlikeli
+rapsheet_assignguard	Gardiyan Ata
+buildtoolbar_popup_help_securitymenu_4	^İpuçları
+objective_HelpPrograms	Programlar
+objective_grant_positiveEnergyGrant_yard	Avlu İnşa Et
+gang_green	Yeşil
+d11_gang_bonebreakers_goal	Tahribat
+d11_gang_misconduct	Kabahat:
+d11_heatmap_deaths	Ölümler:
+interface_action_CleanGraffiti	Temizlik
+schedulesearch_menu_Frequency	Sıklık
+action_Withdrawal	Yoksunluk Çekiyor
+codex_option_plotType	Arsa Tipi
+codex_tooltip_plotType	Bu, belirli bir başlangıç arsası oluşturmana olanak sağlar. Varsayılan hali toprak ve çimenli olur, Orman yoğun bir ormanı andırır, Karlı kar altında olacaktır, Çöl kumlu bir çöl olur, Ay tıpkı ay yüzeyini andırır, Ada sularla çevrilidir, bir yol yerine Tekne İskelesi kullanır ve Bağlantılı Ada suyla çevrilidir ama bir köprüyle yola bağlanır.
+survey_letter_1	Sayın Müdür,\n\n\nHapishane'nin yeni özellik ve sistemlerinin test edilmesine katılımınız için teşekkürler.\n\nCEO olarak görevim, bütün Müdürlerden geri dönüş toplayarak deneyimi geliştirmektir.\n\nBirkaç dakikanızı ayırıp sizin için hazırladığım ankete katılırsanız sevinirim.\n\nCEO,\nPrison Architects Corp.
+survey_letter_2	Sayın Müdür,\n\n\nHapishanenin yeni özellik ve sistemlerinin test edilmesine devamlı katılımınız için tekrar teşekkürler. \n\nYeni özellik ve sistemleri bir süre daha test etme imkânı buldunuz, bu ankete güncel geribildirimlerinizi sunarsanız sevinirim.\n\nCEO,\nPrison Architects Corp.
+object_Beagle	Tazı
+buildtoolbar_popup_obj_Beagle	Saldırı köpeğinden ziyade Abur Cubur köpeği.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	Doberman, polis köpeğinin zirve noktasıdır.
+object_ChocolateLabrador	Çikolata Labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Yeni dostlar edinmeye bayılır, o dost kaçıyorsa daha da hoşuna gider.
+object_BlackShepherd	Siyah Alman Kurdu
+buildtoolbar_popup_obj_BlackShepherd	Şirin görünebilirler ama yollarına çıkan herkesi paramparça ederler.
+object_TattooRemovalMachine	Dövme Silme Makinesi
+buildtoolbar_popup_obj_TattooRemovalMachine	Bu eşya bir çete üyesinin ıslahında elzemdir. Dövmelerini silmek ıslahatlarının ilk adımlarından biridir.
+object_MetalStool	Metal Tabure
+buildtoolbar_popup_obj_MetalStool	Ufak, hoş bir metal tabure.
+equipment_TattooRemovalTool	Dövme Silme Aracı
+room_TheCage	Kafes
+buildtoolbar_popup_room_TheCage	Tek bir mahkumun egzersiz yapabileceği ve onu diğer mahkumlardan ayrı tutan bir dış mekân birimi.
+quickbuild_TheCage	Kafes
+buildtoolbar_quickbuild_TheCage	Tek bir mahkumun egzersiz yapabileceği ve onu diğer mahkumlardan ayrı tutan bir dış mekân birimi.
+material_CageFence	Kafes Çiti
+buildtoolbar_popup_mat_CageFence	Egzersiz yapan mahkumları içeride tutmaya yarayan tel örgü çit.
+room_TattooRemovalRoom	Dövme Silme Odası
+buildtoolbar_popup_room_TattooRemovalRoom	Mahkumlarının çete dövmelerinin silindiği acılı ve sıkıcı süreci yaşayabilecekleri yer.
+quickbuild_TattooRemovalRoom	Dövme Silme Odası
+buildtoolbar_quickbuild_TattooRemovalRoom	Mahkumlarının çete dövmelerinin silindiği acılı ve sıkıcı süreci yaşayabilecekleri yer.
+object_PullUpBars	Barfiks Çubukları
+buildtoolbar_popup_obj_PullUpBars	Daha tecrübeli mahkumlar arasında popüler olan ucuz bir egzersiz aleti.
+object_KneeRaise	Diz Çekme
+buildtoolbar_popup_obj_KneeRaise	Daha tecrübeli mahkumlar arasında popüler olan ucuz bir egzersiz aleti.
+object_PushUpStones	Şınav Taşları
+buildtoolbar_popup_obj_PushUpStones	Daha tecrübeli mahkumlar arasında popüler olan ucuz bir egzersiz aleti.
+object_GangGraffiti	Çete Grafitisi
+d11_hover_info_gang_graffiti_1	Çete Üyeleri için Bölgede +%15 Güç
+d11_hover_info_gang_graffiti_2	Çete Üyeleri için Bölgede +%15 Sertlik
+object_FightRing	Dövüş Ringi
+buildtoolbar_popup_obj_FightRing	Mahkumların ringde dövüşürlerse koğuşta dövüşmezler.\n -Egzersiz ve Dinlenme ihtiyaçlarını karşılar.
+quickbuild_FightClubRoom	Dövüş Kulübü Odası
+buildtoolbar_quickbuild_FightClubRoom	Bu oda yok sayılır.
+room_FightClubRoom	Dövüş Kulübü Odası
+buildtoolbar_popup_room_FightClubRoom	Bu oda yok sayılır.
+object_CageGate	Kafes Kapısı
+buildtoolbar_popup_obj_CageGate	Çitlerle harika çalışan bir kapı. Bir kapıyla aynı şekilde çalışır.
+buildtoolbar_popup_obj_RemoteDoor	Bu kapı, çalışan bir servo kullanılarak erişilebilecek şekilde tasarlanmıştır. Bu tür kapılarda giriş çıkışları kontrol etmeye yetecek kadar gardiyanın olduğundan emin ol ya da basınç yüzeyleri kur.
+object_RemoteDoorOrange	Kumandalı Kapı (Turuncu)
+buildtoolbar_popup_obj_RemoteDoorOrange	Bu kapı, çalışan bir servo kullanılarak erişilebilecek şekilde tasarlanmıştır. Bu tür kapılarda giriş çıkışları kontrol etmeye yetecek kadar gardiyanın olduğundan emin ol ya da basınç yüzeyleri kur.
+object_RemoteDoorRed	Kumandalı Kapı (Kırmızı)
+buildtoolbar_popup_obj_RemoteDoorRed	Bu kapı, çalışan bir servo kullanılarak erişilebilecek şekilde tasarlanmıştır. Bu tür kapılarda giriş çıkışları kontrol etmeye yetecek kadar gardiyanın olduğundan emin ol ya da basınç yüzeyleri kur.
+object_RemoteDoorYellow	Kumandalı Kapı (Sarı)
+buildtoolbar_popup_obj_RemoteDoorYellow	Bu kapı, çalışan bir servo kullanılarak erişilebilecek şekilde tasarlanmıştır. Bu tür kapılarda giriş çıkışları kontrol etmeye yetecek kadar gardiyanın olduğundan emin ol ya da basınç yüzeyleri kur.
+object_RemoteDoorWhite	Kumandalı Kapı (Beyaz)
+buildtoolbar_popup_obj_RemoteDoorWhite	Bu kapı, çalışan bir servo kullanılarak erişilebilecek şekilde tasarlanmıştır. Bu tür kapılarda giriş çıkışları kontrol etmeye yetecek kadar gardiyanın olduğundan emin ol ya da basınç yüzeyleri kur.
+object_GymInstructor	Spor Salonu Eğitmeni
+object_FilingCabinetFancy	Dosya Dolabı (Şık)
+buildtoolbar_popup_obj_FilingCabinetFancy	Onlara şık bir dosya dolabı vererek personelini ödüllendir.
+material_LongGrass	Uzun Çim
+codex_tooltip_gangsEnhanced	Artık Çetelerine katılacak mahkum alımını değiştirebilirsin. Hapishanende daha çok Çete Üyesi olması, çeteye eleman alımını hızlandırır, hapishanen daha kaotik ve tehlikeli hale gelir.\n\n Eski Tip - Çete zorluk seviyesini eskisi gibi deneyimle (Acemi) \n "Düşük" (Varsayılan) - Acemi ve Orta Seviye oyuncular için ideal \n Orta - Deneyimli oyuncular \n Yüksek - Ciddi bir zorluk arayan uzman oyuncular
+codex_tooltip_morelieutenants	Elebaşları, çeteleri için yeni bölgeler fethetmekte büyük rol oynarlar. Eğer çetelerin daha etkin olmalarını istiyorsan, her Elebaşı için gereken üye sayısını düşürmeyi göz önüne al. 6'dan düşük sayıları sadece büyük bir zorluk istiyorsan seç.
+codex_option_morelieutenants	Daha Fazla Elebaşı
+codex_tooltip_codex_option_morelieutenants	Elebaşları, çeteleri için yeni bölgeler fethetmekte büyük rol oynarlar. Eğer çetelerin daha etkin olmalarını istiyorsan, her Elebaşı için gereken üye sayısını düşürmeyi göz önüne al. 6'dan düşük sayıları sadece büyük bir zorluk istiyorsan seç.
+codex_option_GangSpecialReputations	Çeteye Özel Şöhretler
+codex_tooltip_GangSpecialReputations	Çeteler, üyelerinin hapishanendeki davranışlarını etkileyen yeni şöhretler kazanır.
+codex_option_AllDogs	Bütün Köpekler
+codex_tooltip_AllDogs	Bu seçeneği seçmek kullanılabilir olan bütün köpekleri devreye sokar ve her işe alımı rastgele kılar.
+codex_tooltip_RandomWardens	Bu seçenek senin için rastgele bir Müdür atar.
+interfacecontraband_BoilingPoint	Sabrin Siniri
+buildtoolbar_contraband_BoilingPoint	Mutsuz mahkumlar için geliştirilebilecek alanları gösterir.
+boilingpoint_header	Sabrin Siniri
+boilingpoint_OverallTemperature	Genel Sıcaklık
+boilingpoint_ProgramCompletion	Tamamlanan Programlar
+boilingpoint_StatusEffects	Durum Etkileri
+boilingpoint_OverallTemperature_popup	Mahkumlarımızı mutlu ve sakin tutmak konusunda kontrolümüz dışında olan birkaç şey var, mesela kişilikleri ya da kaç defa hüküm giydikleri. Mahkumlar sinirlendikçe Hapishane Sıcaklığı da yükselir ve kötü davranışlarda bulunma ihtimalleri artar.
+boilingpoint_Needs_popup	An itibarıyla ihtiyaçlarını karşılayamayan *X mahkumun var.\n\nLütfen ihtiyaçlarını karşılayabilecekleri odalara ya da nesnelere erişimleri olduğundan emin ol.
+boilingpoint_ProgramCompletion_popup	An itibarıyla hiçbir programı tamamlamamış olan *X mahkumun var.\n\nDaha çok program tamamlamış mahkumlar daha sakin olma eğilimindedir. Katılabilecekler bazı programlar ekle, Rejimlerinin buna izin verdiğinden emin ol. Bazı programlar tekrar edilebilir.
+boilingpoint_StatusEffects_popup	An itibarıyla olumsuz etki yaşayan *X mahkumun var.\n\nKaçak malları, özellikle alkol ya da uyuşturucuları daha yakından izlemeyi düşünebilirsin.\n\nMahkumlar olumlu etki yaşarken kötü davranışlarda bulunma ihtimalleri daha düşüktür.
+boilingpoint_RoomQuality_popup	An itibarıyla kötü odası olan *X mahkumun var.\n\nDaha mutlu ve sakin olabilmeleri için oda kalitelerini yükselt. Bazı mahkumların yüksek kaliteli odalar için yeterlilikleri yoktur. Koşulları düşürmek için Ceza Ayarlamaları'nı kullanabilirsin.
+buildtoolbar_popup_help_BoilingPoint_1	Sabrın Sınırı görünümü sana anlık Hapishane Sıcaklığı'nı gösterir. Bu menü hücre kalitesi, ihtiyaçlar, durum etkileri ve program katılım seviyeleri gibi hapishanemizdeki sorunlu alanları vurgular.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Eğer belli bir mahkumu hâlâ kontrol edemiyorsan, onu sakinleşmesi için Tecrit ya da Hücre Hapsi'ne yollayabilirsin.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Bütün mahkumların temel ihtiyaçlarına erişimleri olduğundan emin ol.
+buildtoolbar_popup_help_BoilingPoint_5	- Islahat, terapi, tedavi ve iş programlarına yatırım yaparak rejimlerinin bunlara katılmalarına izin verdiğinden emin ol.
+buildtoolbar_popup_help_BoilingPoint_6	- Düşük Güvenlik mahkumları, cezaları daha kısa olduğu için daha yüksek tahammüle sahiptir.
+boilingpoint_advisor_onboarding	Bu mahkum arıza çıkarıyor, belli ki sabrının sınırına gelmiş. Belki de mahkumlarımız için elimizden geleni yapmıyoruz, ihtiyaçlarının karşılandığından emin ol, yaşam şartlarını geliştir ve onlara yapacak bir şey ver. Daha fazla bilgi için Sabrın Sınırı İstihbarat Menüsü'ne bir göz at.
+interfacecontraband_SecurityMenu	Güvenlik Menüsü
+buildtoolbar_contraband_SecurityMenu	Tehlikeli ya da tehlikede olarak görülen tüm mahkumların bir listesini gör ve daha yakından yönetilmesi gereken güvenlik önlemlerini uygula.
+securitymenu_header	Güvenlik Menüsü
+securitymenu_popup_prisonerSelect	Mahkumu seçmek için Sol Tıkla
+securitymenu_popup_dangerousReputations	Tehlikeli Şöhretler:
+securitymenu_popup_dangerousTraits	Tehlikeli Özellikler:
+securitymenu_popup_crimesCommitted	Suçlar:
+securitymenu_PrisonerType	Mahkum Tipi:
+securitymenu_PrisonerTypeVulnerable	Savunmasız
+securitymenu_MarkingTypeUnmarked	İşaretlenmemiş
+securitymenu_SelectArea	Alan Seç
+securitymenu_SelectAreaCancel	Alan Seçiminden Vazgeç
+securitymenu_RestrictAccess	Erişimi Kısıtla:
+securitymenu_TransferPrisoners	Mahkumları Transfer Et:
+securitymenu_transferSecurityLevel	Güvenlik Seviyesi
+securitymenu_GuardAssignment	Gardiyan Görevlendirmesi:
+securitymenu_MarkPrisoner	Mahkumu İşaretle:
+securitymenu_RemovePrisoner	Mahkumu Uzaklaştır:
+securitymenu_RemovePrisonerButton	Mahkumu Uzaklaştır
+securitymenu_RemovedPrisoner	Uzaklaştırılmış Mahkum
+securitymenu_RemovePrisoner_message	Mahkumu Uzaklaştır\n\nBu, en kötü suçlularla uğraşırken başvurulacak son çaredir, yüklü bir meblağ karşılığında bu mahkumu ayrı bir tesise yollayabileceksin. Bu eylem her 5 günde sadece bir defa kullanılabilir.
+securitymenu_RestrictAccess_tooltip	Belirli alanlara girişi engelle, gardiyanlar onları etkisiz hale getirmeye çalışmadan seçili mahkum ya da mahkumların girişine izin vermez. Çete üyelerinin kendi alanları/bölgelerine girişleri kısıtlanamaz.
+securitymenu_TransferPrisoner_tooltip	Seçili mahkumları, onları daha kolay yönetmeye yardımcı olması için belirli bir güvenlik sistemine taşı.
+securitymenu_MarkPrisoner_tooltip	Seçili mahkumlara, daha tehlikeli ya da tehlikede olan kişileri daha iyi gözlemleyebilmeni sağlayacak görsel bir işaret ekle.
+rapsheet_assignguard_end	Gardiyanı Görevden Al
+job_PrisonerAssignment	Mahkum Ataması
+assignment_confirm_message	Bir gardiyan atamak ister misin?
+assignment_description_message	Eğer bu mahkumu gözetleyeceksen, ona bir gardiyan atamak isteyebilirsin. Lütfen yeterli sayıda gardiyanın olduğundan emin ol.
+assignment_error_message	Şu an bu mahkuma gardiyan atanamıyor. Lütfen daha sonra tekrar dene.\n\nMahkum ya yeni gelmiş, ya zincirli ya da tecritte.
+buildtoolbar_popup_help_securitymenu_1	Güvenlik menüsü, mahkum nüfusunun tehlikeli ya da savunmasız görülen bütün üyelerini listeler. Bu menüden mahkumlara daha çok destek sunmak ve bu mahkumları daha iyi yönetmek için mahkumlara belli eylemler uygulanabilir.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Varsayılan halde, tehlikeli ve savunmasız mahkumlar bir arada listelenir ama "mahkum tipi" seçeneği, eylemleri belirli gruplara uygulamana olanak sağlar.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Bazı eylemler gruplara uygulanabilirken bazıları sadece seçili kişilere uygulanabilir, bir mahkumu seçmek için üzerine gel ve sol tıkla.\n\n
+buildtoolbar_popup_help_securitymenu_5	- Gardiyan görevlendirme seçeneği, mahkumları diğerlerinden korurken aynı zamanda diğerlerini gözlemleyerek herhangi bir kabahat işlenmesine engel olmaya yardımcı olur. Gardiyanlar mahkumların uyku ve duş gibi özel anlarında yanlarında kalmaz.
+buildtoolbar_popup_help_securitymenu_6	- Eğer bir mahkum hapishanende çok fazla sorun çıkarıyorsa ve başa çıkılmaz hale gelmişse, Mahkumu Uzaklaştır seçeneği mahkumu yollar. Bu eylemin bir bekleme süresi vardır, her gün uygulanamaz ve aynı zamanda ücretlidir.
+objectiveWindow_FilterButton_4_title	Çeteler Hakkında
+objectiveWindow_FilterButton_4_tooltip	Çeteler hakkında bilmen gereken her şey
+objective_HelpGangBehaviourAndType	Çete Davranışları
+objective_HelpGangBehaviourAndType_Description	Tanıtılan yeni çetelerden her biri diğerinden biraz farklı davranır.
+objective_HelpGangBehaviourAndType_child_1	Engerekler
+objective_HelpGangBehaviourAndType_child_1_Description	Engerekler, bulundukları hapishaneyi kontrol ettikleri narkotik ile zehirlemeye odaklanırken, bireysel olarak da ölümcül olan sinsi bir güruhtur.
+objective_HelpGangBehaviourAndType_child_2	Kemik Kıranlar
+objective_HelpGangBehaviourAndType_child_2_Description	Kemik Kıranlar kas yığını serseriler olarak özetlenebilirler, her şeyden önce şiddet ve tahribata odaklanırlar.
+objective_HelpGangBehaviourAndType_child_3	Çakallar
+objective_HelpGangBehaviourAndType_child_3_Description	Çakallar bu çeteler arasında en becerikli olanlarıdır, finansal güçlerini arttırmak için bölge kontrolü ve kaçak mal satışına odaklanırlar.
+objective_HelpGangActivities	Çete Faaliyetleri
+objective_HelpGangActivities_Description	Çete Faaliyetleri arasında kendi bölgelerini yönetmek, hapishanedeki kilit isimlere karşı büyük hamleler yapmak, oyuncudan taleplerde bulunmak ve benzeri eylemler bulunur.
+objective_HelpGangActivities_child_1	Özelleşmiş Eylemler
+objective_HelpGangActivities_child_1_Description	Her çete, farklı kişiliklerine bağlı olarak özelleşmiş eylemlerde bulunurlar. Engerekler narkotik üretimi ve satışına, Kemik Kıranlar dövüş ve tahribata ve Çakallar da bölge ve para kazanmaya odaklanırlar.
+objective_HelpGangActivities_child_2	Bölge Faaliyetleri
+objective_HelpGangActivities_child_2_Description	Yeni bölgelerle yeni davranışlar gelir. Çeteler artık kontrol ettikleri alanlarda "asayiş" sağlar, diğer mahkumların uslu durduklarından ve içerideki eşyaları kullanırken para ödediklerinden emin olurlar, iş zamanında bile. Çete üyeleri aynı zamanda, kontrol ettikleri odaya göre yüklü miktarda kaçak mal da ele geçirirler, bu malları diğer mahkumlara satmak için de "torbacılar" ortaya çıkar.
+objective_HelpGangActivities_child_3	Çete Talepleri
+objective_HelpGangActivities_child_3_Description	Bir çete hapishanede yeterli güç ve özgüven kazandıktan sonra belirli taleplerde bulunmaya başlar, bu talepler yeni Ekipman istemekten daha fazla Avlu Zamanı ya da Serbest Zaman istemeye kadar uzanır, oyuncunun da bu taleplere cevap vermesi için belirli bir süresi vardır. Eğer oyuncu bu talepleri karşılayamazsa sonuçları hemen yaşanmaya başlar, çete genellikle bir çeşit tahribat yaratır ya da şiddete başvurur.
+objective_HelpCrookedGuards	Yozlaşmış Gardiyanlar
+objective_HelpCrookedGuards_Description	Cesur personelimizin saf ve boyun eğmez olduklarını düşünsek de, ne yazık ki durum her zaman böyle olmuyor.
+objective_HelpCrookedGuards_child_1	Gardiyan Rüşvetçiliği
+objective_HelpCrookedGuards_child_1_Description	Bütün gardiyan tipleri belli bir kabahati 48 saatliğine göz ardı etmeleri için rüşvet alabilirler, mahkumları kaçak mal ile yakalasalar bile mallara el koymazlar ve çetelerin yeni bölgeleri işgal etmelerini kolaylaştırırlar. Neyse ki muhbirler kullanılarak şüpheli gardiyanlar açığa çıkarılabilir ve bu da oyuncuya yozlaşmış gardiyanları kovma şansı verir.
+objective_HelpCrookedGuards_child_2	Gardiyan Yozlaşması
+objective_HelpCrookedGuards_child_2_Description	Belli gardiyanlar çete üyeleriyle fazla etkileşime girerek yozlaşabilir, para karşılığı çeteler için içeriye gizlice kaçak mal sokabilirler. Muhbirler şüpheli gardiyanları senin için işaretlerken kaçak mal dedektörleri ve bekçi köpekleri bu kaçak malları gardiyanların üzerinde tespit edebilirler.
+objective_HelpGangIntelligence	Çete İstihbaratı
+objective_HelpGangIntelligence_Description	Bir hapishanede bu denli kabahat potansiyeli olduğundan dolayı İstihbarat, tesisini güvenli tutmak için her zaman kilit bir rol oynar. Çete İstihbaratı menüsü hapishanendeki her çete hakkında bilgi sağlar, her birinin üye sayısını, varlıklarını ve hapiste oldukları süre boyunca işledikleri kabahat sayısını listeler. Aynı zamanda çetelerin dahil olduğu hareket ya da eylemleri de göstererek her bir çetenin tehlike seviyesini göstermeye yardımcı olur.
+objective_HelpSecurityOptions	Güvenlik Seçenekleri
+objective_HelpSecurityOptions_Description	Tehlikede olduğu ya da başkaları için tehlike arz ettikleri düşünülen tüm mahkumları içeren bir "önemli mahkumlar" listesi yeni bir menü altında gösterilecek. Bu menü ile fazladan dikkat edilmesi gereken mahkumlar oyun sırasında daha rahat izlenebilmeleri için işaretlenebilir. Bir mahkumun belirli alanlara erişiminin kısıtlanması, grupları belirli güvenlik seviyelerine transfer etmek ve hatta yüklü bir ceza ödenmesi gerekse de sorunlu mahkumları farklı bir tesise yollamak gibi diğer eylemler de bu menüdedir.
+objective_HelpPrograms_Description	Gardiyanlar artık silahlı bir mahkumu silahsızlandırma eğitimi alarak mahkumlarını daha güvende tutmana ve onları desteklemene yardımcı olabilir. Mahkumlar için de yeni programlar var, dinlenme programları mahkumların ıslahatlarına veya sakinleşmelerine yardımcı olur ya da biraz stres atmalarına olanak sağlarken rehabilitasyon programları mahkumları çete hayatından döndürmeye yardımcı olur ve cezalarını daha barışçıl ve yapıcı bir biçimde bitirmelerine fırsat verir.
+objective_grant_positiveEnergyGrant	Pozitif Enerji
+objective_grant_positiveEnergyGrant_Description	Çete Üyelerinin zihinlerini (ve enerjilerini) şiddetten ziyade egzersize odaklamaları gerek. Araştırmalara göre egzersiz böyle eylemleri azaltıyor. Avluya dış mekân egzersiz ekipmanları kur.
+objective_grant_positiveEnergyGrant_bench	Ağırlık Bankı Ekle
+objective_grant_advancedProtectionGrant	Gelişmiş Koruma
+objective_grant_advancedProtectionGrant_Description	Personel Koruması organize çetelerle baş ederken hayati önem taşır. Kendi güvenlikleri için, personelimizin en yüksek seviyeye kadar eğitim aldıklarından emin olmalıyız.
+objective_grant_advancedProtectionGrant_training	20 Gardiyan'ı Silahsızlandırma Sertifikasyonu'nda başarıyla eğit.
+objective_grant_gangWelfareGrant	Çete Refahı
+objective_grant_gangWelfareGrant_Description	Çete Savaşları'nı Çete Refahı'na çevirmek yüksek öncelik taşır. Çete üyelerinin, onların bu hayatı bırakmalarını sağlayacak programlara dahil edildiklerinde ıslah olma şansları oldukça yüksektir.
+objective_grant_gangWelfareGrant_exGangMembers	15 Çete Üyesi'ni başarıyla ıslah et ve Eski Çete Üyesi'ne çevir.
+objective_grant_exGangProtectionGrant	Eski Çete Üyesi Koruma Programı
+objective_grant_exGangProtectionGrant_Description	Hükümet, eski çete üyelerini rehabilitasyon yolunda korumak amacıyla bir Korumalı Gözaltı koğuşu inşası için fon öneriyor.
+objective_grant_protectionCells	Sadece Korumalılar Bölümüne 10 Hücre İnşa Et
+objective_grant_protectionShower	Sadece Korumalılar Bölümüne Duş İnşa Et
+objective_grant_protectionCanteen	Sadece Korumalılar Bölümüne Kantin İnşa Et
+objective_grant_protectionKitchen	Sadece Korumalılar Bölümüne Mutfak İnşa Et
+objective_grant_protectionYard	Sadece Korumalılar Bölümüne Avlu İnşa Et
+objective_grant_protectionGuards	Sadece Korumalılar Bölümüne Gardiyan Ata
+objective_grant_protectionExGang	1 Eski Çete Üyesini Korumalı Gözaltı Güvenlik Seviyesine Ata
+grant_category_adminHired	İşe Alınan Yönetici:
+reformprogram_TattooRemovalProgram	Dövme Silme Programı
+reformprogram_TattooRemovalProgram_text	Eğer mahkumların çete dövmelerinden pişmansa, dövme silme seansları açarak rehabilitasyonlarını sağlayabilirsin. Bu programı bitirmek onları birer hedef haline getirir.
+reformprogram_HandToHandCombat	Silahsızlandırma Sertifikasyonu
+reformprogram_HandToHandCombat_text	İşler kızışınca biz daha da kızışırız. Gardiyanlarını, mahkumları silahsızlandırmak için gelişmiş tekniklerde eğit.
+reformprogram_GangRehabilitation	Çete Rehabilitasyonu
+reformprogram_GangRehabilitation_text	Eğer bir çete üyesi hapishanede çok fazla bela çıkarıyorsa, onun bu programı bitirmesini sağla. Çetesiyle olan bağlarını koparmasının ve yeni bir sayfa açmasının ilk adımıdır. Bu programı bitirmesi onu bir hedef haline getirir. Sevk Tipi: Şiddet ve Tahribat.
+reform_program_intake_ReferralGangViolenceDestruction	Sevk: Sadece Şiddet and Tahribat Çeteleri.
+reform_program_intake_GangOnly	Sadece Çeteler
+reformprogram_FaithProgram	İnanç Programı
+reformprogram_FaithProgram_text	Bu yoğun programa katılan mahkumlar kötü yaşam tarzlarını bırakıp daha iyi bir hayata sarılmaya daha istekli olurlar. Eğer bu programı bitirirlerse çeteleriyle olan bağlarını koparmak isteyebilirler.
+reformprogram_BreatheProgram	Nefes Terapisi
+reformprogram_BreatheProgram_text	Mahkumlarına nefes almayı ve rahatlamayı öğret. Her dersten sonra mahkumların çok daha rahat hissedecek, hatta daha iyi davranmayı bile düşünebilirler.
+reformprogram_FightClub	Dövüş Kulübü
+reformprogram_FightClub_text	Bu eğitim seanslarının amacı mahkumlarının yıkıcı enerjilerini kontrollü bir ortamda dövüşmeye yönlendirmektir. Sonrasında kavga etmek için fazla yorgun olabilirler. Bir dakika, ilk kural neydi?
+reform_program_properties_TeacherUsesSameEquipment	Öğretmen için *X gerekiyor
+reform_program_properties_GangMemberCanAttend	Çete üyeleri katılabilir
+gang_vipers	Engerekler
+gang_bonebreakers	Kemik Kıranlar
+gang_jackals	Çakallar
+gang_red	Kırmızı
+gang_blue	Mavi
+gang_yellow	Eski Çete Üyeleri
+objective_GangDemand	Çete Talepleri
+objective_GangDemand_description	Cesaretlenmiş çete liderleri, hapishanedeki hayat kalitelerini arttırmak için taleplerde bulunurlar. Bu taleplere karşılık verilmemesinin sonucunda isyan çıkabilir; eğer bu durum gerçekleşirse hapishanenin buna hazır olduğundan emin ol.
+GangDemand_announcement	Taleplerini karşılamazsan çete üyeleri epey sorun çıkarır.
+objective_Gang_ContrabandToolsPunishment_child	*G - Araç Bulma cezasını *X saate düşür.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Araç Bulma cezasını sıfıra düşür.
+objective_Gang_MurderPunishment_child	*G - Cinayet cezasını *X saate düşür.
+objective_Gang_MurderPunishment_Escalated_child	*G - Cinayet cezasını *X saate düşür.
+objective_Gang_MoreYardTime_child	*G - Avlu Zamanı rejimini *X saate arttır.
+objective_Gang_MoreYardTime_Escalated_child	*G - Avlu Zamanı rejimini *X saate arttır.
+objective_Gang_PullUpBars_child	*G - *X Barfiks Çubuğu var.
+objective_Gang_PullUpBars_Escalated_child	*G - *X Barfiks Çubuğu var.
+objective_Gang_TyreApparatus_child	*G - *X Lastik Gereci var.
+objective_Gang_TyreApparatus_Escalated_child	*G - *X Lastik Gereci var.
+objective_Gang_PunchBag_child	*G - *X Kum Torbası var.
+objective_Gang_PunchBag_Escalated_child	*G - *X Kum Torbası var.
+objective_Gang_PushUpStones_child	*G - *X Şınav Taşları var.
+objective_Gang_PushUpStones_Escalated_child	*G - *X Şınav Taşları var.
+objective_Gang_RequireYard_child	*G - *X var.
+objective_Gang_RequireYard_Escalated_child	*G - *X var.
+objective_Gang_RequireLibrary_child	*G - *X var.
+objective_Gang_RequireLibrary_Escalated_child	*G - *X var.
+objective_Gang_RequireMailRoom_child	*G - *X var.
+objective_Gang_RequireMailRoom_Escalated_child	*G - *X var.
+d11_gangdemand_success	Bu durumla baş ettiğimiz için biraz para aldık.
+d11_gangdemand_fail	Bu durumun tekrarlamayacağından emin ol.
+d11_gangCompensation	Çete Tazminatı
+d11_gang_goal	Çete Amacı:
+d11_gang_jackals_goal	Hapishane Kontrolü
+d11_gang_traits	Çete Özellikleri:
+d11_gang_officer	Çete Subayı:
+d11_gang_territories	Bölgeler:
+d11_gang_kills	Çete Cinayetleri:
+d11_heatmap_gang	Karışan Çete:
+d11_heatmap_day	Gerçekleştiği Gün:
+d11_heatmap_time	Gerçekleştiği Zaman:
+d11_gang_event_pr.gf	Çete Kavgası
+d11_gang_event_g.tc	Bölge Değişimi
+gangSegregationMessage	Hangi çetelerin genellikle hangi alanlara girmeye izinli olduklarını seç.
+interfacedeployment_GangSegregation	Çete Ayrımı
+buildtoolbar_deployment_GangSegregation	Çetelerin alan paylaşımı üzerinde biraz kontrol sağlamak için çeteler farklı yaşam alanlarına atanabilir, böylece birbirlerinden uzak tutularak gereksiz sürtüşmelere engel olunabilir.
+research_StaffVetting	Personel Kimlik İncelemesi
+researchtooltip_StaffVetting	Yeni Gardiyanların yozlaşma ihtimalini azaltır. Gardiyan Soruşturması'nın kilidini açar ve GM kullanarak Yozlaşmış Gardiyanları açığa çıkarmanı sağlar.
+buildtoolbar_GuardInvestigation	Gardiyan Soruşturması
+buildtoolbar_tooltip_GuardInvestigation	GM'lerin ve Güvenlik Şefinle birlikte çalışarak gardiyanlarını soruştur ve yolsuzlukları ortaya çıkar. Etkin GM'lerin ne kadar çok alan tararsa o kadar Yozlaşmış Gardiyan ortaya çıkarırsın. Şefin bir program yürütmüyor ya da bir infaza katılmıyor olması gerekir.
+buildtoolbar_CI_requirement	En az bir GM
+guardinvestigation_underway	GARDİYAN SORUŞTURMASI SÜRÜYOR
+guardinvestigation_investigated	*A/*B gardiyan soruşturuldu
+informant_investigating	Soruşturuluyor
+crookedguard_fired_reward	Yozlaşmış Gardiyan Kovuldu
+crookedguard_advisor_onboarding	Bir çeteyle birlikte çalışan bir Yozlaşmış Gardiyan tespit ettik. Onu Raporlarındaki Personel sekmesinde işaretledim. Onu kovduğundan emin ol.
+buildtoolbar_popup_staff_doghandler	Köpek Yetiştiriciler ve köpek dostları yakınlarından geçen mahkumlar üzerindeki kaçak malları tespit edebilirler.
+buildtoolbar_popup_staff_kimber_doghandler	Köpek Yetiştiriciler ve köpek dostları yakınlarından geçen mahkumlar ve yozlaşmış gardiyanlar üzerindeki kaçak malları tespit edebilirler.
+d11_prisoner_replacement	Mahkum Yer Değişimi
+d11_prisoner_replacement_tooltip	Mahkum nüfusu istenen sayıya kadar yenilenirken güvenlik seviyesi oranları mümkün oldukça aynı tutulur. Mahkum fazlası, standart sisteme uygun şekilde talep edilir.
+job_cleanupobject	*X Temizliği
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X ÇETE ÜYESİ KIZGIN (Grafiti silindi)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X ÇETE ÜYESİ KIZGIN (Lider daha düşük kaliteli bir hücreye transfer edildi)
+research_CCTVImprovement	CCTV Geliştirmesi
+researchtooltip_CCTVImprovement	CCTV ekipmanının kullanılırlığını geliştir. CCTY görüş konilerini ve onların görüş alanındaki kötü davranış gösteren mahkumları görmene olanak sağlar.
+d11_cctv_cone	CCTV Konisi
+d11_toggle_cctv_cone_detail	CCTV Kamera'nın görsel konilerini aç/kapat
+d11_left_click_to_clean	Temizlemek İçin Sol Tıkla
+d11_gang_graffiti_message	Çeteler bölgelerini işaretliyorlar, böylelikle onları daha sert savunabiliyorlar. Etraf güvenli olduğunda dağınıklıkla ilgilenmesi için bir Hademe gönder. Çeteler "sanatlarının" kaldırılmasından memnun olmayacaklardır, karşılık verebilirler.
+d11_gangBulkIntake_advisor_onboarding	Hapishane Komisyonu sorunlu mahkumları daha iyi yönetilen başka hapishanelere transfer ediyor, bu yeni gelenlerle kolaylıkla başa çıkabileceğine güveniyorum. Mahkum İncelemeleri bundan sonra haftalık olarak yapılacak.
+d11_gangBulkIntake_staffAlert	Çete Üyesi Alım otobüsü geliyor
+d11_gangdealer_advisor_onboarding	Çete bölgesinde bir Torbacı tespit ettik. Yüklü bir miktar paralarına el kondu.
+d11_CI_advisor_onboarding	Gizli Muhbirlerinle birlikte çalışarak yozlaşmış gardiyanları ortaya çıkar. Ellerindeki bilgileri paylaşmaları için Şef'in ofisine yollanacaklar. GM işe aldığından emin ol, daha fazla bilgi için İstihbarat Menüsü'ndeki (?) işaretine göz at.
+d11_LeaderAssassination_advisor_onboarding	Çeteler fazla saldırganlaşmaya başladı ve diğer Çete liderine suikast yapmayı planlıyorlar. Başarılı olurlarsa şu anki bölgeleri bundan etkilenecek.
+d11_GangTargetting_advisor_onboarding	Çete üyeleri benzer ilgileri olduğu için, bazen de belli suçlardan hoşlanmadıkları için bir araya gelirler ve bu kişileri hedef almaya çalışırlar.
+d11_staffalert_title_making_move	Çete harekete geçiyor.
+d11_staffalert_summary_making_move	Bir Çete'nin harekete geçtiğine dair bilgi aldık.
+d11_staffalert_summary_gangdealer	Bir Torbacı bulundu, 500 $ ödül aldın.
+d11_staffalert_summary_TerritoryPlacement	Bu oda bir Çete tarafından sahiplenilmiş ve çalışanlar için çok tehlikeli. Onları odadan tahliye et.
+crisisSector_CustomSearchArea	Özel Arama Alanı
+crisisSector_ScheduleSearch	Özel Takvim
+schedulesearch_menu_TargettedArea	Hedeflenen Alan
+schedulesearch_menu_StartTime	Başlangıç Zamanı
+schedulesearch_menu_ExistingSchedule	Mevcut Takvim
+schedulesearch_menu_CurrentTime	Şu Anki Zaman
+schedulesearch_menu_CurrentFrequency	Şu Anki Sıklık
+crisisSector_UnlockedOnly	Sadece Açık
+schedulesearch_menu_SaveSelection	Seçimi Kaydet
+reputation_Recruiter	Üye Bulan
+reputationtooltip_Recruiter	Bu mahkum, eğer bir çete üyesiyse, diğer mahkumları çetesine katmaya daha yatkın olur.
+reputation_Resourceful	Becerikli
+reputationtooltip_Resourceful	Bu mahkumun vaktini kitap okuyarak harcaması daha olasıdır, aynı zamanda kaçak malların nerede olacaklarını bilir ve Çeteleri için alıkoyabilir.
+reputation_ExGangMember	Eski Çete Üyesi
+reputationtooltip_ExGangMember	Bu mahkum Çete hayatının ona göre olmadığına karar verdi ama Çete bundan memnun değil.
+reputation_CunninglyBrutal	Kurnaz ve Zalim
+reputationtooltip_CunninglyBrutal	Engerekler hedeflerine güvenliğin kör noktalarında saldırmayı denerler.
+reputation_SneakThief	Sinsi Hırsız
+reputationtooltip_SneakThief	Bütün Çakallar şöhretten bağımsız olarak cepçilik yeteneğine sahiptir.
+reputation_BattleTendency	Savaş Eğilimi
+reputationtooltip_BattleTendency	Eğer bir koğuşta Çakallar'ın sayısı gardiyanlardan fazlaysa, o koğuştaki personele daha şiddetli davranırlar.
+reputation_DisrepectSurroundings	Vandal
+reputationtooltip_DisrepectSurroundings	Kemik Kıranlar bazı ihtiyaçları karşılanmadığında nesnelere hasar verirler.
+reputation_UnderCoverDon	Gizli Baba
+reputationtooltip_UnderCoverDon	Engerekler'in lideri bir çete askeri olarak gizlenir, sadece cezalandırıldığı zaman ortaya çıkar.
+reputation_Enforcer	İnfazcı
+reputationtooltip_Enforcer	Bu mahkum, aynı çeteden olmadıkları sürece diğer mahkumları korkutur. Aynı zamanda Çeteler için bölge işgal etmekte çok iyidir.
+reputation_GymRat	Spor Delisi
+reputationtooltip_GymRat	Kemik Kıranlar, Serbest Zamanlarını Spor Salonu ya da Avlu'da geçirirler.
+reputation_Loyal	Sadık
+reputationtooltip_Loyal	Bu mahkum, eğer Çete Lideri cezalandırılıyorsa, çetede kalmaya ve sinirlenmeye daha yatkın olur.
+traits_violent	Şiddetli
+traits_lethal	Ölümcül
+finance_cost_gangdealer	Çete Torbacısı Bulundu
+object_PrisonerLetter	Mahkum Mektubu
+object_LoveLetter	Aşk Mektubu
+object_LoveLetterOpened	Aşk Mektubu (Açılmış)
+interface_prisonerWritingLetter	Sevdiklerine yazıyor
+interface_prisonerWritingLoveLetter	ÇOK özel birisine yazıyor
+warden_wardengangsjlocks_name	Yüzbaşı J. Locks
+warden_wardengangsjlocks_desc	Locks'ın emri altındaki personel sınırlarını zorlayabilir ve mahkumlar model mahkumlara dönüşürler. \n\n- +%30 Personel Dayanıklılığı (%10 daha fazla dinlenme gerektirir). \n- -%10 Mahkum yeniden suç işleme şansı.
+warden_wardengangsjlocks_desc_short	- Personel dayanıklılığı artar.\n- Mahkumların yeniden suç işleme şansı %10 azalır.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Bu beyefendinin dili her kapıyı açar, hapishanen için en iyi fiyatları almayı başarır. Süpermarkette kupon kullandığına şüphen olmasın! \n\n- Yiyecek bedelleri %25 azalır. \n- Dışarıdan öğretmen gerektiren Programların bedeli %20 azalır.
+warden_wardengangscook_desc_short	- Yiyecek bedelleri %25 azalır.\n- Dışarıdan öğretmen gerektiren Programların bedeli %20 azalır.
+rapsheet_manualCellSwap_hint	Bu mahkuma basit bir arttırma / azaltma yapmak ve onu yeni uygun bir hücreye taşımak ya da hangi hücreye taşınacaklarını kendin belirlemek için seçim yap.
+rapsheet_cellUpgrade	Hücre Kalitesini Arttır
+rapsheet_cellDowngrade	Hücre Kalitesini Azalt
+rapsheet_cellChoice	Yeni Hücre Seç
+rapsheet_ChangeCell	Hücre Değiştir
+ChangeCellUpgradeSuccessful	*X başarıyla daha iyi bir hücreye yükseltildi.
+ChangeCellDowngradeSuccessful	*X başarıyla daha kötü bir hücreye düşürüldü.
+ChangeCellNoAvailableRooms	Taşımak istediğin *X için uygun oda yok. Özel oda değiştirme menüsünü kullanmak ister misin?
+ChangeCellDowngradingGangLeader	Bir çete liderini daha düşük kalite bir hücreye taşımak üzeresin, bu çetesini kızdıracak ve hapishanende sorunlara yol açabilir.
+freeCell_movePrisoner	Mahkumu bu hücreye taşımak için sağ tıkla.
+occupiedCell_movePrisoner	Mahkumu bu hücrenin sakiniyle değiştirmek için sağ tıkla.
+occupiedCell_selectablePrisoner	Bu mahkumu ve onu taşımak istediğin yeri seçmek için sağ tıkla.
+mutator_name_NoMinRoomSize	Oda Boyutu Yok
+mutator_tooltip_NoMinRoomSize	Artık oda boyutu gerekliliği yok! Ama odanın çalışması için hâlâ gerekli eşyaları alman gerek.
+action_GangBusiness	Çete İşleri
+action_GangRecruitment	Çeteye Eleman Alıyor
+action_GangPromotion	Çete Terfisi
+action_ActionHerb	Hile Karıştırıyor
+action_LoadBaby	Bebek Taşıyor
+action_WarmUp	Isınıyor
+action_ListenToRadio	Radyo Dinliyor
+action_GetSnack	Atıştırmalık Alıyor
+action_Drink	İçki Alıyor
+action_DoPullUps	Barfiks Çekiyor
+action_KneeRaises	Diz Kaldırıyor
+action_PushUps	Şınav Çekiyor
+reform_program_properties_RequiresAllStudentsPresent	Tüm öğrencilerin burada olması gerekiyor
+d11_tableClaim_title	*G kontrolünde
+d11_tableClaim_desc	Mahkumları masalarından tahliye etmek için masalar taşınabilir veya sökülebilir.
+d11_tableClaim_desc_cont	Tabii bunun sonucunda mahkumlar öfkelenebilir.
+schedulesearch_menu_ClearSchedule	Planı Temizle

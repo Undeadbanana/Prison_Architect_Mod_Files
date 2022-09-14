@@ -253,6 +253,10 @@ codex_tooltip_jungle						Generate a starting plot of land that resembles a dens
 codex_option_snowy						Snowbound Plot
 codex_tooltip_snowy						Generate a starting plot of land that's covered in snow.
 
+codex_option_default						Default
+codex_option_plotType						Plot Type
+codex_tooltip_plotType						This will allow you to generate a particular starting plot. Default will have dirt and grass, Jungle resembles a dense jungle, Snowbound will be covered in snow, Desert will be a sandy desert, Lunar is similar to a lunar surface, Island will be surrounded by water, it will use a boat dock instead of a road and Connected Island will be surrounded by water with a bridge connected to the road.
+
 # =============================================================================
 # Misc
 # =============================================================================
@@ -1072,8 +1076,8 @@ quickbuild_Visitation							Visitation
 buildtoolbar_affectsGradingNegativly			-DECREASES a prison Cell's grade.
 
 buildtoolbar_popup_obj_ovalStaffTable			Goes great with chairs, in staff areas.	
-buildtoolbar_popup_obj_painting1				Just because it's prison doesn't mean we can't keep it classy.
-buildtoolbar_popup_obj_painting2				Just because it's prison doesn't mean we can't keep it classy.
+buildtoolbar_popup_obj_painting1				Just because it's a prison doesn't mean we can't keep it classy.
+buildtoolbar_popup_obj_painting2				Just because it's a prison doesn't mean we can't keep it classy.
 buildtoolbar_popup_obj_chessTable				For prisoners or staff who like to think several moves ahead.
 buildtoolbar_popup_obj_GLassWindow				To glimpse the sun through.
 buildtoolbar_popup_obj_GlassWindowLarge			To glimpse lots of the sun through.
@@ -2433,7 +2437,7 @@ d11_staffalert_hint_NEEDS03					Prisoners need to sleep to stay happy. They will
 d11_staffalert_hint_NEEDS01					Prisoners need access to toilets, consider adding more toilets to your prison or increasing your allocation of Free Time.
 d11_staffalert_hint_NEEDS02					Prisoners need access to toilets, consider adding more toilets to your prison or increasing your allocation of Free Time.
 d11_staffalert_hint_NEEDS08					Hygiene is important in every day life, in prison it's essential. Make sure your prisoners have plenty of time to catch a shower.
-d11_staffalert_hint_OBJECTS04				Our guards currently have to spend must of their time opening jail doors for people, their time is too important for this! Install a Door Control system and one guard can open multiple doors remotely.
+d11_staffalert_hint_OBJECTS04				Our guards currently have to spend most of their time opening jail doors for people, their time is too important for this! Install a Door Control system and one guard can open multiple doors remotely.
 d11_staffalert_hint_ROOMS01					All rooms have certain requirements which you must meet, highlight rooms with flashing red exclamation mark icons to see which requirements you are not meeting.
 d11_staffalert_hint_INFORMANTS01			Our Informant will not last long in here without our protection, I suggest changing their security level to 'Protective Custody' and moving them out of general population.
 d11_staffalert_hint_HOLDINGCELL01			It's too dangerous to leave this many prisoners in the Holding Cells long-term. You must build more Cells to house them as soon as possible or they may start a riot!
@@ -3095,7 +3099,7 @@ d11_reform_released_prisoners_design_info			Once an inmate has been released fro
 # Released Prisoners Page
 d11_reform_prisoners_action_reformed				REFORMED!
 d11_reform_prisoners_action_reoffended				REOFFENDED!
-d11_reform_prisoners_action_reoffended_returned			was sent back to your prison.
+d11_reform_prisoners_action_reoffended_returned		*X was sent back to your prison.
 d11_reform_prisoners_outcome_reformed				They found work in the town's *X.
 d11_reform_prisoners_outcome_reoffended				They were arrested and will return to prison.
 d11_reform_prisoners_outcome_reoffended_returned		Be careful as prisoners become more dangerous with increased stints.
@@ -3346,7 +3350,7 @@ objective_grant_reformedPrisoner_reformedPrisoners                      Achieve 
 
 objective_grant_prisonerReoffendRate                                    Prisoner Reoffending Rate
 objective_grant_prisonerReoffendRate_description                        Reducing the prisoner reoffending rate is good for all involved. The likelihood of prisoners reoffending is reduced when they are well cared for in terms of healthcare, given opportunities in life skills and reform programs and kept safe from harm by adequate security.
-objective_grant_prisonerReoffendRate_reduceRate                         Reduce the reoffending rate to 30%
+objective_grant_prisonerReoffendRate_reduceRate                         Reduce the average reoffending rate to 30%
 
 objective_grant_reformProgramResearch                                   Reform Program Research
 objective_grant_reformProgramResearch_description                       Preliminary studies have shown that programs that are able to reduce violent tendencies and decrease conflict offer one of the best opportunities for prisoners to successfully reintegrate into society.\n\nSet up a series of Reform Programs to investigate their positive effects.
@@ -3720,7 +3724,7 @@ objectiveWindow_FilterButton_3_tooltip			A collection of information describing 
 
 objective_HelpCalamities						Perfect Storm
 objective_HelpCalamities_child_1				Deep Freeze
-objective_HelpCalamities_child_1_Description	Whilst experiencing this severe cold, many parts of the prison could become frosty or completely frozen. Prisoners will also have a higher chance of becoming ill and in extreme cases become frozen themselves. It's always best to have grit boxes available, have the utiltiy items in your prison properly insulated, and to have a good level of medical support on hand.
+objective_HelpCalamities_child_1_Description	Whilst experiencing this severe cold, many parts of the prison could become frosty or completely frozen. Prisoners will also have a higher chance of becoming ill and in extreme cases become frozen themselves. It's always best to have grit boxes available, have the utility items in your prison properly insulated, and to have a good level of medical support on hand.
 objective_HelpCalamities_child_2				Lightning Storm 
 objective_HelpCalamities_child_2_Description	Storms can cause all kinds of issues for your prison. Storms can interfere with electrical items, cause damage and fires if any lightning falls, destroy full areas of your prison and could even kill people in extreme cases. You'll need to secure your prison, install lightning rods to redirect the lightning, and try to prevent as much damage as possible.
 objective_HelpCalamities_child_3				Heatwave
@@ -3765,7 +3769,7 @@ objective_grant_subsidence_hire                                    Hire the Repa
 
 objective_grant_utilityretrofit                                    Utility Retrofit Grant
 objective_grant_utilityretrofit_description                        Infestation can lead to serious issues in the output of local businesses. A grant has been made available for local businesses to protect their Utility supply.
-objective_grant_utilityretrofit_build                              Build 50 tiles of Heavy Duty electrical cables.
+objective_grant_utilityretrofit_build                              Build 50 tiles of Cable Protectors.
 
 objective_grant_AdvancedFarming_buy								   Purchase either a Drip Pipe or Outdoor Sprinkler item.
 
@@ -3773,6 +3777,7 @@ calamity_grants_onboarding											The weather has become more erratic in rece
 
 grant_category_CollapsedWallFence									Collapsed Fence:
 grant_category_HasObject											Has:
+grant_category_EverHadObject										Has:
 grant_category_CalamityHappened										Calamity Happened:
 
 # ==============================================================
@@ -4095,7 +4100,575 @@ codex_tooltip_startingSeason			Choose your starting season. The weather will pro
 
 object_AirPestControlHeli					Air Pest Control
 
+# ====================================
+# ====================================
+# ----------------------------------- KIMBER BATCH 1 -----------------
+# ====================================
+# ====================================
 
+dlc_name_kimber					Gangs	
+# ====================================
+# OBJECTS
+# ======================================
+
+object_Beagle					Beagle
+buildtoolbar_popup_obj_Beagle			More Snack hound than Attack Hound.
+
+object_Doberman					Doberman
+buildtoolbar_popup_obj_Doberman			The doberman is the ultimate police dog.
+
+object_ChocolateLabrador			Chocolate Labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Loves making new friends, even more fun when that friend is running away.
+
+object_BlackShepherd				Black German Shepherd
+buildtoolbar_popup_obj_BlackShepherd		They may look cute, but will mow down anyone that gets in their way.
+
+object_TattooRemovalMachine						Tattoo Removal Machine
+buildtoolbar_popup_obj_TattooRemovalMachine 	This item is indispensable to reform a gang member. Removing their tattoos is a first step in their reform.
+
+object_MetalStool					Metal Stool
+buildtoolbar_popup_obj_MetalStool 	A nice little metal stool.
+
+equipment_TattooRemovalTool			Tattoo Removal Tool
+
+room_TheCage				The Cage
+buildtoolbar_popup_room_TheCage		An outdoor unit that a single prisoner can use to exercise, keeping them isolated from other prisoners.
+
+quickbuild_TheCage			The Cage
+buildtoolbar_quickbuild_TheCage		An outdoor unit that a single prisoner can use to exercise, keeping them isolated from other prisoners.
+
+material_CageFence		Cage Fence
+buildtoolbar_popup_mat_CageFence						A chain link fence meant to contain prisoners while exercising.
+
+room_TattooRemovalRoom	Tattoo Removal Room
+buildtoolbar_popup_room_TattooRemovalRoom	Where your prisoners can go through the painful and tedious process of getting their gang tattoos removed.
+
+quickbuild_TattooRemovalRoom	Tattoo Removal Room
+buildtoolbar_quickbuild_TattooRemovalRoom	Where your prisoners can go through the painful and tedious process of getting their gang tattoos removed.
+
+object_PullUpBars							Pull-Up Bars
+buildtoolbar_popup_obj_PullUpBars			A cheap piece of exercise equipment popular with more hardened inmates.
+
+object_KneeRaise							Knee Raise
+buildtoolbar_popup_obj_KneeRaise			A cheap piece of exercise equipment popular with more hardened inmates.
+
+object_PushUpStones							Push-Up Stones
+buildtoolbar_popup_obj_PushUpStones			A cheap piece of exercise equipment popular with more hardened inmates.
+
+object_GangGraffiti							Gang Graffiti
+d11_hover_info_gang_graffiti_1				+15% Strength in Territory for gang members
+d11_hover_info_gang_graffiti_2				+15% Toughness in Territory for gang members
+
+object_FightRing							Fight Ring
+buildtoolbar_popup_obj_FightRing			If your prisoners fight in the ring, they won’t fight in the wing.\n -Caters to the Exercise and Recreation needs.
+
+quickbuild_FightClubRoom					Fight Club Room
+buildtoolbar_quickbuild_FightClubRoom		For all intents and purposes this room does not exist.
+
+room_FightClubRoom							Fight Club Room
+buildtoolbar_popup_room_FightClubRoom		For all intents and purposes this room does not exist.
+
+object_CageGate							Cage Gate
+buildtoolbar_popup_obj_CageGate			A gate that work great with Fences. Functions the same way as a door.
+
+buildtoolbar_popup_obj_RemoteDoor			This door is designed to be accessed using a working servo. Make sure you have enough guards to control the entry and exits for these types of doors or install pressure pads
+
+object_RemoteDoorOrange						Remote Door (Orange)
+buildtoolbar_popup_obj_RemoteDoorOrange 	This door is designed to be accessed using a working servo. Make sure you have enough guards to control the entry and exits for these types of doors or install pressure pads
+object_RemoteDoorRed						Remote Door (Red)
+buildtoolbar_popup_obj_RemoteDoorRed 		This door is designed to be accessed using a working servo. Make sure you have enough guards to control the entry and exits for these types of doors or install pressure pads
+object_RemoteDoorYellow						Remote Door (Yellow)
+buildtoolbar_popup_obj_RemoteDoorYellow 	This door is designed to be accessed using a working servo. Make sure you have enough guards to control the entry and exits for these types of doors or install pressure pads
+object_RemoteDoorWhite						Remote Door (White)
+buildtoolbar_popup_obj_RemoteDoorWhite 		This door is designed to be accessed using a working servo. Make sure you have enough guards to control the entry and exits for these types of doors or install pressure pads
+quickbuild_Gymnasium                            Gymnasium
+
+object_GymInstructor						Gym Instructor
+
+object_FilingCabinetFancy					Filing Cabinet (Fancy)
+buildtoolbar_popup_obj_FilingCabinetFancy	Reward your members of Staff by giving them a fancy filing cabinet.
+
+# ====================================
+# Materials
+# ======================================
+
+material_LongGrass							Long Grass
+
+# ==============================================================
+# Menu strings
+# ==============================================================
+
+codex_tooltip_gangsEnhanced             You can now change the intake of prisoners to join your Gangs. Having more Gang Members in your prison will make Gang recruitment quicker, your prison will become more chaotic and dangerous.\n\n• Legacy - Experience Gang difficulty as it was previously (Novice) \n• 'Low' (Default) - Ideal for Novice or Intermediate players \n• Medium - Experienced players \n• High - Expert players searching for a serious challenge
+codex_tooltip_morelieutenants			Lieutenants play a big role in conquering new territories for their respective Gang. If you want Gangs to be more active, consider reducing the amount of members needed per Lieutenants. Only chose numbers smaller than 6 if you want a challenge.
+codex_option_morelieutenants			More Lieutenants
+codex_tooltip_codex_option_morelieutenants	Lieutenants play a big role in conquering new territories for their respective Gang. If you want Gangs to be more active, consider reducing the amount of members needed per Lieutenants. Only chose numbers smaller than 6 if you want a challenge.
+
+codex_option_GangSpecialReputations     Gang Special Reputations
+codex_tooltip_GangSpecialReputations    Gangs are given new reputations that modify the way that members behave in your prison.
+
+codex_option_AllDogs					All Dogs
+codex_tooltip_AllDogs				    Choosing this option will enable all dogs available and randomise each hire.
+codex_tooltip_RandomWardens				Choosing this option will randomly pick a Warden for you.
+
+# Boiling Point
+interfacecontraband_BoilingPoint				Boiling Point
+buildtoolbar_contraband_BoilingPoint			Shows areas of improvement for unhappy prisoners.
+
+boilingpoint_header								BOILING POINT
+boilingpoint_OverallTemperature					Overall Temperature
+boilingpoint_Needs								Needs
+boilingpoint_ProgramCompletion					Programs Completed
+boilingpoint_StatusEffects						Status Effects
+boilingpoint_RoomQuality						Room Quality
+
+boilingpoint_OverallTemperature_popup			There are a few things that are out of our control when it comes to making our prisoners happy and calm, like their personalities or the number of convictions they have. The angrier each prisoner gets, the higher Prison Temperature will be, and the more likely they will misbehave.
+boilingpoint_Needs_popup						Currently you have *X prisoners who can’t satisfy their needs.\n\nPlease ensure they have access to rooms or objects to be able to satisfy their needs.
+boilingpoint_ProgramCompletion_popup			Currently you have *X prisoners who have not completed any program.\n\nThe more programs a prisoner has completed the more likely they are to be calm. Add some programs so they can participate, make sure their Regime allows it. Some programs are repeatable.
+boilingpoint_StatusEffects_popup				Currently you have *X prisoners who are suffering with negative effects.\n\nConsider keeping a closer watch on contraband, especially alcohol or narcotics.\n\nWhen prisoners have positive effects, they are less likely to misbehave.
+boilingpoint_RoomQuality_popup					Currently you have *X prisoners who have bad rooms.\n\nIncrease the quality of their rooms so they can be happier and calmer. Some prisoners will not qualify for high quality rooms. You can use Sentence Adjustments to reduce the requirements.
+
+buildtoolbar_popup_help_BoilingPoint_1			The Boiling Point view shows you the current Prison Temperature. This menu highlights problematic areas in our prison, such as cell quality, needs, status effects, and program participation levels.\n\n
+buildtoolbar_popup_help_BoilingPoint_2			~If you still can’t control a specific prisoner, consider putting them into a Lockdown or Solitary confinement to cool off.\n\n
+buildtoolbar_popup_help_BoilingPoint_3			^Tips
+buildtoolbar_popup_help_BoilingPoint_4			- Ensure that all prisoners have access to their basic needs.
+buildtoolbar_popup_help_BoilingPoint_5			- Invest in reform, therapy, treatment and work programs, and make sure their regime allows them to participate in them.
+buildtoolbar_popup_help_BoilingPoint_6			- Low Security prisoners will have a higher tolerance, as they have shorter sentences.
+
+boilingpoint_advisor_onboarding					This prisoner is acting out, they seem to have reached their boiling point. Perhaps we aren’t doing enough for our prisoners, make sure their needs are satisfied, improve their living condition and give them something to do. Check the Boiling Point Intelligence Menu for more information.
+
+# ==============================================================
+# Security Menu strings
+# ==============================================================
+
+interfacecontraband_SecurityMenu				Security Menu
+buildtoolbar_contraband_SecurityMenu			View a list of all inmates seen as being either dangerous or endangered and apply security actions to any that require further management.
+
+securitymenu_header								Security Menu
+
+securitymenu_popup_prisonerSelect				Left Click to select Prisoner
+securitymenu_popup_dangerousReputations			Dangerous Reputations: 
+securitymenu_popup_dangerousTraits				Dangerous Traits: 
+securitymenu_popup_crimesCommitted				Crimes: 
+securitymenu_popup_recentMisconduct				Recent Misconduct: 
+
+securitymenu_PrisonerType						Prisoner Type: 
+securitymenu_PrisonerTypeDefault				Default
+securitymenu_PrisonerTypeDangerous				Dangerous
+securitymenu_PrisonerTypeVulnerable				Vulnerable
+
+securitymenu_MarkingTypeUnmarked				Unmarked
+securitymenu_SelectArea							Select Area
+securitymenu_SelectAreaCancel					Deselect Area
+
+securitymenu_RestrictAccess						Restrict Access:
+securitymenu_TransferPrisoners					Transfer Prisoner(s): 
+securitymenu_transferSecurityLevel				Security Level
+securitymenu_GuardAssignment					Guard Assignment: 
+securitymenu_MarkPrisoner						Mark Prisoner: 
+securitymenu_RemovePrisoner						Remove Prisoner:
+securitymenu_RemovePrisonerButton				Remove Prisoner
+securitymenu_RemovedPrisoner					Removed Prisoner
+
+securitymenu_RemovePrisoner_message				Remove Prisoner\n\nThis is the last resort for dealing with the worst offenders, for an expensive charge you will be able to send this prisoner to a separate facility. This action can only be performed every 5 days.
+
+securitymenu_RestrictAccess_tooltip				Block entrance to specific areas, not allowing the selected prisoner(s) access without guards attempting to subdue them. Gang members can't be restricted from their own areas / territories.
+securitymenu_TransferPrisoner_tooltip			Move selected prisoners to a specific security system to help with managing them.
+securitymenu_MarkPrisoner_tooltip				Attach a visual mark to selected prisoners, to allow you to better keep an eye on any individuals who are more dangerous or are instead in danger themselves.
+
+rapsheet_assignguard							Assign Guard
+rapsheet_assignguard_end						Unassign Guard
+
+job_PrisonerAssignment							Prisoner Assignment
+assignment_confirm_message						Do you wish to assign a guard?
+assignment_description_message					If you want to keep an eye on this prisoner, you might want to assign a guard to them. Please make sure you have enough guards available.
+assignment_error_message						This prisoner can not be assigned a guard currently. Please try again later.\n\nThey either have just arrived, are shackled, or are in lockdown.
+
+buildtoolbar_popup_help_securitymenu_1        The security menu lists all members of the prison that are seen as either dangerous or vulnerable members of the prisoner population. Via this menu certain actions can be applied to prisoners to provide further support and allow better management of these prisoners.\n\n
+buildtoolbar_popup_help_securitymenu_2        ~By default both dangerous and vulnerable prisoners are listed together but the "prisoner type" option allows you to apply action to specific groups.\n\n
+buildtoolbar_popup_help_securitymenu_3        ~Some actions can be applied to a group whereas others can only be applied to selected individuals, highlight and left-click an inmate to select them.\n\n
+buildtoolbar_popup_help_securitymenu_4        ^Tips
+buildtoolbar_popup_help_securitymenu_5        - The Guard assignment option will help to both keep prisoners safe from others whilst also keeping an eye on others to help prevent any misconduct from happening. Guards won't stay by a prisoner's side during their private time such as sleep and shower periods.
+buildtoolbar_popup_help_securitymenu_6        - If a prisoner is causing too many problems within your prison and is too difficult to deal with, the Remove Prisoner option will send them away. This action has a cooldown and can't be performed every day and it also has a monetary cost.
+
+# ==============================================================
+# Kimber todo list help objectives
+# ==============================================================
+objectiveWindow_FilterButton_4_title 				About Gangs
+objectiveWindow_FilterButton_4_tooltip				Everything you need to know about Gangs 
+
+objective_HelpGangBehaviourAndType				Gang Behaviours
+objective_HelpGangBehaviourAndType_Description			New gangs have been introduced with each behaving slightly differently to one another.
+objective_HelpGangBehaviourAndType_child_1			Vipers
+objective_HelpGangBehaviourAndType_child_1_Description		The Vipers are an insidious bunch that focus on infecting their prisons with the narcotics they control whilst being individually deadly themselves.
+objective_HelpGangBehaviourAndType_child_2			Bone-Breakers
+objective_HelpGangBehaviourAndType_child_2_Description		The Bone-Breakers can be considered as muscle-bound thugs, they focus more on violence and destruction rather than anything else.
+objective_HelpGangBehaviourAndType_child_3			Jackals
+objective_HelpGangBehaviourAndType_child_3_Description		The Jackals are the most resourceful of these gangs, with them focusing on territory control and contraband sales to increase their financial power.
+
+objective_HelpGangActivities					Gang Activities
+objective_HelpGangActivities_Description			Gang activities will range from running and managing their own territories, making big plays against key members of the prison, making demands of the player, and similar actions.
+objective_HelpGangActivities_child_1				Specialised Activities
+objective_HelpGangActivities_child_1_Description		Each gang will take part in specialised activities depending on their differing personalities, Vipers focusing on narcotic production and sales, Bone-breakers on fighting and destruction, and the Jackals focusing more on territories and gaining money.
+objective_HelpGangActivities_child_2				Territory Activities
+objective_HelpGangActivities_child_2_Description		With new territories come new behaviours. Gangs will now "police" any areas they control, making sure that other prisoners behave themselves and pay to use any of the items inside, even during their work time. Gang members will also acquire large amounts of contraband based on the room they control, with "dealers" appearing to sell these items to other inmates.
+objective_HelpGangActivities_child_3				Gang Demands
+objective_HelpGangActivities_child_3_Description		Once a gang gains enough power and confidence within the prison they will start to make certain demands, these demands will range from gaining new equipment to more time for Yard or Freetime, with the player having a certain amount of time to address these demand(s). If the player fails to meet these demands then the repercussions will immediately begin, with the gang usually causing some form of destruction or violence. 
+
+objective_HelpCrookedGuards					Crooked Guards
+objective_HelpCrookedGuards_Description				Although we'd like to think of our brave staff as pure and indomitable, sadly this isn't always the case.
+objective_HelpCrookedGuards_child_1				Guard Bribery
+objective_HelpCrookedGuards_child_1_Description			All guard types can be bribed to look the other against certain misconduct for 48 hours, leaving prisoners with contraband even when they find it and making it easier for gangs to take over territories. Luckily using informants suspicious guards can be pointed out, giving the player the chance to fire any guards who have been corrupted.
+objective_HelpCrookedGuards_child_2				Guard Corruption
+objective_HelpCrookedGuards_child_2_Description			Certain guards can be corrupted by interacting too much with gang members, with them being paid off to smuggle in contraband for gangs. Informants can mark suspicious guards for you whereas contraband detectors and guard dogs will also able to find this contraband whilst it is still on their person.
+
+objective_HelpGangIntelligence					Gang Intelligence
+objective_HelpGangIntelligence_Description			With so much potential for misconduct within a prison, intelligence is always key in keeping things safe within your facility. The gang intelligence menu will provide information on each gang within your prison, listing the number of members that each has, their funds, and also lists a basic counts for the misconduct they've completed whilst incarcerated. It also shows any movements or activities that any gang participate in to help display the danger level of each gang.
+
+objective_HelpSecurityOptions					Security Options
+objective_HelpSecurityOptions_Description			A list of "important prisoners" will be listed within a new menu, with all inmates considered to be either in-danger from others or are a danger to others themselves. With this menu prisoners that should be given extra attention can be marked so they can be watched more easily during normal gameplay, other actions such as restricting a prisoner's access to certain areas, transferring groups to specific security levels, and even removing problematic inmates by sending them to a different facility although doing so will require paying a hefty fine.
+
+objective_HelpPrograms						Programs
+objective_HelpPrograms_Description				To help secure and support your prisoners guards can now receive new training which will allow them to easily disarm an equipped prisoners. Prisoners will also have new programs available to them, with recreational programs to help with their reform and otherwise attempting to help calm prisoners or allow them to relieve some stress and also rehabilitation programs that will help to redirect prisoners away from gang life and allowing them to complete their sentences in a more peaceful and constructive manner.
+
+# =============================================================================
+# Grants
+# =============================================================================
+objective_grant_positiveEnergyGrant					Positive Energy
+objective_grant_positiveEnergyGrant_Description				Gang Members need to focus their mind (and their energy) into exercise rather than violence. Research has shown exercise reduces such actions. Set up some outdoor exercise equipment in the yard.
+objective_grant_positiveEnergyGrant_yard				Build a Yard
+objective_grant_positiveEnergyGrant_bench				Add a Weight Bench
+
+objective_grant_advancedProtectionGrant					Advanced Protection
+objective_grant_advancedProtectionGrant_Description			Staff Protection is paramount when dealing with organised gangs. We need to make sure our staff are trained to the highest level for their safety.
+objective_grant_advancedProtectionGrant_training			Successfully Train 20 Guards in Disarming Certification.
+
+objective_grant_gangWelfareGrant					Gang Welfare
+objective_grant_gangWelfareGrant_Description				Turning Gang Warfare into Gang Welfare is a top priority. Gang members stand a good chance of reform when put into programs that can see them exit that life.
+objective_grant_gangWelfareGrant_exGangMembers				Successfully reform 15 Gang members into Ex-Gang Members.
+
+objective_grant_exGangProtectionGrant					Ex-Gang Member Protection Program
+objective_grant_exGangProtectionGrant_Description			The government is offering funding to construct a Protective Custody wing to protect former gang members on the road to rehabilitation.	
+objective_grant_protectionCells						Build 10 Cells in a Protected Only Sector
+objective_grant_protectionShower					Build a Shower Room in a Protected Only Sector
+objective_grant_protectionCanteen					Build a Canteen in a Protected Only Sector
+objective_grant_protectionKitchen					Build a Kitchen in a Protected Only Sector
+objective_grant_protectionYard						Build a Yard in a Protected Only Sector
+objective_grant_protectionGuards					Assign a Guard to a Protected Only Sector
+objective_grant_protectionExGang					Assign 1 Ex-Gang member to Protective Custody Security Level
+
+grant_category_adminHired						Administrator Hired:
+
+# =============================================================================
+# Reform Programs
+# =============================================================================
+
+reformprogram_TattooRemovalProgram			Tattoo Removal Program
+reformprogram_TattooRemovalProgram_text		If your prisoners have regrets about getting their gang tattoos, you can facilitate their rehabilitation by providing tattoo removal sessions. Completing this program will make them a target.
+
+reformprogram_HandToHandCombat				Disarming Certification
+reformprogram_HandToHandCombat_text			When things get tough, we get tougher. Train your Guards advanced techniques to disarm your prisoners.
+
+reformprogram_GangRehabilitation			Gang Rehabilitation
+reformprogram_GangRehabilitation_text			If a gang member has been causing too much trouble around the prison, try to get them to complete this program. It is the first step to severing ties with their gang and turning a new leaf. Completing this program will make them a target. Referral Type: Violence and Destruction.
+reform_program_intake_ReferralGangViolenceDestruction	Referral: Violence and Destruction Gangs Only.
+reform_program_intake_GangOnly				Gangs Only
+
+reformprogram_FaithProgram					Faith Program
+reformprogram_FaithProgram_text				Prisoners participating in this intensive program will be more willing to part with their bad lifestyles and embrace a better life. If they have completed this program might want to severe their ties with their Gang.
+
+reformprogram_BreatheProgram				Breathe Therapy
+reformprogram_BreatheProgram_text			Teach your prisoners how to breathe and relax. After each class your prisoners will feel a lot calmer, they might even consider behaving better.
+
+
+reformprogram_FightClub					Fight Club
+reformprogram_FightClub_text			These training sessions are meant to direct your inmates destructive energy into fighting in a controlled environment. They may be too tired to fight afterwards. Wait… what was the first rule again?
+
+reform_program_properties_TeacherUsesSameEquipment		Teacher requires a *X
+reform_program_properties_GangMemberCanAttend			Gang members can attend
+reform_program_properties_RequiresAllStudentsPresent		Requires all students present
+
+
+# ==============================================================
+# Gang Demands 
+# ==============================================================
+gang_vipers				The Vipers
+gang_bonebreakers		The Bone Breakers
+gang_jackals			The Jackals
+gang_red				Red
+gang_blue				Blue
+gang_green				Green
+gang_yellow				Ex Gang Members
+
+# ==============================================================
+# Gang Demands 
+# ==============================================================
+objective_GangDemand			   Gang Demands
+objective_GangDemand_description   Emboldened gang leaders will make a number of demands to improve the quality of life in prison. Failing to comply to these demands can result in a riot, make sure that if it comes to that your prison is prepared.
+GangDemand_announcement      	   Gang members will cause a lot of trouble if we don’t give in to their demands.
+
+# - G refers to gang name, X is a numerical value. Separate strings due to plurals etc
+# - Escalated appears as own string but will be filtered out by tool. 
+
+objective_Gang_ContrabandToolsPunishment_child 				*G - Decrease punishment for Finding Tools to *X hours. 
+objective_Gang_ContrabandToolsPunishment_Escalated_child 	*G - Decrease punishment for Finding Tools to None
+
+objective_Gang_MurderPunishment_child 			 *G - Decrease punishment for Murder to *X hours. 
+objective_Gang_MurderPunishment_Escalated_child  *G - Decrease punishment for Murder to *X hours. 
+
+objective_Gang_MoreYardTime_child 				*G - Increase regime Yard Time to *X hours. 
+objective_Gang_MoreYardTime_Escalated_child     *G - Increase regime Yard Time to *X hours. 
+
+objective_Gang_PullUpBars_child  				*G - Have *X Pull-Up Bars. 
+objective_Gang_PullUpBars_Escalated_child 		*G - Have *X Pull-Up Bars. 
+
+objective_Gang_TyreApparatus_child  			*G - Have *X Tyre Apparatuses. 
+objective_Gang_TyreApparatus_Escalated_child 	*G - Have *X Tyre Apparatuses. 
+
+objective_Gang_PunchBag_child  					*G - Have *X Punch Bags. 
+objective_Gang_PunchBag_Escalated_child 		*G - Have *X Punch Bags. 
+
+objective_Gang_PushUpStones_child  				*G - Have *X Push-Up Stones.
+objective_Gang_PushUpStones_Escalated_child		*G - Have *X Push-Up Stones.
+
+# - X in this case will refer to a room name
+objective_Gang_RequireYard_child  						*G - Have a *X.
+objective_Gang_RequireYard_Escalated_child 		*G - Have a *X.
+
+objective_Gang_RequireLibrary_child  				*G - Have a *X.
+objective_Gang_RequireLibrary_Escalated_child 	*G - Have a *X.
+
+objective_Gang_RequireMailRoom_child  			*G - Have a *X.
+objective_Gang_RequireMailRoom_Escalated_child  *G - Have a *X.
+
+d11_gangdemand_success 				We’ve received some money for handling this situation.
+d11_gangdemand_fail 				Ensure this situation doesn’t happen again.
+d11_gangCompensation				Gang Compensation
+
+# ==============================================================
+# Gang Menu 
+# ==============================================================
+d11_gang_goal					Gang Goal:
+d11_gang_bonebreakers_goal			Destruction
+d11_gang_jackals_goal				Prison Control
+
+d11_gang_traits					Gang Traits:
+d11_gang_officer				Gang Officers:
+d11_gang_territories				Territories:
+d11_gang_misconduct				Misconduct:
+d11_gang_kills					Gang Kills:
+
+# ==============================================================
+# Gang Menu : HeatMap
+# ==============================================================
+d11_heatmap_gang			Involved Gang:
+d11_heatmap_deaths			Deaths:
+d11_heatmap_day				Day Occured:
+d11_heatmap_time			Time Occured:
+
+d11_gang_event_pr.gf			Gang Fight
+d11_gang_event_g.tc			Territory Change
+# ==============================================================
+# Gang Segregation
+# ==============================================================
+
+gangSegregationMessage			Choose which gangs are usually permitted to enter certain areas.
+interfacedeployment_GangSegregation		Gang Segregation
+buildtoolbar_deployment_GangSegregation To provide a level of control over gang allocation, gangs can be assigned to different living spaces, allowing them to be kept away from each other to avoid any unnecessary instigation.
+
+# ==============================================================
+# Crooked Guards
+# ==============================================================
+
+research_StaffVetting				Staff Vetting
+researchtooltip_StaffVetting		Reduces the likelihood of new Guards being corrupted. Unlocks Guard Investigation allowing you to sniff out Crooked Guards using CI's.
+
+buildtoolbar_GuardInvestigation				Guard Investigation
+buildtoolbar_tooltip_GuardInvestigation		Work with your CI's and Security Chief to investigate your guards and sniff out corruption. The more coverage your active CI's have, the more Crooked Guards you will expose. The Chief must not be hosting a program or attending an execution.
+buildtoolbar_CI_requirement			At least one CI
+
+guardinvestigation_underway			GUARD INVESTIGATION IN PROGRESS
+guardinvestigation_investigated		Investigated *A/*B guards
+
+informant_investigating				Investigating
+crookedguard_fired_reward			Crooked Guard Fired
+crookedguard_advisor_onboarding		We have discovered a Crooked Guard working with a gang. I've marked them in the Staff tab on your Reports. Make sure to fire them.
+
+buildtoolbar_popup_staff_doghandler				Dog Handlers and their canine companions can detect contraband on prisoners passing by in close proximity.
+buildtoolbar_popup_staff_kimber_doghandler		Dog Handlers and their canine companions can detect contraband on prisoners and crooked guards passing by in close proximity.
+# ==============================================================
+# Prisoner Intake
+# ==============================================================
+d11_prisoner_replacement			Prisoner Replacement
+d11_prisoner_replacement_tooltip	The prisoner population value will be replenished up to the desired number with the ratio of security levels kept the same where possible. Any surplus of prisoners will be requested following the standard system
+
+# ==============================================================
+# Interface
+# ==============================================================
+
+interface_action_CleanGraffiti		Cleanup
+job_cleanupobject					Cleanup *X
+interfacetopbar_tension_angrygangmembersgraffiti		+ *X GANG MEMBERS ARE MAD (Graffiti cleaned)
+interfacetopbar_tension_angrygangmembersleadercell		+ *X GANG MEMBERS ARE MAD (Leader transfered to lower quality cell)
+research_CCTVImprovement			CCTV Improvement
+researchtooltip_CCTVImprovement		Improve your utilisation of your CCTV equipment. Enables you to see CCTV vison cones and misbehaving prisoners in their field of view
+
+d11_cctv_cone						CCTV Cone
+d11_toggle_cctv_cone_detail			Toggle CCTV Camera's visual cones
+d11_left_click_to_clean				Left Click to Clean
+
+# ==============================================================
+# Advisor messages
+# ==============================================================
+
+d11_gang_graffiti_message				Gangs are marking their territory making them fiercer when defending it. Send a Janitor when it's safe to deal with the mess. The gangs won't be happy about their "art" being removed - they may retaliate.
+d11_gangBulkIntake_advisor_onboarding				The Prison Commision are transferring problematic prisoners to other jails with more competant management, I trust you'll be able to handle these new additions with ease. Prisoner Reviews are now being conducted on a weekly basis.
+d11_gangBulkIntake_staffAlert						Gang Member Intake bus is arriving 
+d11_gangdealer_advisor_onboarding		We've identified a Dealer in gang territory. A large sum of money was confiscated from them.
+
+d11_CI_advisor_onboarding				Cooperate with your Confidential Informants to unearth any corrupted guards. They will be sent to the Chief’s office to share what information they have. Make sure to have CI's recruited, check the (?) icon on the Intelligence's Menu for more information.
+
+d11_LeaderAssassination_advisor_onboarding	Gangs are getting too aggressive and are planning to assassinate the other Gang’s Leader. If they are successful, it will affect their current territories.
+d11_GangTargetting_advisor_onboarding	Gang members band together because they have similar interests, sometimes they also dislike specific criminal offenses, and they will try to target these individuals.	
+
+# ==============================================================
+# Staff Alerts
+# ==============================================================
+
+d11_staffalert_title_making_move		Gang is making a move.
+d11_staffalert_summary_making_move		We've got information that a Gang is making a move.
+d11_staffalert_summary_gangdealer		A Dealer has been discovered you have been awarded $500
+
+d11_staffalert_summary_TerritoryPlacement	This room has been claimed by a Gang, and is too dangerous for our workmen. Evict them from the room.	
+# ==============================================================
+# Gang Shakedown
+# ==============================================================
+crisisSector_CustomSearchArea					Custom Search Area
+crisisSector_ScheduleSearch					Custom Schedule
+
+schedulesearch_menu_TargettedArea				Targetted Area
+schedulesearch_menu_StartTime					Start Time			
+schedulesearch_menu_Frequency					Frequency
+schedulesearch_menu_ExistingSchedule				Existing Schedule
+schedulesearch_menu_CurrentTime					Current Time
+schedulesearch_menu_CurrentFrequency				Current Frequency
+
+
+crisisSector_UnlockedOnly					Unlocked Only
+schedulesearch_menu_SaveSelection				Save Selection
+
+# ==============================================================
+# Reputations & traits
+# ==============================================================
+reputation_Recruiter					Recruiter
+reputationtooltip_Recruiter				This prisoner if part of a Gang will be more likely to get other inmates to join his gang.
+reputation_Resourceful					Resourceful
+reputationtooltip_Resourceful			This prisoner will be more likely to spend time reading books, they will also know where contraband will be and might intercept it for their Gang.
+reputation_ExGangMember					Ex Gang Member
+reputationtooltip_ExGangMember			This prisoner decided Gang life wasn't for them, but the Gang is not happy about this.
+reputation_CunninglyBrutal				Cunningly Brutal
+reputationtooltip_CunninglyBrutal		The Vipers' will try to attack targets in security blind spots.
+reputation_SneakThief					Sneak Thief
+reputationtooltip_SneakThief			All Jackals' have the ability to pickpocket regardless of reputation.
+reputation_BattleTendency				Battle Tendency
+reputationtooltip_BattleTendency		If Jackals out number Guards in a wing of the prison they will be more violent towards staff in that wing.
+reputation_DisrepectSurroundings		Vandal
+reputationtooltip_DisrepectSurroundings	Bone Breakers will damage objects when some of their needs aren't being met.
+reputation_UnderCoverDon				Under Cover Don
+reputationtooltip_UnderCoverDon			The Vipers' leader will be hidden as a gang soldier, only being revealed when punished.
+reputation_Enforcer						Enforcer
+reputationtooltip_Enforcer				This prisoner will intimidate other inmates, unless they belong to the same Gang. They are also very good when taking over territories for Gangs.
+reputation_GymRat						Gym Rat
+reputationtooltip_GymRat				Bone Breakers will spend their Free Time periods in a Gym or Yard.
+reputation_Loyal					Loyal
+reputationtooltip_Loyal					This prisoner will be more likely to stay in the Gang and get riled up if their Gang Leader is being punished
+
+
+traits_violent		Violent
+traits_lethal		Lethal
+
+# =============================================================================
+# Expense popups
+# =============================================================================
+finance_cost_gangdealer					Disovered gang dealer
+
+# ==============================================================
+# Free Update - Kimber
+# ==============================================================
+
+ object_PrisonerLetter 					Prisoner Letter
+ object_LoveLetter 						Love Letter
+ object_LoveLetterOpened 				Love Letter (Opened)
+ interface_prisonerWritingLetter		Writing to loved ones
+ interface_prisonerWritingLoveLetter	Writing to a VERY special someone
+
+warden_wardengangsjlocks_name		Captain J. Locks
+warden_wardengangsjlocks_desc		Staff under Locks' command are able to push past their limits and prisoners are moulded into model inmates. \n\n- +30% staff stamina (Requires 10% more rest). \n- -10% to prisoner reoffend chance.
+warden_wardengangsjlocks_desc_short            - Staff have more stamina.\n- Prisoners are 10% less likely to reoffend.
+
+warden_wardengangscook_name		Dylan Cook
+warden_wardengangscook_desc		This gentleman will smooth talk anyone, he will manage to get the best prices for your prison. You better believe he uses coupons at the supermarket! \n\n- Food costs lowered by 25%. \n- Programs that require external teachers cost 20% less.
+warden_wardengangscook_desc_short            - Food costs lowered by 25%.\n- Programs that require external teachers cost 20% less.
+
+# ==============================================================
+# Manual Cell Swap
+# ==============================================================
+
+rapsheet_manualCellSwap_hint			Choose to either give this prisoner a simple upgrade / downgrade with them moving to a new available Cell or manually choose which Cell they should be moved to.
+rapsheet_cellUpgrade					Upgrade Cell
+rapsheet_cellDowngrade					Downgrade Cell
+rapsheet_cellChoice						Choose New Cell
+rapsheet_ChangeCell						Change Cell
+
+ChangeCellUpgradeSuccessful				You succesfully upgraded *X to a better cell.
+ChangeCellDowngradeSuccessful			You succesfully downgraded *X to a worse cell.
+ChangeCellNoAvailableRooms				There are no available rooms to move *X to. Would you like to use the custom room swap menu.
+ChangeCellDowngradingGangLeader			You are about to move a gang leader to a cell of lower quality which will upset their gang and might cause issues in your prison.
+
+freeCell_movePrisoner					Right click to move the prisoner to this cell.
+occupiedCell_movePrisoner				Right click to swap the prisoner with the occupant of this cell.
+occupiedCell_selectablePrisoner			Right click to select this prisoner to choose where you would like to move them.
+
+# ==============================================================
+# Kimber Mutator
+# ==============================================================
+mutator_name_NoMinRoomSize				No Room Size
+mutator_tooltip_NoMinRoomSize			No more size room requirements! But you still need to get the required items for the room to work.
+
+
+# ==============================================================
+# Missing Action strings
+# ==============================================================
+action_Withdrawal      Withdrawal
+action_GangBusiness    Gang Business
+action_GangRecruitment Gang Recruitment
+action_GangPromotion   Gang Promotion	
+action_ActionHerb      Tampering
+action_LoadBaby	       Carry Baby
+action_WarmUp          Warming Up
+
+action_ListenToRadio   Listening to Radio
+action_GetSnack        Get Snack
+action_Drink           Get Drink
+action_DoPullUps       Pull Ups
+action_KneeRaises      Knee Raises
+action_PushUps         Push Ups
+
+# ====================================
+# ====================================
+# ----------------------------------- KIMBER BATCH 2 -----------------
+# ====================================
+# ====================================
+
+# ==========================
+# Table Claiming
+# ==========================
+
+d11_tableClaim_title	 Controlled by *G
+d11_tableClaim_desc 	 To evict them from their tables move or dismantle them.
+d11_tableClaim_desc_cont Though this will cause them to become angry.
+
+#Schedule Menu
+schedulesearch_menu_ClearSchedule				Clear Schedule
 # ============================================================== 
 # End of File (do not remove new line at the end)
 # ==============================================================

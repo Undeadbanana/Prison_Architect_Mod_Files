@@ -54,7 +54,6 @@ BEGIN Program
     Intake          	Voluntary
     Properties      	Practical
     Difficulty      	40
-    SlotsPerEquipment	4
 END
 
 BEGIN Program
@@ -271,4 +270,130 @@ BEGIN Program
     TeacherEquipment GritBin
     Research        Education
     ResearchSecondary GroundsKeeping
+END
+
+BEGIN Program
+    	Name            TattooRemovalProgram
+    	SessionCost     -100
+    	Places          1
+    	SessionLength   60
+    	NumSessions     3
+	Difficulty      10
+    	Equipment		TattooRemovalMachine
+	TeacherEquipment TattooRemovalMachine
+    	Room            TattooRemovalRoom
+    	Teacher         Doctor
+    	Intake          GangOnly
+    	Properties      StudentsSit
+	Properties	GangMemberCanAttend
+	Properties	RequiresAllStudentsPresent
+    	Research        Health
+    	Qualification   FaithProgram
+    	Qualification   GangRehabilitation
+END
+
+BEGIN Program
+	Name					HandToHandCombat
+	SessionCost				-100
+	Places					4
+	SessionLength			60
+	NumSessions				3
+	Difficulty				40
+	Equipment				SchoolDesk
+	Research				Security
+	ResearchSecondary		Education
+	Room					Classroom
+	Teacher					Chief
+	Intake					Guards
+	Properties				Practical
+	Properties				StaffOnly
+	Properties				StudentsSit
+	Properties				OutsideOfWork
+	Properties				TeacherDemonstrateEquipment
+	GoToSessionEarly		0
+END
+
+BEGIN Program
+    Name            GangRehabilitation
+    SessionCost     -150
+    Places          1
+    SessionLength   60
+    NumSessions     2
+    Difficulty      10
+    Teacher         Psychologist
+    Room            Office
+    Equipment           LeatherSofa
+        Equipment              SofaChairSingle
+        Equipment              SofaChairDouble
+        Equipment              SofaChairBrown
+    Intake          ReferralGangViolenceDestruction
+    Properties      StudentsSit
+	Properties		GangMemberCanAttend
+	Properties		RequiresAllStudentsPresent
+    Research        MentalHealth
+END
+
+BEGIN Program
+    Name            FaithProgram
+    SessionCost     -500
+    Places          10
+    SessionLength   180
+    NumSessions     6
+	Difficulty      26
+    Room            Chapel
+    Equipment       Pews
+    Equipment	    PrayerMat
+    Teacher         SpiritualLeader
+    TeacherEquipment Altar
+    Intake          GangOnly
+    Properties      CanHireExternally
+    Properties      StudentsSit
+    Properties      Repeatable
+	Properties		GangMemberCanAttend
+    ProgressEffect  calming
+    EffectChargeRate 1.0
+    DischargeNeed   Spirituality
+END
+
+ BEGIN Program
+    Name              BreatheProgram
+    SessionCost       -150
+    Places            5
+    SessionLength     60
+    NumSessions       1
+       Difficulty       10
+    Room              Yard
+    Equipment         GymMat
+    Teacher           Teacher
+    TeacherEquipment  GymMat
+    Intake            Voluntary
+    Properties        CanHireExternally
+    Properties        TeachersSit
+    Properties        StudentsSit
+    Properties        Repeatable
+    Properties	      TeacherUsesSameEquipment
+	Properties		  GangMemberCanAttend
+    SuccessEffect     calming
+END   
+
+BEGIN Program
+    Name            FightClub
+    SessionCost     -50
+    Places          6
+    SessionLength   180
+    NumSessions     1
+    Difficulty      26
+    Room            FightClubRoom
+    Teacher         GymInstructor
+	TeacherEquipment	FightRing
+    Equipment	    	FightRing
+	SlotsPerEquipment	6
+    Intake          Voluntary
+	Properties      CanHireExternally
+    Properties      Repeatable
+	Properties		GangMemberCanAttend
+	ProgressEffect  calming
+    EffectChargeRate 1.0
+	SuccessEffect     	calming
+	FailEffect			calming
 END

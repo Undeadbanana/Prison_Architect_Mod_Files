@@ -1,4 +1,4 @@
-﻿
+
 BEGIN Names
 	MaleName H.Zolo
 	MaleName Church

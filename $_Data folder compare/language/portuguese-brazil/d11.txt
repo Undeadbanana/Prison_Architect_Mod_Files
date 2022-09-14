@@ -4,11 +4,11 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Registro completo de alterações
-codex_legal	Legal
-codex_privacy	política de Privacidade
-codex_terms-of-use	termos de uso
-codex_eula	contrato de licença de usuário final
+codex_viewchangelog	Lista de mudanças completa
+codex_legal	Jurídico
+codex_privacy	Política de Privacidade
+codex_terms-of-use	Termos de uso
+codex_eula	Contrato de Licença de Usuário Final
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Oficina
 
 
 mm_updatenotes_Date	27 de junho de 2019
-mm_updatenotes_Header	Atualização do Xilindró
+mm_updatenotes_Header	Atualização "O Tinido"
 mm_updatenotes_01	Adicionamos 4 novos tipos de chão e 4 novos tipos de parede.
 mm_updatenotes_02	Melhoramos o desempenho para ajudar a baixar o tempo de carregamento.
 mm_updatenotes_03	Aumentamos o número de capatazes que podem ser contratados em prisões maiores, onde capatazes também ensinam programas.
@@ -675,7 +675,7 @@ interfacedeployment_insaneseczone	Setor “Apenas psicóticos”
 interfacetopbar_PrisonerCells_insaneSecOnly	Capacidade de criminosos psicóticos: *X
 
 roomgrading_PsychiatristOffice_info	Desbloqueie e coloque objetos extras no consultório psiquiátrico para aprimorar o tratamento de detentos criminosos psicóticos\n.
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	desbloqueados com detentos criminosos psicóticos que participem de programas de consultas psiquiátricas.
 roomgrading_PsychiatristOffice_Item	Item: *X
 roomgrading_PsychiatristOffice_Quality	Capacidade psiquiátrica: *Q
 roomgrading_PsychiatristOffice_Upgrade	Atualize o consultório psiquiátrico para aprimorar suas capacidades.
@@ -848,8 +848,8 @@ administrator_requiresoffice_psychiatrist	Requer consultório psiquiátrico
 dlc_upsell	Este registro utiliza o conteúdo da expansão *D do Diretor. Como não conseguimos detectar a expansão no seu sistema, algumas funcionalidades serão desativadas. Considere comprar a expansão *D do Diretor para aproveitar ao máximo a experiência de Prison Architect.
 dlc_upsell_multiplayer	O anfitrião desta partida multijogador comprou a expansão *D do Diretor, a qual você também terá acesso por ser convidado. Aproveite!
 
-dlc_insane	Ala Psiquiátrica: Edição
-dlc_seaandair	Island Bound
+dlc_insane	Ala Psiquiátrica: Edição do Diretor
+dlc_seaandair	Preso Numa Ilha
 
 regime_work_pyscho	Programas/Tempo livre
 regime_worklockdown_pyscho	Programas/Toque de recolher
@@ -1207,7 +1207,7 @@ buildtoolbar_popup_obj_bambooDoor	Um portão de bambu artesanal para combinar co
 buildtoolbar_popup_obj_canvas	Uma maneira criativa de os prisioneiros expressarem como se sentem, sem esfaquear uns aos outros.
 buildtoolbar_popup_obj_PetBird	Um pequeno companheiro para seus detentos não se sentirem solitários.\n Ideal para necessidades de família, conforto e ostentação.
 buildtoolbar_popup_obj_SoftPillow	Aprimore ainda mais a qualidade e o conforto da cama de um detento com travesseiros de penas macios.\n Ideal para necessidades de sono e conforto.
-buildtoolbar_popup_obj_BoxingRing	Nenhuma academia de prisão fica completa sem um exemplar. A maioria dos detentos preferem pintar nesta tela.\n Ideal para necessidades de exercício e recreação.
+buildtoolbar_popup_obj_BoxingRing	Nenhuma academia de prisão fica completa sem um exemplar. A maioria dos detentos preferem pintar nesta tela.
 buildtoolbar_popup_obj_DumbbellRack	Para os seus detentos com espírito marombeiro.\n Ideal para necessidades de exercício.
 buildtoolbar_popup_obj_Treadmill	Para os prisioneiros se manterem em forma. Prisioneiros que treinam duro podem se tornar corredores ainda mais velozes.\n Ideal para necessidades de exercício.
 buildtoolbar_popup_obj_Fan	Um ventilador de coluna tradicional que ajuda a resfriar um pouco do ar ao seu redor.
@@ -1795,9 +1795,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Crie percursos que permitam a prision
 buildtoolbar_popup_uts_ScannerMonitor	Monitor para um guarda detectar contrabando, quando ligado a um scanner. A capacidade do guarda de detectar contrabando dependerá do seu nível de cansaço.
 buildtoolbar_popup_uts_ScannerMachine	Máquina para áreas de entrega e salas de armazenamento utilizada para vasculhar contrabando em caixotes de madeira. Deve estar ligada a um monitor de scanner para que o guarda consiga detectar qualquer contrabando. A capacidade do guarda de detectar contrabando dependerá do seu nível de cansaço.
 buildtoolbar_popup_obj_Checkpoint	Estação de ponto de controle para procurar prisioneiros e visitantes que passam por lá. Os prisioneiros só podem atravessar um ponto de controle em uma direção enquanto houver um guarda presente.
-buildtoolbar_popup_mat_waterShallow	Crie áreas de águas rasas para formar litorais mais agradáveis, entre chão de areia e água. Estes blocos podem ser percorridos a pé, ao contrário da água normal. - $*A (apenas ao ar livre)
-buildtoolbar_popup_mat_waterLarge	Crie grandes áreas de água, lagos e oceanos. - $*A (apenas ao ar livre)
-buildtoolbar_popup_mat_WoodenDockFloor	Chão de madeira maciça, perfeito para o estaleiro. - $*A (apenas ao ar livre)
+buildtoolbar_popup_mat_waterShallow	Crie áreas de águas rasas para formar litorais mais agradáveis, entre chão de areia e água. Estes blocos podem ser percorridos a pé, ao contrário da água normal.
+buildtoolbar_popup_mat_waterLarge	Crie grandes áreas de água, lagos e oceanos.
+buildtoolbar_popup_mat_WoodenDockFloor	Chão de madeira maciça, perfeito para o estaleiro.
 
 landscape_hint	(Pode ser construído na água).
 
@@ -1830,7 +1830,7 @@ transportZones_hover_hint	Ligue heliportos, docas e a estrada pelo menu Logísti
 # DLC Upsell
 # =============================================================================
 
-objective_ReadSandALetter	Carta do Diretor-Presidente	(Island Bound)
+objective_ReadSandALetter	Carta do Diretor-Presidente	(Preso Numa Ilha)
 island_letter	Prezado(a),\n\n\nReceba nossas boas-vindas à sua nova vida como arquiteto da prisão insular de Prison Architect! Confira algumas dicas para começar a trabalhar com as docas, heliportos e prisões insulares.\n\n1. Ilhas: dependendo das circunstâncias da prisão, talvez você não tenha ligação física com o continente. Neste caso, serão necessários BARCOS e HELICÓPTEROS para você prestar serviços de transporte. Construa ANCORADOUROS e HELIPORTOS, e determine seus objetivos: receber entregas específicas, novos prisioneiros ou novas unidades de emergência e muito mais, por via marítima ou aérea. -Construa docas com uma via de navegação livre para entrada e saída das embarcações. -Podem ser construídos PORTOS DE BALSA especiais para ligar as ilhas, assim como PONTES e ALPONDRAS. -Sua prisão agora pode ser mais bem protegida graças às novas unidades de OPERAÇÕES DE ELITE, e aos helicópteros capazes de enfrentar incêndios pelo ar.\n\n2. Personalização de entregas e transportes: através da LOGÍSTICA, personalize os serviços atribuídos a cada doca, heliporto e estrada, permitindo aumentar a eficiência da sua prisão. As docas e heliportos podem ser ligados a áreas adicionais de entrega, recepção e exportação. Assim você pode, por exemplo, receber o suprimento de alimentos mais perto da cozinha, ou novos detentos da segurança máxima mais perto da ala de Segurança Máxima da sua ilha. As possibilidades são infinitas!\n\n3. Paisagismo: posicione a água para criar fossos ou oceanos em volta da sua prisão, e molde a terra com o litoral, utilizando terra e outros tipos de piso. Qualquer terreno ou ilhotas criadas na água surgirão imediatamente.\n\n4. Novas medidas de segurança: já que ainda é possível chegar contrabando por barco ou helicóptero, disponibilizamos novos equipamentos de última geração. -Construa SCANNERS nas áreas de entrega e armazenamento para vasculhar caixotes e caixas. Você vai precisar de um guarda atento para vigiar um MONITOR DE SCANNER conectado. -Atribua guardas a PONTOS DE CONTROLE para vigiar todos os prisioneiros e visitantes que passarem. Esta é uma ótima forma de descobrir contrabando, mas pode reduzir o fluxo de prisioneiros caso posicionados sem estratégia.\n\nPor fim, nem mesmo as ilhas são à prova de fuga, por isso talvez seja uma boa ideia construir torres de franco-atiradores no litoral, para ficar de olho nos "nadadores".\n\nÉ isso. Boa sorte!\n\nO Diretor-Presidente,\nPrison Architects Corp.
 
 
@@ -2914,9 +2914,9 @@ warden_wardenfarmer_name	O Botânico
 warden_wardenfarmer_desc	Com vasta experiência na indústria agrícola, o Botânico pode ter um efeito muito positivo na agricultura da prisão. Aumenta o preço de exportação de cada colheita, a chance de obter sementes ao colher, além de estender o tempo para apodrecimento das colheitas e dos ingredientes coletados.
 warden_wardengreenpower_name	O Ecologista
 warden_wardengreenpower_desc	Com vasta experiência trabalhando com energia limpa, o Ecologista pode ter um efeito muito positivo nessas fontes de energia. Aumenta a energia gerada por todas fontes de energia limpa e dobra o valor da energia exportada e de reciclagens.
-dlc_name_psychWard	Psych Ward
-dlc_name_prisonWing	Cleared For Transfer
-dlc_name_seaAirLand	Island Bound
+dlc_name_psychWard	Ala Psiquiátrica
+dlc_name_prisonWing	Liberado para Transferência
+dlc_name_seaAirLand	Preso Numa Ilha
 dlc_name_greenMachine	Na onda ecológica
 interfacemode_objectType_filter_requiresWater	Encanamento
 interfacemode_objectType_filter_requiresElectricity	Eletrônico
@@ -2999,7 +2999,7 @@ objectiveWindow_FilterButton_0_tooltip	Tarefas em andamento
 objectiveWindow_FilterButton_1_tooltip	Conjunto de informações descrevendo e explicando as características principais de Na onda ecológica
 escapemode_info_board	Embarcar na balsa
 reports_ingredients_usageTitle	Proporção de uso de ingredientes frescos / importados
-objective_HelpEnvironmentallyFriendly	Przyjazny dla środowiska
+objective_HelpEnvironmentallyFriendly	Ecologicamente correto
 object_OxStatue	Estátua de boi
 object_PaperDragonHead	Dragão (Cabeça)
 object_PaperDragonBody	Dragão (Corpo)
@@ -3103,19 +3103,19 @@ uniform_color_14	Salmão
 uniform_color_15	Veludo
 uniform_color_16	Roxo
 uniform_color_17	Verde-limão
-uniform_color_18	Rosa-choque
-uniform_color_19	Aqua
-uniform_color_20	Arma de metal
+uniform_color_18	Rosa Choque
+uniform_color_19	Azul-Piscina
+uniform_color_20	Metal de Arma
 uniform_color_21	Areia
-uniform_color_22	Borgonha
-uniform_color_23	Slop
+uniform_color_22	Vinho
+uniform_color_23	Lama
 uniform_color_24	Ácido
 uniform_color_25	Tempestade
-uniform_color_26	Tolet
+uniform_color_26	Violeta
 uniform_color_27	Sujeira
 uniform_color_28	Aço
 uniform_color_29	Lilás
-uniform_color_30	Casca de ovo
+uniform_color_30	Casca de Ovo
 uniform_color_31	Oceano
 object_TherapyAnimal	Animal Terapêutico
 object_TherapyAnimalContainer	Transporte p/ Animal Terapêutico
@@ -3270,7 +3270,7 @@ d11_reform_program_pass_rate	Taxa de Aprovação em Programa de Reintegração
 d11_reform_released_prisoners_design_info	Uma vez que um detento tenha sido libertado da penitenciária, você receberá notificações de suas ações subsequentes, dependendo se ele foi reincidente ou reintegrado, e se encontrou trabalho; sua prisão será multada ou recompensada, respectivamente.
 d11_reform_prisoners_action_reformed	REINTEGRADOS!
 d11_reform_prisoners_action_reoffended	REINCIDENTES!
-d11_reform_prisoners_action_reoffended_returned	foi reenviado à sua prisão.
+d11_reform_prisoners_action_reoffended_returned	*X foi reenviado à sua prisão.
 d11_reform_prisoners_outcome_reformed	Encontraram trabalho na cidade *X.
 d11_reform_prisoners_outcome_reoffended	Foram presos e voltarão para a prisão.
 d11_reform_prisoners_outcome_reoffended_returned	Tome cuidado, pois os prisioneiros se tornam mais perigosos com o aumento de vezes que são presos.
@@ -3317,8 +3317,8 @@ policy_staff_keys	Permitir funcionários-chave
 d11_report_policy_staffKeys_hint	Se habilitada, todos os funcionários contratados carregarão chaves.\nEmbora esta opção selecionada a melhore eficiência dentro da prisão,\nela também introduz um risco adicional de segurança com mais chaves em circulação.
 codex_new_uniformColour	Cor uniforme:
 codex_new_defaultColour	Cor padrão:
-objectiveWindow_FilterButton_2_title	Sobre o DCL "Second Chances"
-objectiveWindow_FilterButton_2_toolTip	Ajuda e informações relacionadas ao novo DLC "Second Chances".
+objectiveWindow_FilterButton_2_title	Sobre o DCL "Segundas Chances"
+objectiveWindow_FilterButton_2_toolTip	Ajuda e informações relacionadas ao novo DLC "Segundas Chances".
 objective_WorkCredentials	Credenciais de Trabalho
 objective_WorkCredentials_child_1	Credenciais de Trabalho Preexistentes de Prisioneiro
 objective_WorkCredentials_child_1_Description	Antes da prisão, detentos até o nível máximo de segurança podem ter certa experiência devido a profissões anteriores. Os presidiários com formação em uma determinada área podem participar de um trabalho relacionado com sua experiência sem a necessidade do respectivo programa de treinamento.
@@ -3378,7 +3378,7 @@ objective_grant_reformProgramResearch_passJuvenileCorrection	Prisioneiro passou 
 objective_grant_reformProgramResearch_enrollPrisonerConsultation	Inscrição de 10 prisioneiros na Consulta de Prisioneiro Reintegrado
 objective_grant_reformProgramResearch_passPrisonerConsultation	1 prisioneiro aprovado na Consulta de Prisioneiro Reintegrado
 grant_category_ReformPassed	Pelo menos um prisioneiro foi aprovado
-dlc_name_shelby	Second Chances
+dlc_name_shelby	Segundas Chances
 d11_reform_design_info	Quanto menor a taxa de reincidência, maiores serão as chances de os detentos serem reintegrados. Para diminuir a taxa de reincidência dos prisioneiros, a melhor maneira é aumentar os graus dos presidiários com base na saúde, programas de reintegração aprovados, experiência de trabalho e pontos similares. Mais informações abaixo.
 d11_reform_punishment_grade_tooltip_title	Grau médio de punição
 d11_reform_reform_grade_tooltip_title	Grau médio de reintegração
@@ -3397,7 +3397,7 @@ objective_NewRooms_child_9	Sala do Restaurante: Satisfação dos Clientes
 objective_BehaviouralPrograms_child_2_Description	O objetivo da Resolução de Conflitos é educar os prisioneiros sobre a melhor maneira de lidar com situações difíceis, do mundo real, sem recorrer à violência. Este programa é orientado por ex-presidiários, permitindo uma sessão mais aberta e construtiva. O programa é dividido em várias sessões. Após a conclusão, os prisioneiros: verão uma redução no ponto de explosão, assim como a chance de remover qualquer Reputação violenta.
 objective_BehaviouralPrograms_child_3_Description	Ex-presidiários que conseguiram se reintegrar ao sair da prisão são convidados a conversar com os detentos atuais. Os prisioneiros valorizam mais quando as palavras são proferidas por "um dos seus", estando mais dispostos a se abrir para compartilhar pensamentos com um professor que já esteve na mesma posição.\n\nO programa é dividido em várias sessões. Após a conclusão, os prisioneiros: verão redução na taxa de reincidência, melhorarão ou reduzirão as necessidades específicas como Família, Liberdade e Segurança, assim como terão a chance de remover qualquer Reputação de comportamento negativo.
 objective_LabourWages_child_1_Description	Cada emprego trabalhista paga ao prisioneiro um salário por hora. A quantidade de treinamento necessária para os empregos trabalhistas varia desde nenhum treinamento necessário até várias sessões de treinamento.\nOs salários podem ser adaptados a cada tipo de trabalho pelo menu "Finança". Salários mais altos motivam os detentos a participar do trabalho prisional e de programas relacionados ao trabalho.
-object_JackOLantern	Jack Lanterna
+object_JackOLantern	Lanterna de Abóbora
 object_DecoratedTree	Árvore decorada (assustadora)
 object_CoffinBed	Cofre de caixão
 object_SpiderWeb	Teia de aranha
@@ -3465,13 +3465,13 @@ object_Sprinkler	Aspersor de Incêndio
 objective_HelpCalamities_child_3	Onda de calor
 weather_CalamityHeatwave	Onda de calor
 d11_staffalert_title_CalamityHeatwave01	Onda de calor
-report_Coverage	COBERTURA
+report_Coverage	Cobertura
 d11_coverage_staff_only	Apenas equipe
 codex_new_weathertype_disabled	Desativado
 d11_on	SIM
 d11_off	NÃO
 interfacetopbar_timesincetransaction	[*X segundos atrás]
-dlc_name_polly	Perfect Storm
+dlc_name_polly	Tempestade Perfeita
 event_rollingblackout	As Tempestades estão causando estragos na rede elétrica local. A instalação de geradores reservas é uma boa solução alternativa. Temos que tentar manter a prisão energizada até em situações de emergência.
 event_frozenpeople_cold	Acho que ninguém deveria estar do lado de fora em um frio como esse. É melhor colocar todos para dentro, senão alguém pode acabar morrendo.
 event_frozenpeople_die	Alguém morreu de frio na área externa. Esta é uma tragédia que poderia ter sido evitada. É sua responsabilidade gerenciar o bem-estar dos detentos e da equipe nessa área. Ninguém deveria estar do lado de fora nessas condições.
@@ -3661,8 +3661,8 @@ d11_staffalert_title_granterror	Erro no subsídio
 d11_staffalert_details_granterror	Devido a um erro administrativo, nosso bônus de conclusão foi dobrado!
 d11_staffalert_title_MysteryCrate	Caiu da traseira.
 d11_staffalert_details_MysteryCrate	Parece que um item destinado a outro lugar caiu de um caminhão que passava. Como eles vão ser totalmente ressarcidos por esse erro, isso significa que ganhamos uma mercadoria grátis. O que será que tem dentro?
-objectiveWindow_FilterButton_3_title	Sobre Perfect Storm
-objectiveWindow_FilterButton_3_tooltip	Conjunto de informações descrevendo e explicando as características principais das calamidades e de Perfect Storm.
+objectiveWindow_FilterButton_3_title	Sobre Tempestade Perfeita
+objectiveWindow_FilterButton_3_tooltip	Conjunto de informações descrevendo e explicando as características principais das calamidades e de Tempestade Perfeita.
 objective_HelpCalamities	Calamidades
 objective_HelpCalamities_child_1	Frio congelante
 objective_HelpCalamities_child_1_Description	Neste frio extremo, muitas partes da prisão podem ficar completamente congeladas. Os prisioneiros terão mais propensão a ficar doentes e, em casos extremos, serem congelados. Sempre é uma boa ideia ter caixas de areia à disposição, instalar isolamentos nos itens de infraestrutura e manter a equipe médica de prontidão.
@@ -3697,10 +3697,11 @@ objective_grant_subsidence_description	Conserte os danos ocorridos nas paredes e
 objective_grant_subsidence_hire	Contrate os restauradores para consertar paredes e cercas danificadas
 objective_grant_utilityretrofit	Subsídio de Retroajuste de Infraestrutura
 objective_grant_utilityretrofit_description	Infestações podem causar sérios problemas no comércio local. Um subsídio foi disponibilizado para que as empresas locais protejam sua infraestrutura.
-objective_grant_utilityretrofit_build	Construa 50 blocos de Cabos Reforçados.
+objective_grant_utilityretrofit_build	Construa 50 blocos Protetor de cabos.
 calamity_grants_onboarding	O clima tem se tornado mais caótico nos últimos anos. Demos sorte desta vez, mas a prisão deve se preparar para qualquer eventualidade. Alguns subsídios são oferecidos para as empresas locais depois de climas adversos. Não deixe de aproveitá-los assim que estiverem disponíveis.
 grant_category_CollapsedWallFence	Cerca derrubada:
 grant_category_HasObject	Possui:
+grant_category_EverHadObject	Possui:
 grant_category_CalamityHappened	Calamidade ocorrida:
 action_brewing	Preparando
 action_electricalsabotaging	Sabotando
@@ -3853,10 +3854,366 @@ d11_staffalert_details_CalamityHeatwave01	Há alguns problemas que podem surgir 
 d11_staffalert_hint_CalamityHeatwave01	Um incêndio com ventos fortes pode virar uma catástrofe. Tente se prevenir contra isso e fazer os devidos preparos.
 buildtoolbar_AutomatedEmergencyService	- Serviço automatizado
 weather_instrument_title	Previsão de:
-dlc_name_polly	Perfect Storm
+dlc_name_polly	Tempestade Perfeita
 buildtoolbar_stayIndoorsCalamity	Calamidade
 buildtoolbar_popup_uts_WeatherMachine	A Máquina de Meteorologia oferece previsões do tempo avançadas, incluindo informações sobre a duração, temperatura, precipitação, velocidade dos ventos e condições de visibilidade. Além disso, é feita uma contagem regressiva para quaisquer eventos meteorológicos perigosos e iminentes.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Porta dupla que pode ser usada por funcionários.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Porta dupla que pode ser usada por funcionários.
-codex_tooltip_startingSeason    Escolha a estação inicial. O clima avançará naturalmente pelas estações.
-object_AirPestControlHeli	Controle de pragas aéreo					
+codex_tooltip_startingSeason	Escolha a estação inicial. O clima avançará naturalmente pelas estações.
+object_AirPestControlHeli	Controle de pragas aéreo
+codex_option_default	Padrão
+dlc_name_kimber	Gangues
+quickbuild_Gymnasium	Academia
+boilingpoint_Needs	Necessidades
+boilingpoint_ProgramCompletion	Programas concluídos
+boilingpoint_RoomQuality	Qualidade do ambiente
+buildtoolbar_popup_help_BoilingPoint_3	^Dicas
+securitymenu_popup_recentMisconduct	Má conduta recente:
+securitymenu_PrisonerTypeDefault	Padrão
+securitymenu_PrisonerTypeDangerous	Perigoso
+rapsheet_assignguard	Atribuir guarda
+buildtoolbar_popup_help_securitymenu_4	^Dicas
+objective_HelpPrograms	Programas
+objective_grant_positiveEnergyGrant_yard	Construa um pátio
+gang_green	Verde
+d11_gang_bonebreakers_goal	Destruição
+d11_gang_misconduct	Má conduta:
+d11_heatmap_deaths	Mortes:
+interface_action_CleanGraffiti	Limpar
+schedulesearch_menu_Frequency	Frequência
+reputation_Resourceful	Engenhoso
+action_Withdrawal	Abstinência
+action_ListenToRadio	Ouvir rádio
+codex_option_plotType	Tipo de terreno
+codex_tooltip_plotType	Isso permite gerar um terreno inicial específico. Padrão conta com terra e grama, Selva apresenta uma mata fechada, Neve é coberto de neve, Deserto tem areia para todos os lados, Lunar é similar à superfície da lua, Ilha é cercada de água e usa um ancoradouro em vez de uma estrada, e Ilha Conectada é cercada de água, mas tem uma ponte conectada à estrada.
+survey_letter_1	Prezado diretor,\n\n\nAgradecemos pela sua participação no teste dos novos recursos e sistemas da prisão.\n\nComo Diretor-presidente, é de minha responsabilidade a coleta de informações de todos os diretores para aprimorar ainda mais a experiência.\n\nSe puder dedicar alguns minutos a responder à pesquisa que criei para você, seria de grande valia.\n\nAtenciosamente,\nDiretor-presidente da Prison Architects Corp.
+survey_letter_2	Prezado diretor,\n\n\nAgradecemos mais uma vez pela sua participação no teste dos novos recursos e sistemas da prisão. \n\nApós ter passado mais tempo testando os novos recursos e sistemas, seu feedback atualizado seria importantíssimo para nossa pesquisa.\n\nAtenciosamente,\nDiretor-presidente da Prison Architects Corp.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Está mais para um cão guloso do que um cão de ataque.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	O doberman é o cachorro policial perfeito.
+object_ChocolateLabrador	Labrador Marrom
+buildtoolbar_popup_obj_ChocolateLabrador	Adora fazer novos amigos, ainda mais quando o novo amigo está fugindo.
+object_BlackShepherd	Pastor Alemão Preto
+buildtoolbar_popup_obj_BlackShepherd	Pode ser bonitinho, mas acabaria com qualquer um que se metesse com ele.
+object_TattooRemovalMachine	Máquina de Remoção de Tatuagem
+buildtoolbar_popup_obj_TattooRemovalMachine	Item indispensável para reintegrar um membro de gangue. Remover as tatuagens é o primeiro passo para isso.
+object_MetalStool	Banquinho de Metal
+buildtoolbar_popup_obj_MetalStool	Banquinho de metal bonito.
+equipment_TattooRemovalTool	Ferramenta de Remoção de Tatuagem
+room_TheCage	Gaiola
+buildtoolbar_popup_room_TheCage	Unidade externa que pode ser usada por um prisioneiro para se exercitar longe de outros detentos.
+quickbuild_TheCage	Gaiola
+buildtoolbar_quickbuild_TheCage	Unidade externa que pode ser usada por um prisioneiro para se exercitar longe de outros detentos.
+material_CageFence	Alambrado Fechado
+buildtoolbar_popup_mat_CageFence	Alambrado para delimitar o espaço de exercício dos detentos.
+room_TattooRemovalRoom	Sala de Remoção de Tatuagem
+buildtoolbar_popup_room_TattooRemovalRoom	Lugar onde seus detentos passam por um processo doloroso e monótono de remoção de tatuagens de gangue.
+quickbuild_TattooRemovalRoom	Sala de Remoção de Tatuagem
+buildtoolbar_quickbuild_TattooRemovalRoom	Lugar onde seus detentos passam por um processo doloroso e monótono de remoção de tatuagens de gangue.
+object_PullUpBars	Barras Fixas
+buildtoolbar_popup_obj_PullUpBars	Equipamento barato de exercício, muito popular entre os detentos mais brutos.
+object_KneeRaise	Elevação de Pernas
+buildtoolbar_popup_obj_KneeRaise	Equipamento barato de exercício, muito popular entre os detentos mais brutos.
+object_PushUpStones	Pedras de Flexão
+buildtoolbar_popup_obj_PushUpStones	Equipamento barato de exercício, muito popular entre os detentos mais brutos.
+object_GangGraffiti	Graffiti de Gangue
+d11_hover_info_gang_graffiti_1	+15% de força para os integrantes da gangue no território
+d11_hover_info_gang_graffiti_2	+15% de resistência para os integrantes da gangue no território
+object_FightRing	Ringue de Combate
+buildtoolbar_popup_obj_FightRing	Se seus prisioneiros lutarem no ringue, não vão brigar fora dele.\n - Atende às necessidades de exercício e recreação.
+quickbuild_FightClubRoom	Clube da Luta
+buildtoolbar_quickbuild_FightClubRoom	Vamos fingir que essa sala não existe.
+room_FightClubRoom	Clube da Luta
+buildtoolbar_popup_room_FightClubRoom	Vamos fingir que essa sala não existe.
+object_CageGate	Portão do Cercado
+buildtoolbar_popup_obj_CageGate	Portão que combina bem com as cercas. Funciona da mesma maneira que uma porta.
+buildtoolbar_popup_obj_RemoteDoor	Porta projetada para utilização com um servomotor. Lembre-se de ter guardas suficientes para controlar as entradas e saídas deste tipo de porta ou instale placas de pressão.
+object_RemoteDoorOrange	Porta Automática (Laranja)
+buildtoolbar_popup_obj_RemoteDoorOrange	Porta projetada para utilização com um servomotor. Lembre-se de ter guardas suficientes para controlar as entradas e saídas deste tipo de porta ou instale placas de pressão.
+object_RemoteDoorRed	Porta Automática (Vermelha)
+buildtoolbar_popup_obj_RemoteDoorRed	Porta projetada para utilização com um servomotor. Lembre-se de ter guardas suficientes para controlar as entradas e saídas deste tipo de porta ou instale placas de pressão.
+object_RemoteDoorYellow	Porta Automática (Amarela)
+buildtoolbar_popup_obj_RemoteDoorYellow	Porta projetada para utilização com um servomotor. Lembre-se de ter guardas suficientes para controlar as entradas e saídas deste tipo de porta ou instale placas de pressão.
+object_RemoteDoorWhite	Porta Automática (Branca)
+buildtoolbar_popup_obj_RemoteDoorWhite	Porta projetada para utilização com um servomotor. Lembre-se de ter guardas suficientes para controlar as entradas e saídas deste tipo de porta ou instale placas de pressão.
+object_GymInstructor	Instrutor de Exercícios
+object_FilingCabinetFancy	Arquivo (Chique)
+buildtoolbar_popup_obj_FilingCabinetFancy	Mime seus funcionários com um belo arquivo.
+material_LongGrass	Grama Alta
+codex_tooltip_gangsEnhanced	Agora você pode alterar a admissão de prisioneiros para entrar nas suas gangues. Ter mais membros de gangues na sua prisão tornará o recrutamento de gangues mais rápido, e sua prisão se torna mais caótica e perigosa.\n\n Tradicional - A dificuldade das gangues será como antes (Novato) \n Baixa (Padrão) - Ideal para jogadores novos ou intermediários \n Média - Jogadores experientes \n Alta - Jogadores experientes em busca de um grande desafio
+codex_tooltip_morelieutenants	Os Tenentes têm um papel importante na conquista de novos territórios para suas gangues. Se quiser gangues mais ativas, considere reduzir o número de membros necessários por Tenente. Só escolha números menores do que 6 se quiser um desafio.
+codex_option_morelieutenants	Mais tenentes
+codex_tooltip_codex_option_morelieutenants	Os Tenentes têm um papel importante na conquista de novos territórios para suas gangues. Se quiser gangues mais ativas, considere reduzir o número de membros necessários por Tenente. Só escolha números menores do que 6 se quiser um desafio.
+codex_option_GangSpecialReputations	Reputações especiais de gangues
+codex_tooltip_GangSpecialReputations	As gangues recebem novas reputações que modificam a maneira pela qual os membros se comportam na sua prisão.
+codex_option_AllDogs	Todos os cães
+codex_tooltip_AllDogs	Escolha esta opção para habilitar todos os cães e tornar as contratações aleatórias.
+codex_tooltip_RandomWardens	Escolha esta opção para ter um Diretor escolhido aleatoriamente.
+interfacecontraband_BoilingPoint	Ponto De Explosão
+buildtoolbar_contraband_BoilingPoint	Mostra áreas a serem melhoradas para prisioneiros descontentes.
+boilingpoint_header	Ponto De Explosão
+boilingpoint_OverallTemperature	Termômetro geral
+boilingpoint_StatusEffects	Efeitos de status
+boilingpoint_OverallTemperature_popup	Existem algumas coisas que fogem do controle na tentativa de manter os detentos felizes e calmos, como as personalidades deles ou o número de penas que eles cumprem. Quanto mais irritado um detento fica, mais alto é o termômetro da prisão, e maior é a chance de que ele apronte alguma.
+boilingpoint_Needs_popup	Você tem *X prisioneiros que não conseguem satisfazer suas necessidades no momento.\n\nVerifique se eles têm acesso aos aposentos ou objetos necessários para isso.
+boilingpoint_ProgramCompletion_popup	No momento, você tem *X prisioneiros que não concluíram nenhum programa.\n\nQuanto mais programas um prisioneiro concluir, maiores as chances de que ele se mantenha calmo. Adicione alguns programas para eles participarem e verifique se o Regime deles permite. Alguns programas podem ser repetidos.
+boilingpoint_StatusEffects_popup	Há *X detentos sofrendo com efeitos negativos no momento.\n\nConsidere vigiá-los com atenção para impedir contrabandos, principalmente de álcool ou narcóticos.\n\nQuando os prisioneiros têm efeitos positivos, a tendência de mau comportamento é menor.
+boilingpoint_RoomQuality_popup	No momento, você tem *X detentos em ambientes ruins.\n\nAumente a qualidade dos ambientes para que eles fiquem mais felizes e calmos. Alguns prisioneiros não se qualificam para ficar em ambientes de alta qualidade. Use os Ajustes de Sentença para reduzir os requisitos.
+buildtoolbar_popup_help_BoilingPoint_1	A visualização do ponto de explosão mostra o termômetro atual da prisão. Este menu destaca áreas problemáticas na sua prisão, como qualidade da cela, necessidades, efeitos de status e níveis de participação em programas.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Se ainda não conseguir controlar um prisioneiro em particular, considere colocá-lo em confinamento ou na solitária para se acalmar.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Verifique se todos os detentos têm acesso a necessidades básicas.
+buildtoolbar_popup_help_BoilingPoint_5	- Invista em reintegração, terapia, programas de tratamento e trabalho e confira se os regimes permitem a participação deles.
+buildtoolbar_popup_help_BoilingPoint_6	- Prisioneiros de Baixa Segurança têm uma tolerância mais alta por terem penas mais curtas.
+boilingpoint_advisor_onboarding	Este prisioneiro está causando encrenca e parece ter chegado ao seu ponto de explosão. Talvez não estejamos fazendo tudo que podemos para nossos detentos. Procure atender às necessidades deles, melhorar as condições de vida e dar algo que possam fazer. Confira o menu de Inteligência para mais informações.
+interfacecontraband_SecurityMenu	Menu de Segurança
+buildtoolbar_contraband_SecurityMenu	Exibe uma lista de todos os detentos perigosos ou em perigo e aplica medidas de segurança a qualquer um que necessite de mais gerenciamento.
+securitymenu_header	Menu de Segurança
+securitymenu_popup_prisonerSelect	Clique com o botão esquerdo para selecionar um prisioneiro
+securitymenu_popup_dangerousReputations	Reputações perigosas:
+securitymenu_popup_dangerousTraits	Características perigosas:
+securitymenu_popup_crimesCommitted	Crimes:
+securitymenu_PrisonerType	Tipo de prisioneiro:
+securitymenu_PrisonerTypeVulnerable	Vulnerável
+securitymenu_MarkingTypeUnmarked	Desmarcado
+securitymenu_SelectArea	Selecionar área
+securitymenu_SelectAreaCancel	Desfazer seleção da área
+securitymenu_RestrictAccess	Acesso restrito:
+securitymenu_TransferPrisoners	Transferir prisioneiro(s):
+securitymenu_transferSecurityLevel	Nível de segurança
+securitymenu_GuardAssignment	Atribuição do guarda:
+securitymenu_MarkPrisoner	Marcar prisioneiro:
+securitymenu_RemovePrisoner	Remover prisioneiro:
+securitymenu_RemovePrisonerButton	Remover prisioneiro
+securitymenu_RemovedPrisoner	Prisioneiro removido
+securitymenu_RemovePrisoner_message	Remover prisioneiro\n\nEste é o último recurso para lidar com os piores encrenqueiros. Após pagar uma multa pesada, você pode enviar este prisioneiro para uma outra penitenciária. Essa ação só pode ser realizada a cada 5 dias.
+securitymenu_RestrictAccess_tooltip	Bloqueia o acesso a áreas específicas, não permitindo que o(s) prisioneiro(s) selecionado(s) passem sem que os guardas tentem subjugá-los. Membros de gangues não podem ser impedidos de circular em suas próprias áreas/territórios.
+securitymenu_TransferPrisoner_tooltip	Leve os prisioneiros selecionados para um sistema de segurança específico para facilitar o controle deles.
+securitymenu_MarkPrisoner_tooltip	Fixe uma marca visual nos prisioneiros selecionados, permitindo ficar mais facilmente de olho em indivíduos mais perigosos ou vulneráveis.
+rapsheet_assignguard_end	Não atribuir guarda
+job_PrisonerAssignment	Atribuição de prisioneiros
+assignment_confirm_message	Deseja atribuir um guarda?
+assignment_description_message	Se quiser monitorar este prisioneiro, pode ser uma boa ideia atribuir um guarda para ele. Verifique se você tem guardas suficientes à disposição.
+assignment_error_message	Este prisioneiro não pode ser atribuído a um guarda no momento. Tente de novo mais tarde.\n\nOu ele acabou de chegar, ou está algemado, ou está em confinamento.
+buildtoolbar_popup_help_securitymenu_1	O menu de segurança lista todos os detentos vistos como perigosos ou vulneráveis. Algumas ações neste menu podem ser atribuídas aos detentos para dar mais opções de suporte e proporcionar um melhor gerenciamento da população carcerária.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Por padrão, prisioneiros perigosos e vulneráveis são listados juntos, mas a opção "tipo de prisioneiro" permite aplicar ações a grupos específicos.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Algumas ações podem ser aplicadas a um grupo, enquanto outras só podem ser aplicadas em indivíduos selecionados. Destaque e clique com o botão esquerdo em um prisioneiro para selecioná-lo.\n\n
+buildtoolbar_popup_help_securitymenu_5	- A opção de atribuição de guardas ajuda a manter uns prisioneiros a salvo de outros, além de monitorá-los para impedir mau comportamento. Os guardas não acompanham os detentos em momentos privados, como sono e banho.
+buildtoolbar_popup_help_securitymenu_6	- Se um prisioneiro estiver causando muitos problemas e for difícil demais de lidar, a opção Remover Prisioneiro o mandará embora. Essa ação tem um tempo de reativação e não pode ser realizada todos os dias, além de ter um custo monetário.
+objectiveWindow_FilterButton_4_title	Informações sobre gangues
+objectiveWindow_FilterButton_4_tooltip	Tudo que você precisa saber sobre gangues
+objective_HelpGangBehaviourAndType	Comportamentos das gangues
+objective_HelpGangBehaviourAndType_Description	Novas gangues foram introduzidas, cada uma com um comportamento diferente da outra.
+objective_HelpGangBehaviourAndType_child_1	Víboras
+objective_HelpGangBehaviourAndType_child_1_Description	Os Víboras são traiçoeiros e buscam viciar as prisões em que estão com os entorpecentes que controlam, além de serem bastante violentos.
+objective_HelpGangBehaviourAndType_child_2	Quebra-ossos
+objective_HelpGangBehaviourAndType_child_2_Description	Os Quebra-ossos são bandidos musculosos com predileção pela violência e destruição.
+objective_HelpGangBehaviourAndType_child_3	Chacais
+objective_HelpGangBehaviourAndType_child_3_Description	Os Chacais são os mais engenhosos dentre estas gangues, preferindo controlar seus territórios e contrabandear para aumentar seu poder financeiro.
+objective_HelpGangActivities	Atividades das gangues
+objective_HelpGangActivities_Description	As atividades das gangues vão desde administrar os próprios territórios a executar planos contra pessoas importantes da prisão, fazer exigências para o jogador e ações similares.
+objective_HelpGangActivities_child_1	Atividades especializadas
+objective_HelpGangActivities_child_1_Description	Cada gangue participará de atividades especializadas dependendo das diferentes personalidades. Os Víboras se concentram na produção e venda de entorpecentes, os Quebra-ossos gostam de lutas e destruição, e os Chacais se concentram em expandir territórios e ganhar dinheiro.
+objective_HelpGangActivities_child_2	Atividades nos territórios
+objective_HelpGangActivities_child_2_Description	Com novos territórios, temos novos comportamentos. As gangues agora "vigiam" as áreas que controlam, obrigando os outros detentos a se comportar e a pagar para usar qualquer um dos itens na área, mesmo durante o período de expediente. Os integrantes das gangues também conseguem grandes quantidades de contrabando com base no espaço que controlam, e "traficantes" surgem para vender esses itens a outros detentos.
+objective_HelpGangActivities_child_3	Demandas de gangues
+objective_HelpGangActivities_child_3_Description	Quando uma gangue ganha poder e confiança suficientes na prisão, ela começa a fazer certas exigências, que vão desde ganhar novos equipamentos a mais tempo livre ou no pátio. O jogador terá um período determinado para atendê-las. Se não conseguir cumprir as exigências, as repercussões começam imediatamente, geralmente com alguma forma de destruição ou violência causada pela gangue.
+objective_HelpCrookedGuards	Guardas Corruptos
+objective_HelpCrookedGuards_Description	Quem dera se todos nossos funcionários fossem destemidos e íntegros, mas nem sempre é o caso.
+objective_HelpCrookedGuards_child_1	Suborno de guardas
+objective_HelpCrookedGuards_child_1_Description	Guardas de todos os tipos podem ser subornados para facilitar a tomada de territórios por parte das gangues, fazer vista grossa para determinadas ações de má conduta por 48 horas e deixar prisioneiros ficarem com contrabandos. Por sorte, os informantes podem revelar guardas corruptos, o que dá uma chance de despedi-los.
+objective_HelpCrookedGuards_child_2	Corrupção de guardas
+objective_HelpCrookedGuards_child_2_Description	Alguns guardas podem ser corrompidos se interagirem por muito tempo com membros de gangues e serão pagos para contrabandear mercadorias para elas. Informantes podem marcar guardas suspeitos para você, enquanto detectores de contrabando e cães de guarda também poderão encontrar as mercadorias enquanto elas estiverem com esses indivíduos.
+objective_HelpGangIntelligence	Inteligência das gangues
+objective_HelpGangIntelligence_Description	Com tanto potencial para a má conduta em uma prisão, a inteligência é sempre fundamental para manter a segurança. O menu de inteligência das gangues apresenta informações sobre cada gangue na sua prisão, listando o número de membros delas, os fundos, além de uma contagem de más condutas durante as penas. Também mostra movimentações ou atividades das gangues para ajudar a visualizar o nível de perigo de cada uma.
+objective_HelpSecurityOptions	Opções de segurança
+objective_HelpSecurityOptions_Description	Uma lista de "prisioneiros importantes" aparecerá em um novo menu, apresentando todos os detentos tidos como vulneráveis ou perigosos para outros. Nesse menu, os detentos que devem receber mais atenção podem ser marcados para serem monitorados com mais facilidade durante o jogo. Também há outras ações, como impedir o acesso de prisioneiros a certas áreas, transferir os grupos a níveis de segurança específicos e enviar detentos problemáticos para outra prisão, apesar de que esta ação incorre em uma multa cara.
+objective_HelpPrograms_Description	Para proporcionar mais segurança aos seus guardas, agora eles podem receber um novo treinamento para desarmar prisioneiros com facilidade. Os detentos também terão novos programas à disposição, como os recreativos, que ajudam na reintegração e buscam acalmar ou aliviar o estresse deles, ou programas de reabilitação, que os ajudam a fugir da vida das gangues para cumprir suas penas de forma mais tranquila e construtiva.
+objective_grant_positiveEnergyGrant	Energia positiva
+objective_grant_positiveEnergyGrant_Description	Os membros das gangues precisam dedicar seu foco (e sua energia) ao exercício, não à violência. Pesquisas apontam que exercícios reduzem ações desse tipo. Instale equipamentos de exercícios no pátio.
+objective_grant_positiveEnergyGrant_bench	Adicione um Banco de Musculação
+objective_grant_advancedProtectionGrant	Proteção avançada
+objective_grant_advancedProtectionGrant_Description	É essencial proteger os funcionários ao lidar com gangues organizadas. Precisamos ter certeza de que estão treinados até o nível máximo, para a própria segurança deles.
+objective_grant_advancedProtectionGrant_training	Treine 20 guardas na certificação Desarme.
+objective_grant_gangWelfareGrant	Bem-estar das gangues
+objective_grant_gangWelfareGrant_Description	Transformar uma guerra de gangues em uma trégua é prioridade. Os detentos têm boas chances de se reintegrar quando colocados em programas que os ajudam a sair dessa vida.
+objective_grant_gangWelfareGrant_exGangMembers	Reintegre 15 membros de gangues, transformando-os em ex-membros.
+objective_grant_exGangProtectionGrant	Programa de proteção de ex-membro de gangue
+objective_grant_exGangProtectionGrant_Description	O governo está oferecendo verbas para construir uma ala de Prisão Preventiva para proteger ex-membros de gangues em processo de reabilitação.
+objective_grant_protectionCells	Construa 10 celas em um setor de Apenas Protegidos
+objective_grant_protectionShower	Construa uma sala de chuveiros em um setor de Apenas Protegidos
+objective_grant_protectionCanteen	Construa um refeitório em um setor de Apenas Protegidos
+objective_grant_protectionKitchen	Construa uma cozinha em um setor de Apenas Protegidos
+objective_grant_protectionYard	Construa um pátio em um setor de Apenas Protegidos
+objective_grant_protectionGuards	Atribua um guarda para um setor de Apenas Protegidos
+objective_grant_protectionExGang	Atribua o nível de segurança de Prisão Preventiva a 1 ex-membro de gangue
+grant_category_adminHired	Administrador contratado:
+reformprogram_TattooRemovalProgram	Programa de remoção de tatuagem
+reformprogram_TattooRemovalProgram_text	Se seus prisioneiros se arrependerem das tatuagens que fizeram, você pode facilitar a reabilitação com sessões de remoção. Concluir este programa os torna alvos.
+reformprogram_HandToHandCombat	Certificação em desarme
+reformprogram_HandToHandCombat_text	Quando o bicho pega, nós pegamos o bicho. Treine técnicas avançadas de desarme de prisioneiros para seus guardas.
+reformprogram_GangRehabilitation	Reabilitação da gangue
+reformprogram_GangRehabilitation_text	Se o membro de uma gangue estiver causando problemas demais na prisão, mande-o concluir este programa. É o primeiro passo para cortar os laços com a gangue e buscar uma alternativa. Concluir este programa o torna um alvo. Tipo de referência: violência e destruição.
+reform_program_intake_ReferralGangViolenceDestruction	Referência: apenas gangues de violência e destruição.
+reform_program_intake_GangOnly	Apenas Gangues
+reformprogram_FaithProgram	Programa de fé
+reformprogram_FaithProgram_text	Os prisioneiros que participarem deste programa intensivo estarão mais propensos a abandonar estilos de vida ruins e aceitar uma vida melhor. Depois de concluir este programa, muitos vão optar por cortar laços com suas gangues.
+reformprogram_BreatheProgram	Respiração terapêutica
+reformprogram_BreatheProgram_text	Ensine seus detentos a respirar e relaxar. Depois de cada aula, os detentos se sentem muito mais calmos e podem até pensar em se comportar melhor.
+reformprogram_FightClub	Clube da Luta
+reformprogram_FightClub_text	Estas sessões de treinamento canalizam a energia destrutiva dos seus detentos em um ambiente controlado. Eles vão ficar cansados demais para lutar depois. Espera, qual era a primeira regra mesmo?
+reform_program_properties_TeacherUsesSameEquipment	O professor precisa de *X
+reform_program_properties_GangMemberCanAttend	Membros de gangues podem ter acesso
+gang_vipers	Víboras
+gang_bonebreakers	Quebra-ossos
+gang_jackals	Chacais
+gang_red	Vermelho
+gang_blue	Azul
+gang_yellow	Ex-integrantes de gangue
+objective_GangDemand	Demandas de gangues
+objective_GangDemand_description	Depois de ganhar confiança, os líderes das gangues farão diversas exigências para melhorar a qualidade de vida na prisão. Não atendê-las pode resultar em uma revolta. Se chegar a esse ponto, é melhor que sua prisão esteja preparada.
+GangDemand_announcement	Os membros de gangues vão causar muitos problemas se não atendermos às exigências deles.
+objective_Gang_ContrabandToolsPunishment_child	*G - Reduza a punição por Encontrar Ferramentas para *X horas.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Reduza a punição por Encontrar Ferramentas para zero
+objective_Gang_MurderPunishment_child	*G - Reduza a punição por Homicídio para *X horas.
+objective_Gang_MurderPunishment_Escalated_child	*G - Reduza a punição por Homicídio para *X horas.
+objective_Gang_MoreYardTime_child	*G - Aumente o regime de Tempo no Pátio para *X horas.
+objective_Gang_MoreYardTime_Escalated_child	*G - Aumente o regime de Tempo no Pátio para *X horas.
+objective_Gang_PullUpBars_child	*G - Tenha *X Barras Fixas.
+objective_Gang_PullUpBars_Escalated_child	*G - Tenha *X Barras Fixas.
+objective_Gang_TyreApparatus_child	*G - Tenha *X Ferramentas de Pneus.
+objective_Gang_TyreApparatus_Escalated_child	*G - Tenha *X Ferramentas de Pneus.
+objective_Gang_PunchBag_child	*G - Tenha *X Sacos de Pancada.
+objective_Gang_PunchBag_Escalated_child	*G - Tenha *X Sacos de Pancada.
+objective_Gang_PushUpStones_child	*G - Tenha *X Pedras de Flexão.
+objective_Gang_PushUpStones_Escalated_child	*G - Tenha *X Pedras de Flexão.
+objective_Gang_RequireYard_child	*G - Tenha uma *X.
+objective_Gang_RequireYard_Escalated_child	*G - Tenha uma *X.
+objective_Gang_RequireLibrary_child	*G - Tenha uma *X.
+objective_Gang_RequireLibrary_Escalated_child	*G - Tenha uma *X.
+objective_Gang_RequireMailRoom_child	*G - Tenha uma *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Tenha uma *X.
+d11_gangdemand_success	Recebemos uma quantia por cuidar dessa situação.
+d11_gangdemand_fail	Vamos tentar impedir que essa situação ocorra de novo.
+d11_gangCompensation	Compensação por gangues
+d11_gang_goal	Objetivo da gangue:
+d11_gang_jackals_goal	Controle da prisão
+d11_gang_traits	Características da gangue:
+d11_gang_officer	Chefes de gangues:
+d11_gang_territories	Territórios:
+d11_gang_kills	Mortes de gangues:
+d11_heatmap_gang	Gangue envolvida:
+d11_heatmap_day	Dia da ocorrência:
+d11_heatmap_time	Horário da ocorrência:
+d11_gang_event_pr.gf	Briga de gangues
+d11_gang_event_g.tc	Mudança de território
+gangSegregationMessage	Escolha quais gangues têm permissão para entrar em certas áreas.
+interfacedeployment_GangSegregation	Segregação da Gangue
+buildtoolbar_deployment_GangSegregation	Para ter mais controle sobre a distribuição de uma gangue, os integrantes podem ser alocados em diferentes espaços de habitação, mantendo-os afastados uns dos outros para evitar instigações desnecessárias.
+research_StaffVetting	Vetar funcionários
+researchtooltip_StaffVetting	Reduz as chances de que novos guardas se tornem corruptos. Desbloqueia a investigação de guardas, permitindo o uso de informantes para revelar guardas corruptos.
+buildtoolbar_GuardInvestigation	Investigação de guarda
+buildtoolbar_tooltip_GuardInvestigation	Trabalhe com seus Informantes e Chefe de Segurança para investigar seus guardas e impedir casos de corrupção. Quanto maior a cobertura dos seus Informantes ativos, mais Guardas Corruptos você vai descobrir. O Chefe de Segurança não pode estar comandando um programa ou participando de uma execução.
+buildtoolbar_CI_requirement	Pelo menos um Informante
+guardinvestigation_underway	INVESTIGAÇÃO DE GUARDA EM ANDAMENTO
+guardinvestigation_investigated	*A/*B guardas investigados
+informant_investigating	Investigação
+crookedguard_fired_reward	Guarda Corrupto despedido
+crookedguard_advisor_onboarding	Descobrimos um Guarda Corrupto trabalhando com uma gangue. Eu o marquei na aba Funcionários nos seus Relatórios. Mande-o embora.
+buildtoolbar_popup_staff_doghandler	Adestradores e seus companheiros caninos podem detectar contrabandos nos prisioneiros próximos.
+buildtoolbar_popup_staff_kimber_doghandler	Adestradores e seus companheiros caninos podem detectar contrabandos nos prisioneiros e guardas corruptos próximos.
+d11_prisoner_replacement	Troca de prisioneiros
+d11_prisoner_replacement_tooltip	A população carcerária chegará ao valor desejado com os níveis de segurança mantidos nas mesmas condições sempre que possível. Prisioneiros excedentes serão solicitados seguindo o sistema padrão.
+job_cleanupobject	Limpar *X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X MEMBROS DE GANGUE IRRITADOS (graffiti removido)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X MEMBROS DE GANGUE IRRITADOS (líder transferido para cela de qualidade inferior)
+research_CCTVImprovement	Aprimoramento da CITV
+researchtooltip_CCTVImprovement	Aprimore a utilização dos seus equipamentos de CITV. Permite visualizar os cones de visão do CITV e os prisioneiros arranjando encrenca no campo de visão dele.
+d11_cctv_cone	Cone da CITV
+d11_toggle_cctv_cone_detail	Alternar cones de visão da Câmera de CITV
+d11_left_click_to_clean	Clique com o botão esquerdo para limpar
+d11_gang_graffiti_message	As gangues estão marcando seus territórios e se tornando mais poderosas ao defendê-los. Mande um zelador quando for seguro para arrumar a bagunça. As gangues não vão ficar felizes em ver sua "arte" ser removida. Talvez haja retaliação.
+d11_gangBulkIntake_advisor_onboarding	A Comissão Prisional está transferindo prisioneiros problemáticos para outras penitenciárias com gestão mais competente. Espero que você consiga lidar com essas novidades facilmente. Avaliações prisionais estão sendo realizadas semanalmente agora.
+d11_gangBulkIntake_staffAlert	Um ônibus de transporte de membros de gangues está chegando
+d11_gangdealer_advisor_onboarding	Identificamos um traficante em um território de gangue e confiscamos uma grande quantia de dinheiro.
+d11_CI_advisor_onboarding	Coopere com seus informantes para desmascarar guardas corruptos. Eles serão enviados para o escritório do chefe para contar tudo que sabe. Não se esqueça de recrutar informantes e conferir o ícone (?) no menu de Inteligência para mais informações.
+d11_LeaderAssassination_advisor_onboarding	As gangues estão ficando perigosas demais e estão planejando assassinar o líder de outra gangue. Se conseguirem, isso vai afetar os territórios atuais.
+d11_GangTargetting_advisor_onboarding	Os membros de gangues se reúnem por terem interesses em comum. Às vezes, eles também têm aversão a condenações específicas e tentarão atacar indivíduos com elas.
+d11_staffalert_title_making_move	Uma gangue está executando um plano.
+d11_staffalert_summary_making_move	Temos informações de que uma gangue está executando um plano.
+d11_staffalert_summary_gangdealer	Um traficante foi descoberto, e você recebeu $500.
+d11_staffalert_summary_TerritoryPlacement	Esta sala foi dominada por uma gangue e oferece risco excessivo para nossos funcionários. Expulse-os de lá.
+crisisSector_CustomSearchArea	Área de busca personalizada
+crisisSector_ScheduleSearch	Cronograma personalizado
+schedulesearch_menu_TargettedArea	Área prevista
+schedulesearch_menu_StartTime	Horário de início
+schedulesearch_menu_ExistingSchedule	Cronograma existente
+schedulesearch_menu_CurrentTime	Horário atual
+schedulesearch_menu_CurrentFrequency	Frequência atual
+crisisSector_UnlockedOnly	Somente destrancado
+schedulesearch_menu_SaveSelection	Salvar seleção
+reputation_Recruiter	Recrutador
+reputationtooltip_Recruiter	Este prisioneiro, se fizer parte de uma gangue, terá mais chances de arranjar outros detentos para se juntar a ela.
+reputationtooltip_Resourceful	Este prisioneiro tem mais chances de passar o tempo lendo livros. Ele também sabe onde os contrabandos ficam e pode interceptá-los para a própria gangue.
+reputation_ExGangMember	Ex-membro de gangue
+reputationtooltip_ExGangMember	Este prisioneiro decidiu deixar a vida de gângster para trás, mas a gangue não gostou nada disso.
+reputation_CunninglyBrutal	Brutalidade sagaz
+reputationtooltip_CunninglyBrutal	Os Víboras vão tentar atacar seus alvos em pontos cegos na segurança.
+reputation_SneakThief	Ladrão furtivo
+reputationtooltip_SneakThief	Todos os Chacais têm a habilidade de bater carteira, independentemente da reputação.
+reputation_BattleTendency	Tendência de combate
+reputationtooltip_BattleTendency	Se os Chacais estiverem em maior número que os guardas em uma ala da prisão, eles vão se tornar mais violentos com os funcionários por lá.
+reputation_DisrepectSurroundings	Vândalo
+reputationtooltip_DisrepectSurroundings	Os Quebra-ossos danificam objetos quando suas necessidades não são atendidas.
+reputation_UnderCoverDon	À paisana
+reputationtooltip_UnderCoverDon	O líder dos Víboras fica oculto como soldado da gangue e só é revelado quando é punido.
+reputation_Enforcer	Opressor
+reputationtooltip_Enforcer	Este prisioneiro vai tentar intimidar os outros, a menos que sejam da mesma gangue. Ele também é muito bom na tomada de territórios para a gangue.
+reputation_GymRat	Rato de academia
+reputationtooltip_GymRat	Os Quebra-ossos passam o tempo livre em academias ou no pátio.
+reputation_Loyal	Leal
+reputationtooltip_Loyal	Este prisioneiro tem mais chances de ficar na gangue e se revoltar se o líder estiver sendo punido.
+traits_violent	Violento
+traits_lethal	Letal
+finance_cost_gangdealer	Traficante da gangue descoberto
+object_PrisonerLetter	Carta de Prisioneiro
+object_LoveLetter	Carta de Amor
+object_LoveLetterOpened	Carta de Amor (Aberta)
+interface_prisonerWritingLetter	Escrevendo para entes queridos
+interface_prisonerWritingLoveLetter	Escrevendo para alguém MUITO especial
+warden_wardengangsjlocks_name	Capitã J. Locks
+warden_wardengangsjlocks_desc	Os funcionários sob o comando de Locks vão além de seus próprios limites, enquanto os prisioneiros se tornam detentos exemplares. \n\n- +30% de vigor para os funcionários (Requer descanso 10% maior). \n- -10% de chance de reincidência dos prisioneiros.
+warden_wardengangsjlocks_desc_short	- Os funcionários têm mais vigor.\n- Os prisioneiros têm 10% menos chances de serem reincidentes.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Este cavalheiro tem uma lábia invejável e consegue os melhores preços para a sua prisão. Pode ter certeza que ele usa cupons no supermercado! \n\n- Os custos de alimentos são reduzidos em 25%. \n- Programas que exigem professores externos custam 20% a menos.
+warden_wardengangscook_desc_short	- Os custos de alimentos são reduzidos em 25%.\n- Programas que exigem professores externos custam 20% a menos.
+rapsheet_manualCellSwap_hint	Decida entre promover/rebaixar este prisioneiro para uma nova cela disponível ou escolha manualmente para qual cela ele deve ir.
+rapsheet_cellUpgrade	Melhorar cela
+rapsheet_cellDowngrade	Rebaixar cela
+rapsheet_cellChoice	Escolha uma nova cela
+rapsheet_ChangeCell	Trocar de cela
+ChangeCellUpgradeSuccessful	Você promoveu *X para uma cela melhor.
+ChangeCellDowngradeSuccessful	Você rebaixou *X para uma cela inferior.
+ChangeCellNoAvailableRooms	Não há salas disponíveis para transferir *X. Tente usar o menu de troca de salas.
+ChangeCellDowngradingGangLeader	Você está prestes a levar um líder de gangue para uma cela de qualidade inferior, o que vai irritar a gangue e pode causar problemas na sua prisão.
+freeCell_movePrisoner	Clique com o botão direito para levar o prisioneiro à cela dele.
+occupiedCell_movePrisoner	Clique com o botão direito para substituir o prisioneiro pelo ocupante desta cela.
+occupiedCell_selectablePrisoner	Clique com o botão direito e selecione este prisioneiro para decidir aonde levá-lo.
+mutator_name_NoMinRoomSize	Espaço livre para as salas
+mutator_tooltip_NoMinRoomSize	As salas não precisam mais atender a critérios de tamanho, mas você ainda precisa incluir os itens necessários para elas funcionarem.
+action_GangBusiness	Negócios da gangue
+action_GangRecruitment	Recrutamento da gangue
+action_GangPromotion	Promoção na gangue
+action_ActionHerb	Alteração
+action_LoadBaby	Carregar bebê
+action_WarmUp	Aquecimento
+action_GetSnack	Pegar lanche
+action_Drink	Pegar bebida
+action_DoPullUps	Barra fixa
+action_KneeRaises	Elevação de pernas
+action_PushUps	Flexões
+reform_program_properties_RequiresAllStudentsPresent	Requer todos os alunos presentes
+d11_tableClaim_title	Controlado por *G
+d11_tableClaim_desc	Para expulsá-los, mova ou desmonte as mesas.
+d11_tableClaim_desc_cont	Isso, no entanto, os deixarão irritados.
+schedulesearch_menu_ClearSchedule	Apagar cronograma

@@ -283,6 +283,40 @@ Double Eleven 遊戲設計經理 Gaz。
 >	特別感謝 
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
+~~~~~~
 
+"「幫派」DLC與 
+「風箏」更新 
+>更粗暴、更睿智且提供相配的制服！
 
+>幫派-新DLC：
+>   新的監獄幫派：
+<->三類新幫派來到你的監獄，帶來了他們各自的麻煩和管理問題。 
+<->每一個幫派都有自己的個性和目標，有的想在監獄內擴大自己的影響力，有的想搶奪違禁品市場。
+<->為了幫助你控制幫派為監獄管理帶來的難度，我們增加了一個選項，方便你控制這些幫派的數量，以及各幫派的幹部人數，這兩項指標會影響幫派鬧事的次數。
+>
+>   新幫派意味著新的行動出現：
+<->每個新幫派都有各自的特殊活動，有的是引入更多的毒品，有的則是透過武力告訴其他人誰是真正的老大。
+<->幫派現在可以搶奪新的地盤，強迫其他囚犯上繳部分勞役所得薪水，同時還可以在自己的地盤內設立一名幫派「貿易商」，幫助出售他們獲得的任何東西。
+<->當一個幫派的成員累積到足夠多的數量時，他們還可以開始提要求，根據自己的需求對服刑期限指手畫腳。如果不接受這些要求，則可能導致災難性的後果。
+點選「下一頁」查看更多…
+
+>   腐敗警衛：
+<->當一個幫派的勢力足夠強大時，他們會開始對警衛產生不利影響。
+<->幫派成員此時會對警衛行賄，以確保當他們計劃採取某種不當行為時，警衛可以視而不見。
+<->某些警衛還可以透過為幫派偷運違禁品而獲得酬勞。
+>
+>   管理與保全：
+<->為了處理可疑工作人員，可以在線人囚犯的協助下揪出腐敗的警衛。
+<->本DLC還提供新的方案，可用於培訓警衛，也可用於幫助幫派成員脫離幫派，從而在監禁期間重新過上正常、平靜的生活。
+<->幫派前成員將會成為幫派現成員的報復目標，因此最好儘量將幫派與其前成員彼此隔開。
+<->針對監獄中較難管理的成員，我們還提供了新的保全選項，包括對特定人員進行標記以方便識別，以及將問題最嚴重的人員送往其他監獄等等。
+點選「下一頁」查看更多…
+
+>
+>   「風箏」更新：
+<->新典獄長與新品種警犬，Dylan Cook與J. Locks隊長加入到現有的典獄長隊伍行列，帶來了一個新的「隨機」選擇選項，以及4種新品種警犬！
+<->現在可以手動完成囚犯指定牢房互換，這樣你就可以選擇讓誰去哪裡。不過，幫派頭目往往會在自己管轄的任何地盤內優先選擇最好的牢房。
+<->我們還對接收系統進行了更新，首先，囚犯現在可以排隊等候進入接待室，而不是在寒冷的室外等候，另外新增了一個「囚犯替換」選項，方便你根據不同安全等級囚犯的目前比例維持囚犯人數。
+<->除了這些新功能之外，我們還增加了一個新的更動器選項，可以消除對於房間大小的要求。我們還對閉路電視監控系統進行了一些改進，你可以透過部署功能表進行切換。"
 

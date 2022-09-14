@@ -119,18 +119,18 @@ Klik op VOLGENDE om meer te zien...
 
 ~~~~~~
 
-“THE BUCKET” UPDATE & “CLEARED FOR TRANSFER” DLC
+“THE BUCKET” UPDATE & “OVERPLAATSING GOEDGEKEURD” DLC
 >DATE 14/05/20
 
->“Cleared for Transfer”- Gratis DLC 
-We hebben zojuist de gratis “Cleared for Transfer” DLC uitgebracht waarmee je privileges voor je gevangenen kunt instellen per beveiligingssector. Gevangenen worden aangemoedigd om hun gedrag aan te passen om te voldoen aan je criteria, zodat ze overgeplaatst kunnen worden naar een lagere (en meer comfortabele) vleugel van de gevangenis.
+>“Overplaatsing goedgekeurd”- Gratis DLC 
+We hebben zojuist de gratis “Overplaatsing goedgekeurd” DLC uitgebracht waarmee je privileges voor je gevangenen kunt instellen per beveiligingssector. Gevangenen worden aangemoedigd om hun gedrag aan te passen om te voldoen aan je criteria, zodat ze overgeplaatst kunnen worden naar een lagere (en meer comfortabele) vleugel van de gevangenis.
 
-Haal de “Cleared for Transfer” DLC gratis in huis!
+Haal de “Overplaatsing goedgekeurd” DLC gratis in huis!
 
 Gaz, Games Design Manager bij Double Eleven.
 
 >“The Bucket” update
-De gratis “The Bucket” update vult de “Cleared for Transfer” DLC aan met meer van jullie community-verzoeken, nieuwe functies, verbeteringen en meer. Bijvoorbeeld; 
+De gratis “The Bucket” update vult de “Overplaatsing goedgekeurd” DLC aan met meer van jullie community-verzoeken, nieuwe functies, verbeteringen en meer. Bijvoorbeeld; 
 
 >[1/2] Nieuwe items
 
@@ -259,8 +259,8 @@ Klik op VOLGENDE om meer te zien...
 
 ~~~~~~
 
-"PERFECT STORM" DLC & 
-“THE TOWER” UPDATE 
+"PERFECTE STORM" DLC & 
+“DE TOREN” UPDATE 
 >De stilte voor de storm is niet te vertrouwen!
 
 >Perfecte storm - Nieuwe DLC:
@@ -302,5 +302,40 @@ Klik op VOLGENDE om meer te zien...
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
 
+"“BENDES"" DLC & 
+“KITE” UPDATE 
+>Sterker, slimmer en nu met bijpassende uniformen!
+
+>Bendes - Nieuwe DLC:
+>   Nieuwe gevangenisbendes:
+<->Er zijn drie nieuwe bendetypes gearriveerd in je gevangenis met hun eigen specifieke soorten complicaties en managementproblemen. 
+<->Elk van deze bendes heeft een eigen karakter en doel, van het verspreiden van hun invloed in je gevangenis, tot het overnemen van de smokkelhandel.
+<->Om de moeilijkheidsgraad van deze bendes in de hand te helpen houden, hebben we opties toegevoegd om de hoeveelheid bendes te bepalen, evenals het aantal luitenants dat elke bende kan hebben, wat weer van invloed is op het aantal acties dat de bendes kunnen ondernemen.
+>
+<->Nieuwe bendes vertonen nieuw gedrag:
+<->Ieder van de nieuwe bendes heeft eigen gespecialiseerde activiteiten, van het introduceren van meer drugs tot het gebruik van geweld om anderen te laten zien wie de baas is.
+<->Bendes kunnen nu nieuwe gebieden overnemen om andere gevangenen te laten betalen voor arbeid, en 'dealers' inzetten om alles te verkopen wat ze in handen krijgen.
+<->Als een bende genoeg leden heeft, kunnen ze ook eisen gaan stellen om hun verblijf aangenamer te maken. Als je niet aan deze eisen voldoet, kunnen de gevolgen ernstig zijn.
+Klik op VOLGENDE om meer te zien...
+
+>   Corrupte bewakers:
+<->Als een bende genoeg macht krijgt, kunnen ze een negatief effect hebben op je bewakers.
+<->Bewakers kunnen nu door bendeleden worden omgekocht, zodat ze de andere kant opkijken wanneer een bende van plan is wangedrag te begaan.
+<->Bepaalde bewakers kunnen ook betaald krijgen om spullen te smokkelen voor bendes.
+>
+>   Beheer en beveiliging:
+<->Om verdacht personeel aan te pakken, kun je informanten gebruiken om te helpen bij het aanwijzen van bewakers die corrupt zijn.
+<->Er zijn ook nieuwe programma's beschikbaar om bewakers te trainen en om bendeleden te helpen hun bende de rug toe te keren en een normaal, vredig leven in gevangenschap te leiden.
+<->Voormalige bendeleden worden doelwitten voor bestaande bendeleden, dus het is beter om bendes en voormalige leden van elkaar te scheiden voor zover mogelijk.
+<->Voor gevangenen die moeilijker te beheersen zijn, zijn er ook nieuwe beveiligingsopties beschikbaar, van het markeren van specifieke personen voor meer zichtbaarheid, tot het wegsturen van de lastigste individuen naar een andere faciliteit.
+Klik op VOLGENDE om meer te zien...
+
+>
+>   “KITE” Update:
+<->Nieuwe gevangenisdirecteurs en hondensoorten: Dylan Cook en Kapitein J. Locks breiden het team beschikbare directeurs uit, samen met een nieuwe 'willekeurige' keuzeoptie en 4 nieuwe soorten waakhonden!
+<->Je kunt gevangenen nu handmatig van cel laten ruilen, zodat je zelf kunt kiezen wie waar verblijft. Bendeleiders zullen echter prioriteit krijgen voor de beste cel in gebieden die van hen zijn.
+<->Het toestroomsysteem heeft ook een update gekregen, ten eerste met gevangenen die op verwerking wachten, die nu naar de ontvangstkamer gaan in plaats van in de kou te wachten, evenals een nieuwe 'Vervanging gevangene'-optie die zal helpen om de gevangenispopulatie op peil te houden op basis van de huidige verhouding van beveiligingsniveaus.
+<->Naast deze nieuwe functies is er ook een nieuwe mutatoroptie om de vereisten voor kamergrootte af te schaffen, en zijn er enkele verbeteringen aan bewakingscamera's die via het werkmenu kunnen worden ingesteld."
 

@@ -1,8 +1,8 @@
 BEGIN Window
     NAME         WeatherForecastWindow
     BACKGROUND   bluescreen.png
-    WIDTH        1536
-    HEIGHT       864
+    WIDTH        1024
+    HEIGHT       576
 END
 
 BEGIN Custom

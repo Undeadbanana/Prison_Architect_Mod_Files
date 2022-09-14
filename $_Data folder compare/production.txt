@@ -369,9 +369,6 @@ BEGIN ProductionRule
     Distribution         OutOfStock  
 END
 
-
-
-
 BEGIN ProductionRule       
     Rule                 Storage
     Material             Log  
@@ -607,6 +604,23 @@ BEGIN ProductionRule
     Properties           HighPriority  
 END
 
+BEGIN ProductionRule       
+    Rule                 Entity
+    Container            PrisonBoat  
+    Distribution         Random  
+    MaxSlotId            20
+    Condition            DeathRowTransfer  
+    Properties           HighPriority  
+END
+
+BEGIN ProductionRule       
+    Rule                 Entity
+    Container            PrisonHeli  
+    Distribution         Random  
+    MaxSlotId            20
+    Condition            DeathRowTransfer  
+    Properties           HighPriority  
+END
 BEGIN ProductionRule       
     Rule                 Entity
     Container            MorgueSlab  
@@ -1715,4 +1729,18 @@ BEGIN ProductionRule
     Distribution        Random
 	Properties          DestinationRoomNeedToSatisfyRequirements
 	Properties    IsCellOccupied
+END
+
+BEGIN ProductionRule       
+    Rule                 Storage
+	Material             PrisonerLetter 
+    StackInRoom          Exports
+    Condition            NotLoaded  
+END
+
+BEGIN ProductionRule       
+    Rule                 Storage
+	Material             LoveLetter
+    StackInRoom          Exports
+    Condition            NotLoaded  
 END

@@ -1937,7 +1937,7 @@ status_effect_exposure	Ekspozycja
 status_effect_foodpoisoning	Zatrucie pokarmowe
 status_effect_riledup	Rozdrażnieni
 status_effect_statusswimming	Pływanie
-status_effect_statusdrowning	Utonięcie
+status_effect_statusdrowning	Tonięcie
 
 condition_treated	Leczony
 condition_needstreating	Wymaga leczenia
@@ -2490,7 +2490,7 @@ object_visitortablesecure	Kabina dla osoby odwiedzającej
 object_workshopsaw	Piła robocza
 object_workshoppress	Prasa robocza
 object_carpentertable	Stół stolarski
-object_boombox	Magnetowid
+object_boombox	Magnetofon
 object_guardlocker	Szafka strażnika
 object_sofachairsingle	Kanapa
 object_sofachairdouble	Szeroka kanapa
@@ -3295,8 +3295,8 @@ clock_speed_5	>>>
 clock_speed_10	>>>>
 clock_speed_half	...
 clock_add_hour	+
-clock_am	AM
-clock_pm	PM
+clock_am	RANO
+clock_pm	WIECZOREM
 
 # =============================================================================
 # Events

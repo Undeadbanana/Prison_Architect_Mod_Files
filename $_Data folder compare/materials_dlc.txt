@@ -1914,7 +1914,6 @@ BEGIN Object
     MadeOf               Composite
     Properties           StaticObject
     Properties           RoomSpecific
-	IndoorOutdoor		 IndoorOnly
 	VersionAdded		 1000
 END
 
@@ -2028,6 +2027,7 @@ BEGIN Object
     MadeOf              Composite
     Properties          StaticObject
     Properties          DontAvoid
+    Properties           Undamageable
 	IndoorOutdoor		OutdoorOnly
 	VersionAdded		 2000
 END
@@ -2053,7 +2053,8 @@ BEGIN Object
     MadeOf              Composite
     Properties          StaticObject
     Properties          DontAvoid
-    Properties		 RoomSpecific
+    Properties		    RoomSpecific
+    Properties           Undamageable
 	IndoorOutdoor		OutdoorOnly
 	VersionAdded		 2000
 END
@@ -2078,6 +2079,7 @@ BEGIN Object
     MadeOf              Composite
     Properties          StaticObject
     Properties          DontAvoid
+    Properties          Undamageable
 	IndoorOutdoor		OutdoorOnly
 	VersionAdded		 2000
 END
@@ -2102,7 +2104,8 @@ BEGIN Object
     MadeOf              Composite
     Properties          StaticObject
     Properties          DontAvoid
-    Properties		 RoomSpecific
+    Properties		    RoomSpecific
+    Properties          Undamageable
 	IndoorOutdoor		OutdoorOnly
 	VersionAdded		 2000
 END
@@ -2528,7 +2531,7 @@ BEGIN Room
     BEGIN Requirement Type Enclosed END
     BEGIN Requirement Type Indoor  END
     BEGIN Requirement Type Object  Id Toilet  END
-    BEGIN Requirement Type Object  Id Bench Alt SmallBench  END
+    BEGIN Requirement Type Object  Id Bench Alt SmallBench,OakBench END
     BEGIN LikelyObject	Id		SmallBench		END
     BEGIN LikelyObject	Id		ShowerHead		END
     BEGIN LikelyObject	Id		Drain			END
@@ -2558,7 +2561,7 @@ BEGIN Room
 	BEGIN Grading       Type    Item    Id      ComfyBed     	END
     BEGIN Grading       Type    Item    Id      Mattress   GradeEffect -1    END 
 	BEGIN Grading		Type	Item    Id		OldBed	   GradeEffect -1	 END
-    BEGIN Grading       Type    OutsideWindow   Stackable GradeEffect 2 true   END
+    BEGIN Grading       Type    OutsideWindow   Stackable true	GradeEffect 2	END
 	BEGIN Grading       Type    Item    Id      PASystem   GradeEffect -1    END
 END
 
@@ -2571,7 +2574,7 @@ BEGIN Room
     BEGIN Requirement Type Object  Id OfficeDesk Alt FancyDesk END
     BEGIN Requirement Type Object  Id Chair  Alt OfficeChair,LeatherChair,WoodenStool,ChairYellow,SwivelChair  END
 	BEGIN Requirement Type Object  Id SofaChairDouble  Alt LeatherSofa  END
-    BEGIN Requirement Type Object  Id FilingCabinet  END
+    BEGIN Requirement Type Object  Id FilingCabinet Alt FilingCabinetFancy  END
     BEGIN Requirement Type Indoor  END
     BEGIN LikelyObject	Id		StaffDoor	    END
     BEGIN LikelyObject	Id		LeatherChair	END
@@ -2644,7 +2647,10 @@ BEGIN Object
     BlockedBy            StaticObject   
     BlockedBy            Wall
     BlockedBy            UtilityStation  
-    Sprite               d_Painting1  
+    BEGIN SpriteBank	
+		Name		objects_d11_2
+		Sprite          d_PaintingFull1
+	END
 	SpriteScale          0.8
     MadeOf               Composite
     Properties           StaticObject
@@ -2662,7 +2668,10 @@ BEGIN Object
     BlockedBy            Wall
     BlockedBy            StaticObject   
     BlockedBy            UtilityStation
-    Sprite               d_Painting2 
+     BEGIN SpriteBank	
+		Name		objects_d11_2
+		Sprite          d_PaintingFull2
+	END
 	SpriteScale          0.8
     MadeOf               Composite
     Properties           StaticObject
@@ -2745,7 +2754,6 @@ BEGIN Object
     BlockedBy            StaticObject     
     BlockedBy            UtilityStation  
 	BlockedBy			 Wall
-	RenderDepth          1  
     RenderPostOffset     2  
     NumSlots             1
     Sprite               d_GymMat 
@@ -3110,7 +3118,7 @@ BEGIN Object
 	Toughness            10.0000 
     Price                -2000 
     Filter               Exercise
-	RenderDepth          0.8
+	GroundBaseOveride	 1.1
 	NumSlots             2
     AttachToWall         true
     Group                StaticObject
@@ -3430,7 +3438,7 @@ BEGIN Object
 	Width				1
 	Height				1
 	Sprite				d_WalkwayStairs
-	ConstructionTime	8.00000
+	ConstructionTime	-1
 	Price				-200
 	Filter				Security
 	Filter				Decoration
@@ -4150,6 +4158,7 @@ BEGIN Object
 	GroundBaseOveride		 1
 	RenderDepth			 0
     ConstructionTime     8  
+	RenderDepth			 -10
     Toughness            1000.0000  
     Price                -5000
     Filter		 Work
@@ -4174,7 +4183,7 @@ BEGIN Object
 	Width				10
 	Height				5
 	GroundBaseOveride	1.2
-	RenderDepth			0
+	RenderDepth			-10
 	BEGIN SpriteBank
 		Name			objects_d11_2
     	Sprite	    	 	        d_FerryDock
@@ -4201,6 +4210,7 @@ BEGIN Object
 	Width				10
 	Height				5
 	GroundBaseOveride		 1.155
+	RenderDepth			-10
 	BEGIN SpriteBank
 		Name			objects_d11_2
     	Sprite	    	 	        d_BoatDock
@@ -4229,13 +4239,13 @@ BEGIN Object
     Height               4
     MaxStackSize         -1  
     NumSlots             8
-	RenderDepth			 2
    BEGIN SpriteBank
 		Name			objects_d11_2
     	Sprite	    	d_SupplyBoat
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
@@ -4244,7 +4254,6 @@ BEGIN Object
     Name                 FerryBoat		
     Width                7  
     Height               4
-	RenderDepth			 2
     MaxStackSize         -1  
     NumSlots             20
    BEGIN SpriteBank
@@ -4254,6 +4263,7 @@ BEGIN Object
 	RenderDepth			2
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
@@ -4264,7 +4274,6 @@ BEGIN Object
     Width                7  
     Height               4
     MaxStackSize         -1  
-	RenderDepth			 2
     NumSlots             20
    BEGIN SpriteBank
 		Name			objects_d11_2
@@ -4272,6 +4281,7 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
@@ -4293,8 +4303,9 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
-    TopSpeed		6.0    	
+    Properties           Undamageable
 	Properties           Uncloneable
+    TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
 
@@ -4317,6 +4328,7 @@ BEGIN Object
     Properties           Vehicle
     TopSpeed		6.0    	
 	Properties           Uncloneable
+    Properties           Undamageable
 DLC                  	SeaAirLand
 END
 
@@ -4334,6 +4346,7 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0
     	DLC              SeaAirLand
 END
@@ -4358,6 +4371,7 @@ BEGIN Object
     RenderPreOffset      -1
 	DLC                  	SeaAirLand
 	Properties           Uncloneable
+    Properties           Undamageable
 END
 
 BEGIN Object     
@@ -4380,13 +4394,13 @@ BEGIN Object
     RenderPreOffset      -1
 	DLC                  	SeaAirLand
 	Properties           Uncloneable
+    Properties           Undamageable
 END
 
 BEGIN Object     
     Name                 HearseBoat		
 	Width                7  
     Height               4
-	RenderDepth			 2
     MaxStackSize         -1  
     NumSlots             7
    BEGIN SpriteBank
@@ -4395,6 +4409,7 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
@@ -4419,6 +4434,7 @@ BEGIN Object
     RenderPreOffset      -1
 	DLC                  	SeaAirLand
 	Properties           Uncloneable
+    Properties           Undamageable
 END
 
 BEGIN Object     
@@ -4501,6 +4517,7 @@ BEGIN Object
     RenderPreOffset      -1
 	DLC                  	SeaAirLand
 	Properties           Uncloneable
+    Properties           Undamageable
 END
 
 
@@ -4521,6 +4538,7 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		8.0
     RenderPreOffset      -1
 	DLC                  	SeaAirLand
@@ -4543,6 +4561,7 @@ BEGIN Object
 	END
     SpriteScale          1
     Properties           Vehicle
+    Properties           Undamageable
     TopSpeed		6.0    	
 DLC                  	SeaAirLand
 END
@@ -5132,6 +5151,7 @@ BEGIN Object
     Properties           StaticObject
 	OnlyPlacedInLikelyRoom	true
 	AllowRectanglePlacement	true
+	Research             Farming
     BlockedBy           MustBeOutdoor 
     IndoorOutdoor	1
     VersionAdded        4000
@@ -5263,6 +5283,7 @@ BEGIN Object
     Properties           StaticObject
 	OnlyPlacedInLikelyRoom	true
 	AllowRectanglePlacement	true
+	Research             Farming
     VersionAdded        4000
 END
 
@@ -5289,6 +5310,7 @@ BEGIN Object
     MadeOf               Wood
     MaxStackSize         100  
     Properties           StaticObject
+    Research             Farming
     Properties           HeatWaveAffected
 	OnlyPlacedInLikelyRoom	true
 	AllowRectanglePlacement	true
@@ -5321,6 +5343,7 @@ BEGIN Object
     Properties           HeatWaveAffected
 	OnlyPlacedInLikelyRoom	true
 	AllowRectanglePlacement	true
+	Research             Farming
     VersionAdded        4000
 END
 
@@ -5921,6 +5944,7 @@ BEGIN Object
     MoveSpeedFactor      0.800000  
     Toughness            1.00000  
     MaxStackSize         -1  
+    RenderDepth          2
     Properties           Rubbish
 	Properties           Sellable
     BEGIN SpriteBank	
@@ -7554,6 +7578,7 @@ BEGIN Object
     Properties		    RoomSpecific
     Properties		    CanPlaceOnRoad
     Properties          HeatWaveAffected
+    Properties          Undamageable
     IndoorOutdoor	    OutdoorOnly
 	VersionAdded	5000
 END
@@ -7909,6 +7934,7 @@ BEGIN Object
 	Properties			StaticObject
 	Properties			SlowDelivery
 	Properties			RoomSpecific
+	Research            		GroundsKeeping
     Properties          HeatWaveAffected
 	VersionAdded		5000
 END
@@ -7945,7 +7971,8 @@ BEGIN Object
 		Name			objects_d11_2
         Sprite          d_Rat
     END
-    Properties           Uncloneable
+    Properties          Uncloneable
+    Properties          Undamageable
 END
 
 BEGIN Object
@@ -7956,6 +7983,7 @@ BEGIN Object
         Sprite           d_RatDroppings
     END
     Properties          Uncloneable
+    Properties          Undamageable
     SpecialRestriction	NoShadow
 END
 
@@ -7970,6 +7998,7 @@ BEGIN Object
     Group                StaticObject
     BlockedBy            Wall
     BlockedBy            StaticObject
+    BlockedBy            UtilityStation  
     BEGIN SpriteBank
         Name             objects_d11_2
         Sprite           d_RatTrap
@@ -7986,6 +8015,7 @@ BEGIN Equipment
     Scale                0.800000  
     Properties           Tools
     Properties           Metal
+	Properties			 NoImport
 END
 
 BEGIN Object     
@@ -8064,6 +8094,7 @@ BEGIN Object
     Properties           Vehicle
     TopSpeed		8.0
     RenderPreOffset      -1
+    Properties           Undamageable
 END
 
 BEGIN Object
@@ -8079,19 +8110,21 @@ BEGIN Object
     Properties           Utility
     Properties           Material
     Properties           CanPlaceOnRoad
+    Properties           Uncloneable
 END
 
 BEGIN Object
     Name                 DamagedElectricalCable
     ConstructionTime     -5.00000  
     Toughness            5.00000  
-    Price                -10      
-	GroundBaseOveride	 1	
+    Price                -10 
+    RenderDepth          3.5	
     BEGIN SpriteBank
         Name             objects_d11_2
         Sprite           d_DamagedElectricalCable
     END
     Properties           CanPlaceOnRoad
+    Properties           Uncloneable
 END
 
 BEGIN Object
@@ -8239,14 +8272,15 @@ BEGIN Object
     Group                StaticObject
     BlockedBy            Wall
     BlockedBy            StaticObject
+    BlockedBy            UtilityStation  
 	BEGIN SpriteBank	
 		Name			objects_d11_2
 		Sprite          d_SonicDeterrent
 		ToolbarSprite	d_SonicDeterrent
 	END
     IndoorOutdoor       IndoorOnly
-    Properties		StaticObject
-    Properties           Electrical
+    Properties		    StaticObject
+    Properties          Electrical
     Filter				RequiresElectricity
 END
 
@@ -8560,6 +8594,7 @@ BEGIN Object
     END
     SpriteScale          0.8
     RenderDepth          2
+    Properties           Uncloneable
 END
 
 BEGIN Room       
@@ -8756,6 +8791,7 @@ BEGIN Object
 	Properties				Vehicle
 	TopSpeed				6.0
 	Properties				Uncloneable
+    Properties              Undamageable
 	DLC						SeaAirLand
 END
 
@@ -8833,6 +8869,7 @@ BEGIN Object
         Sprite           d_DogDoo
     END
     Properties          Uncloneable
+    Properties          Undamageable
     SpecialRestriction	NoShadow
 END
 
@@ -9037,6 +9074,7 @@ BEGIN Object
 	MaxStackSize		10
 	Properties			StaticObject
 	Properties			SlowDelivery
+	Research            		GroundsKeeping
     Properties          HeatWaveAffected
 END
 
@@ -9045,6 +9083,7 @@ BEGIN Material
 	ConstructionTime	5.0000
 	Price				-25
 	BEGIN Sprite0		x	28	y	43	END
+	Research            Maintainance
 END
 
 BEGIN Object     
@@ -9157,6 +9196,7 @@ BEGIN Object
     Properties           	Vehicle
 	TopSpeed				8.0
 	Properties				Uncloneable
+    Properties              Undamageable
 	DLC						SeaAirLand
 END
 
@@ -9166,6 +9206,7 @@ BEGIN Equipment
 		Name				objects_d11_2
 		Sprite				d_FirstAidBackpack
 	END
+    Properties           NoImport
 END
 
 BEGIN Equipment  
@@ -9174,6 +9215,7 @@ BEGIN Equipment
 		Name				objects_d11_2
 		Sprite				d_SafetyGoggles
 	END
+    Properties           NoImport
 END
 
 BEGIN Callout
@@ -9276,7 +9318,6 @@ BEGIN Object
     BlockedBy            UtilityStation  
     Sprite               WoodenWindowSmall
     ToolbarSprite        WoodenWindowSmall
-	SpriteScale          0.5
     Properties           StaticObject
     Properties           Window
     Properties           BuiltOnWall
@@ -9301,7 +9342,6 @@ BEGIN Object
     BlockedBy            UtilityStation  
     Sprite               WoodenWindowLarge
     ToolbarSprite        WoodenWindowLarge
-	SpriteScale          0.5
     Properties           StaticObject
     Properties           Window
     Properties           BuiltOnWall
@@ -9326,7 +9366,6 @@ BEGIN Object
     BlockedBy            UtilityStation  
     Sprite               StainedGlassWindow
     ToolbarSprite        StainedGlassWindow 
-	SpriteScale          0.45
 	Properties           StaticObject
 	Properties			 Window
 	Properties			 BuiltOnWall
@@ -9385,7 +9424,7 @@ BEGIN Object
     ConstructionTime     3.00000  
     MoveSpeedFactor      0.500000  
     Toughness            20.0000  
-    Price                -100  
+    Price                -300  
     Group                StaticObject  
     BlockedBy            StaticObject  
     BlockedBy            UtilityStation
@@ -9420,6 +9459,7 @@ BEGIN Object
 	MaxStackSize		10
 	Properties			StaticObject
 	Properties			SlowDelivery
+	Research   	         	GroundsKeeping
     Properties          HeatWaveAffected
 END
 
@@ -9485,4 +9525,414 @@ BEGIN Object
     MadeOf               Wood
     Properties           StaticObject
     Properties           Door
+END
+
+BEGIN Object
+    Name					TattooRemovalMachine
+    ConstructionTime		3.00000   
+    Price					-1000
+    Filter					Work
+	Width					3  
+	Height					2
+    Group					StaticObject 
+    BlockedBy				StaticObject     
+	BlockedBy				Wall
+    BlockedBy				UtilityStation
+	BEGIN SpriteBank
+		Name				objects_d11_2
+		Sprite				d_TattooRemovalMachine 
+	END
+	NumSlots				2
+    MadeOf					Composite
+	IndoorOutdoor 			IndoorOnly
+    Properties				StaticObject
+	Properties				Electrical
+	Properties				RequiresEnhancedGangs
+	VersionAdded			7000
+END
+
+BEGIN Object
+    Name					MetalStool
+    ConstructionTime		1.00000   
+    Price					-40
+    Filter					Rest
+    Group					StaticObject 
+    BlockedBy				StaticObject     
+	BlockedBy				Wall
+    BlockedBy				UtilityStation
+	BEGIN SpriteBank
+		Name				objects_d11_2
+		Sprite				d_MetalStool 
+	END
+	NumSlots				1
+	IndoorOutdoor 			IndoorOnly
+    Properties				StaticObject
+	Properties				RequiresEnhancedGangs
+	BEGIN ImprovesRoom		Room	Cell END
+	BEGIN ImprovesRoom		Room	Dormitory END
+	VersionAdded			7000
+END
+
+BEGIN Equipment  
+    Name				TattooRemovalTool 
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_TattooRemovalTool
+    END 
+    Scale               0.800000
+	Properties			NoImport
+    Properties          Tools
+    Properties          Metal
+	VersionAdded		7000
+END
+
+BEGIN Room       
+    Name                 TheCage
+	Properties           RequiresSector
+    BEGIN Requirement Type Enclosed END
+    BEGIN Requirement Type Secure END
+    BEGIN LikelyObject	Id		FenceGateGuard	END
+    BEGIN LikelyObject	Id		SecureDoor		END
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Material   
+    Name                 CageFence
+    ConstructionTime     5.00000  
+    BlockMovement        true    
+    MoveCost             0.400000  
+    SoftEdged            -1
+    Price                -4  
+    SpriteType           Connected  
+    NumSprites           1
+    BEGIN Sprite0		 x 34  y 32  END
+	DLC_Replace_Type	 ConcreteWall
+    MadeOf               Metal
+    Properties           HeatWaveAffected
+	Properties			 RequiresEnhancedGangs
+    IndoorOutdoor        1  
+END
+
+BEGIN Room  
+    Name	TattooRemovalRoom
+    BEGIN Requirement Type Indoor					END
+    BEGIN Requirement Type MinimumSize  x 3  y 4    END
+    BEGIN Requirement Type Object  Id TattooRemovalMachine	END
+    BEGIN LikelyObject  Id      CoatStand   END
+	BEGIN LikelyObject  Id      Plant       END
+	Properties			RequiresEnhancedGangs
+	VersionAdded	7000
+END
+
+BEGIN Object     
+    Name                 PullUpBars  
+    Width                3  
+    Height               1  
+    ConstructionTime     3.0000  
+    MoveSpeedFactor      0.500000  
+    Price                -50  
+    Filter               Exercise
+    RenderPostOffset     2
+    NumSlots             1
+    Group                StaticObject 
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation
+    IndoorOutdoor        OutdoorOnly
+    RenderDepth             10
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_PullUpBars
+    END 
+    MadeOf               HollowMetal
+    Properties           StaticObject	
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 KneeRaise  
+    Width                1  
+    Height               2  
+    ConstructionTime     3.0000  
+    MoveSpeedFactor      0.500000  
+    Price                -75  
+    Filter               Exercise
+    NumSlots             2
+    GroundBaseOveride    1	
+    Group                StaticObject 
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation
+    IndoorOutdoor        OutdoorOnly
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_KneeRaise
+    END  
+    MadeOf               HollowMetal
+    Properties           StaticObject	
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 PushUpStones  
+    Width                1  
+    Height               2  
+    ConstructionTime     3.0000  
+    MoveSpeedFactor      0.500000  
+    Price                -30  
+    Filter               Exercise
+    NumSlots             1
+    GroundBaseOveride    1	
+    Group                StaticObject 
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation
+    IndoorOutdoor        OutdoorOnly
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_PushUpStones
+        ToolbarSprite   d_PushUpStonesToolbar
+    END 
+    SpriteScale         0.9
+    Properties           StaticObject	
+	Properties			RequiresEnhancedGangs
+END
+
+
+BEGIN Object
+    Name                 GangGraffiti  
+    ConstructionTime     -7
+    Toughness            5.0000  
+    Price                -50  
+	RenderDepth          -1
+	SpecialRestriction	NoShadow
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_Graffiti1
+    END 
+    Properties          Undamageable
+    Properties          Uncloneable
+END
+
+
+BEGIN Object     
+    Name                 FightRing
+    ConstructionTime     3.00000  
+    MoveSpeedFactor      0.300000  
+	Width				 4
+	Height				 4
+	Toughness            10.0000 
+    Price                -1000
+    Filter               Exercise
+	NumSlots             2
+    AttachToWall         true
+    Group                StaticObject
+    IndoorOutdoor        IndoorOnly  
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    MadeOf               Composite
+    Properties           StaticObject
+	VersionAdded		 7000
+	BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_FightRing
+    END 
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Room  
+    Name	FightClubRoom
+    BEGIN Requirement Type Indoor					END
+    BEGIN Requirement Type MinimumSize  x 5  y 5    END
+    BEGIN Requirement Type Object  Id FightRing		END
+    BEGIN LikelyObject  Id      Chair   			END
+	BEGIN LikelyObject  Id      PunchBag			END
+	BEGIN LikelyObject  Id      TrainingDummy		END
+	BEGIN LikelyObject  Id      WaterCooler			END
+	BEGIN LikelyObject  Id      Boombox				END
+	VersionAdded	7000
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 CageGate
+    ConstructionTime     7.00000  
+    Toughness            100.000  
+    Price                -30  
+    RenderDepth          2  
+	IndoorOutdoor		 1
+    Group                StaticObject  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_CageGate
+    END 
+    MadeOf               SolidMetal  
+    Properties           StaticObject
+    Properties           Door
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object
+    Name                PrisonerLetter
+    RenderDepth         2
+    MaxStackSize        20
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_PrisonerLetter
+        StackSprite     d_StackPrisonerLetter
+    END 
+    Properties          Uncloneable
+    Properties          Material  
+    Properties           SlowDelivery
+END 
+
+BEGIN Object
+    Name                LoveLetter
+    RenderDepth         2
+    MaxStackSize        20
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_LoveLetter
+        StackSprite     d_StackPrisonerLetter
+    END 
+    Properties          Uncloneable
+    Properties          Material  
+    Properties          SlowDelivery
+END 
+
+BEGIN Object
+    Name                LoveLetterOpened
+    RenderDepth         2
+    BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_LoveLetterOpened
+    END 
+    Properties          Uncloneable
+    Properties          Material  
+END 
+
+BEGIN Object     
+    Name                 RemoteDoorOrange
+    ConstructionTime     20.00000  
+    Toughness            300.000  
+    Teleportable         true  
+    Price                -500  
+    RenderDepth          2  
+    Research             RemoteAccess
+    Group                StaticObject  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+	BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_RemoteDoorOrange
+	END
+    MadeOf               SolidMetal  
+    Properties           StaticObject
+    Properties           Door
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 RemoteDoorRed
+    ConstructionTime     20.00000  
+    Toughness            300.000  
+    Teleportable         true  
+    Price                -500  
+    RenderDepth          2  
+    Research             RemoteAccess
+    Group                StaticObject  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+   	BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_RemoteDoorRed
+	END
+    MadeOf               SolidMetal  
+    Properties           StaticObject
+    Properties           Door
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 RemoteDoorYellow
+    ConstructionTime     20.00000  
+    Toughness            300.000  
+    Teleportable         true  
+    Price                -500  
+    RenderDepth          2  
+    Research             RemoteAccess
+    Group                StaticObject  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+   	BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_RemoteDoorYellow
+	END
+    MadeOf               SolidMetal  
+    Properties           StaticObject
+    Properties           Door
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 RemoteDoorWhite
+    ConstructionTime     20.00000  
+    Toughness            300.000  
+    Teleportable         true  
+    Price                -500  
+    RenderDepth          2  
+    Research             RemoteAccess
+    Group                StaticObject  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    	BEGIN SpriteBank
+        Name            objects_d11_2
+        Sprite          d_RemoteDoorWhite
+	END
+    MadeOf               SolidMetal  
+    Properties           StaticObject
+    Properties           Door
+	Properties			RequiresEnhancedGangs
+END
+
+BEGIN Object     
+    Name                 GymInstructor
+    MoveSpeedFactor      0.500000  
+    Toughness            5.0000
+    RenderDepth          2  
+    ViewRange            5
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    BEGIN SpriteBank	
+		Name			objects_d11_2
+		Sprite          d_GymInstructor
+	END
+    Properties           Entity
+    Properties           DoesNotTire
+END
+
+BEGIN Object     
+    Name                 FilingCabinetFancy  
+    ConstructionTime     5.00000  
+    MoveSpeedFactor      0.800000  
+    Price                -60  
+    Filter		 Decoration
+    Filter		 Work
+    RenderDepth          1  
+    AttachToWall         true  
+    Group                StaticObject  
+    BlockedBy            Wall  
+    BlockedBy            StaticObject  
+    BlockedBy            UtilityStation  
+    BEGIN SpriteBank	
+		Name			objects_d11_2
+		Sprite          d_FilingCabinetFancy
+        ToolbarSprite   d_FilingCabinetFancyToolbar
+	END
+    MadeOf               Wood
+    Properties           StaticObject
 END

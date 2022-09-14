@@ -300,5 +300,41 @@ Kliknij przycisk DALEJ, aby zobaczyć więcej...
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
+
+"DODATEK „GANGI” I 
+AKTUALIZACJA „LATAWIEC” 
+>Mocniejsi, mądrzejsi, a od teraz w dopasowanych uniformach!
+
+>Gangi – nowy dodatek:
+>   Nowe gangi w więzieniu:
+<->Do twojego więzienia przybyły trzy typy gangów, które przyniosły ze sobą różne kłopoty i problemy zarządcze. 
+<->Każdy z gangów ma własny charakter i cele: od szerzenia wpływów w więzieniu do przejęcia rynku kontrabandy.
+<->Aby pomóc z poziomem trudności związanym z ich przybyciem do więzienia, dodaliśmy opcje do kontrolowania liczebności gangów oraz liczby poruczników, co w rezultacie wpływa na liczbę akcji, które może przeprowadzić gang.
+>
+>   Nowe gangi to nowe zachowania:
+<->Każdy nowy gang ma własne wyspecjalizowane działania: od wprowadzania większej ilości narkotyków do używania siły, aby pokazać innym, kto tu rządzi.
+<->Gangi teraz mogą przejmować nowe obszary, zmuszając innych więźniów do płacenia im podczas pracy, a także wyznaczać „dilera” gangu na swoim terenie, aby sprzedawać to, co uda im się pozyskać.
+<->Gdy gang zyska odpowiednią liczbę członków, może zacząć stawiać żądania, aby umilić sobie pobyt w więzieniu. Niespełnienie tych żądań może mieć katastrofalne konsekwencje.
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>   Skorumpowani strażnicy:
+<->Gdy gang dostatecznie urośnie w siłę, zacznie to mieć negatywny wpływ na twoich strażników.
+<->Strażnicy mogą zostać przekupieni przez członków gangu. Przez to będą przymykać oko, gdy gang będzie planować przeprowadzenie podejrzanych akcji.
+<->Niektórzy strażnicy mogą zostać opłaceni, aby przenosić kontrabandę dla gangów.
+>
+>   Zarządzanie i ochrona:
+<->Aby poradzić sobie z podejrzanym personelem, można wykorzystać więziennych informatorów w celu zidentyfikowania skorumpowanych strażników.
+<->Nowe programy są od teraz dostępne dla strażników i członków gangu, którzy chcą zrezygnować z przestępczego życia i powrócić do normlanego i spokojnego pobytu w więzieniu.
+<->Byli członkowie gangu staną się celem dla gangu, więc najlepiej będzie rozdzielić gangi i byłych członków od siebie, jeśli jest to możliwe.
+<->W przypadku członków gangu, którymi trudniej zarządzać, dostępne są nowe opcje bezpieczeństwa: od oznaczania określonych osób do wysyłania najbardziej problematycznych jednostek do innej placówki.
+Kliknij przycisk DALEJ, aby zobaczyć więcej...
+
+>
+>   Aktualizacja „KONTRABANDA”:
+<->Do zespołu dołączyli nowi strażnicy: Dylan Cook i Kapitan J. Locks oraz nowe rasy psów. Wraz z nimi dostępna jest nowa „losowa” opcja wyboru oraz cztery nowe typy psów strażniczych!
+<->Teraz można ręcznie zmieniać cele więźniów, co umożliwia ich dokładne rozmieszczenie. Pamiętaj jednak, że liderzy gangu będą starali się dostać najlepszą celę w każdym obszarze należącym do ich grupy.
+<->System transportu także został zaktualizowany. Więźniowie oczekujący na przyjęcie zostali przeniesieni do recepcji. Pojawiła się także opcja „Wymiana więźnia”, która umożliwia zachowanie populacji więźniów w oparciu o bieżący wskaźnik poziomów bezpieczeństwa.
+<->Wraz z nowymi funkcjami pojawiła się także opcja zniesienia wymagań w zakresie wielkości pomieszczenia oraz ulepszenia kamer monitoringu, które można włączyć w menu rozmieszczania."
 
 

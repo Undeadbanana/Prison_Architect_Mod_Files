@@ -639,6 +639,15 @@ OBJECT _Rooms
 		MINDISTANCE        6.12
 		VOLUME             PARAMETER TypeFixedValue        3.13  UpdateConstantly
 	END
+	EVENT Canteen_FoodFight   
+		SOUNDNAME          PA_DLC_GANGS_FoodFight_LOOP
+		SOURCETYPE         0
+		POSITIONTYPE       2
+		INSTANCETYPE       0
+		LOOPTYPE           1
+		MINDISTANCE        20
+		VOLUME             PARAMETER TypeFixedValue        10  UpdateConstantly
+	END
 	EVENT Kitchen             
 		SOUNDNAME          room_kitchen_extractor2
 		SOURCETYPE         0
@@ -1175,8 +1184,7 @@ OBJECT _Materials
 		FREQUENCY          PARAMETER TypeRangedRandom      1.36     1.60     0.00  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        0.41  UpdateOncePerLoop
 	END
-
-	EVENT Construct_RustyWall
+	EVENT Construct_RustyWall 
 		SOUNDNAME          newsamplegroup71
 		SOURCETYPE         1
 		POSITIONTYPE       1
@@ -1187,7 +1195,7 @@ OBJECT _Materials
 		FREQUENCY          PARAMETER TypeRangedRandom      0.75     1.20     0.00  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        1.09  UpdateOncePerLoop
 	END
-	EVENT Construct_SlumWall
+	EVENT Construct_SlumWall  
 		SOUNDNAME          newsamplegroup71
 		SOURCETYPE         1
 		POSITIONTYPE       1
@@ -1264,7 +1272,7 @@ OBJECT _Materials
 		FREQUENCY          PARAMETER TypeRangedRandom      0.75     1.20     0.00  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        1.09  UpdateOncePerLoop
 	END
-	EVENT Construct_CliffEdge
+	EVENT Construct_CliffEdge 
 		SOUNDNAME          newsamplegroup71
 		SOURCETYPE         1
 		POSITIONTYPE       1
@@ -1608,24 +1616,24 @@ END
 # =========================================================
 OBJECT _Weather
 	EVENT Rain                
-		SOUNDNAME          PA_CAL_SFX_Rain_INT1_LOOP
+		SOUNDNAME          pa_cal_sfx_rain_int1_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
 	EVENT RainTorrential      
-		SOUNDNAME          PA_CAL_SFX_Rain_INT2_LOOP
+		SOUNDNAME          pa_cal_sfx_rain_int2_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00   7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
@@ -3125,6 +3133,47 @@ OBJECT Table
 		MINDISTANCE        10.00
 		VOLUME             PARAMETER TypeFixedValue        5.60  UpdateOncePerLoop
 	END
+	EVENT GangScratchIndoors  
+		SOUNDNAME          gangs_scratch_insignia_indoor_group
+		SOURCETYPE         1
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           0
+		MINDISTANCE        15.00
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
+	EVENT GangScratchOutdoors 
+		SOUNDNAME          gangs_scratch_insignia_outdoor_group
+		SOURCETYPE         1
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           0
+		MINDISTANCE        15.00
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
+END
+
+
+# =========================================================
+OBJECT GangGraffiti
+	EVENT SprayPaintIndoors   
+		SOUNDNAME          gangs_spraypaint_indoor_group
+		SOURCETYPE         1
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           0
+		MINDISTANCE        15.00
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
+	EVENT SprayPaintOutdoors  
+		SOUNDNAME          gangs_spraypaint_outdoor_group
+		SOURCETYPE         1
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           0
+		MINDISTANCE        15.00
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
 END
 
 
@@ -4332,6 +4381,33 @@ OBJECT Prisoner
 		MINDISTANCE        10.00
 		VOLUME             PARAMETER TypeFixedValue        7.00  UpdateOncePerLoop
 		LOOPDELAY          PARAMETER TypeRangedRandom      3.95     9.68     0.00  UpdateOncePerLoop
+	END
+	EVENT BreatheTherapy      
+		SOUNDNAME          pa_dlc_gangs_breathetherapy_loop
+		SOURCETYPE         0
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           1
+		MINDISTANCE        10.00
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
+	EVENT FightClub             
+		SOUNDNAME          pa_dlc_gangs_fightclub_loop
+		SOURCETYPE         0
+		POSITIONTYPE       2
+		INSTANCETYPE       0
+		LOOPTYPE           1
+		MINDISTANCE        10.00
+		VOLUME             PARAMETER TypeFixedValue        8.00  UpdateOncePerLoop
+	END
+	EVENT TattooRemoval       
+		SOUNDNAME          gangs_tattoo_removal_pain_group
+		SOURCETYPE         1
+		POSITIONTYPE       2
+		INSTANCETYPE       0
+		LOOPTYPE           0
+		MINDISTANCE        10.00
+		VOLUME             PARAMETER TypeFixedValue        7.60  UpdateOncePerLoop
 	END
 END
 
@@ -5977,6 +6053,7 @@ OBJECT Janitor
 	END
 END
 
+
 # =========================================================
 OBJECT Sniper
 	EVENT Place               
@@ -5989,6 +6066,7 @@ OBJECT Sniper
 		VOLUME             PARAMETER TypeFixedValue        5.60  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT Orderly
@@ -6003,6 +6081,7 @@ OBJECT Orderly
 	END
 END
 
+
 # =========================================================
 OBJECT Farmer
 	EVENT Place               
@@ -6016,10 +6095,11 @@ OBJECT Farmer
 	END
 END
 
+
 # =========================================================
 OBJECT Psychiatrist
 	EVENT Place               
-		SOUNDNAME          placestaff_cat3
+		SOUNDNAME          placestaff_cat4male
 		SOURCETYPE         0
 		POSITIONTYPE       0
 		INSTANCETYPE       0
@@ -6028,6 +6108,7 @@ OBJECT Psychiatrist
 		VOLUME             PARAMETER TypeFixedValue        5.60  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT __RiotAssault
@@ -9018,26 +9099,24 @@ OBJECT _Construction
 		ATTACK             PARAMETER TypeFixedValue        0.25  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        0.25  UpdateOncePerLoop
 	END
-
-	EVENT GritIndoors                
+	EVENT GritIndoors         
 		SOUNDNAME          gritterman_indoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
-		MINDISTANCE        7.9
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		MINDISTANCE        7.90
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 		FREQUENCY          PARAMETER TypeRangedRandom      0.90     1.01     0.00  UpdateOncePerLoop
 	END
-
-	EVENT GritOutdoors                
+	EVENT GritOutdoors        
 		SOUNDNAME          gritterman_outdoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
-		MINDISTANCE        7.9
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		MINDISTANCE        7.90
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 		FREQUENCY          PARAMETER TypeRangedRandom      0.90     1.01     0.00  UpdateOncePerLoop
 	END
 END
@@ -10027,23 +10106,23 @@ OBJECT PowerStation
 		VOLUME             PARAMETER TypeFixedValue        5.60  UpdateOncePerLoop
 		FREQUENCY          PARAMETER TypeFixedValue        0.80  UpdateOncePerLoop
 	END
-	EVENT SwitchOff              
-		SOUNDNAME          PA_CAL_SFX_Electricity_PowerDown_001
+	EVENT SwitchOff           
+		SOUNDNAME          pa_cal_sfx_electricity_powerdown_001
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 	END
-	EVENT SwitchOn                
-		SOUNDNAME          PA_CAL_SFX_Electricity_PowerUp_001
+	EVENT SwitchOn            
+		SOUNDNAME          pa_cal_sfx_electricity_powerup_001
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 	END
 END
 
@@ -10813,37 +10892,38 @@ OBJECT TherapyAnimal
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
-		MINDISTANCE        10.0
+		MINDISTANCE        10.00
 		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT DamagedElectricalCable
-	EVENT SparkIndoors                
+	EVENT SparkIndoors        
 		SOUNDNAME          electrical_sparks_indoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT SparkOutdoors                
+	EVENT SparkOutdoors       
 		SOUNDNAME          electrical_sparks_outdoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT FireExtinguisher
-	EVENT BeginExtinguish                
+	EVENT BeginExtinguish     
 		SOUNDNAME          extinguisher_start_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
@@ -10852,8 +10932,7 @@ OBJECT FireExtinguisher
 		MINDISTANCE        7.90
 		VOLUME             PARAMETER TypeFixedValue        7.30  UpdateOncePerLoop
 	END
-
-	EVENT Extinguish                
+	EVENT Extinguish          
 		SOUNDNAME          extinguisher_loop_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
@@ -10866,143 +10945,146 @@ OBJECT FireExtinguisher
 	END
 END
 
+
 # =========================================================
 OBJECT _LightningStorm
-	EVENT LightningBolt                
+	EVENT LightningBolt       
 		SOUNDNAME          lightning_bolt_group
 		SOURCETYPE         1
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT Thunder               
+	EVENT Thunder             
 		SOUNDNAME          thunder_group
 		SOURCETYPE         1
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT PestControlWorker
-	EVENT PestControlSprayIndoors                
+	EVENT PestControlSprayIndoors
 		SOUNDNAME          pest_spray_indoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT PestControlSprayOutdoors               
+	EVENT PestControlSprayOutdoors
 		SOUNDNAME          pest_spray_outdoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
-		MINDISTANCE        7.9.00
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		MINDISTANCE        7.90
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT Rat
-	EVENT RatNoisesIndoors                
+	EVENT RatNoisesIndoors    
 		SOUNDNAME          rat_noises_indoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT RatNoisesOutdoors               
+	EVENT RatNoisesOutdoors   
 		SOUNDNAME          rat_noises_outdoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT _WaterPipe
-	EVENT BurstIndoor                
+	EVENT BurstIndoor         
 		SOUNDNAME          water_pipe_burst_indoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT BurstOutdoor               
+	EVENT BurstOutdoor        
 		SOUNDNAME          water_pipe_burst_outdoor_group
 		SOURCETYPE         1
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT BackupGenerator
-	EVENT SwitchOff              
-		SOUNDNAME          PA_CAL_SFX_Electricity_PowerDown_001
+	EVENT SwitchOff           
+		SOUNDNAME          pa_cal_sfx_electricity_powerdown_001
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 	END
-	EVENT SwitchOn                
-		SOUNDNAME          PA_CAL_SFX_Electricity_PowerUp_001
+	EVENT SwitchOn            
+		SOUNDNAME          pa_cal_sfx_electricity_powerup_001
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue         9.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue        9.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT _Frozen
-	EVENT Crack                
-		SOUNDNAME          PA_CAL_SFX_FrozenCrack_001
+	EVENT Crack               
+		SOUNDNAME          pa_cal_sfx_frozencrack_001
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
-	END	
-END	
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+	END
+END
+
 
 # =========================================================
 OBJECT RoadMaintenanceVehicle
 	EVENT Grit                
-		SOUNDNAME          PA_CAL_SFX_Gritter_LOOP
+		SOUNDNAME          pa_cal_sfx_gritter_loop
 		SOURCETYPE         0
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           1
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.00  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 	EVENT Moving              
 		SOUNDNAME          supplytruck_1000rpm
@@ -11076,153 +11158,158 @@ OBJECT RoadMaintenanceVehicle
 	END
 END
 
+
 # =========================================================
 OBJECT _LightningStormRain
-	EVENT Low                
-		SOUNDNAME          PA_CAL_SFX_Rain_INT1_LOOP
+	EVENT Low                 
+		SOUNDNAME          pa_cal_sfx_rain_int1_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
-	EVENT Medium                
-		SOUNDNAME          PA_CAL_SFX_Rain_INT2_LOOP
+	EVENT Medium              
+		SOUNDNAME          pa_cal_sfx_rain_int2_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
-		EVENT High                
-		SOUNDNAME          PA_CAL_SFX_Rain_INT3_LOOP
+	EVENT High                
+		SOUNDNAME          pa_cal_sfx_rain_int3_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT RatTrap
-	EVENT TriggerIndoors                
-		SOUNDNAME          PA_CAL_SFX_RatsTrap_WET_001
+	EVENT TriggerIndoors      
+		SOUNDNAME          pa_cal_sfx_ratstrap_wet_001
 		SOURCETYPE         0
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.0  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT TriggerOutdoors               
-		SOUNDNAME          PA_CAL_SFX_RatsTrap_001
+	EVENT TriggerOutdoors     
+		SOUNDNAME          pa_cal_sfx_ratstrap_001
 		SOURCETYPE         0
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.0  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT _DeepFreezeSnow
-	EVENT Low                
-		SOUNDNAME          PA_CAL_SFX_Snow_INT1_LOOP
+	EVENT Low                 
+		SOUNDNAME          pa_cal_sfx_snow_int1_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
-	EVENT Medium                
-		SOUNDNAME          PA_CAL_SFX_Snow_INT2_LOOP
+	EVENT Medium              
+		SOUNDNAME          pa_cal_sfx_snow_int2_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
-		EVENT High                
-		SOUNDNAME          PA_CAL_SFX_Snow_INT3_LOOP
+	EVENT High                
+		SOUNDNAME          pa_cal_sfx_snow_int3_loop
 		SOURCETYPE         0
 		POSITIONTYPE       4
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeLinked          100.00    7.5     0.00     5.2     0.90  CameraAltitude  UpdateConstantly
+		VOLUME             PARAMETER TypeLinked          100.00     7.50     0.00     5.20     0.90  CameraAltitude  UpdateConstantly
 		ATTACK             PARAMETER TypeFixedValue        2.50  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        5.00  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT WaterBucket
-	EVENT SplashIndoor                
-		SOUNDNAME          PA_CAL_SFX_WaterBucket_WET_001
+	EVENT SplashIndoor        
+		SOUNDNAME          pa_cal_sfx_waterbucket_wet_001
 		SOURCETYPE         0
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue       10.0  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
-
-	EVENT SplashOutdoor                
-		SOUNDNAME          PA_CAL_SFX_WaterBucket_001
+	EVENT SplashOutdoor       
+		SOUNDNAME          pa_cal_sfx_waterbucket_001
 		SOURCETYPE         0
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           0
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue       10.0  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT WaterDrainage
-	EVENT SpecialistDrain                
-		SOUNDNAME          PA_CAL_SFX_WaterDrainage_LOOP
+	EVENT SpecialistDrain     
+		SOUNDNAME          pa_cal_sfx_waterdrainage_loop
 		SOURCETYPE         0
 		POSITIONTYPE       1
 		INSTANCETYPE       0
 		LOOPTYPE           2
 		MINDISTANCE        10.00
-		VOLUME             PARAMETER TypeFixedValue        10.0  UpdateOncePerLoop
-                                   ATTACK             PARAMETER TypeFixedValue        0.25  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
+		ATTACK             PARAMETER TypeFixedValue        0.25  UpdateOncePerLoop
 		RELEASE            PARAMETER TypeFixedValue        0.25  UpdateOncePerLoop
 	END
 END
 
+
 # =========================================================
 OBJECT DrinkingFountain
-	EVENT Interaction                
-		SOUNDNAME          PA_CAL_SFX_WaterFountain_LOOP
+	EVENT Interaction         
+		SOUNDNAME          pa_cal_sfx_waterfountain_loop
 		SOURCETYPE         0
 		POSITIONTYPE       2
 		INSTANCETYPE       0
 		LOOPTYPE           1
 		MINDISTANCE        7.90
-		VOLUME             PARAMETER TypeFixedValue        10.0  UpdateOncePerLoop
+		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
+
 
 # =========================================================
 OBJECT Hearse
@@ -11297,6 +11384,35 @@ OBJECT Hearse
 		VOLUME             PARAMETER TypeFixedValue       10.00  UpdateOncePerLoop
 	END
 END
+
+
+# =========================================================
+OBJECT FightRing
+	EVENT Fight               
+		SOUNDNAME          pa_dlc_gangs_fightclub_loop
+		SOURCETYPE         0
+		POSITIONTYPE       2
+		INSTANCETYPE       0
+		LOOPTYPE           1
+		MINDISTANCE        15.00
+		VOLUME             PARAMETER TypeFixedValue        8.00  UpdateOncePerLoop
+	END
+END
+
+
+# =========================================================
+OBJECT TattooRemovalMachine
+	EVENT Laser               
+		SOUNDNAME          pa_dlc_gangs_tattooremoval_loop
+		SOURCETYPE         0
+		POSITIONTYPE       1
+		INSTANCETYPE       0
+		LOOPTYPE           1
+		MINDISTANCE        12.50
+		VOLUME             PARAMETER TypeFixedValue        5.14  UpdateOncePerLoop
+	END
+END
+
 
 # =========================================================
 SAMPLEGROUP newsamplegroup1
@@ -18189,118 +18305,179 @@ SAMPLEGROUP dog_interaction_group
 	SAMPLE  dlc_dog_interaction_5
 END
 
+
 # =========================================================
 SAMPLEGROUP electrical_sparks_outdoor_group
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_001
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_002
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_003
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_004
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_005
+	SAMPLE  pa_cal_sfx_electrical_sparks_001
+	SAMPLE  pa_cal_sfx_electrical_sparks_002
+	SAMPLE  pa_cal_sfx_electrical_sparks_003
+	SAMPLE  pa_cal_sfx_electrical_sparks_004
+	SAMPLE  pa_cal_sfx_electrical_sparks_005
 END
+
 
 # =========================================================
 SAMPLEGROUP electrical_sparks_indoor_group
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_WET_001
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_WET_002
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_WET_003
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_WET_004
-	SAMPLE  PA_CAL_SFX_Electrical_Sparks_WET_005
+	SAMPLE  pa_cal_sfx_electrical_sparks_wet_001
+	SAMPLE  pa_cal_sfx_electrical_sparks_wet_002
+	SAMPLE  pa_cal_sfx_electrical_sparks_wet_003
+	SAMPLE  pa_cal_sfx_electrical_sparks_wet_004
+	SAMPLE  pa_cal_sfx_electrical_sparks_wet_005
 END
+
 
 # =========================================================
 SAMPLEGROUP extinguisher_loop_group
-	SAMPLE  PA_CAL_SFX_Extinguish_LOOP_001
-	SAMPLE  PA_CAL_SFX_Extinguish_LOOP_002
+	SAMPLE  pa_cal_sfx_extinguish_loop_001
+	SAMPLE  pa_cal_sfx_extinguish_loop_002
 END
+
 
 # =========================================================
 SAMPLEGROUP extinguisher_start_group
-	SAMPLE  PA_CAL_SFX_Extinguish_Start_001
-	SAMPLE  PA_CAL_SFX_Extinguish_Start_002
+	SAMPLE  pa_cal_sfx_extinguish_start_001
+	SAMPLE  pa_cal_sfx_extinguish_start_002
 END
+
 
 # =========================================================
 SAMPLEGROUP gritterman_outdoor_group
-	SAMPLE  PA_CAL_SFX_Gritterman_001
-	SAMPLE  PA_CAL_SFX_Gritterman_002
+	SAMPLE  pa_cal_sfx_gritterman_001
+	SAMPLE  pa_cal_sfx_gritterman_002
 END
+
 
 # =========================================================
 SAMPLEGROUP gritterman_indoor_group
-	SAMPLE  PA_CAL_SFX_Gritterman_WET_001
-	SAMPLE  PA_CAL_SFX_Gritterman_WET_002
+	SAMPLE  pa_cal_sfx_gritterman_wet_001
+	SAMPLE  pa_cal_sfx_gritterman_wet_002
 END
+
 
 # =========================================================
 SAMPLEGROUP lightning_bolt_group
-	SAMPLE  PA_CAL_SFX_Lightning_001
-	SAMPLE  PA_CAL_SFX_Lightning_002
-	SAMPLE  PA_CAL_SFX_Lightning_003
+	SAMPLE  pa_cal_sfx_lightning_001
+	SAMPLE  pa_cal_sfx_lightning_002
+	SAMPLE  pa_cal_sfx_lightning_003
 END
+
 
 # =========================================================
 SAMPLEGROUP pest_spray_outdoor_group
-	SAMPLE  PA_CAL_SFX_PestSpray_001
-	SAMPLE  PA_CAL_SFX_PestSpray_002
-	SAMPLE  PA_CAL_SFX_PestSpray_003
+	SAMPLE  pa_cal_sfx_pestspray_001
+	SAMPLE  pa_cal_sfx_pestspray_002
+	SAMPLE  pa_cal_sfx_pestspray_003
 END
+
 
 # =========================================================
 SAMPLEGROUP pest_spray_indoor_group
-	SAMPLE  PA_CAL_SFX_PestSpray_WET_001
-	SAMPLE  PA_CAL_SFX_PestSpray_WET_002
-	SAMPLE  PA_CAL_SFX_PestSpray_WET_003
+	SAMPLE  pa_cal_sfx_pestspray_wet_001
+	SAMPLE  pa_cal_sfx_pestspray_wet_002
+	SAMPLE  pa_cal_sfx_pestspray_wet_003
 END
+
 
 # =========================================================
 SAMPLEGROUP rat_noises_outdoor_group
-	SAMPLE  PA_CAL_SFX_RatsChewing_DRY_001
-	SAMPLE  PA_CAL_SFX_RatsChewing_DRY_002
-	SAMPLE  PA_CAL_SFX_RatsChewing_DRY_003
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_001
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_002
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_003
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_004
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_005
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_006
-	SAMPLE  PA_CAL_SFX_RatSqueaking_DRY_007
-	SAMPLE  PA_CAL_SFX_RatsSniffing_DRY_001
-	SAMPLE  PA_CAL_SFX_RatsSniffing_DRY_002
-	SAMPLE  PA_CAL_SFX_RatsSniffing_DRY_003
+	SAMPLE  pa_cal_sfx_ratschewing_dry_001
+	SAMPLE  pa_cal_sfx_ratschewing_dry_002
+	SAMPLE  pa_cal_sfx_ratschewing_dry_003
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_001
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_002
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_003
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_004
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_005
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_006
+	SAMPLE  pa_cal_sfx_ratsqueaking_dry_007
+	SAMPLE  pa_cal_sfx_ratssniffing_dry_001
+	SAMPLE  pa_cal_sfx_ratssniffing_dry_002
+	SAMPLE  pa_cal_sfx_ratssniffing_dry_003
 END
+
 
 # =========================================================
 SAMPLEGROUP rat_noises_indoor_group
-	SAMPLE  PA_CAL_SFX_RatsChewing_WET_001
-	SAMPLE  PA_CAL_SFX_RatsChewing_WET_002
-	SAMPLE  PA_CAL_SFX_RatsChewing_WET_003
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_001
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_002
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_003
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_004
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_005
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_006
-	SAMPLE  PA_CAL_SFX_RatSqueaking_WET_007
-	SAMPLE  PA_CAL_SFX_RatsSniffing_WET_001
-	SAMPLE  PA_CAL_SFX_RatsSniffing_WET_002
-	SAMPLE  PA_CAL_SFX_RatsSniffing_WET_003
+	SAMPLE  pa_cal_sfx_ratschewing_wet_001
+	SAMPLE  pa_cal_sfx_ratschewing_wet_002
+	SAMPLE  pa_cal_sfx_ratschewing_wet_003
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_001
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_002
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_003
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_004
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_005
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_006
+	SAMPLE  pa_cal_sfx_ratsqueaking_wet_007
+	SAMPLE  pa_cal_sfx_ratssniffing_wet_001
+	SAMPLE  pa_cal_sfx_ratssniffing_wet_002
+	SAMPLE  pa_cal_sfx_ratssniffing_wet_003
 END
+
 
 # =========================================================
 SAMPLEGROUP thunder_group
-	SAMPLE  PA_CAL_SFX_Thunder_001
-	SAMPLE  PA_CAL_SFX_Thunder_002
-	SAMPLE  PA_CAL_SFX_Thunder_003
+	SAMPLE  pa_cal_sfx_thunder_001
+	SAMPLE  pa_cal_sfx_thunder_002
+	SAMPLE  pa_cal_sfx_thunder_003
 END
+
 
 # =========================================================
 SAMPLEGROUP water_pipe_burst_outdoor_group
-	SAMPLE  PA_CAL_SFX_WaterBurstPipe_001
-	SAMPLE  PA_CAL_SFX_WaterBurstPipe_002
+	SAMPLE  pa_cal_sfx_waterburstpipe_001
+	SAMPLE  pa_cal_sfx_waterburstpipe_002
 END
+
 
 # =========================================================
 SAMPLEGROUP water_pipe_burst_indoor_group
-	SAMPLE  PA_CAL_SFX_WaterBurstPipe_WET_001
-	SAMPLE  PA_CAL_SFX_WaterBurstPipe_WET_002
+	SAMPLE  pa_cal_sfx_waterburstpipe_wet_001
+	SAMPLE  pa_cal_sfx_waterburstpipe_wet_002
 END
+
+
+# =========================================================
+SAMPLEGROUP gangs_scratch_insignia_indoor_group
+	SAMPLE  pa_dlc_gangs_scratchinsignia_01_in
+	SAMPLE  pa_dlc_gangs_scratchinsignia_02_in
+	SAMPLE  pa_dlc_gangs_scratchinsignia_03_in
+	SAMPLE  pa_dlc_gangs_scratchinsignia_04_in
+	SAMPLE  pa_dlc_gangs_scratchinsignia_05_in
+	SAMPLE  pa_dlc_gangs_scratchinsignia_06_in
+END
+
+
+# =========================================================
+SAMPLEGROUP gangs_scratch_insignia_outdoor_group
+	SAMPLE  pa_dlc_gangs_scratchinsignia_01_out
+	SAMPLE  pa_dlc_gangs_scratchinsignia_02_out
+	SAMPLE  pa_dlc_gangs_scratchinsignia_03_out
+	SAMPLE  pa_dlc_gangs_scratchinsignia_04_out
+	SAMPLE  pa_dlc_gangs_scratchinsignia_05_out
+	SAMPLE  pa_dlc_gangs_scratchinsignia_06_out
+END
+
+
+# =========================================================
+SAMPLEGROUP gangs_spraypaint_indoor_group
+	SAMPLE  pa_dlc_gangs_spraypaint_01_in
+	SAMPLE  pa_dlc_gangs_spraypaint_02_in
+	SAMPLE  pa_dlc_gangs_spraypaint_03_in
+END
+
+
+# =========================================================
+SAMPLEGROUP gangs_spraypaint_outdoor_group
+	SAMPLE  pa_dlc_gangs_spraypaint_01_out
+	SAMPLE  pa_dlc_gangs_spraypaint_02_out
+	SAMPLE  pa_dlc_gangs_spraypaint_03_out
+END
+
+
+# =========================================================
+SAMPLEGROUP gangs_tattoo_removal_pain_group
+	SAMPLE  pa_dlc_gangs_tattooremoval_pain_01_in
+	SAMPLE  pa_dlc_gangs_tattooremoval_pain_02_in
+END
+
+

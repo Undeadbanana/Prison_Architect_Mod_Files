@@ -5,10 +5,10 @@
 # =============================================================================
 
 codex_viewchangelog	Fullständig ändringslogg
-codex_legal	Rättslig
-codex_privacy	integritetspolicy
+codex_legal	Juridik
+codex_privacy	Integritetspolicy
 codex_terms-of-use	Villkor
-codex_eula	slutanvändarlicensavtal
+codex_eula	Slutanvändarlicensavtal
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Verkstad
 
 
 mm_updatenotes_Date	27 juni 2019
-mm_updatenotes_Header	Clink-uppdateringen
+mm_updatenotes_Header	Обновление «Тюрячка»
 mm_updatenotes_01	Fyra nya golv och fyra nya väggar tillagda.
 mm_updatenotes_02	Prestandaförbättringar som kortar ner laddningstiderna.
 mm_updatenotes_03	Ökade antalet förmän som kan anställas, för större fängelser där förmän även håller kurser.
@@ -674,7 +674,7 @@ interfacedeployment_insaneseczone	Endast psykavdelning
 interfacetopbar_PrisonerCells_insaneSecOnly	Kapacitet för psykiskt störda: *X
 
 roomgrading_PsychiatristOffice_info	Lås upp och placera fler objekt i psykiaterkontoret för att ge bättre behandling till psykiskt störda interner.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	låses upp via kriminellt psykiskt störda interner som deltar i de psykiatriska konsultationsprogrammen.
 roomgrading_PsychiatristOffice_Item	Föremål: *X
 roomgrading_PsychiatristOffice_Quality	Psykiatrikvalitet: *Q
 roomgrading_PsychiatristOffice_Upgrade	Uppgradera psykiaterkontoret för att höja kvaliteten.
@@ -847,7 +847,7 @@ administrator_requiresoffice_psychiatrist	Kräver psykiaterkontor
 dlc_upsell	Den här sparfilen använder innehåll från expansionen *D. Det gick inte att hitta expansionen på ditt system, så vissa funktioner är inte tillgängliga. Köp gärna *D för att få ut så mycket som möjligt av Prison Architect.
 dlc_upsell_multiplayer	Värden i den här flerspelaromgången har köpt expansionen *D, som du som gäst också får tillgång till. Ha så kul!
 
-dlc_insane	Psych Ward: Warden’s Edition
+dlc_insane	Psykavdelningen: Direktörsutgåvan
 dls_seaandair	Öfängelse
 
 regime_work_pyscho	Program/fritid
@@ -1206,7 +1206,7 @@ buildtoolbar_popup_obj_bambooDoor	En handgjord bambugrind som matchar bambustake
 buildtoolbar_popup_obj_canvas	Ett kreativt sätt för interner att utrycka sina känslor, utan att hugga ner varandra.
 buildtoolbar_popup_obj_PetBird	En miniföljeslagare som kan hålla dina interner sällskap.\n -Uppfyller familj-, lyxartikel- och komfortbehovet.
 buildtoolbar_popup_obj_SoftPillow	Förhöj bekvämligheten i internernas sängar med en högkvalitativ och luftig dunkudde.\n -Uppfyller komfort- och sömnbehovet.
-buildtoolbar_popup_obj_BoxingRing	Inget fängelsegym är komplett utan en. De flesta interner föredrar att måla på duk.\n -Uppfyller tränings och nöjesbehovet.
+buildtoolbar_popup_obj_BoxingRing	Inget fängelsegym är komplett utan en. De flesta interner föredrar att måla på den här målarduken.
 buildtoolbar_popup_obj_DumbbellRack	För internerna som gillar kroppsbygge.\n -Uppfyller träningsbehovet.
 buildtoolbar_popup_obj_Treadmill	Så att interner kan hålla sig i trim. Interner som tränar hårt kan till och med bli snabbare löpare.\n -Uppfyller träningsbehovet.
 buildtoolbar_popup_obj_Fan	En gammeldags stående fläkt som kyler luften runtomkring den i viss mån.
@@ -1330,7 +1330,7 @@ customSector_message	Välj vilka säkerhetsnivåer som tillåts för att få int
 customsectorwindow_minseccaption	Lågsäkerhet
 customsectorwindow_medseccaption	Medelsäkerhet
 customsectorwindow_maxseccaption	Högsäkerhet
-customsectorwindow_supermaxcaption	SuperMax
+customsectorwindow_supermaxcaption	Högsta säkerhetsklass
 customsectorwindow_deathrowcaption	Dödscell
 customsectorwindow_protectivecaption	Skyddshäkte
 customsectorwindow_insanecaption	Rättspsykiatri
@@ -1802,9 +1802,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Skapa vägar som interner och persona
 buildtoolbar_popup_uts_ScannerMonitor	En monitor som vakter kan använda för att hitta smuggelgods när den är ansluten till en skanner. En vakts förmåga att hitta smuggelgods beror på hur trötta de är.
 buildtoolbar_popup_uts_ScannerMachine	En apparat för leveranszoner och förråd som skannar trälårar för att hitta smuggelgods. Måste vara ansluten till en skanner och en monitor för att en vakt ska kunna hitta smuggelgods. Vakters förmåga att hitta smuggelgods beror på hur trötta de är.
 buildtoolbar_popup_obj_Checkpoint	En vaktpostering där interner och besökare kroppsvisiteras innan de kan passera. Interner kan bara passera genom kontrollstationen i en riktning och när en vakt är närvarande.
-buildtoolbar_popup_mat_waterShallow	Skapa områden i grunt vatten för att få trevligare stränder och kuststräckor mellan sanden och havsbotten. Gångplattorna gör det möjligt att gå över vatten - $*A (endast utomhus).
-buildtoolbar_popup_mat_waterLarge	Skapa stora vattenområden, sjöar och hav - $*A (endast utomhus).
-buildtoolbar_popup_mat_WoodenDockFloor	Ett robust timmerdäck. Perfekt för att förtöja båtar vid - $*A (endast utomhus).
+buildtoolbar_popup_mat_waterShallow	Skapa områden i grunt vatten för att få trevligare stränder och kuststräckor mellan sanden och havsbotten. Gångplattorna gör det möjligt att gå över vatten
+buildtoolbar_popup_mat_waterLarge	Skapa stora vattenområden, sjöar och hav
+buildtoolbar_popup_mat_WoodenDockFloor	Ett robust timmerdäck. Perfekt för att förtöja båtar vid
 
 landscape_hint	(Kan byggas på vatten)
 
@@ -2022,7 +2022,7 @@ equipment_trowel	Trädgårdsspade
 equipment_handFork	Plantergaffel
 equipment_HerbPlant	Droger
 equipment_Kicker	Extrakick
-equipment_Drink	Drink
+equipment_Drink	Dryck
 equipment_BoozeBag	Spritpåse
 equipment_Orange	Apelsin
 equipment_ProducedDrugs	Framställda droger
@@ -2693,7 +2693,7 @@ objectiveWindow_FilterButton_0_tooltip	Pågående uppgifter
 objectiveWindow_FilterButton_1_tooltip	En samling information som beskriver och förklarar huvuddragen med projektet Tänk grönt!
 escapemode_info_board	Gå ombord på färjan
 reports_ingredients_usageTitle	Hur ofta, i procent, som färska råvaror används jämfört med importerade
-objective_HelpEnvironmentallyFriendly	Экологичность
+objective_HelpEnvironmentallyFriendly	Miljövänlig
 material_SellFlooring	Sälj golvmaterial
 buildtoolbar_popup_uts_quickconnect	Ansluter snabbt alla typer av bevaknings- eller automatiseringssystem till deras närmaste mottagningsföremål.
 object_OxStatue	Oxstaty
@@ -3043,9 +3043,9 @@ uniform_color_18	Chockrosa
 uniform_color_19	Aqua
 uniform_color_20	Metallgrå
 uniform_color_21	Sandbrun
-uniform_color_22	Bourgogne
-uniform_color_23	Slop
-uniform_color_24	Syra
+uniform_color_22	Vinröd
+uniform_color_23	Smutsgrön
+uniform_color_24	Giftgrön
 uniform_color_25	Stormgrå
 uniform_color_26	Violett
 uniform_color_27	Smuts
@@ -3206,7 +3206,7 @@ d11_reform_program_pass_rate	Andel godkända i reformeringsprogram
 d11_reform_released_prisoners_design_info	När en intern har frigivits från ditt fängelse kommer du att bli underrättad om vad de gör sedan, dvs. om de begår nya brott eller reformeras och hittar ett jobb. Ditt fängelse kommer sedan att belönas eller bötfällas beroende på utgången.
 d11_reform_prisoners_action_reformed	REFORMERAD!
 d11_reform_prisoners_action_reoffended	ÅTERFALLEN!
-d11_reform_prisoners_action_reoffended_returned	skickades tillbaka till ditt fängelse.
+d11_reform_prisoners_action_reoffended_returned	*X skickades tillbaka till ditt fängelse.
 d11_reform_prisoners_outcome_reformed	De fick jobb i stadens *X.
 d11_reform_prisoners_outcome_reoffended	De greps och kommer att skickas tillbaka i fängelse.
 d11_reform_prisoners_outcome_reoffended_returned	Var försiktig, då interner blir farligare vid utökade inskränkningar.
@@ -3402,7 +3402,7 @@ object_Sprinkler	Brandsprinkler
 objective_HelpCalamities_child_3	Värmebölja
 weather_CalamityHeatwave	Värmebölja
 d11_staffalert_title_CalamityHeatwave01	Värmebölja
-report_Coverage	TÄCKNING
+report_Coverage	Täckning
 d11_coverage_staff_only	Endast personal
 codex_new_weathertype_disabled	Av
 status_effect_calamitycold	FRIGIVEN
@@ -3635,10 +3635,11 @@ objective_grant_subsidence_description	Återuppbygg eventuella skador som fänge
 objective_grant_subsidence_hire	Anställ en reparatör som kan reparera skadade väggar och stängsel.
 objective_grant_utilityretrofit	Bidrag för uppgradering av el-/gas-/vattenförsörjning
 objective_grant_utilityretrofit_description	Skadedjursangrepp kan leda till allvarliga problem för alla lokala verksamheter vad gäller produktion och leveranser. Därför finns nu ett bidrag att söka som skyddar lokala verksamheters försörjning.
-objective_grant_utilityretrofit_build	Bygg 50 rutor med extra kraftiga elkablar.
+objective_grant_utilityretrofit_build	Bygg 50 rutor med Kabelskydd.
 calamity_grants_onboarding	Vädret har blivit mer oberäkneligt under senare år. Vi hade tur den här gången men fängelset bör vara förberedd på alla eventualiteter. Lokala verksamheter kan få vissa bidrag efter ett oväder. Jag förutsätter att du drar fördel av den möjligheten när tillfälle ges.
 grant_category_CollapsedWallFence	Staketet har fallit:
 grant_category_HasObject	Har:
+grant_category_EverHadObject	Har:
 grant_category_CalamityHappened	En krissituation inträffade:
 action_brewing	Bryggning
 action_electricalsabotaging	Vandalism och sabotage
@@ -3795,6 +3796,362 @@ buildtoolbar_stayIndoorsCalamity	Svåra förhållanden
 buildtoolbar_popup_uts_WeatherMachine	Vädermaskinen ger avancerade väderprognoser. Den beräknar väderförhållanden som varaktighet, temperatur, nederbörd, vindhastighet och sikt. Dessutom beräknar den exakt när sämre väder är att vänta.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	En dubbeldörr som personalen kan använda.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	En dubbeldörr som personalen kan använda.
-codex_tooltip_startingSeason    Välj under vilken årstid du vill starta spelet. Vädret utvecklas naturligt genom årstiderna.
+codex_tooltip_startingSeason	Välj under vilken årstid du vill starta spelet. Vädret utvecklas naturligt genom årstiderna.
 object_AirPestControlHeli	Luftburen skadedjursbekämpning
 
+codex_option_default	Standardinställning
+dlc_name_kimber	Gäng
+quickbuild_Gymnasium	Gym
+boilingpoint_Needs	Behov
+boilingpoint_ProgramCompletion	Genomförda program
+boilingpoint_RoomQuality	Rumsstandard
+buildtoolbar_popup_help_BoilingPoint_3	^Tips
+securitymenu_popup_recentMisconduct	Nylig misskötsel:
+securitymenu_PrisonerTypeDefault	Standardinställning
+securitymenu_PrisonerTypeDangerous	Farlig
+rapsheet_assignguard	Placera ut en vakt
+buildtoolbar_popup_help_securitymenu_4	^Tips
+objective_HelpPrograms	Program
+objective_grant_positiveEnergyGrant_yard	Bygg en rastgård
+gang_green	Grönt
+d11_gang_bonebreakers_goal	Förstörelse
+d11_gang_misconduct	Misskötsel:
+d11_heatmap_deaths	Dödsfall:
+interface_action_CleanGraffiti	Rengöring
+schedulesearch_menu_Frequency	Frekvens
+reputation_Resourceful	Påhittig
+action_Withdrawal	Abstinensbesvär
+action_ListenToRadio	Lyssna på radio
+codex_option_plotType	Intrigtyp
+codex_tooltip_plotType	Möjliggör skapandet av en särskild typ av starttomt. Standardtomten kommer att bestå av jord och gräs; Djungel har regnskogsvegetation; Snötomten är täckt av snö; Måntomten ser ut som månens yta; Ötomten kommer att vara omgiven av vatten och har en båtkaj istället för en väg, medan den anknutna ötomten kommer att vara omgiven av vatten och ha en bro som ansluter till vägen.
+survey_letter_1	Bästa fängelsedirektör.\n\n\nTack för att du deltog i fängelsets test av nya funktioner och system.\n\nSom verkställande vd är det mitt ansvar att samla in återkoppling från alla fängelsedirektörer för att ytterligare förbättra användarupplevelsen.\n\nJag skulle uppskatta mycket om du kunde ägna några minuter åt att fylla i den här enkäten som jag har iordningställt.\n\nVD för\nPrison Architects Corp.
+survey_letter_2	Bästa fängelsedirektör.\n\n\nÅterigen, stort tack för att du deltar i fängelsets test av nya funktioner och system. \n\nEftersom du nu haft mer tid på dig att testa de nya funktionerna och systemen skulle jag verkligen uppskatta om du kunde uppdatera din återkoppling i den här enkäten.\nVänligen\n\nPrison Architects Corps verkställande direktör.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Mer av en snackshund än en attackhund!
+object_Doberman	Dobermann
+buildtoolbar_popup_obj_Doberman	Dobermann är de ultimata polishundarna.
+object_ChocolateLabrador	Brun labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Älskar att få nya vänner – och gillar framförallt när den nya vännen flyr i panik.
+object_BlackShepherd	Svart schäfer
+buildtoolbar_popup_obj_BlackShepherd	De ser kanske gulliga ut, men de kan meja ner vem som helst som kommer i deras väg.
+object_TattooRemovalMachine	Tatueringsborttagningsapparat
+buildtoolbar_popup_obj_TattooRemovalMachine	Det här föremålet är oumbärligt för att reformera gängmedlemmar. Att ta bort sina tatueringar är ett första steg i deras reformering.
+object_MetalStool	Metallpall
+buildtoolbar_popup_obj_MetalStool	En behändig metallpall.
+equipment_TattooRemovalTool	Tatueringsborttagningsverktyg
+room_TheCage	Buren
+buildtoolbar_popup_room_TheCage	En utomhusenhet som en intern kan använda vid träning, som håller dem separerade från andra interner.
+quickbuild_TheCage	Buren
+buildtoolbar_quickbuild_TheCage	En utomhusenhet som en intern kan använda vid träning, som håller dem separerade från andra interner.
+material_CageFence	Burstängsel
+buildtoolbar_popup_mat_CageFence	Ett stängsel med länkade kedjor avsett att stänga in internerna medan de motionerar eller tränar.
+room_TattooRemovalRoom	Tatueringsborttagningslokal
+buildtoolbar_popup_room_TattooRemovalRoom	Dit dina interner kan gå för att genomgå den smärtsamma och svåra processen att ta bort sina gängtatueringar.
+quickbuild_TattooRemovalRoom	Tatueringsborttagningslokal
+buildtoolbar_quickbuild_TattooRemovalRoom	Dit dina interner kan gå för att genomgå den smärtsamma och svåra processen att ta bort sina gängtatueringar.
+object_PullUpBars	Armhävningsstänger
+buildtoolbar_popup_obj_PullUpBars	Ett billigt träningsredskap som är populärt bland de mer förhärdade internerna.
+object_KneeRaise	Knälyft
+buildtoolbar_popup_obj_KneeRaise	Ett billigt träningsredskap som är populärt bland de mer förhärdade internerna.
+object_PushUpStones	Armhävningsstenar
+buildtoolbar_popup_obj_PushUpStones	Ett billigt träningsredskap som är populärt bland de mer förhärdade internerna.
+object_GangGraffiti	Gängklotter
+d11_hover_info_gang_graffiti_1	Gängets styrka och hårdhet har ökat med 15 % inom området
+d11_hover_info_gang_graffiti_2	Gängets motståndskraft har ökat med +15 % inom området
+object_FightRing	Boxningsring
+buildtoolbar_popup_obj_FightRing	Om en intern boxas i ringen kommer han inte att slåss utanför den.\n -Uppfyller tränings- och rekreationsbehoven.
+quickbuild_FightClubRoom	Fajtklubblokal
+buildtoolbar_quickbuild_FightClubRoom	Det här rummet existerar inte ”på pappret”.
+room_FightClubRoom	Fajtklubblokal
+buildtoolbar_popup_room_FightClubRoom	Det här rummet existerar inte ”på pappret”.
+object_CageGate	Burdörr
+buildtoolbar_popup_obj_CageGate	En grind som funkar bra tillsammans med stängsel. Fungerar på samma sätt som en dörr.
+buildtoolbar_popup_obj_RemoteDoor	Den här dörren är utformad för att användas med servostyrning. Se till att det finns tillräckligt med vakter tillgängliga för att övervaka ingångar och utgångar vid dessa dörrar, eller installera tryckplattor.
+object_RemoteDoorOrange	Fjärrstyrd dörr (orange)
+buildtoolbar_popup_obj_RemoteDoorOrange	Den här dörren är utformad för att användas med servostyrning. Se till att det finns tillräckligt med vakter tillgängliga för att övervaka ingångar och utgångar vid dessa dörrar, eller installera tryckplattor.
+object_RemoteDoorRed	Fjärrstyrd dörr (röd)
+buildtoolbar_popup_obj_RemoteDoorRed	Den här dörren är utformad för att användas med servostyrning. Se till att det finns tillräckligt med vakter tillgängliga för att övervaka ingångar och utgångar vid dessa dörrar, eller installera tryckplattor.
+object_RemoteDoorYellow	Fjärrstyrd dörr (gul)
+buildtoolbar_popup_obj_RemoteDoorYellow	Den här dörren är utformad för att användas med servostyrning. Se till att det finns tillräckligt med vakter tillgängliga för att övervaka ingångar och utgångar vid dessa dörrar, eller installera tryckplattor.
+object_RemoteDoorWhite	Fjärrstyrd dörr (vit)
+buildtoolbar_popup_obj_RemoteDoorWhite	Den här dörren är utformad för att användas med servostyrning. Se till att det finns tillräckligt med vakter tillgängliga för att övervaka ingångar och utgångar vid dessa dörrar, eller installera tryckplattor.
+object_GymInstructor	Gyminstruktör
+object_FilingCabinetFancy	Arkivskåp (tjusigt)
+buildtoolbar_popup_obj_FilingCabinetFancy	Belöna personalen genom att ge dem ett nytt, tjusigt arkivskåp.
+material_LongGrass	Högt gräs
+codex_tooltip_gangsEnhanced	Du kan nu ändra intaget av interner som går med i fängelsets olika gäng. Att ha fler gängmedlemmar i ditt fängelse kommer att påskynda gängrekryteringen, vilket kommer att skapa kaos och göra det farligare att vistas i fängelset.\n\n -Äldre – Upplev gängsvårighetsgraden som den var tidigare (nybörjare)\n Låg (standard) – idealisk för nybörjare och medelerfarna spelare \n Medel – Erfarna spelare \n Hög – Expertspelare som vill ha en ordentlig utmaning
+codex_tooltip_morelieutenants	Kaptenerna spelar en viktig roll för att överta nya områden för sina respektive gängs räkning. Om du vill att gängen ska bli mer aktiva bör du fundera på att minska antalet medlemmar som krävs per gängkapten. Välj bara antal lägre än sex om du vill ha en utmaning.
+codex_option_morelieutenants	Fler kaptener
+codex_tooltip_codex_option_morelieutenants	Kaptenerna spelar en viktig roll för att överta nya områden för sina respektive gängs räkning. Om du vill att gängen ska bli mer aktiva bör du fundera på att minska antalet medlemmar som krävs per gängkapten. Välj bara antal lägre än sex om du vill ha en utmaning.
+codex_option_GangSpecialReputations	Särskilt anseende inom ett gäng
+codex_tooltip_GangSpecialReputations	Gängen får nya rykten, vilket förändrar beteendemönstren inom fängelset.
+codex_option_AllDogs	Alla hundar
+codex_tooltip_AllDogs	Om du väljer det här alternativet blir alla hundar tillgängliga och anställningarna randomiseras.
+codex_tooltip_RandomWardens	Om du väljer det här alternativet kommer en fängelsedirektör att väljas slumpvis.
+interfacecontraband_BoilingPoint	Kokpunkt
+buildtoolbar_contraband_BoilingPoint	Visar förbättringsområden för missnöjda interner.
+boilingpoint_header	Kokpunkt
+boilingpoint_OverallTemperature	Övergripande temperatur
+boilingpoint_StatusEffects	Statuseffekter
+boilingpoint_OverallTemperature_popup	Det finns en del saker som inte går att kontrollera vad gäller internernas humör och nöjdhet, t.ex. deras personlighet eller hur många gånger de blivit dömda. Ju missnöjdare internerna blir, desto sannolikare är det att de kommer att missköta sig.
+boilingpoint_Needs_popup	Du har just nu *X interner vars behov inte uppfylls.\n\nSe till att de får åtkomst till lokaler eller föremål som uppfyller deras behov.
+boilingpoint_ProgramCompletion_popup	Du har just nu *X interner som inte har genomfört några program.\n\nJu fler program internerna genomför desto lugnare lär de bli Lägg till några program som de kan delta i och se till att deras regim gör det möjlig för dem att delta. Vissa program går att delta i flera gånger.
+boilingpoint_StatusEffects_popup	Du har just nu *X interner som drabbats av negativa effekter.\n\nÖverväg att hålla extra koll på smuggelgods, särskilt alkohol och narkotika.\n\nNär internerna upplever positiva effekter är det mindre sannolikt att de missköter sig.
+boilingpoint_RoomQuality_popup	Du har just nu *X interner med dåliga rum.\n\nFörbättra rummens standard så blir de nöjdare och lugnare. Vissa interner har inte rätt att få rum med hög standard. Du kan använda straffjustering för att minska antalet krav.
+buildtoolbar_popup_help_BoilingPoint_1	Kokpunktsmätaren visar den aktuella temperaturen i fängelset. Menyn belyser fängelsets problemområden, som cellkvalitet, behov, statuseffekter och deltagandenivå i fängelseprogram.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	Om du fortfarande inte kan kontrollera vissa interner kan du överväga att hålla dem inlåsta i sina celler eller placera dem i isoleringscell för att ge dem tid att lugna ner sig.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Säkerställ att alla interner får sina grundläggande behov uppfyllda.
+buildtoolbar_popup_help_BoilingPoint_5	- Investera i reformprogram, terapi, behandlingar och arbetsprogram och säkerställ att internernas regimer gör det möjligt för dem att delta.
+buildtoolbar_popup_help_BoilingPoint_6	- Interner på en lågsäkerhetsanstalt har en högre toleranströskel eftersom de har kortare strafftid.
+boilingpoint_advisor_onboarding	Den här internen är stökig och verkar ha nått kokpunkten. Kanske gör vi inte tillräckligt för våra interner. Se till att deras behov är tillgodosedda, förbättra deras levnadsförhållanden och ge dem något att göra. Kolla i informationsmenyn Kokpunkt om du vill veta mer.
+interfacecontraband_SecurityMenu	Säkerhetsmeny
+buildtoolbar_contraband_SecurityMenu	Visa en lista med alla interner som anses vara antingen farliga eller i fara och sätt in säkerhetsåtgärder där ytterligare hantering krävs.
+securitymenu_header	Säkerhetsmeny
+securitymenu_popup_prisonerSelect	Vänsterklicka för att välja internen
+securitymenu_popup_dangerousReputations	Farliga rykten:
+securitymenu_popup_dangerousTraits	Farliga karaktärsdrag:
+securitymenu_popup_crimesCommitted	Brott:
+securitymenu_PrisonerType	Interntyp:
+securitymenu_PrisonerTypeVulnerable	Sårbar
+securitymenu_MarkingTypeUnmarked	Omarkerad
+securitymenu_SelectArea	Markera område
+securitymenu_SelectAreaCancel	Avmarkera område
+securitymenu_RestrictAccess	Begränsa åtkomst:
+securitymenu_TransferPrisoners	Flytta intern(er):
+securitymenu_transferSecurityLevel	Säkerhetsnivå
+securitymenu_GuardAssignment	Vaktarbetsuppgifter:
+securitymenu_MarkPrisoner	Markera intern:
+securitymenu_RemovePrisoner	Skicka intern till annan anstalt:
+securitymenu_RemovePrisonerButton	Skicka intern till annan anstalt
+securitymenu_RemovedPrisoner	Internen har skickats till annan anstalt
+securitymenu_RemovePrisoner_message	Skicka intern till annan anstalt\n\nDet här är sista utvägen vid hanteringen av de värsta fallen. Genom att betala en kostsam avgift kan du skicka den stökiga internen till en annan anstalt. Den här åtgärden kan bara vidtas var femte dag.
+securitymenu_RestrictAccess_tooltip	Spärra ingången till ett visst område så att den eller de valda internerna inte kan komma in utan vakter som kan övermanna dem. Gängmedlemmar kan inte stängas ute från sina egna områden.
+securitymenu_TransferPrisoner_tooltip	Flytta valda interner till ett område med ett specifikt säkerhetssystem för att underlätta hanteringen av dem.
+securitymenu_MarkPrisoner_tooltip	Fäst en markering på valda interner för att kunna hålla bättre uppsikt över de individer som är extra farliga eller som är i fara.
+rapsheet_assignguard_end	Ta tillbaka en vakt
+job_PrisonerAssignment	Arbetsuppgift för intern
+assignment_confirm_message	Vill du placera ut en vakt?
+assignment_description_message	Om du vill hålla ett extra öga på den här internen kan du tilldela dem en personlig vakt. Kontrollera först att du har tillräckligt med vakter för att kunna undvara en.
+assignment_error_message	Den här internen kan inte tilldelas en vakt just nu. Försök igen senare.\n\nInternen har antingen just anlänt , har handfängsel eller är inlåst i sina cell.
+buildtoolbar_popup_help_securitymenu_1	Säkerhetsmenyerna listar alla interner som anses vara antingen farliga eller sårbara. Via den här menyn kan vissa åtgärder vidtas för att ge dessa fångar mer stöd och förbättra hanteringen av dem.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Som standard listas farliga och sårbara interner tillsammans, men tack vare alternativet ”interntyp” kan du välja olika åtgärder för specifika grupper.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Vissa åtgärder kan tillämpas på en hel grupp, medan andra bara kan tillämpas på utvalda individer. Markera och vänsterklicka på en intern för att välja personen.\n\n
+buildtoolbar_popup_help_securitymenu_5	- Möjligheten att utplacera en vakt gör det lättare, dels att skydda vissa interner, dels att hålla ett öga på andra för att förhindra att de missköter sig. Vakterna kommer att ge internerna avskildhet när de exempelvis duschar eller sover.
+buildtoolbar_popup_help_securitymenu_6	- Om en intern orsakar för många problem i fängelset och visar sig vara alltför svår att hantera, finns alternativet ”Skicka intern till annan anstalt”. Den här åtgärden har en lugnande effekt och kan genomföras varje dag, men kostar pengar.
+objectiveWindow_FilterButton_4_title	Om gäng
+objectiveWindow_FilterButton_4_tooltip	Allt du behöver veta om gängen
+objective_HelpGangBehaviourAndType	Gängbeteenden
+objective_HelpGangBehaviourAndType_Description	Nya gäng har introducerats och vart och ett beter sig lite annorlunda än de andra.
+objective_HelpGangBehaviourAndType_child_1	Huggormarna
+objective_HelpGangBehaviourAndType_child_1_Description	Huggormarna är ett lömskt gäng som infekterar ditt fängelse med narkotika som de kontrollerar, samtidigt som var och en i gänget också är dödligt farlig.
+objective_HelpGangBehaviourAndType_child_2	Benknäckarna
+objective_HelpGangBehaviourAndType_child_2_Description	Muskelknuttarna i Benknäckarna är fängelsets råskinn. De ägnar sig hellre åt våld och vandalism än något annat.
+objective_HelpGangBehaviourAndType_child_3	Sjakalerna
+objective_HelpGangBehaviourAndType_child_3_Description	Sjakalerna är de mest påhittiga av gängen. Deras huvudfokus är att kontrollera så stor del av fängelset som möjligt och att sälja smuggelgods för att öka sin ekonomiska makt.
+objective_HelpGangActivities	Gängaktiviteter
+objective_HelpGangActivities_Description	Gängaktiviteter omfattar allt från att styra över ett gängområde, ta itu med nyckelmedlemmar från rivaliserande fängelsegäng, ställa krav på spelaren och liknande.
+objective_HelpGangActivities_child_1	Specialaktiviteter
+objective_HelpGangActivities_child_1_Description	Varje gäng deltar i olika specialaktiviteter beroende på deras olika karaktärsdrag. Huggormarna inriktar sig på framställning och försäljning av narkotika, medan Benknäckarna är mer intresserade av att slåss och förstöra och Sjakalerna i första hand ägnar sig åt att styra områden och tjäna pengar.
+objective_HelpGangActivities_child_2	Områdesaktiviteter
+objective_HelpGangActivities_child_2_Description	Med nya områden kommer nya beteenden. Gängen kommer nu att övervaka och styra i alla områden som de kontrollerar genom att se till att andra interner sköter sig och betalar dem för att kunna använda något föremål inom området, till och med under arbetstid. Gängmedlemmarna kan också lägga vantarna på stora mängder smuggelgods i de olika rum de kontrollerar och deras ”langare” säljer sedan godset vidare till andra interner.
+objective_HelpGangActivities_child_3	Gängkrav
+objective_HelpGangActivities_child_3_Description	När ett gäng väl har fått tillräckligt med makt och självförtroende kommer de att börja ställa vissa krav. Det kan röra sig om allt från införskaffning av ny utrustning till mer tid på rastgården eller mer fritid. Spelaren har viss tid på sig att uppfylla kravet eller kraven. Om spelaren inte gör det kommer det att medföra konsekvenser, vilka kommer att starta direkt. Normalt börjar det med att gänget genomför någon form av vandalism eller våldsam handling.
+objective_HelpCrookedGuards	Korrumperade vakter
+objective_HelpCrookedGuards_Description	Även om vi gärna vill tro att vår tappra personalstyrka består av enbart rättskaffens och lojala individer är det tyvärr inte alltid fallet.
+objective_HelpCrookedGuards_child_1	Vaktmutor
+objective_HelpCrookedGuards_child_1_Description	Alla vakttyper kan mutas för att överse med viss typ av misskötsel under 48 timmar, genom att låta interner behålla smuggelgods som de hittat och underlätta för gäng att överta områden. Tack vare utnyttjandet av informatörer kan dock misstänkta vakter upptäckas, vilket ger spelaren chansen att avskeda alla vakter som har korrumperats.
+objective_HelpCrookedGuards_child_2	Vaktkorruption
+objective_HelpCrookedGuards_child_2_Description	Vissa vakter kan bli korrumperade om de vistas i miljöer tillsammans med gängmedlemmar för ofta. De kan då få betalt för att smuggla smuggelgods åt gängen. Informatörer kan markera misstänkta vakter för din räkning. Detektorer och vakthundar kan också hitta smuggelgods så länge vakterna fortfarande bär det på sig.
+objective_HelpGangIntelligence	Gängunderrättelseverksamhet
+objective_HelpGangIntelligence_Description	Med så många möjliga former av misskötsel inom fängelset är underrättelser alltid av största vikt för att upprätthålla säkerheten. Menyn Gängunderrättelseverksamhet ger information om alla gäng som finns på ditt fängelse. Där står hur många medlemmar varje gäng har, deras ekonomi och det finns även en lista som anger antalet förseelser som de gjort sig skyldiga till under sin tid i fängelset. Där finns även uppgifter om de olika gängens rörelser eller aktiviteter för att hjälpa dig analysera hur farligt varje gäng är.
+objective_HelpSecurityOptions	Säkerhetsalternativ
+objective_HelpSecurityOptions_Description	En lista med ”viktiga interner” kommer att visas i en ny meny, där alla interner listas som antingen bedöms riskera att skadas av andra interner eller anses utgöra en fara för andra. Med den här menyn kan de interner som bör ges extra uppmärksamhet markeras, så att de lättare kan hållas under uppsikt under spelets gång. Andra åtgärder kan vara att begränsa interners inträde till vissa avdelningar och områden, flytta grupper till särskilda säkerhetsnivåer, eller till och med att flytta problematiska interner till andra anstalter, även om en sådan åtgärd kräver utbetalning av en straffavgift och är mycket kostsam.
+objective_HelpPrograms_Description	För att skydda och garantera dina interners säkerhet kan vakterna nu få ny utbildning för att lära sig hur de på ett enkelt sätt kan avväpna interner som bär någon typ av vapen. Internerna kommer också ha tillgång till nya utbildningsprogram. Rekreationsprogrammen kan hjälpa dem i deras reformeringsarbete, men även lugna ner missnöjda interner och hjälpa dem hantera stress. Det finns även rehabiliteringsprogram som hjälper internerna att komma bort från gänglivet, så att de kan slutföra sin strafftid på ett lugnare, fredligare och mer konstruktivt sätt.
+objective_grant_positiveEnergyGrant	Positiv energi
+objective_grant_positiveEnergyGrant_Description	Gängmedlemmar behöver fokusera sina tankar (och sin energi) på fysisk träning, istället för att utöva våld. Forskning har visat att fysisk träning minskar våldsamt beteende. Installera träningsutrustning på rastgården.
+objective_grant_positiveEnergyGrant_bench	Lägg till en tyngdlyftarbänk
+objective_grant_advancedProtectionGrant	Avancerat skydd
+objective_grant_advancedProtectionGrant_Description	Skydd av personalen är av största vikt när de har att göra med organiserade gäng. Vi måste se till att vår personalstyrka har den allra bästa utbildningen för att kunna garantera deras säkerhet.
+objective_grant_advancedProtectionGrant_training	Utbilda 20 vakter så att de blir certifierade i avväpningsmanövrer.
+objective_grant_gangWelfareGrant	Gängvälfärd
+objective_grant_gangWelfareGrant_Description	Att omvandla Gängkrig till Gängvälfärd är högprioriterat. Gängmedlemmarna har en god chans att kunna reformeras genom att delta i program som hjälper dem att lämna gänglivet för gott.
+objective_grant_gangWelfareGrant_exGangMembers	Reformera 15 gängmedlemmar genom att omvandla dem till Avhoppade medlemmar.
+objective_grant_exGangProtectionGrant	Skyddsprogram för avhoppade gängmedlemmar
+objective_grant_exGangProtectionGrant_Description	Staten erbjuder finansiering för att bygga en särskilt avdelning för skyddat förvar av avhoppade gängmedlemmar som deltar i rehabiliteringsprogram.
+objective_grant_protectionCells	Bygg 10 celler i en specialavdelning för skyddade interner
+objective_grant_protectionShower	Bygg ett duschrum i en specialavdelning för skyddade interner
+objective_grant_protectionCanteen	Bygg en matsal i en specialavdelning för skyddade interner
+objective_grant_protectionKitchen	Bygg en rastgård i en specialavdelning för skyddade interner
+objective_grant_protectionYard	Bygg en rastgård i en specialavdelning för skyddade interner
+objective_grant_protectionGuards	Skicka en vakt till en specialavdelning för skyddade interner
+objective_grant_protectionExGang	Flytta 1 avhoppad gängmedlem till säkerhetsnivån Skyddat förvar
+grant_category_adminHired	Anställd administratör:
+reformprogram_TattooRemovalProgram	Tatueringsborttagningsprogram
+reformprogram_TattooRemovalProgram_text	Om dina interner ångrar en gängtatuering som de fått i fängelset kan du underlätta deras rehabilitering genom att erbjuda tatueringsborttagning. Men tänk på att om de väljer att medverka i programmet kommer de att bli måltavlor.
+reformprogram_HandToHandCombat	Avväpningscertifikat
+reformprogram_HandToHandCombat_text	När något blir extra tufft, blir vi tuffare. Träna dina vakter i avancerade avväpningstekniker som de kan använda mot beväpnade interner.
+reformprogram_GangRehabilitation	Gängrehabilitering
+reformprogram_GangRehabilitation_text	Om en gängmedlem ställer till med för mycket problem på fängelset kan du försöka få dem att medverka i det här programmet. Det är det första steget till att kapa banden med sitt gäng och starta ett nytt liv. Men om de väljer att medverka i programmet kommer de att bli måltavlor. Remisstyp: Våld och vandalism.
+reform_program_intake_ReferralGangViolenceDestruction	Remiss: Endast våldsamma och vandaliserande gäng.
+reform_program_intake_GangOnly	Endast gäng
+reformprogram_FaithProgram	Program för ökat självförtroende
+reformprogram_FaithProgram_text	Interner som deltar i det här intensiva programmet kommer att vara mer villiga att avstå från sina dåliga vanor och bejaka en bättre livsstil. De som genomgått programmet kan mycket väl välja att bryta med sitt gäng.
+reformprogram_BreatheProgram	Andningsterapi
+reformprogram_BreatheProgram_text	Lär internerna andnings- och avslappningsövningar. Efter varje lektion kommer de att känna sig mycket lugnare och kommer kanske till och med att förbättra sitt beteende.
+reformprogram_FightClub	Fajtklubben
+reformprogram_FightClub_text	De här träningstillfällena är tänkta att i första hand fokusera internernas negativa energi på boxning i en kontrollerad miljö. Kanske är de för trötta för att slåss efteråt! Vilken var fajtklubbens första regel nu igen?
+reform_program_properties_TeacherUsesSameEquipment	Läraren kräver *X
+reform_program_properties_GangMemberCanAttend	Gängmedlemmar kan delta
+gang_vipers	Huggormarna
+gang_bonebreakers	Benknäckarna
+gang_jackals	Sjakalerna
+gang_red	Rött
+gang_blue	Blått
+gang_yellow	Avhoppade gängmedlemmar
+objective_GangDemand	Gängkrav
+objective_GangDemand_description	Dristiga gängledare kommer att ställa olika krav på att höja livskvaliteten i fängelset. Om kraven inte uppfylls kan det leda till upplopp, så se till att ditt fängelse är förberett på att hantera eventuella oroligheter.
+GangDemand_announcement	Gängmedlemmar kommer att orsaka stora problem om du inte går med på deras krav.
+objective_Gang_ContrabandToolsPunishment_child	*G - Sänk straffet för Hitta verktyg till *X timmar.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Sänk straffet för Hitta verktyg till Inget
+objective_Gang_MurderPunishment_child	*G - Sänk straffet för mord till *X timmar.
+objective_Gang_MurderPunishment_Escalated_child	*G - Sänk straffet för mord till *X timmar.
+objective_Gang_MoreYardTime_child	*G - Öka regimtiden på rastgården till *X timmar.
+objective_Gang_MoreYardTime_Escalated_child	*G - Öka regimtiden på rastgården till *X timmar.
+objective_Gang_PullUpBars_child	*G - Har *X armhävningsstänger.
+objective_Gang_PullUpBars_Escalated_child	*G - Har *X armhävningsstänger.
+objective_Gang_TyreApparatus_child	*G - Har *X däckredskap.
+objective_Gang_TyreApparatus_Escalated_child	*G - Har *X däckredskap.
+objective_Gang_PunchBag_child	*G - Har *X boxningssäckar.
+objective_Gang_PunchBag_Escalated_child	*G - Har *X boxningssäckar.
+objective_Gang_PushUpStones_child	*G - Har *X armhävningsstenar.
+objective_Gang_PushUpStones_Escalated_child	*G - Har *X armhävningsstenar.
+objective_Gang_RequireYard_child	*G - Har en *X.
+objective_Gang_RequireYard_Escalated_child	*G - Har en *X.
+objective_Gang_RequireLibrary_child	*G - Har en *X.
+objective_Gang_RequireLibrary_Escalated_child	*G - Har en *X.
+objective_Gang_RequireMailRoom_child	*G - Har en *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Har en *X.
+d11_gangdemand_success	Vi har fått pengar för att hantera den här situationen.
+d11_gangdemand_fail	Se till att den här situationen inte upprepar sig.
+d11_gangCompensation	Gängersättning
+d11_gang_goal	Gängmål:
+d11_gang_jackals_goal	Fängelsekontroll
+d11_gang_traits	Typiska gängkännetecken:
+d11_gang_officer	Gängledare:
+d11_gang_territories	Områden:
+d11_gang_kills	Gängmord:
+d11_heatmap_gang	Inblandande gäng:
+d11_heatmap_day	Inträffade den (dag):
+d11_heatmap_time	Inträffade den (tid):
+d11_gang_event_pr.gf	Gängslagsmål
+d11_gang_event_g.tc	Områdesförändringar
+gangSegregationMessage	Välj vilka gäng som normalt ska ha rätt till inträde till vissa områden.
+interfacedeployment_GangSegregation	Gängsegregering
+buildtoolbar_deployment_GangSegregation	För att få en viss nivå av kontroll över gängfördelningen kan gängen tilldelas olika vistelseutrymmen så att de kan hållas separerade från varandra för att undvika onödig upptrappning av konflikter.
+research_StaffVetting	Personalgranskning
+researchtooltip_StaffVetting	Minskar sannolikheten att nya vakter är korrumperade. Låser upp en vaktutredning som gör det möjligt att avslöja korrumperade vakter med hjälp av en informatör.
+buildtoolbar_GuardInvestigation	Vaktutredning
+buildtoolbar_tooltip_GuardInvestigation	Samarbeta med dina informatörer och säkerhetschefen för att undersöka dina vakter och upptäcka eventuell korruption i leden. Ju mer fria tyglar dina informatörer har, desto fler korrumperade vakter kan ni hitta. Se till att säkerhetschefen inte står värd för ett program eller medverkar vid en avrättning.
+buildtoolbar_CI_requirement	Minst en informatör
+guardinvestigation_underway	UTREDNING AV VAKT PÅGÅR
+guardinvestigation_investigated	*A/*B vakter har utretts
+informant_investigating	Utredning pågår
+crookedguard_fired_reward	Korrumperade vakter har avskedats
+crookedguard_advisor_onboarding	Vi har upptäckt korrumperade vakter som jobbar för ett gäng. Jag har skrivit upp dem under personalfliken i Rapporter. Se till att de får sparken.
+buildtoolbar_popup_staff_doghandler	Hundskötare och deras hundmedhjälpare kan upptäcka smuggelgods på interner som går förbi i deras närhet.
+buildtoolbar_popup_staff_kimber_doghandler	Hundskötare och deras hundmedhjälpare kan upptäcka smuggelgods på interner och korrumperade vakter som går förbi i deras närhet.
+d11_prisoner_replacement	Flytt av interner
+d11_prisoner_replacement_tooltip	Fängelsets populationsvärde kommer att fyllas på upp till önskat antal och säkerhetsnivåkvoten kommer att bibehållas, om möjligt. Eventuellt överskott av interner kommer att behandlas enligt standardsystemet
+job_cleanupobject	Rengöring *X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X GÄNGMEDLEMMAR ÄR RASANDE (graffiti har tvättats bort)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X GÄNGMEDLEMMAR ÄR RASANDE (gängledaren har flyttats till en sämre cell)
+research_CCTVImprovement	Förbättringar av kameraövervakningen
+researchtooltip_CCTVImprovement	Förbättra användningen av din kameraövervakningsutrustning. De gör det möjligt att granska kamerornas syntriangel och de interner som missköter sig inom övervakningskameroras synfält.
+d11_cctv_cone	Övervakningskamerornas syntriangel
+d11_toggle_cctv_cone_detail	Växla mellan övervakningskamerornas syntrianglar
+d11_left_click_to_clean	Vänsterklicka för att tvätta bort
+d11_gang_graffiti_message	Gängen markerar sina områden och blir mer våldsamma när de försvarar dem. När det är säkert att göra det kan du skicka dit en vaktmästare för att ta bort gängklotter. Gängen kommer inte att gilla att deras ”konst” tas bort och de kan i värsta fall ge igen.
+d11_gangBulkIntake_advisor_onboarding	Fängelsekommissionen har bestämt att problematiska interner ska flyttas till andra fängelser med mer kompetent ledning. Jag förutsätter att du kan hantera dessa nytillkomna interner utan problem. Fängelsegranskningar kommer från och med nu att genomföras varje vecka.
+d11_gangBulkIntake_staffAlert	Intagsbussen med gängmedlemmar anländer snart
+d11_gangdealer_advisor_onboarding	Vi har identifierat en langare i ett gängområde. En stor summa pengar har konfiskerats från personen.
+d11_CI_advisor_onboarding	Samarbeta med dina informatörer för att upptäckta eventuella korrumperade vakter. De skickas till säkerhetschefens kontor för att lämna den information de har samlat in. Se till att det finns rekryterade informatörer tillgängliga – kolla (?)-ikonen i menyn ”Underrättelser” för mer information.
+d11_LeaderAssassination_advisor_onboarding	Gängen börjar bli för aggressiva och planerar att mörda ledaren för det rivaliserande gänget. Om de lyckas kommer det att påverka gränserna för deras nuvarande områden.
+d11_GangTargetting_advisor_onboarding	Gängmedlemmar håller ihop eftersom de har liknande intressen. Ibland ogillar de också vissa typer av brott och försöker ge sig på interner som sitter inne för sådana brott.
+d11_staffalert_title_making_move	Ett gäng planerar att agera.
+d11_staffalert_summary_making_move	Vi har fått information om att ett av gängen planerar att agera.
+d11_staffalert_summary_gangdealer	En langare har upptäckts. Du får 500 $ i belöning.
+d11_staffalert_summary_TerritoryPlacement	Lokalen har övertagits av ett gäng och har blivit för farligt för våra arbetare. Få internerna att lämna lokalen.
+crisisSector_CustomSearchArea	Anpassat sökområde
+crisisSector_ScheduleSearch	Anpassat schema
+schedulesearch_menu_TargettedArea	Inriktat område
+schedulesearch_menu_StartTime	Starttid
+schedulesearch_menu_ExistingSchedule	Befintligt schema
+schedulesearch_menu_CurrentTime	Aktuell tid
+schedulesearch_menu_CurrentFrequency	Aktuell frekvens
+crisisSector_UnlockedOnly	Endast upplåsta
+schedulesearch_menu_SaveSelection	Spara val
+reputation_Recruiter	Rekryterare
+reputationtooltip_Recruiter	Den här internen är medlem i ett gäng och är sannolikt mer benägen att locka in andra interner i gänget.
+reputationtooltip_Resourceful	Den här internen är mer benägen att tillbringa sin lediga tid med att läsa böcker. De vet sannolikt också var smuggelgods finns och kan välja att samla in det till sitt gäng.
+reputation_ExGangMember	Avhoppad gängmedlem
+reputationtooltip_ExGangMember	Den här internen bestämde att gänglivet inte passade, men gänget uppskattar inte avhoppet.
+reputation_CunninglyBrutal	Listigt brutal
+reputationtooltip_CunninglyBrutal	Huggormarna kommer att försöka attackera måltavlor i fängelsets blinda fläckar.
+reputation_SneakThief	Långfingrig tjuv
+reputationtooltip_SneakThief	Alla Sjakaler kan vara ficktjuvar, oavsett rykte.
+reputation_BattleTendency	Slagsmålstendens
+reputationtooltip_BattleTendency	Om Sjakalerna har fler medlemmar än det finns vakter på en viss avdelning kommer de att vara mer våldsamma mot personalen där.
+reputation_DisrepectSurroundings	Vandal
+reputationtooltip_DisrepectSurroundings	Benknäckarna förstör saker när deras behov inte uppfylls.
+reputation_UnderCoverDon	Infiltratör
+reputationtooltip_UnderCoverDon	Huggormarnas ledare kommer att vara inkognito och ge sken av att vara gängsoldat. Ledaren avslöjas bara i samband med en bestraffning.
+reputation_Enforcer	Torped
+reputationtooltip_Enforcer	Den här internen hotar alla andra interner, utom de som tillhör samma gäng, och är också väldigt bra på att överta nya områden åt sina gäng.
+reputation_GymRat	Gymråtta
+reputationtooltip_GymRat	Benknäckarna tillbringar helst sin fritid i ett gym eller på en rastgård.
+reputation_Loyal	Lojal
+reputationtooltip_Loyal	Det är mer sannolikt att den här internen kommer att stanna i gänget och bli uppretad om gängledaren straffas för något.
+traits_violent	Våldsam
+traits_lethal	Dödlig
+finance_cost_gangdealer	Upptäck gänglangare
+object_PrisonerLetter	Interns brev
+object_LoveLetter	Kärleksbrev
+object_LoveLetterOpened	Kärleksbrev (öppnat)
+interface_prisonerWritingLetter	Skriva brev till närstående
+interface_prisonerWritingLoveLetter	Skriva brev till en hjärtevän
+warden_wardengangsjlocks_name	Kapten J. Locks
+warden_wardengangsjlocks_desc	Personalen under Locks ledning klarar av att pressa sig extra och internerna här formas till idealinterner \n\n- +30 % personaluthållighet (kräver 10 % mer vila). \n- -10 % risk att interner återfaller i kriminalitet.
+warden_wardengangsjlocks_desc_short	- Personalen är mer uthållig.\n- Interner löper 10 % mindre risk att återfalla i kriminalitet.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Den här killen kan prata omkull vem som helst och kommer att se till att ditt fängelse får de bästa priserna. Visst använder han kuponger i mataffären, var så säker! \n\nMatkostnaderna har minskat med 25 %. \n- Program som kräver lärare utifrån kostar 20 % mindre.
+warden_wardengangscook_desc_short	- Matkostnaderna har minskat med 25 %.\n- Program som kräver lärare utifrån kostar 20 % mindre.
+rapsheet_manualCellSwap_hint	Välj att enkelt antingen uppgradera eller nedgradera interner genom att flytta dem till nya, tillgängliga celler eller genom att manuellt välja vilka celler de ska flyttas till.
+rapsheet_cellUpgrade	Uppgradera cell
+rapsheet_cellDowngrade	Nedgradera cell
+rapsheet_cellChoice	Välj en ny cell
+rapsheet_ChangeCell	Byt cell
+ChangeCellUpgradeSuccessful	Du har nu uppgraderat *X till en bättre cell.
+ChangeCellDowngradeSuccessful	Du har nu nedgraderat *X till en sämre cell.
+ChangeCellNoAvailableRooms	Det finns inga rum tillgängliga som *X kan flyttas till. Vill du använda bytesmenyn för anpassade rum.
+ChangeCellDowngradingGangLeader	Du är på väg att flytta en gängledare till en cell av lägre standard. Det kommer att uppröra gängmedlemmarna och kan skapa problem för fängelset.
+freeCell_movePrisoner	Högerklicka för att flytta internen till den här cellen.
+occupiedCell_movePrisoner	Högerklicka för att byta ut internen mot den intern som just nu finns i cellen.
+occupiedCell_selectablePrisoner	Högerklicka för att markera den här internen och för att välja vart du ska flytta personen.
+mutator_name_NoMinRoomSize	Rumsstorlek har inte angivits
+mutator_tooltip_NoMinRoomSize	Inga fler storlekskrav på rummet! Men du måste fortfarande skaffa de föremål som krävs för att rummet ska fylla sin funktion.
+action_GangBusiness	Gängrelaterat ärende
+action_GangRecruitment	Gängrekrytering
+action_GangPromotion	Avancemang inom gänget
+action_ActionHerb	Åverkan
+action_LoadBaby	Bär bebis
+action_WarmUp	Uppvärmning
+action_GetSnack	Hämta tilltugg
+action_Drink	Hämta dricka
+action_DoPullUps	Armhävningar
+action_KneeRaises	Knälyft
+action_PushUps	Armhävningar
+reform_program_properties_RequiresAllStudentsPresent	Kräver att alla studenter är närvarande
+d11_tableClaim_title	Styrs av *G
+d11_tableClaim_desc	För att avhysa dem från sina bord kan du antingen flytta eller nedmontera dem.
+d11_tableClaim_desc_cont	Det kommer dock att göra dem arga.
+schedulesearch_menu_ClearSchedule	Rensa schema

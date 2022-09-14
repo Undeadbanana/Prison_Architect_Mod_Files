@@ -67,7 +67,7 @@ dialogcomponent_selectionlist	Lista di selezione
 dialogcomponent_selectionlistitem	Oggetto lista di selezione
 dialogcomponent_scrollbar	Barra di scorrimento
 dialogcomponent_progressbar	Barra di progresso
-dialogcomponent_canvas	Canvas
+dialogcomponent_canvas	Tela
 dialogcomponent_iconbox	IconBox
 
 dialogposition_absolute	Assoluto
@@ -1117,7 +1117,7 @@ codex_settings_staffneeds	Attiva Esigenze dello staff
 codex_settings_failureconditions	Attiva Condizioni di insuccesso
 codex_settings_confirm	Una volta abilitata, questa impostazione non potrà più essere disabilitata. Vuoi davvero abilitare *X?
 
-codex_packrects	Pack Rectangles
+codex_packrects	Packing dei rettangoli
 codex_addboxbutton	Aggiunge un nuovo rettangolo
 codex_setsize	Configura le dimensioni dello spazio
 codex_removeallrects	Rimuove tutti i rettangoli
@@ -1936,8 +1936,8 @@ status_effect_overheating	Surriscaldamento
 status_effect_exposure	Assideramento
 status_effect_foodpoisoning	Intossicazione alimentare
 status_effect_riledup	Mucchio selvaggio
-status_effect_statusswimming	Nuoto
-status_effect_statusdrowning	Annegamento
+status_effect_statusswimming	Nuota
+status_effect_statusdrowning	Annega
 
 condition_treated	Curato
 condition_needstreating	Necessita di cure
@@ -3295,8 +3295,8 @@ clock_speed_5	>>>
 clock_speed_10	>>>>
 clock_speed_half	...
 clock_add_hour	+
-clock_am	AM
-clock_pm	PM
+clock_am	MATTINO
+clock_pm	POMERIGGIO
 
 # =============================================================================
 # Events

@@ -1936,8 +1936,8 @@ status_effect_overheating	Superaquecimento
 status_effect_exposure	Exposição
 status_effect_foodpoisoning	Intoxicação alimentar
 status_effect_riledup	Agitados
-status_effect_statusswimming	Swimming
-status_effect_statusdrowning	Drowning
+status_effect_statusswimming	Nadando
+status_effect_statusdrowning	Afogando
 
 condition_treated	Tratado
 condition_needstreating	Precisa de tratamento

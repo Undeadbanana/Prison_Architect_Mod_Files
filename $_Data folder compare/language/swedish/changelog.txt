@@ -286,14 +286,14 @@ Klicka på NÄSTA för att se mer ...
 <->Åskoväder – åskoväder kan vara både farliga och destruktiva. De kan skada elutrustning och elledningar, orsaka bränder, skada byggnader och även hota internernas och personalens liv och hälsa
 <->Värmebölja – extremt varmt väder gör att personal och interner behöver mer vätska och kan leda till värmeslag om den inte hanteras på rätt sätt. Hetta kan även påverka föremål, så håll dina delvis förblindade ögon öppna!
 >
->   Uppdatering till “THE TOWER” – del 1: 
+>   Uppdatering till “TORNET” – del 1: 
 <->Två nya vakthundar av raserna shiba och svart setter finns nu. Det finns även ett alternativ som tillåter hundarna att lämna ”små presenter” runt om i fängelset
 <->Besökstiderna kan nu anpassas för att ge mer tid för internerna med familj och vänner, vilket påverkar deras behov positivt
 <->Prickskyttarna har nu ett icke-dödligt alternativ som gör det möjligt att stoppa rymningsförsök och hotfulla interner utan att orsaka allvarlig skada
 <->Förutom de här nya valen har även flera nya föremål och golvtyper lagts till
 
 >
->   Uppdatering till “THE TOWER” – del 2: 
+>   Uppdatering till “TORNET” – del 2: 
 <->Ett urval nya färgade personaldörrar
 <->Soffa, Exklusivt skrivbord, trästolar och snurrstolar
 <->Fönster med träkarm och färgade glasfönster
@@ -305,4 +305,40 @@ Klicka på NÄSTA för att se mer ...
 
 
 
+~~~~~
+
+"""GÄNG"" DLC & 
+UPPDATERING TILL “KITE” 
+>Tuffare, smartare och nu med matchande uniformer
+
+>Gäng – Ny DLC:
+>   Nya fängelsegäng:
+<->Tre nya gängtyper har anlänt till fängelset och tar med sig sina speciella typer av besvär för fängelseledningen. 
+<->Varje gäng har sina speciella egenskaper och mål, från att sprida sitt inflytande till andra i fängelset till att ta kontroll över smuggelmarknaden.
+<->För att hjälpa till att kontrollera svårighetsnivån för varje gäng har vi lagt till alternativ, så att både deras medlemsantal och antalet gängkaptener kan kontrolleras, vilket i sin tur påverkar vad gängen har möjlighet att göra i fängelset.
+>
+>   Nya gäng innebär nya beteenden:
+<->Varje nytt gäng har sina egna förehavanden, från att föra in mer narkotika i fängelset, till att använda våld för att visa andra vilka som bestämmer.
+<->Gängen kan nu ta över nya områden, tvinga andra interner att betala dem under alla typer av arbeten, eller skaffa sin egen ”gänglangare” i sina upprättade gäntterritorier för att hjälpa dem sälja allt de kommer över.
+<->När ett gäng har rekryterat tillräckligt med medlemmar kan de dessutom börja ställa krav för att göra sin tid i fängelset bekvämare, och konsekvenserna om dessa krav inte accepteras kan bli katastrofala.
+Klicka på NÄSTA för att se mer ...
+
+>   Korrumperade vakter:
+<->När ett gäng har blivit tillräckligt dominerande kan de börja ha en negativ effekt på dina vakter.
+<->Vakter kan då bli mutade av gängmedlemmar för att de ska ”se åt ett annat håll” när ett gäng planerar att göra något otillåtet.
+<->Vissa vakter kan även ta emot pengar för att smuggla smuggelgods för gängens räkning.
+>
+>   Förvaltning och säkerhet:
+<->För att kunna ta itu med misstänkt personal kan informatörer användas som kan peka ut de vakter som blivit korrumperade.
+<->Nya program är dessutom tillgängliga, både för att träna vakter och för att hjälpa gängmedlemmar lämna gänglivet och leva ett lugnt och normalt liv under resten av sin fängelsevistelse.
+<->Före detta gängmedlemmar kommer att bli måltavlor för gängmedlemmar, så det är bäst att försöka separera tidigare medlemmar från gängen när det är möjligt.
+<->För de gängmedlemmar som är svårare att hantera finns nya säkerhetsalternativ nu tillgängliga – från att markera vissa individer för att synliggöra dem, till att skicka iväg de mest problematiska till en annan anstalt.
+Klicka på NÄSTA för att se mer ...
+
+
+>   Uppdatering till “KITE”
+<->Nya fängelseföreståndare och hundraser: Dylan Cook och kapten J. Locks är två nya föreståndare som för med sig ett nytt ”slumpvalsalternativ” och därtill fyra nya vakthundsraser!
+<->Internerna kan nu byta sina tilldelade celler manuellt, så att du kan placera dem vart du vill. Gängledarna brukar dock stå först i kö till de bästa cellerna inom de områden som tillhör deras gäng.
+<->Intagssystemet har också uppdaterats, bl.a. genom att internerna som väntar på handläggning nu kan vänta i receptionen istället för ute i kylan. Dessutom finns det nya alternativet ”Flytt av interner” som hjälper till att upprätthålla en stabil fängelsepopulationen baserad på det aktuella säkerhetsnivåförhållandet.
+<->Förutom de här nya funktionerna finns även en möjlighet att ändra rum genom att ta bort kraven för rumsstorlek, plus vissa förbättringar av övervakningskamerorna så att de kan ställas in via utplaceringsmenyn."
 

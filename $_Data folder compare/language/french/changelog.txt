@@ -154,24 +154,24 @@ La mise à jour gratuite “Le seau” complète le DLC “Transfert autorisé�
 
 ~~~~~~
 
-Extension ISLAND BOUND et 
+Extension DESTINATION ÎLE DÉSERTE et 
 Mise à jour THE ROCK
 >
 
->“Island Bound”- Nouveau DLC 
+>“Destination île déserte”- Nouveau DLC 
 <->La dernière extension pou Prison Architect est maintenant disponible !
-<->Avec Island Bound, vous pouvez maintenant créer vos propres îles carcérales et vous occuper de ses livraisons de ses prisonniers et d'autres services, par voie aérienne ou maritime.
-<->Island Bound va introduire des options de terrain supplémentaires pour commencer la construction de votre prison, en retirant toute connexion avec le continent. Vous pouvez même jouer sans route ! 
+<->Avec Destination île déserte, vous pouvez maintenant créer vos propres îles carcérales et vous occuper de ses livraisons de ses prisonniers et d'autres services, par voie aérienne ou maritime.
+<->Destination île déserte va introduire des options de terrain supplémentaires pour commencer la construction de votre prison, en retirant toute connexion avec le continent. Vous pouvez même jouer sans route ! 
 <->Les bateaux, les hélicoptères, les quais et les héliports sont également déployés, et peuvent être liés à vos zones de livraison et d'exportation. Vous pouvez désormais choisir d'expédier les détenus séparément d'un côté de votre prison ou de votre île, et prendre en charge ailleurs les livraisons aéroportées.
 <->Avec plus de points d'entrée pour la contrebande, de nouveaux points de contrôle peuvent également être construits. Ils permettront aux gardes de fouiller les prisonniers et les visiteurs, et les Scanners de caisses vous permettront de découvrir les objets de contrebande cachés à l'intérieur des livraisons ! 
-<->Island Bound vous proposera également de nouvelles cartes préconçues inspirées d'Alcatraz, de nouveaux objets, de nouveaux types de sol, des ferries pour relier les îles, des pompiers aériens, une nouvelle équipe Elite Ops, et bien plus !
+<->Destination île déserte vous proposera également de nouvelles cartes préconçues inspirées d'Alcatraz, de nouveaux objets, de nouveaux types de sol, des ferries pour relier les îles, des pompiers aériens, une nouvelle équipe Elite Ops, et bien plus !
 
 Gaz, Games Design Manager chez Double Eleven.
 
 Cliquez sur SUIVANT pour en savoir plus...
 
 > Mise à jour “The Rock”
-La mise à jour gratuite “The Rock” accompagne gratuitement l'extension “Island Bound”, et propose de nombreuses améliorations.
+La mise à jour gratuite “The Rock” accompagne gratuitement l'extension “Destination île déserte”, et propose de nombreuses améliorations.
 
 <->Case de terrain d'eau– De l'eau peut être ajoutée sur la terre, et de la terre dans de l'eau afin de créer vos propres îles, côtes, douves et autres.
 
@@ -298,4 +298,40 @@ Cliquez sur SUIVANT pour en savoir plus...
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
  
 
+~~~~~~
+
+"DLC “GANGS” ET 
+MISE À JOUR “CERF-VOLANT” 
+>Plus résistants, plus intelligents, et maintenant avec des uniformes assortis !
+
+>Gangs – Nouveau DLC
+>   Nouveaux gangs de détenus :
+<->Trois nouveaux gangs sont arrivés dans votre prison : ils feront de leur mieux pour vous donner la migraine en vous posant de nouveaux problèmes de gestion. 
+<->Chaque gang aura sa propre personnalité et ses propres objectifs, comme recruter le plus grand nombre possible de détenus ou de contrôler le trafic de contrebande.
+<->Pour gérer le niveau de difficulté supplémentaire qu'ils génèreront dans votre prison, nous avons ajouté des options pour paramétrer le nombre de ces gangs ainsi que le nombre de leurs lieutenants, ce qui à son tour affecte le nombre d'actions que les gangs peuvent commettre.
+>
+>   De nouveaux gangs et de nouveaux comportements :
+<->Chaque nouveau gang aura ses propres activités spécialisées, du trafic de stupéfiants à l'usage de la force pour montrer qui est le patron.
+<->Les gangs peuvent désormais s'emparer de nouvelles zones, peuvent demander de l'argent aux autres prisonniers et même avoir des dealers dans leur secteur, afin de revendre leurs marchandises.
+<->Quand un gang dispose de suffisamment de membres, il va commencer à faire des demandes pour rendre plus agréable le séjour à l'ombre de ses membres. Sachez que refuser ces demandes aura des conséquences désastreuses !
+Cliquez sur SUIVANT pour en savoir plus...
+
+>   Gardiens véreux :
+<->Lors qu'un gang devient suffisamment important, il peut commencer à exercer une influence négative sur vos gardiens.
+<->Les gardiens peuvent désormais être soudoyés par les membres des gangs. Ils s'assureront de “regarder ailleurs” lorsqu'un gang commet un acte répréhensible.
+<->Certains gardiens peuvent également être payés pour faire de la contrebande pour le compte des gangs.
+>
+>   Gestion et Sécurité :
+<->Pour vous aider à gérer le personnel suspect, vous pourrez utiliser des informateurs confidentiels parmi les détenus, qui vous aideront à repérer les gardiens corrompus.
+<->De nouveaux programmes sont également disponibles pour former vos gardiens, et vous pourrez aider les membres d'un gang à quitter leur gang pour retrouver une vie normale et paisible en milieu carcéral.
+<->Les anciens membres deviendront des cibles de choix pour les membres du gang. Il vous faudra essayer de séparer au mieux les membres actifs et les anciens membres pour éviter les incidents.
+<->De nouvelles options de sécurité seront disponibles pour vous permettre de gérer au mieux les détenus les plus récalcitrants. Vous pourrez les marquer afin de mieux les surveiller, et vous pourrez même vous débarrasser des pires d'entre eux en les envoyant dans un autre établissement pénitentiaire.
+Cliquez sur SUIVANT pour en savoir plus...
+
+>
+>   Mise à jour “CERF-VOLANT”
+<->Nouveaux gardiens et nouvelles races de chiens ! Dylan Cook et le capitaine J. Locks rejoignent l'équipe des gardiens, avec une nouvelle option de sélection “aléatoire”, ainsi que 4 nouvelles races de chiens de garde !
+<->Les détenus peuvent désormais changer de cellule manuellement, ce qui vous permet de choisir qui va où. Cependant, les chefs de gangs auront tendance à vouloir la meilleure cellule de la zone sous leur contrôle.
+<->Le système d'admission a également été mis à jour. Les détenus en attente de traitement se déplacent maintenant vers la salle de réception au lieu d'attendre dans le froid. Une nouvelle option de “replacement des détenus” vous aidera à maintenir la population des prisons en fonction du ratio actuel des niveaux de sécurité.
+<->Outre ces nouvelles fonctionnalités, une nouvelle option de modificateur permet de supprimer les exigences relatives à la taille des pièces. Les caméras de vidéosurveillance ont été améliorées, et elles peuvent être activées via le menu de déploiement."
 

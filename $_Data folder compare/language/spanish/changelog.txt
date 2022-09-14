@@ -119,18 +119,18 @@ Haz clic en SIGUIENTE para ver más...
 
 ~~~~~~
 
-ACTUALIZACIÓN "THE BUCKET" y DLC “CLEARED FOR TRANSFER”
+ACTUALIZACIÓN "THE BUCKET" y DLC “TRASLADO AUTORIZADO”
 >DATE 14/05/20
 
->DLC gratis “Cleared for Transfer” 
-Acabamos de publicar el DLC gratis "Cleared for Transfer", que permite dar privilegios a los prisioneros de los diversos sectores de seguridad. Podrás motivar a los reclusos a cambiar de actitud para reunir tus criterios y obtener así el traslado a un ala de la prisión de menor seguridad (y mayor comodidad).
+>DLC gratis “Traslado autorizado” 
+Acabamos de publicar el DLC gratis "Traslado autorizado", que permite dar privilegios a los prisioneros de los diversos sectores de seguridad. Podrás motivar a los reclusos a cambiar de actitud para reunir tus criterios y obtener así el traslado a un ala de la prisión de menor seguridad (y mayor comodidad).
 
-¡Consigue ya el DLC gratis "Cleared for Transfer"!
+¡Consigue ya el DLC gratis "Traslado autorizado"!
 
 Gaz, gestión de diseño de Double Eleven.
 
 >Actualización "The Bucket"
-La actualización gratis "The Bucket" complementa el DLC "Cleared for Transfer" y atiende a más peticiones de la comunidad, con nuevas funciones y mejoras. Por ejemplo, incluimos: 
+La actualización gratis "The Bucket" complementa el DLC "Traslado autorizado" y atiende a más peticiones de la comunidad, con nuevas funciones y mejoras. Por ejemplo, incluimos: 
 
 >[1/2] Objetos nuevos
 
@@ -244,11 +244,11 @@ Haz clic en SIGUIENTE para ver más...
 
 ~~~~~~
 
-DLC "PERFECT STORM" Y 
+DLC "LA TORMENTA PERFECTA" Y 
 ACTUALIZACIÓN "LA TORRE"  
 >¡No confíes en la calma antes de la tormenta!
 
->Perfect Storm - Nuevo DLC:
+>La tormenta perfecta - Nuevo DLC:
 >   Preparándote para lo peor:
 <->Nuevas opciones para activar eventos climatológicos y un sistema de infestación de ratas con distintos niveles de intensidad
 <->Disponibles varias opciones de apoyo, nuevos objetos e instalaciones, programas de formación, servicios de emergencia y planes de cobertura
@@ -286,4 +286,39 @@ Haz clic en SIGUIENTE para ver más...
 8D1, Adamr_2oo9, akiba212, balabala11, Benjamin king of the hacker Montgomery, BigHappy, BOT Purple, Captthom, Carasio, Chipmunk197, Cora, Courtney730, CrazyRussian, Crimson, CTYL, Cymonize, Darkestfortress, DayzeeNL, DerMudder, Dinjil, Dirk Arwood, droggelcreeper, DrVagax, Eddy, evilhamster, Extech, Face Happy, Farrow, Fleischgewehr, fredjoe, Frost, FTCarnivore, HareBidit, inTonu, jake01756, Jamessimo, janus, Jawbreaker, JaY, Jordy, JulianSnow, Juno, KingOlav1, Lachsfilet, Lainey, LokiGrey, Magzorz, markmanc, Max White, megnaan, MidKnight, MoodsJoakim, Moon, MR. HAJ Dog, Nel, Nocheese4u, nomnomcookie2, Pavel Morozov, Pawlakov, popguy111, RetiredJailer, rsdworker, Sarah, Sathona, Seven, Simularies, SolidMamba, SquidSus, srotideuk, Starduststudio, Swatlord, Tempest, the_cat1907, TinyTim, Toa Sully, toh-bee, tpownage, Vampgirl, wantingblob, Warga aka Wargasmus, Wyn, xXDreamslandXx, Yannick, Ypszincs, Zeigler, Zobiwan
 
 
+~~~~~~
 
+"DLC ""BANDAS"" 
+Y ACTUALIZACIÓN ""COMETA"" 
+>¡Más fuertes, más listos y ahora con uniformes a juego!
+
+>Bandas, nuevo DLC:
+>   Nuevas bandas de la prisión:
+<->Han llegado tres nuevos tipos de bandas a tu prisión con su propio estilo de turbar el orden y provocar problemas de gestión. 
+<->Cada una de estas bandas tiene su personalidad y objetivos, desde extender su influencia en tu prisión hasta tomar el control del mercado de contrabando.
+<->Para ayudarte a gestionar las dificultades que suponen para tu prisión, hemos añadido opciones para controlar la cantidad de bandas, así como su número de tenientes, lo que a su vez afecta a la cantidad de jugadas que pueden realizar las bandas.
+>
+>   Con nuevas bandas, vienen nuevas conductas:
+<->Cada una de estas nuevas bandas estará especializada en una actividad, desde introducir más narcóticos hasta usar la fuerza para demostrar a los demás quién manda.
+<->Ahora las bandas tomarán el control de nuevas zonas en las que podrán obligar a pagar a otros prisioneros mientras estén realizando cualquier trabajo, además de asignar a un ""traficante"" de la banda para vender sus productos.
+<->Cuando una banda consiga suficientes miembros, también podrá comenzar a exigir cosas para que la cárcel se adapte a sus necesidades, y las consecuencias de no aceptar estas exigencias pueden ser desastrosas.
+Haz clic en SIGUIENTE para ver más...
+
+>   Guardias corruptos:
+<->Cuando una banda tenga suficiente influencia, puede empezar a provocar un efecto negativo en tus guardias.
+<->Ahora las bandas pueden sobornar a los guardias para que ""hagan la vista gorda"" cuando planean realizar algún tipo de infracción.
+<->También podrán pagar a ciertos guardias para que introduzcan contrabando para las bandas.
+>
+<->   Gestión y seguridad:
+<->Para ayudarte a lidiar con el personal sospechoso, tendrás a tu disposición informantes que te indicarán la presencia de guardias corruptos.
+<->También contarás con nuevos programas tanto para entrenar a los guardias como para lograr que los miembros de una banda la abandonen y vuelvan a una corriente y pacífica vida en prisión.
+<->Los exmiembros se convertirán en objetivos de los miembros actuales de una banda, así que es recomendable separarlos siempre que sea posible.
+<->En cuanto a aquellos miembros de la prisión que sean difíciles de gestionar, dispondrás de nuevas opciones de seguridad, desde marcar a individuos específicos para que sean vigilados, hasta enviar a los más problemáticos a otra instalación.
+Haz clic en SIGUIENTE para ver más...
+
+>
+>   Actualización ""COMETA"":
+<->Se han sumado dos nuevos alcaides al equipo, Dylan Cook y Capitán J. Locks, junto con una nueva opción de selección ""aleatoria"", ¡además de cuatro tipos de perros guardianes nuevos!
+<->Ahora puedes cambiar manualmente las celdas asignadas a los prisioneros, lo que te permitirá elegir dónde va cada uno. Los líderes de bandas más influyentes suelen tener prioridad sobre la mejor celda de cualquier zona perteneciente a su grupo.
+<->También se ha actualizado el sistema de admisión. En primer lugar, los prisioneros que estén esperando a ser procesados se trasladarán a una sala de recepción en lugar de esperar a la intemperie. Por otro lado, se ha añadido una nueva opción de ""reemplazo de prisioneros"" con la que podrás hacer que la cantidad de prisioneros dependa del índice de niveles de seguridad actual.
+<->Además de todas estas funciones, también contarás con una nueva opción para eliminar los requisitos de tamaño de sala, junto con mejoras a las cámaras de seguridad activables desde el menú de despliegue."

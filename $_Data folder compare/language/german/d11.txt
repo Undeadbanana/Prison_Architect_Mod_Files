@@ -4,8 +4,8 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Full Changelog
-codex_legal	Nutzungsbedingungen
+codex_viewchangelog	Kompletter Changelog
+codex_legal	Impressum
 codex_privacy	Datenschutz-Bestimmungen
 codex_terms-of-use	Nutzungsbedingungen
 codex_eula	Endbenutzer-Lizenzvereinbarung
@@ -60,7 +60,7 @@ double_click_select_desc	Zum Folgen doppelt linksklicken *E
 quickbuild_intermediatecell	Verbesserte Zelle
 quickbuild_holdingcell	Gefängniszelle
 quickbuild_medical	Krankenstation
-quickbuild_shop	Shop
+quickbuild_shop	Laden
 quickbuild_shower	Dusche
 quickbuild_staffroom	Personalzimmer
 quickbuild_workshop	Werkstatt
@@ -674,7 +674,7 @@ interfacedeployment_insaneseczone	Psychosicherheitstrakt
 interfacetopbar_PrisonerCells_insaneSecOnly	Kapazität für psychisch kranke Häftlinge: *X
 
 roomgrading_PsychiatristOffice_info	Schalte zusätzliche Objekte im Büro des Psychiaters frei, um die Behandlung psychisch kranker Insassen zu verbessern.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	werden über psychisch kranke Häftlinge freigeschaltet, die an psychiatrischen Beratungsprogrammen teilnehmen.
 roomgrading_PsychiatristOffice_Item	Objekt : *X
 roomgrading_PsychiatristOffice_Quality	Kompetenz des Psychiaters: *Q
 roomgrading_PsychiatristOffice_Upgrade	Werten Sie das Büro des Psychiaters auf, um seine Kompetenz zu erhöhen.
@@ -847,8 +847,8 @@ administrator_requiresoffice_psychiatrist	Benötigt Psychiater-Büro
 dlc_upsell	Diese Sicherung speichert Inhalte aus der Erweiterung "*D". Weil sich diese Sicherung nicht auf Ihrem Rechner befindet, werden einige Features deaktiviert. Erwerben Sie die Erweiterung "*D", um das meiste aus Prison Architect herauszuholen.
 dlc_upsell_multiplayer	Der Host dieses Multiplayer-Spiels hat die Erweiterung "*D" erworben, zu der Ihr als Gast ebenfalls Zugang habt. Viel Spaß!
 
-dlc_insane	Psych Ward: Warden's Edition
-dlc_seaandair	Island Bound
+dlc_insane	Psych Ward: Warden’s Edition
+dlc_seaandair	Inselgebunden
 
 regime_work_pyscho	Programme/Freizeit
 regime_worklockdown_pyscho	Programme/Einsperrzeit
@@ -1206,7 +1206,7 @@ buildtoolbar_popup_obj_bambooDoor	Dieses Bambustor passt wunderbar zum Bambuszau
 buildtoolbar_popup_obj_canvas	Kreative Möglichkeit für Häftlinge, ihre Gefühle auszudrücken, ohne sich gegenseitig abzustechen.
 buildtoolbar_popup_obj_PetBird	Kleiner Gefährte, der Ihren Häftlingen Gesellschaft leistet.\n-Erfüllt die Bedürfnisse nach Familie, Komfort und Luxus.
 buildtoolbar_popup_obj_SoftPillow	Erhöhe zusätzlich die Qualität und den Komfort eines Häftlingsbetts mit einem flauschigen Kissen.\n-Erfüllt die Bedürfnisse nach Komfort und Schlaf.
-buildtoolbar_popup_obj_BoxingRing	Kein Sportsaal im Gefängnis kommt ohne einen Boxring aus. Die meisten Häftlinge drücken sich hier am liebsten künstlerisch aus.\n -Erfüllt die Bedürfnisse nach Training und Erholung.
+buildtoolbar_popup_obj_BoxingRing	Kein Sportsaal im Gefängnis kommt ohne einen Boxring aus. Die meisten Häftlinge drücken sich hier am liebsten künstlerisch aus.
 buildtoolbar_popup_obj_DumbbellRack	Für alle pumpenden Insassen.\n -Erfüllt das Bedürfnis nach Training.
 buildtoolbar_popup_obj_Treadmill	Hält fit und wer regelmäßig darauf trainiert, kann zu einem Profiläufer werden.\n -Erfüllt das Bedürfnis nach Training.
 buildtoolbar_popup_obj_Fan	Altmodischer, stehender Ventilator, der die Luft im Raum ein wenig abkühlt.
@@ -1343,7 +1343,7 @@ customSector_subtitle	Dieser Sicherheitstrakt ermöglicht Ihnen folgendes:
 # =============================================================================
 
 roomgrading_messaging	Eine Aufwertung dieses Raums wird auch die Bewertung dieses Sicherheitssektors verbessern.
-roomGrading_prisonerTransfer	Aufwertungen werden NUR dann Häftlinge motivieren, wenn das DLC "Cleared for Transfer" installiert und die Option "Gefangenentransfer" in den Karteneinstellungen aktiviert ist.
+roomGrading_prisonerTransfer	Aufwertungen werden NUR dann Häftlinge motivieren, wenn das DLC "Für Überführung freigegeben" installiert und die Option "Gefangenentransfer" in den Karteneinstellungen aktiviert ist.
 
 roomgrading_Cell_BadWalls	[*E] Umgeben von bedrückenden Wänden
 roomgrading_Cell_OutsideWindow_Large	[*E]*Y Großes Fenster
@@ -1401,7 +1401,7 @@ sectorGrading_description	Eine Aufschlüsselung der Bewertung dieses Traktes fin
 sectorGrading_encouragement	Je höher der Unterschied in der Bewertung zwischen *X und diesem Trakt, desto mehr *X Häftlinge werden animiert, sich zu bessern, um in diesen Trakt der niedrigeren Sicherheitsstufe versetzt zu werden.
 sectorGrading_discouragement	Um einen ähnlichen Effekt zu erreichen, können Sie auch die Bewertung der *X absenken, indem Sie Privilegien beschneiden und den Komfort verringern, riskieren damit aber Tumulte unter den Insassen.
 
-sectorGrading_transferNote	(ACHTUNG: Transferwillige Häftlinge werden NUR dann aktiv, wenn das DLC "Cleared for Transfer" installiert und die Option "Gefangenentransfer" in den Karteneinstellungen aktiviert ist).
+sectorGrading_transferNote	(ACHTUNG: Transferwillige Häftlinge werden NUR dann aktiv, wenn das DLC "Für Überführung freigegeben" installiert und die Option "Gefangenentransfer" in den Karteneinstellungen aktiviert ist).
 
 sectorGrading_privilegesTitle	Privilegien von Häftlingen
 sectorGrading_visitation	[+*X] Besucherraum
@@ -1795,9 +1795,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Legen Sie Pfade aus, auf denen Häftl
 buildtoolbar_popup_uts_ScannerMonitor	Ein Scannermonitor für Wachen, um Schmuggelware zu erkennen. Die Fähigkeit, Schmuggelware zu erkennen, hängt von der Müdigkeit der Wachen ab.
 buildtoolbar_popup_uts_ScannerMachine	Eine Maschine für Einlieferungstrakte und Lagerräume, die Holzkisten nach Schmuggelware abscannt. Benötigt einen Scannermonitor, damit Wachen Schmuggelware erkennen. Die Fähigkeit, Schmuggelware zu erkennen, hängt von der Müdigkeit der Wachen ab.
 buildtoolbar_popup_obj_Checkpoint	Kontrollpunkt zum Durchsuchen von Häftlingen und Besuchern. Gefangene können den Kontrollpunkt nur in einer Richtung durchlaufen, wenn eine Wache zugegen ist.
-buildtoolbar_popup_mat_waterShallow	Erstellen Sie flachere Wasserstellen, um schönere Küstenlinien mit abgestuften Sand- und Wasserbereichen zu erschaffen. Diese Kacheln können im Gegensatz zu den normalen Wasserkacheln betreten werden. - $*A (nur im Außenbereich)
-buildtoolbar_popup_mat_waterLarge	Erstellen Sie große Wasserflächen, Seen und Ozeane. - $*A (nur im Außenbereich)
-buildtoolbar_popup_mat_WoodenDockFloor	Solider Holzboden, perfekt für den Kaianleger. - $*A (nur im Außenbereich)
+buildtoolbar_popup_mat_waterShallow	Erstellen Sie flachere Wasserstellen, um schönere Küstenlinien mit abgestuften Sand- und Wasserbereichen zu erschaffen. Diese Kacheln können im Gegensatz zu den normalen Wasserkacheln betreten werden.
+buildtoolbar_popup_mat_waterLarge	Erstellen Sie große Wasserflächen, Seen und Ozeane.
+buildtoolbar_popup_mat_WoodenDockFloor	Solider Holzboden, perfekt für den Kaianleger.
 
 landscape_hint	(kann auf Wasser errichtet werden)
 
@@ -1831,8 +1831,8 @@ transportZones_hover_hint	Erstellen Sie im Logistikmenü eine Verknüpfung mit L
 # =============================================================================
 
 
-objective_ReadSandALetter	Brief des Geschäftsführers (Island Bound)
-island_letter	Sehr geehrte Dame, sehr geehrter Herr, \n\n\nWillkommen zu Ihren neuen Aufgaben als Island Bound Prison Architect! Hier sind einige Tipps für einen guten Start mit Anlegern, Landeplätzen und Inselgefängnissen.\n\n1. Inseln - Es kann durchaus vorkommen, dass Ihr Gefängnis über keine direkte Landverbindung verfügt. In diesem Fall benötigen Sie für anfallende Transporte BOOTE und HUBSCHRAUBER. Bauen Sie BOOTSANLEGER und LANDEPLÄTZE und legen Sie deren Funktion fest, um spezifische Lieferungen, neue Häftlinge, neue Notfallteams u.v.m. über den See- und Luftweg zu erhalten. -Stellen Sie sicher, dass die Anleger über eine freie Zufahrt für Boote verfügen. -Um Inseln miteinander zu verbinden, können spezielle FÄHRANLEGER gebaut oder BRÜCKEN und TRITTSTEINE aufgestellt werden. -Erhöhen Sie den Schutz Ihres Gefängnisses mit ELITEEINHEITEN und Hubschraubern, die Brände aus der Luft löschen.\n\n2. Benutzerdefinierte Lieferungen und Transporte - Mit dem Menüpunkt LOGISTIK können Sie individuell festlegen, welche Dienstleistungen mit bestimmten Anlegern, Landeplätzen und der Straße verknüpft werden, um die Effizienz Ihres Gefängnisses zu erhöhen. Anleger und Landeplätze können mit zusätzlichen Lieferungs-, Aufnahme- und Exportzonen verknüpft werden. Dadurch werden Essenslieferungen näher an die Küche geliefert, Häftlinge der hohen Sicherheitsstufe näher an den Bereich der Insel für Häftlinge der hohen Sicherheitsstufe usw. Die Möglichkeiten sind unendlich!\n\n3. Landschaftsbau - Wasser kann so platziert werden, dass Gräben, Flüsse oder Ozeane in der Umgebung Ihres Gefängnisses entstehen. Land kann mit Dreck und anderen Bodentypen zu Küstenlinien ausgeformt werden. Landzungen und Inseln werden im Wasser sofort kreiert.\n\n4. Neue Sicherheitsmaßnahmen - Schmuggelware kann über Boote und Hubschrauber auf die Insel gelangen. Deshalb werden Sie auch mit modernsten Mittel zur Gegenwehr ausgestattet; -Stellen Sie SCANNER in Einlieferungstrakten und Lagerräumen auf, um Kisten und Boxen zu überprüfen. Dazu wird eine Wache abgestellt, die den SCANNERMONITOR beobachtet. -Weisen Sie Wachen KONTROLLPUNKTEN zu, um alle durchkommenden Häftlinge und Besucher zu abzutasten. Das ist eine gute Methode, um Schmuggelware zu entdecken, kann jedoch auch den Durchlauf von Häftlingen beschränken, wenn sie nicht strategisch gut positioniert wird.\n\nUnd weil auch Inseln nicht ausbruchsicher sind, wäre es ein gute Idee, Scharfschützentürme an den Küsten zu errichten, um die "Schwimmer" im Auge zu behalten.\n\nDas wäre alles – viel Erfolg!\n\nDer Geschäftsführer\nPrison Architects Corp.
+objective_ReadSandALetter	Brief des Geschäftsführers (Inselgebunden)
+island_letter	Sehr geehrte Dame, sehr geehrter Herr, \n\n\nWillkommen zu Ihren neuen Aufgaben als Inselgebunden Prison Architect! Hier sind einige Tipps für einen guten Start mit Anlegern, Landeplätzen und Inselgefängnissen.\n\n1. Inseln - Es kann durchaus vorkommen, dass Ihr Gefängnis über keine direkte Landverbindung verfügt. In diesem Fall benötigen Sie für anfallende Transporte BOOTE und HUBSCHRAUBER. Bauen Sie BOOTSANLEGER und LANDEPLÄTZE und legen Sie deren Funktion fest, um spezifische Lieferungen, neue Häftlinge, neue Notfallteams u.v.m. über den See- und Luftweg zu erhalten. -Stellen Sie sicher, dass die Anleger über eine freie Zufahrt für Boote verfügen. -Um Inseln miteinander zu verbinden, können spezielle FÄHRANLEGER gebaut oder BRÜCKEN und TRITTSTEINE aufgestellt werden. -Erhöhen Sie den Schutz Ihres Gefängnisses mit ELITEEINHEITEN und Hubschraubern, die Brände aus der Luft löschen.\n\n2. Benutzerdefinierte Lieferungen und Transporte - Mit dem Menüpunkt LOGISTIK können Sie individuell festlegen, welche Dienstleistungen mit bestimmten Anlegern, Landeplätzen und der Straße verknüpft werden, um die Effizienz Ihres Gefängnisses zu erhöhen. Anleger und Landeplätze können mit zusätzlichen Lieferungs-, Aufnahme- und Exportzonen verknüpft werden. Dadurch werden Essenslieferungen näher an die Küche geliefert, Häftlinge der hohen Sicherheitsstufe näher an den Bereich der Insel für Häftlinge der hohen Sicherheitsstufe usw. Die Möglichkeiten sind unendlich!\n\n3. Landschaftsbau - Wasser kann so platziert werden, dass Gräben, Flüsse oder Ozeane in der Umgebung Ihres Gefängnisses entstehen. Land kann mit Dreck und anderen Bodentypen zu Küstenlinien ausgeformt werden. Landzungen und Inseln werden im Wasser sofort kreiert.\n\n4. Neue Sicherheitsmaßnahmen - Schmuggelware kann über Boote und Hubschrauber auf die Insel gelangen. Deshalb werden Sie auch mit modernsten Mittel zur Gegenwehr ausgestattet; -Stellen Sie SCANNER in Einlieferungstrakten und Lagerräumen auf, um Kisten und Boxen zu überprüfen. Dazu wird eine Wache abgestellt, die den SCANNERMONITOR beobachtet. -Weisen Sie Wachen KONTROLLPUNKTEN zu, um alle durchkommenden Häftlinge und Besucher zu abzutasten. Das ist eine gute Methode, um Schmuggelware zu entdecken, kann jedoch auch den Durchlauf von Häftlingen beschränken, wenn sie nicht strategisch gut positioniert wird.\n\nUnd weil auch Inseln nicht ausbruchsicher sind, wäre es ein gute Idee, Scharfschützentürme an den Küsten zu errichten, um die "Schwimmer" im Auge zu behalten.\n\nDas wäre alles – viel Erfolg!\n\nDer Geschäftsführer\nPrison Architects Corp.
 
 
 codex_option_dynamicReputations	Dynamische Rufvarianten
@@ -2956,7 +2956,7 @@ object_quickconnect	Schnellverbindung
 objective_GoingGreenInfo_child_1	Die Hauptfunktionen der Grünen Initiative sind nachstehend aufgelistet; sobald Sie den Mauszeiger über die einzelnen Einträge bewegen, werden deren detaillierte Beschreibungen eingeblendet.
 d11_cropDistributionHint	Rechtsklick: Verteilung steuern
 d11_manageCropsInstructions	Sie können einen Prozentsatz anklicken, um ihn zu sperren und andere Räume daran zu hindern, den Betrag zu ändern. Andernfalls verwenden Sie die Pfeile, um die Prozentsätze zu ändern, wobei der Gesamtbetrag pro Pflanze für alle angeschlossenen Räume auf 100 % begrenzt ist.
-dlc_name_seaAirLand	Island Bound
+dlc_name_seaAirLand	Inselgebunden
 dlc_name_greenMachine	Grüne Initiative
 interfacemode_objectType_filter_requiresWater	Sanitärinstallation
 interfacemode_objectType_filter_requiresElectricity	Elektronik
@@ -3037,7 +3037,7 @@ objectiveWindow_FilterButton_0_tooltip	Laufende Aufgaben
 objectiveWindow_FilterButton_1_tooltip	Eine Sammlung von Information über die wesentlichen Merkmale der Grünen Initiative
 escapemode_info_board	Fähre besteigen
 reports_ingredients_usageTitle	Anteil der verwendeten frischen / importierten Zutaten
-objective_HelpEnvironmentallyFriendly	Environmentally Friendly
+objective_HelpEnvironmentallyFriendly	Umweltfreundlich
 object_OxStatue	Ochsenstatue
 object_PaperDragonHead	Drachenkopf
 object_PaperDragonBody	Drachenkörper
@@ -3107,7 +3107,7 @@ interfacecallout_AirSoldiers	Luftsoldaten
 object_walkwaystairs	Gehwegtreppe (WIP)
 buildtoolbar_popup_obj_walkwaystairs	Platzieren Sie Treppen neben erhöhten Gehwegen (Mauerwegen), um den Wachen Patrouillengänge auf ihnen zu ermöglichen.
 buildtoolbar_popup_mat_PerimeterWall	Wasserleitungen können nicht darunter verlegt werden.
-dlc_name_prisonWing	Cleared for Transfer
+dlc_name_prisonWing	Für Überführung freigegeben
 d11_farm_search_freq_caption	Häufigkeit der Farmsuche
 d11_farm_search_target_caption	Ziel der Farmsuche
 d11_continuous_fertilizer_caption	Dauerhafter Dünger
@@ -3145,12 +3145,12 @@ uniform_color_14	Lachsfarben
 uniform_color_15	Samt
 uniform_color_16	Lila
 uniform_color_17	Limette
-uniform_color_18	Hot Pink
-uniform_color_19	Aqua
-uniform_color_20	Gun Metal
+uniform_color_18	Neonpink
+uniform_color_19	Aquamarin
+uniform_color_20	Metallgrau
 uniform_color_21	Sand
 uniform_color_22	Burgund
-uniform_color_23	Slop
+uniform_color_23	Schlick
 uniform_color_24	Acid
 uniform_color_25	Sturm
 uniform_color_26	Violett
@@ -3312,7 +3312,7 @@ d11_reform_program_pass_rate	Abchlussrate des Besserungsprogramms
 d11_reform_released_prisoners_design_info	Sobald ein Häftling aus Ihrem Gefängnis entlassen wird, werden Sie über sein Verhalten in Freiheit unterrichtet, also ob er rückfällig geworden ist oder sich gebessert und eine Arbeit gefunden hat. Ihr Gefängnis wird dementsprechend belohnt oder mit Bußgeldern belegt.
 d11_reform_prisoners_action_reformed	GEBESSERT!
 d11_reform_prisoners_action_reoffended	RÜCKFÄLLIG!
-d11_reform_prisoners_action_reoffended_returned	wurde zurück in Ihr Gefängnis geschickt.
+d11_reform_prisoners_action_reoffended_returned	*X wurde zurück in Ihr Gefängnis geschickt.
 d11_reform_prisoners_outcome_reformed	Sie haben Arbeit in der Stadt gefunden in: *X.
 d11_reform_prisoners_outcome_reoffended	Sie wurden verhaftet und werden in das Gefängnis zurückgebracht.
 d11_reform_prisoners_outcome_reoffended_returned	Seien Sie vorsichtig, da die Häftlinge mit zunehmendem Pensum gefährlicher werden.
@@ -3359,8 +3359,8 @@ policy_staff_keys	Personalschlüssel erlauben
 d11_report_policy_staffKeys_hint	Bei aktivierter Option wird angestelltes Personal Schlüssel tragen. \nWährend diese Option die Effizienz innerhalb des Gefängnisses verbessert, \nbringt sie auch ein zusätzliches Sicherheitsrisiko ein, weil dann mehr Schlüssel im Umlauf sind.
 codex_new_uniformColour	Uniformfarbe:
 codex_new_defaultColour	Standardfarbe:
-objectiveWindow_FilterButton_2_title	Über Second Chances
-objectiveWindow_FilterButton_2_toolTip	Hilfe und Information zur neuen DLC Second Chances.
+objectiveWindow_FilterButton_2_title	Über Zweite Chancen
+objectiveWindow_FilterButton_2_toolTip	Hilfe und Information zur neuen DLC Zweite Chancen.
 objective_WorkCredentials	Arbeitszeugnisse
 objective_WorkCredentials_child_1	Bereits vorhandene Arbeitszeugnisse bei Häftlingen
 objective_WorkCredentials_child_1_Description	Vor dem Antritt ihrer Haftstrafe können Häftling bis zur hohen Sicherheitsstufe über bestimmte Erfahrung aus ihren ehemaligen Berufen verfügen. Insassen, die über passende Qualifikationen verfügen, können die entsprechenden Jobs im Gefängnis antreten, ohne an den dazugehörigen Ausbildungsprogrammen teilnehmen zu müssen.
@@ -3420,7 +3420,7 @@ objective_grant_reformProgramResearch_passJuvenileCorrection	Häftling hat Drei-
 objective_grant_reformProgramResearch_enrollPrisonerConsultation	Aufnahme von 10 Gefangenen in die Beratung durch gebesserte Häftlinge
 objective_grant_reformProgramResearch_passPrisonerConsultation	1 Häftling hat Beratung durch gebesserte Häftlinge absolviert
 grant_category_ReformPassed	Von mind. einem Häftling absolviert
-dlc_name_shelby	Second Chances
+dlc_name_shelby	Zweite Chancen
 d11_reform_design_info	Je niedriger die Rückfallquote, desto höher stehen die Chancen, dass sich die Häftlinge bessern. Der beste Weg, um die Rückfallquote zu senken, liegt in der Erhöhung der Häftlingsgrade, die auf Gesundheit, dem Abschluss von Besserungsprogrammen, der gesammelten Arbeitserfahrung und ähnlichen Punkten basiert. Weitere Infos finden Sie unten.
 d11_reform_punishment_grade_tooltip_title	Grad der durchschnittlichen Bestrafung
 d11_reform_reform_grade_tooltip_title	Grad der durchschnittlichen Besserung
@@ -3508,13 +3508,13 @@ interface_action_range	Rang
 objective_HelpCalamities_child_3	Hitzewelle
 weather_CalamityHeatwave	Hitzewelle
 d11_staffalert_title_CalamityHeatwave01	Hitzewelle
-report_Coverage	ABDECKUNG
+report_Coverage	Abdeckung
 d11_coverage_staff_only	Nur für Personal
 codex_new_weathertype_disabled	Deaktiviert
 d11_on	AN
 d11_off	AUS
 interfacetopbar_timesincetransaction	[vor *X Sekunden]
-dlc_name_polly	Perfect Storm
+dlc_name_polly	Perfekter Sturm
 event_rollingblackout	Die Stürme richten große Schäden am örtlichen Stromnetz an. Die Aufstellung von Notstromgeneratoren könnte eine Lösung sein, um das Gefängnis auch in Notsituationen mit Strom zu versorgen.
 event_frozenpeople_cold	Ich denke nicht, dass sich jemand bei dieser Kälte draußen aufhalten sollte. Wir müssen alle hereinholen, sonst könnte es Tote geben.
 event_frozenpeople_die	Jemand ist draußen erfroren. Das ist eine Tragödie, die hätte verhindert erden können. Es liegt in Ihrer Verantwortung, das Wohlergehen von Häftlingen und Personal in diesem Gefängnis zu gewährleisten. Unter solchen Bedingungen sollte sich niemand draußen aufhalten.
@@ -3703,8 +3703,8 @@ d11_staffalert_title_granterror	Zuschuss-Fehler
 d11_staffalert_details_granterror	Aufgrund eines Verwaltungsfehlers wurde unser Abschlussbonus verdoppelt!
 d11_staffalert_title_MysteryCrate	Vom Lastwagen gefallen.
 d11_staffalert_details_MysteryCrate	Es sieht so aus, als ob ein Gegenstand, der für eine andere Einrichtung bestimmt war, von einem vorbeifahrenden Lastwagen gefallen ist. Da die Einrichtung dafür eine volle Rückerstattung erhält, bedeutet dies, dass wir ein kostenloses Geschenk bekommen haben. Ich frage mich, was wohl drin ist.
-objectiveWindow_FilterButton_3_title	Über Perfect Storm
-objectiveWindow_FilterButton_3_tooltip	Eine Sammlung von Information über die wesentlichen Merkmale von Perfect Storm und die darin vorkommenden Katastrophen.
+objectiveWindow_FilterButton_3_title	Über Perfekter Sturm
+objectiveWindow_FilterButton_3_tooltip	Eine Sammlung von Information über die wesentlichen Merkmale von Perfekter Sturm und die darin vorkommenden Katastrophen.
 objective_HelpCalamities	Katastrophen
 objective_HelpCalamities_child_1	Starker Frost
 objective_HelpCalamities_child_1_Description	Bei dieser strengen Kälte können viele Teile des Gefängnisses vereisen oder ganz erfrieren. Die Häftlinge haben auch ein höheres Risiko, krank zu werden und in extremen Fällen selbst zu erfrieren. Es ist immer gut, Streugutbehälter bereit zu halten, die Gebrauchsgegenstände in Ihrem Gefängnis durch Wärmedämmung zu schützen und ein gutes Maß an medizinischer Unterstützung zur Hand zu haben.
@@ -3739,10 +3739,11 @@ objective_grant_subsidence_description	Beheben Sie Schäden an Mauern und Zäune
 objective_grant_subsidence_hire	Stellen Sie Techniker an, um kaputte Mauern und Zäune zu reparieren.
 objective_grant_utilityretrofit	Zuschuss für Nachrüstung von Versorgungseinrichtungen
 objective_grant_utilityretrofit_description	Ein Befall kann zu ernsthaften Problemen bei der Produktion der örtlichen Unternehmen führen. Für lokale Unternehmen wurde ein Zuschuss zum Schutz ihrer Versorgungseinrichtungen bereitgestellt.
-objective_grant_utilityretrofit_build	Bauen Sie 50 Kacheln mit Hochleistungskabeln.
+objective_grant_utilityretrofit_build	Bauen Sie 50 Kacheln mit Kabelschutz.
 calamity_grants_onboarding	Das Wetter ist in den letzten Jahren immer unbeständiger geworden. Dieses Mal hatten wir Glück, aber das Gefängnis sollte auf alle Eventualitäten vorbereitet sein. Bei schlechtem Wetter werden einige Zuschüsse für lokale Unternehmen angeboten. Sie sollten Sie in Anspruch nehmen, sobald sie verfügbar werden.
 grant_category_CollapsedWallFence	Eingestürzter Zaun:
 grant_category_HasObject	Hat:
+grant_category_EverHadObject	Hat:
 grant_category_CalamityHappened	Katastrophe eingetreten:
 action_brewing	Brauen
 action_electricalsabotaging	Sabotieren
@@ -3895,11 +3896,367 @@ d11_staffalert_details_CalamityHeatwave01	Während einer Hitzewelle können best
 d11_staffalert_hint_CalamityHeatwave01	Ein Feuer bei starkem Wind könnte sich schnell zu einer Katastrophe entwickeln, sorgen Sie dafür, dass dies verhindert wird und treffen Sie die entsprechenden Vorbereitungen.
 buildtoolbar_AutomatedEmergencyService	- Automatisierter Dienst
 weather_instrument_title	Vorhersage von:
-dlc_name_polly	Perfect Storm
+dlc_name_polly	Perfekter Sturm
 buildtoolbar_stayIndoorsCalamity	Katastrophe
 buildtoolbar_popup_uts_WeatherMachine	Die Wettermaschine ermöglicht fortgeschrittene Wetterprognosen. Sie wird die Temperatur, die Art und Dauer von Niederschlägen, die Windgeschwindigkeit und die Sichtverhältnisse vorhersagen. Zusätzlich bietet sie einen Countdown vor möglichen katastrophalen Wetterlagen.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Eine Doppeltür, die vom Personal werden kann.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Eine Doppeltür, die vom Personal werden kann.
-codex_tooltip_startingSeason    Wählen Sie Ihre Start-Jahreszeit. Das Wetter wird sich natürlich im Verlauf der Jahreszeiten ändern.
+codex_tooltip_startingSeason	Wählen Sie Ihre Start-Jahreszeit. Das Wetter wird sich natürlich im Verlauf der Jahreszeiten ändern.
 object_AirPestControlHeli	Fliegende Kammerjäger
 
+codex_option_default	Standard
+dlc_name_kimber	Banden
+quickbuild_Gymnasium	Sportsaal
+boilingpoint_Needs	Bedürfnisse
+boilingpoint_ProgramCompletion	Abgeschlossene Programme
+boilingpoint_RoomQuality	Raumqualität
+buildtoolbar_popup_help_BoilingPoint_3	^Tipps
+securitymenu_popup_recentMisconduct	Kürzliches Fehlverhalten:
+securitymenu_PrisonerTypeDefault	Standard
+securitymenu_PrisonerTypeDangerous	Gefährlich
+rapsheet_assignguard	Wache zuweisen
+buildtoolbar_popup_help_securitymenu_4	^Tipps
+objective_HelpPrograms	Programme
+objective_grant_positiveEnergyGrant_yard	Bauen Sie einen Hof
+gang_green	Grün
+d11_gang_bonebreakers_goal	Zerstörung
+d11_gang_misconduct	Fehlverhalten:
+d11_heatmap_deaths	Tote:
+interface_action_CleanGraffiti	Aufräumarbeiten
+schedulesearch_menu_Frequency	Frequenz
+reputation_Resourceful	Einfallsreich
+action_Withdrawal	Kalter Entzug
+action_ListenToRadio	Radio hören
+codex_option_plotType	Baulandtyp
+codex_tooltip_plotType	Damit können Sie ein Anfangsbaugrundstück ihrer Wahl positionieren. Standard ist Erde und Gras, Dschungel ist dicht mit Pflanzen bedeckt, Schneebedecktes Bauland bietet weiße Pracht, Wüste besteht aus Sand, Mondbauland ähnelt der Mondoberfläche, Insel ist umgeben von Wasser und verwendet einen Bootsanleger, während die Verbundene Insel durch eine Brücke mit einer Straße verbunden werden kann.
+survey_letter_1	Sehr geehrter Direktor,\n\n\nWir danken Ihnen für Ihre Teilnahme an den Tests der neuen Funktionen und Systeme des Gefängnisses.\n\nAls Geschäftsführer ist es meine Aufgabe, Feedback von allen Direktoren einzuholen, um weitere Verbesserungen durchzusetzen.\n\nIch wäre Ihnen dankbar, wenn Sie sich ein paar Minuten Zeit nehmen könnten, um die Umfrage auszufüllen, die ich für Sie vorbereitet habe.\n\nDer Geschäftsführer,\nPrison Architects Corp.
+survey_letter_2	Sehr geehrter Direktor,\n\n\nIch danken Ihnen nochmals für Ihre fortgesetzte Beteiligung an der Erprobung der neuen Funktionen und Systeme des Gefängnisses. \n\nDa wir nun mehr Zeit haben, die neuen Funktionen und Systeme zu testen, würde ich mich über Ihr Feedback in dieser Umfrage freuen.\n\nDer Geschäftsführer,\nPrison Architects Corp.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Eher Snackhund als Kampfhund.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	Der Dobermann ist der ultimative Polizeihund.
+object_ChocolateLabrador	Schokoladen-Labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Liebt es einfach, neue Freunde zu finden, und noch mehr, wenn diese Freunde weglaufen.
+object_BlackShepherd	Schwarzer Schäferhund
+buildtoolbar_popup_obj_BlackShepherd	Sie sehen zwar niedlich aus, aber sie mähen jeden nieder, der ihnen in die Quere kommt.
+object_TattooRemovalMachine	Tattooentfernungsmaschine
+buildtoolbar_popup_obj_TattooRemovalMachine	Dieser Gegenstand ist für die Besserung von Bandenmitgliedern unerlässlich. Die Entfernung ihrer Tätowierungen ist ein erster Schritt zur Besserung.
+object_MetalStool	Metallhocker
+buildtoolbar_popup_obj_MetalStool	Ein schöner kleiner Metallhocker.
+equipment_TattooRemovalTool	Tattooentfernungsgerät
+room_TheCage	Der Käfig
+buildtoolbar_popup_room_TheCage	Abgegrenzter Außenbereich, in dem ein einzelner Häftling trainieren kann und von anderen Insassen isoliert ist.
+quickbuild_TheCage	Der Käfig
+buildtoolbar_quickbuild_TheCage	Abgegrenzter Außenbereich, in dem ein einzelner Häftling trainieren kann und von anderen Insassen isoliert ist.
+material_CageFence	Käfigzaun
+buildtoolbar_popup_mat_CageFence	Ein Maschendrahtzaun, der die Gefangenen beim Training eingrenzen soll.
+room_TattooRemovalRoom	Tattooentfernungsraum
+buildtoolbar_popup_room_TattooRemovalRoom	Hier können Ihre Gefangenen den schmerzhaften und langwierigen Prozess über sich ergehen lassen, ihre Bandentätowierungen zu entfernen.
+quickbuild_TattooRemovalRoom	Tattooentfernungsraum
+buildtoolbar_quickbuild_TattooRemovalRoom	Hier können Ihre Gefangenen den schmerzhaften und langwierigen Prozess über sich ergehen lassen, ihre Bandentätowierungen zu entfernen.
+object_PullUpBars	Klimmzugstange
+buildtoolbar_popup_obj_PullUpBars	Ein billiges Trainingsgerät, das bei hartgesottenen Häftlingen beliebt ist.
+object_KneeRaise	Knieheben
+buildtoolbar_popup_obj_KneeRaise	Ein billiges Trainingsgerät, das bei hartgesottenen Häftlingen beliebt ist.
+object_PushUpStones	Liegestütz-Steine
+buildtoolbar_popup_obj_PushUpStones	Ein billiges Trainingsgerät, das bei hartgesottenen Häftlingen beliebt ist.
+object_GangGraffiti	Bandengraffiti
+d11_hover_info_gang_graffiti_1	+15 % Stärke in Gebiet für Bandenmitglieder
+d11_hover_info_gang_graffiti_2	+15 % Härte in Gebiet für Bandenmitglieder
+object_FightRing	Kampfring
+buildtoolbar_popup_obj_FightRing	Wenn Ihre Häftlinge im Ring kämpfen, dann kämpfen sie nicht im Trakt.\n- Erfüllt die Bedürfnisse für Training und Erholung.
+quickbuild_FightClubRoom	Fight Club Raum
+buildtoolbar_quickbuild_FightClubRoom	Verlieren Sie KEIN Wort über diesen Raum.
+room_FightClubRoom	Fight Club Raum
+buildtoolbar_popup_room_FightClubRoom	Verlieren Sie KEIN Wort über diesen Raum.
+object_CageGate	Käfigtor
+buildtoolbar_popup_obj_CageGate	Ein Tor, das sich hervorragend mit den Zäunen macht. Funktioniert wie eine Tür.
+buildtoolbar_popup_obj_RemoteDoor	Diese Tür kann mit einem funktionsfähigen Servomechanismus geöffnet werden. Stellen Sie ausreichend viele Wachen auf, um die Ein- und Ausgänge zu kontrollieren, oder bringen Sie Druckknöpfe an.
+object_RemoteDoorOrange	Ferngesteuerte Tür (Orange)
+buildtoolbar_popup_obj_RemoteDoorOrange	Diese Tür kann mit einem funktionsfähigen Servomechanismus geöffnet werden. Stellen Sie ausreichend viele Wachen auf, um die Ein- und Ausgänge zu kontrollieren, oder bringen Sie Druckknöpfe an.
+object_RemoteDoorRed	Ferngesteuerte Tür (Rot)
+buildtoolbar_popup_obj_RemoteDoorRed	Diese Tür kann mit einem funktionsfähigen Servomechanismus geöffnet werden. Stellen Sie ausreichend viele Wachen auf, um die Ein- und Ausgänge zu kontrollieren, oder bringen Sie Druckknöpfe an.
+object_RemoteDoorYellow	Ferngesteuerte Tür (Gelb)
+buildtoolbar_popup_obj_RemoteDoorYellow	Diese Tür kann mit einem funktionsfähigen Servomechanismus geöffnet werden. Stellen Sie ausreichend viele Wachen auf, um die Ein- und Ausgänge zu kontrollieren, oder bringen Sie Druckknöpfe an.
+object_RemoteDoorWhite	Ferngesteuerte Tür (Weiß)
+buildtoolbar_popup_obj_RemoteDoorWhite	Diese Tür kann mit einem funktionsfähigen Servomechanismus geöffnet werden. Stellen Sie ausreichend viele Wachen auf, um die Ein- und Ausgänge zu kontrollieren, oder bringen Sie Druckknöpfe an.
+object_GymInstructor	Fitnesstrainer
+object_FilingCabinetFancy	Aktenschrank (schick)
+buildtoolbar_popup_obj_FilingCabinetFancy	Belohnen Sie Ihre Mitarbeiter, indem Sie ihnen einen schicken Aktenschrank schenken.
+material_LongGrass	Hohes Gras
+codex_tooltip_gangsEnhanced	Sie können jetzt bestimmen, wie viele ihrer Insassen von Banden angeworben werden. Eine höhere Zahl von Bandenmitgliedern wird die Bandenrekrutierung beschleunigen und Ihr Gefängnis chaotischer und gefährlicher machen-\n\n  Original – Ursprüngliche Banden-Schwierigkeitsstufe (Neuling) \n  Niedrig (Standard) – Ideal für Novizen und Fortgeschrittene \n  Mittel – Erfahrene Spieler \n  Hoch – Experten, die auf eine echte Herausforderung aus sind
+codex_tooltip_morelieutenants	Offiziere spielen eine wichtige Rolle bei der Eroberung neuer Gebiete für ihre Banden. Wenn Sie wollen, dass Banden aktiver werden, verringern die Anzahl von Mitgliedern pro Offizier. Wenn Sie eine Herausforderung wünschen, wählen Sie eine Anzahl unter 6.
+codex_option_morelieutenants	Mehr Offiziere
+codex_tooltip_codex_option_morelieutenants	Offiziere spielen eine wichtige Rolle bei der Eroberung neuer Gebiete für ihre Banden. Wenn Sie wollen, dass Banden aktiver werden, verringern die Anzahl von Mitgliedern pro Offizier. Wenn Sie eine Herausforderung wünschen, wählen Sie eine Anzahl unter 6.
+codex_option_GangSpecialReputations	Banden-Spezialrenommee
+codex_tooltip_GangSpecialReputations	Banden verfügen jetzt über neue Typen von Renommee, die das Verhalten von Bandenmitgliedern in Ihrem Gefängnis beeinflussen.
+codex_option_AllDogs	Alle Hunde
+codex_tooltip_AllDogs	Wenn Sie diese Option auswählen, werden alle Hunde verfügbar und zufällig eingesetzt.
+codex_tooltip_RandomWardens	Mit dieser Option wird ein zufälliger Direktor für Sie ausgewählt.
+interfacecontraband_BoilingPoint	Siedepunkt
+buildtoolbar_contraband_BoilingPoint	Zeigt Verbesserungsmöglichkeiten für unzufriedene Häftlinge an.
+boilingpoint_header	Siedepunkt
+boilingpoint_OverallTemperature	Allgemeine Temperatur
+boilingpoint_StatusEffects	Statuseffekte
+boilingpoint_OverallTemperature_popup	Es gibt nur wenige Dinge, auf die wir keinen Einfluss haben, wenn es darum geht, unsere Gefangenen zufrieden und ruhig zu halten, wie z. B. ihre Persönlichkeiten oder die Anzahl ihrer Haftstrafen. Je wütender die einzelnen Gefangenen, desto höher die Temperatur im Gefängnis und die Wahrscheinlichkeit, dass sie sich daneben benehmen.
+boilingpoint_Needs_popup	Momentan hast du *X Häftlinge, deren Bedürfnisse nicht erfüllen werden.\n\nStelle sicher, dass sie Zugang zu Räumen und Objekten haben, mit denen sie ihre Bedürfnisse erfüllen können.
+boilingpoint_ProgramCompletion_popup	Aktuell sitzen bei Ihnen *X Häftlinge ein, die kein Programm abgeschlossen haben.\n\nJe mehr Programme ein Häftling abschließt, desto größer die Wahrscheinlichkeit, dass er sich ruhig benimmt. Fügen Sie Programme hinzu, an denen Häftlinge teilnehmen können, sofern es ihr Tagesablauf erlaubt. Einige Programme sind wiederholbar.
+boilingpoint_StatusEffects_popup	Aktuell sitzen bei Ihnen *X Häftlinge mit negativen Effekten ein.\n\nHalten Sie Ausschau nach Schmuggelware, vor allem Alkohol und Drogen.\n\nHäftlinge mit positiven Effekten machen weniger Ärger.
+boilingpoint_RoomQuality_popup	Aktuell sitzen *X Ihrer Häftlinge in schlechten Räumen ein.\n\nErhöhen Sie die Raumqualität, um die Häftlinge zufriedener und ruhiger zu machen. Einige Gefangenen eignen sich nicht für hochwertige Räume. Deren Haftstrafen können angepasst werden, um die Anforderungen zu senken.
+buildtoolbar_popup_help_BoilingPoint_1	Die Siedepunkt-Anzeige zeigt die aktuelle Gefängnistemperatur an. Dieses Menü hebt die problematischen Bereiche unseres Gefängnisses hervor: Zellenqualität, Bedürfnisse, Statuseffekte und die Teilnahme an Programmen.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~ Wenn Sie einen bestimmten Häftling immer noch nicht kontrollieren können, schließen Sie ihn ein oder ordnen Sie Einzelhaft an.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Stellen Sie sicher, dass die Grundbedürfnisse aller Häftlinge erfüllt werden.
+buildtoolbar_popup_help_BoilingPoint_5	- Investieren Sie in Reformen, Therapien, Behandlungen und Artbeitsprogramme, und stellen Sie sicher, dass die Tagesordnung der Häftlinge ihre Teilnahme zulässt.
+buildtoolbar_popup_help_BoilingPoint_6	- Die Toleranzgrenze von Häftlingen der niedrigen Sicherheitsstufe fällt wegen der kurzen Haftstrafen höher aus.
+boilingpoint_advisor_onboarding	Dieser Gefangene spielt verrückt, er scheint den Siedepunkt erreicht zu haben. Vielleicht tun wir nicht genug für unsere Häftlinge. Sorgen Sie dafür, dass ihre Bedürfnisse befriedigt werden, verbessern Sie ihre Lebensbedingungen und geben Sie ihnen etwas zu tun. Weitere Informationen finden Sie unter „Siedepunkt“ im Informationen-Menü.
+interfacecontraband_SecurityMenu	Sicherheitsmenü
+buildtoolbar_contraband_SecurityMenu	Schauen Sie sich eine Liste aller Häftlinge an, die als gefährlich oder gefährdet eingestuft werden, und wenden Sie Sicherheitsmaßnahmen auf alle Insassen an, die weitere Schritte erfordern.
+securitymenu_header	Sicherheitsmenü
+securitymenu_popup_prisonerSelect	Linksklick, um Häftling auszuwählen
+securitymenu_popup_dangerousReputations	Gefährliche Rufe:
+securitymenu_popup_dangerousTraits	Gefährliche Eigenschaften:
+securitymenu_popup_crimesCommitted	Straftaten:
+securitymenu_PrisonerType	Häftlingstyp:
+securitymenu_PrisonerTypeVulnerable	Gefährdet
+securitymenu_MarkingTypeUnmarked	Nicht markiert
+securitymenu_SelectArea	Bereich auswählen
+securitymenu_SelectAreaCancel	Bereich abwählen
+securitymenu_RestrictAccess	Zugang einschränken:
+securitymenu_TransferPrisoners	Häftling(e) verlegen:
+securitymenu_transferSecurityLevel	Sicherheitsstufe
+securitymenu_GuardAssignment	Wachenzuteilung:
+securitymenu_MarkPrisoner	Häftling markieren:
+securitymenu_RemovePrisoner	Häftling entfernen:
+securitymenu_RemovePrisonerButton	Häftling entfernen:
+securitymenu_RemovedPrisoner	Entfernter Häftling
+securitymenu_RemovePrisoner_message	Häftling entfernen\n\nDas ist das letzte Mittel, um mit den schlimmsten Straftätern umzugehen. Gegen eine teure Gebühr können Sie diese Häftlinge in eine andere Einrichtung schicken. Diese Aktion kann nur alle 5 Tage durchgeführt werden.
+securitymenu_RestrictAccess_tooltip	Schränken Sie den Zugang zu bestimmten Bereichen ein, sodass die Wachen den/die betroffene(n) Häftling(e) beim Betreten sofort überwältigen. Bandenmitglieder können nicht aus ihren eigenen Bereichen/Gebieten verbannt werden.
+securitymenu_TransferPrisoner_tooltip	Verlegen sie ausgewählte Häftlinge in einen besonderen Sicherheitsbereich, um sie besser zu kontrollieren.
+securitymenu_MarkPrisoner_tooltip	Kennzeichnen Sie ausgewählte Gefangene mit einer visuellen Markierung, um gefährliche oder gefährdete Personen besser im Auge zu behalten.
+rapsheet_assignguard_end	Wache entbinden
+job_PrisonerAssignment	Zuweisung von Häftlingen
+assignment_confirm_message	Möchten Sie einen Wächter zuteilen?
+assignment_description_message	Wenn Sie diesen Häftling im Auge behalten möchten, dann weisen Sie ihm einen Wächter zu. Stellen Sie sicher, dass Sie genug Wachen zur Verfügung haben.
+assignment_error_message	Diesem Häftling kann momentan keine Wache zugewiesen werden. Versuchen Sie es später noch einmal.\n\nEr ist entweder erst angekommen, liegt in Handschellen oder ist eingeschlossen.
+buildtoolbar_popup_help_securitymenu_1	Das Sicherheitsmenü listet alle Häftlinge auf, die als gefährlich oder gefährdet gelten. In diesem Menü können bestimmte Maßnahmen eingeleitet werden, um Häftlinge besser zu unterstützen und eine bessere Verwaltung dieser Häftlinge zu ermöglichen.\n\n
+buildtoolbar_popup_help_securitymenu_2	~In der Grundeinstellung werden gefährliche und gefährdete Häftlinge zusammen aufgelistet, mit der Option „Häftlingstyp“ können Sie Maßnahmen auf spezifische Gruppen anwenden.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Einige Maßnahmen können auf eine Gruppe angewendet werden, während andere nur auf ausgewählte Personen zielen. Markieren Sie einen Häftling und klicken Sie mit der linken Maustaste, um ihn auszuwählen.\n\n
+buildtoolbar_popup_help_securitymenu_5	- Die Zuweisung einer Wache trägt dazu bei, gefährdete Häftlinge vor gewaltsamen Insassen zu schützen und gleichzeitig ein Auge auf den Rest zu haben, um Fehlverhalten zu verhindern. Die Wachen bleiben nicht an der Seite der Gefangenen, wenn dieser seine Privatsphäre genießt, z. B. beim Schlafen oder Duschen.
+buildtoolbar_popup_help_securitymenu_6	- Wenn ein Häftling zu viele Probleme in Ihrem Gefängnis verursacht und schwer zu kontrollieren ist, kann er mit der Option Häftling entfernen entlassen werden. Diese Maßnahme hat eine Abklingzeit, kann nicht täglich angewendet werden und ist gebührenpflichtig.
+objectiveWindow_FilterButton_4_title	Über Banden
+objectiveWindow_FilterButton_4_tooltip	Alles, was Sie über Banden wissen müssen
+objective_HelpGangBehaviourAndType	Bandenverhalten:
+objective_HelpGangBehaviourAndType_Description	Es mischen jetzt neue Banden mit, die jeweils ein anderes Verhalten an den Tag legen:
+objective_HelpGangBehaviourAndType_child_1	Vipers
+objective_HelpGangBehaviourAndType_child_1_Description	Die Vipers sind eine heimtückische Bande, die sich darauf konzentriert, Ihr Gefängnis mit den von ihnen gehandelten Drogen zu infizieren, während sie selbst allesamt tödlich sind.
+objective_HelpGangBehaviourAndType_child_2	Knochenbrecher
+objective_HelpGangBehaviourAndType_child_2_Description	Die Knochenbrecher sind muskelbepackte Schläger, die sich mehr als alles andere auf Gewalt und Zerstörung konzentrieren.
+objective_HelpGangBehaviourAndType_child_3	Schakale
+objective_HelpGangBehaviourAndType_child_3_Description	Die Schakale sind die einfallsreichste dieser Banden. Sie konzentrieren sich auf die Kontrolle von Gebieten und den Verkauf von Schmuggelware, um ihre finanzielle Macht zu vergrößern.
+objective_HelpGangActivities	Bandenaktivitäten
+objective_HelpGangActivities_Description	Die Bandenaktivitäten reichen von der Kontrolle und Führung ihres eigenen Gebiets bis hin zu Aktionen gegen wichtige Mitarbeiter des Gefängnisses, um Forderungen an den Spieler zu stellen.
+objective_HelpGangActivities_child_1	Spezialisierte Aktivitäten
+objective_HelpGangActivities_child_1_Description	Jede Bande spezialisiert sich auf bestimmte Aktivitäten: Die Vipers auf die Produktion und den Verkauf von Drogen, die Knochenbrecher auf Kampf und Zerstörung, und die Schakale auf Gebietsgewinne und Geldverdienen.
+objective_HelpGangActivities_child_2	Territoriale Aktivitäten
+objective_HelpGangActivities_child_2_Description	Mit neuen Gebieten kommt neues Verhalten. Die Banden „patrouillieren“ ihr Territorium und stellen sicher, dass sich die Häftlinge benehmen und auch während der Arbeit für die Nutzung von Gegenständen eine Abgabe zahlen. Je nachdem, welche Räume die Banden kontrollieren, werden sie über große Mengen an Schmuggelware verfügen und sie mithilfe von „Dealern“ an andere Häftlinge verkaufen.
+objective_HelpGangActivities_child_3	Bandenforderungen
+objective_HelpGangActivities_child_3_Description	Sobald eine Bande genug Macht und Selbstvertrauen innerhalb des Gefängnisses erlangt, beginnt sie, bestimmte Forderungen zu stellen. Diese Forderungen reichen von der Beschaffung neuer Ausrüstung bis hin zu mehr Hofzeit oder Freizeit, wobei der Spieler eine bestimmte Zeitspanne hat, um diese Forderungen zu erfüllen. Schafft er das nicht, geht die betroffene Bande unmittelbar dazu über, Gewalt und Zerstörung zu säen.
+objective_HelpCrookedGuards	Korrupte Wachen
+objective_HelpCrookedGuards_Description	Obwohl wir unsere tapferen Mitarbeiter gerne als rein und unbezwingbar ansehen würden, ist dies leider nicht immer der Fall.
+objective_HelpCrookedGuards_child_1	Bestechung von Wachen
+objective_HelpCrookedGuards_child_1_Description	Alle Arten von Wachen können bestochen werden, um 48 Stunden lang bestimmten Verstößen nicht nachzugehen. In dieser Zeit lassen Sie Häftlinge mit Schmuggelware gewähren und hindern Banden nicht daran, Gebiete zu übernehmen. Mithilfe von Informanten können verdächtige Wachen entdeckt und gefeuert werden.
+objective_HelpCrookedGuards_child_2	Bestochene Wachen
+objective_HelpCrookedGuards_child_2_Description	Bestimmte Wachen können bestochen werden, wenn sie zu viel mit Bandenmitgliedern zu tun haben. Sie werden dafür bezahlt, Schmuggelware für die Banden ins Gefängnis zu schleusen. Informanten können verdächtige Wachen markieren, während Detektoren und Wachhunde in der Lage sind, Schmuggelware zu finden, die sich noch an Personen befindet.
+objective_HelpGangIntelligence	Bandeninfo
+objective_HelpGangIntelligence_Description	Bei so viel Potenzial für Fehlverhalten innerhalb des Gefängnisses ist die Sammlung von Informationen der Schlüssel, um die Sicherheit in Ihrer Einrichtung zu gewährleisten. In den Gang-Informationen finden Sie alles Wissenswerte über jede Bande in Ihrem Gefängnis, einschließlich der Anzahl der Mitglieder, der finanziellen Stärke, und einer Auflistung von Fehlverhalten. Außerdem werden alle Machenschaften und Gebietsänderungen verfolgt, damit Sie die Gefahrenstufe jeder Bande einschätzen können.
+objective_HelpSecurityOptions	Sicherheitsoptionen
+objective_HelpSecurityOptions_Description	In einem neuen Menü wird eine Liste mit „wichtigen Häftlingen“ aufgeführt, die entweder eine Gefahr für andere darstellen, oder selbst gefährdet sind. In diesem Menü können Häftlinge markiert werden, die spezieller Beobachtung bedürfen, und dann im Spiel einfacher bewacht werden können. Darüber hinaus kann der Zugang zu bestimmten Bereichen eingeschränkt werden, die Sicherheitsstufe von spezifischen Gruppen geändert werden, oder problematische Häftlinge in andere Gefängnisse verlegt werden (Letzteres allerdings gegen eine saftige Gebühr).
+objective_HelpPrograms_Description	Um die Sicherheit Ihrer Häftlinge zu erhöhen, können Wachen jetzt ein neues Training absolvieren, das ihnen ermöglicht, einen bewaffneten Gefangenen leicht zu entwaffnen. Auch den Häftlingen stehen neue Programme zur Verfügung, wie z. B. Freizeitprogramme, die ihnen helfen sollen, sich zu bessern, ruhiger zu werden und Stress abzubauen, sowie Reformprogramme, die dazu beitragen sollen, die Häftlinge von Banden wegzuführen und ihnen zu ermöglichen, ihre Strafe auf friedlichere und konstruktivere Weise zu beenden.
+objective_grant_positiveEnergyGrant	Positive Energie
+objective_grant_positiveEnergyGrant_Description	Bandenmitglieder müssen ihre Gedanken (und ihre Energie) auf Training statt auf Gewalt konzentrieren. Die Forschung hat gezeigt, dass Krafttraining solche Handlungen reduziert. Stellen Sie im Hof ein paar Trainingsgeräte auf.
+objective_grant_positiveEnergyGrant_bench	Stellen Sie eine Hantelbank auf
+objective_grant_advancedProtectionGrant	Fortgeschrittener Schutz
+objective_grant_advancedProtectionGrant_Description	Beim Umgang mit organisierten Banden ist der Schutz des Personals von größter Bedeutung. Wir müssen sicherstellen, dass unsere Mitarbeiter zu ihrer Sicherheit auf höchstem Niveau geschult sind.
+objective_grant_advancedProtectionGrant_training	Trainieren Sie erfolgreich 20 Wachen in Entwaffnung.
+objective_grant_gangWelfareGrant	Bandenwohlfahrt
+objective_grant_gangWelfareGrant_Description	Aus Bandenkriegen Bandenwohlfahrt zu machen, hat oberste Priorität. Bandenmitglieder haben gute Chancen auf Besserung, wenn sie an Programmen teilnehmen, die ihnen beim Ausstieg helfen.
+objective_grant_gangWelfareGrant_exGangMembers	Mache aus 15 Bandenmitgliedern erfolgreich 15 Ex-Bandenmitglieder.
+objective_grant_exGangProtectionGrant	Schutzprogramm für Ex-Bandenmitglieder
+objective_grant_exGangProtectionGrant_Description	Die Regierung stellt Mittel für den Bau eines Schutzhaft-Traktes bereit, um ehemalige Bandenmitglieder auf dem Weg zur Besserung zu schützen.
+objective_grant_protectionCells	Bauen Sie 10 Zellen in einem Schutzhafttrakt
+objective_grant_protectionShower	Bauen Sie einen Duschraum in einem Schutzhafttrakt
+objective_grant_protectionCanteen	Bauen Sie eine Kantine in einem Schutzhafttrakt
+objective_grant_protectionKitchen	Bauen Sie eine Küche in einem Schutzhafttrakt
+objective_grant_protectionYard	Bauen Sie einen Hof in einem Schutzhafttrakt
+objective_grant_protectionGuards	Weisen Sie eine Wache dem Schutzhafttrakt zu
+objective_grant_protectionExGang	Weisen Sie 1 Ex-Bandenmitglied der Sicherheitsstufe Schutzhaft zu
+grant_category_adminHired	Verwalter angestellt:
+reformprogram_TattooRemovalProgram	Tattooentfernungsprogramm
+reformprogram_TattooRemovalProgram_text	Wenn Ihre Häftlinge ihre Tätowierungen bereuen, können Sie ihre Rehabilitation erleichtern, indem Sie die Entfernung von Tätowierungen anbieten. Nach Abschluss dieses Programms werden sie zur Zielscheibe.
+reformprogram_HandToHandCombat	Entwaffnungsausbildung
+reformprogram_HandToHandCombat_text	Wenn es hart auf hart kommt, werden wir noch härter. Trainieren Sie mit Ihren Wachen fortgeschrittene Techniken, um Häftlinge zu entwaffnen.
+reformprogram_GangRehabilitation	Bandenreform
+reformprogram_GangRehabilitation_text	Wenn ein Bandenmitglied im Gefängnis zu viel Ärger macht, sollten Sie es dazu bringen, dieses Programm zu absolvieren. Es ist der erste Schritt, sich von der Bande zu trennen und ein neues Kapitel zu beginnen. Wer dieses Programm abschließt, wird zum potenziellen Ziel. Einweisung: Gewalt und Zerstörung.
+reform_program_intake_ReferralGangViolenceDestruction	Einweisung: Nur Banden mit Gewalt- und Zerstörungspotenzial.
+reform_program_intake_GangOnly	Nur Banden
+reformprogram_FaithProgram	Glaubensprogramm
+reformprogram_FaithProgram_text	Gefangene, die an diesem intensiven Programm teilnehmen, werden eher bereit sein, sich von ihrem schlechten Lebensstil zu trennen und ein besseres Leben zu führen. Nach Abschluss dieses Programms werden sie sich vielleicht sogar von ihrer Bande trennen.
+reformprogram_BreatheProgram	Atemtherapie
+reformprogram_BreatheProgram_text	Bringen Sie ihren Häftlingen Atementspannung bei. Nach jeder Klasse werden sich Ihre Häftlinge viel ruhiger fühlen und vielleicht sogar besser benehmen.
+reformprogram_FightClub	Fight Club
+reformprogram_FightClub_text	Diese Trainingseinheiten sind dazu gedacht, die destruktive Energie der Häftlinge in einer kontrollierten Umgebung auf den Kampf zu lenken. Danach sind sie zu müde, um sich zu bekämpfen. Wie lautete die erste Regel nochmal?
+reform_program_properties_TeacherUsesSameEquipment	Lehrer benötigt: *X
+reform_program_properties_GangMemberCanAttend	Bandenmitglieder können teilnehmen
+gang_vipers	Die Vipers
+gang_bonebreakers	Die Knochenbrecher
+gang_jackals	Die Schakale
+gang_red	Rot
+gang_blue	Blau
+gang_yellow	Ex-Bandenmitglieder
+objective_GangDemand	Bandenforderungen
+objective_GangDemand_description	Ermutigte Bandenführer werden eine Reihe von Forderungen stellen, um die Lebensqualität im Gefängnis zu verbessern. Werden diese Forderungen nicht erfüllt, kann es zu einem Aufstand kommen. Stellen Sie sicher, dass Ihr Gefängnis auf diesen Fall vorbereitet ist.
+GangDemand_announcement	Die Bandenmitglieder werden eine Menge Ärger machen, wenn wir ihren Forderungen nicht nachgeben.
+objective_Gang_ContrabandToolsPunishment_child	*G - Bestrafung für gefundene Werkzeuge wird auf *X Stunden gesenkt
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Bestrafung für gefundene Werkzeuge wird auf Null gesenkt
+objective_Gang_MurderPunishment_child	*G - Bestrafung für Mord wird auf *X Stunden gesenkt.
+objective_Gang_MurderPunishment_Escalated_child	*G - Bestrafung für Mord wird auf *X Stunden gesenkt.
+objective_Gang_MoreYardTime_child	*G - Hofzeit wird auf *X Stunden erhöht.
+objective_Gang_MoreYardTime_Escalated_child	*G - Hofzeit wird auf *X Stunden erhöht.
+objective_Gang_PullUpBars_child	*G - Erhalten *X Klimmzugstangen.
+objective_Gang_PullUpBars_Escalated_child	*G - Erhalten *X Klimmzugstangen.
+objective_Gang_TyreApparatus_child	*G - Erhalten *X Reifengeräte.
+objective_Gang_TyreApparatus_Escalated_child	*G - Erhalten *X Reifengeräte.
+objective_Gang_PunchBag_child	*G - Erhalten *X Sandsäcke.
+objective_Gang_PunchBag_Escalated_child	*G - Erhalten *X Sandsäcke.
+objective_Gang_PushUpStones_child	*G - Erhalten *X Liegestütz-Steine.
+objective_Gang_PushUpStones_Escalated_child	*G - Erhalten *X Liegestütz-Steine.
+objective_Gang_RequireYard_child	*G - Erhalten *X.
+objective_Gang_RequireYard_Escalated_child	*G - Erhalten *X.
+objective_Gang_RequireLibrary_child	*G - Erhalten *X.
+objective_Gang_RequireLibrary_Escalated_child	*G - Erhalten *X.
+objective_Gang_RequireMailRoom_child	*G - Erhalten *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Erhalten *X.
+d11_gangdemand_success	Wir haben für die Lösung dieser Situation etwas Geld bekommen.
+d11_gangdemand_fail	Stellen Sie sicher, dass sich diese Situation nicht wiederholt.
+d11_gangCompensation	Entschädigung für Banden
+d11_gang_goal	Bandenziel:
+d11_gang_jackals_goal	Kontrolle über das Gefängnis
+d11_gang_traits	Bandeneigenschaften:
+d11_gang_officer	Bewährungsoffiziere:
+d11_gang_territories	Gebiete:
+d11_gang_kills	Bandenmorde:
+d11_heatmap_gang	Beteiligte Banden:
+d11_heatmap_day	Geschehen am:
+d11_heatmap_time	Zeitpunkt:
+d11_gang_event_pr.gf	Bandenkampf
+d11_gang_event_g.tc	Gebietsänderungen
+gangSegregationMessage	Bestimmen Sie, welche Banden normalerweise welche Bereiche betreten können.
+interfacedeployment_GangSegregation	Bandentrennung
+buildtoolbar_deployment_GangSegregation	Um eine gewisse Kontrolle über das Bandenkontingent zu gewährleisten, können die einzelnen Banden verschiedenen Trakten zugewiesen werden, um sie voneinander fernzuhalten und unnötige Aufstachelung zu vermeiden.
+research_StaffVetting	Personalprüfung
+researchtooltip_StaffVetting	Verringert die Wahrscheinlichkeit, dass neue Wächter bestochen werden. Schaltet die Wächterermittlungen frei, die es Ihnen ermöglichen, korrupte Wächter mithilfe von Informanten aufzuspüren.
+buildtoolbar_GuardInvestigation	Wächter-Ermittlungen
+buildtoolbar_tooltip_GuardInvestigation	Arbeiten Sie mit Ihren Informanten und dem Sicherheitschef zusammen, um im Umfeld Ihrer Wachen zu ermitteln und Korruption aufzuspüren. Je mehr Informationen Ihre aktiven Informanten haben, desto mehr korrupte Wachen werden Sie aufdecken. Der Chef darf kein Programm anbieten oder einer Hinrichtung beiwohnen.
+buildtoolbar_CI_requirement	Mind. ein Informant
+guardinvestigation_underway	WÄCHTERERMITTLUNGEN LAUFEN
+guardinvestigation_investigated	*A/*B Wachen überprüft
+informant_investigating	Ermittlungen laufen
+crookedguard_fired_reward	Korrupte Wache gefeuert
+crookedguard_advisor_onboarding	Wir haben einen korrupten Wächter aufgedeckt, der mit einer Bande zusammenarbeitet. Sie ist im Personalreiter Ihres Berichts markiert. Denken Sie daran, ihn zu feuern.
+buildtoolbar_popup_staff_doghandler	Hundeführer und ihre vierbeinigen Begleiter können Schmuggelware bei Häftlingen aufspüren, die in unmittelbarer Nähe vorbeigehen.
+buildtoolbar_popup_staff_kimber_doghandler	Hundeführer und ihre vierbeinigen Begleiter können Schmuggelware bei Häftlingen und korrupten Wächtersn aufspüren, die in unmittelbarer Nähe vorbeigehen.
+d11_prisoner_replacement	Häftlingsersatz
+d11_prisoner_replacement_tooltip	Die Population der Häftlinge wird bis zur gewünschten Zahl aufgefüllt, wobei das Verhältnis der Sicherheitsstufen nach Möglichkeit gleich bleibt. Jeder Überschuss an Häftlingen wird nach dem Standardsystem angefordert
+job_cleanupobject	Aufräumarbeiten *X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X BANDENMITGLIEDER SIND VERRÜCKT (Graffiti entfernt)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X BANDENMITGLIEDER SIND VERRÜCKT (Anführer in schlechtere Zelle verlegt)
+research_CCTVImprovement	Optimierte Überwachung
+researchtooltip_CCTVImprovement	Optimieren Sie die Nutzung Ihrer Überwachungskameras. Sie ermöglichen es Ihnen, Häftlinge im Sichtbereich der Kameras zu sehen, die sich nicht benehmen.
+d11_cctv_cone	Sichtbereich
+d11_toggle_cctv_cone_detail	Sichtbereich an/aus
+d11_left_click_to_clean	Linksklick zum Aufröumen
+d11_gang_graffiti_message	Banden markieren ihr Gebiet und sind daher bei der Verteidigung aggressiver. Schicken Sie einen Hausmeister, sobald es sicher ist, um das Chaos zu beseitigen. Die Banden werden nicht glücklich darüber sein, dass ihre „Kunst“ entfernt wird – sie könnten sich rächen.
+d11_gangBulkIntake_advisor_onboarding	Der Strafvollzugausschuss verlegt problematische Häftlinge in andere Gefängnisse mit kompetenterer Führung. Ich vertraue darauf, dass Sie diese neuen Häftlinge leicht handhaben werden. Häftlingsinspektionen werden jetzt wöchentlich durchgeführt.
+d11_gangBulkIntake_staffAlert	Einlieferungsbus mit Bandenmitgliedern trifft ein
+d11_gangdealer_advisor_onboarding	Wir haben einen Dealer im Bandengebiet ermittelt und eine beachtliche Geldsumme konfisziert.
+d11_CI_advisor_onboarding	Arbeiten Sie mit Ihren Informanten zusammen, um alle korrupten Wachen aufzuspüren. Sie werden zum Büro des Chefs geschickt, um ihre Informationen weiterzugeben. Stellen Sie sicher, Informanten zu rekrutieren. Weitere Informationen finden Sie unter dem Symbol (?) im Informationen-Menü.
+d11_LeaderAssassination_advisor_onboarding	Gangs werden zusehend aggressiv und planen, den Anführer der anderen Gang zu ermorden. Wenn sie erfolgreich sind, wird sich dies auf ihre aktuellen Gebiete auswirken.
+d11_GangTargetting_advisor_onboarding	Bandenmitglieder schließen sich zusammen, weil sie ähnliche Interessen haben, manchmal aber auch aus Abneigung gegen bestimmte Straftaten. Dann versuchen sie, die entsprechenden Häftlinge ins Visier zu nehmen.
+d11_staffalert_title_making_move	Bande schlägt zu.
+d11_staffalert_summary_making_move	Wir haben Informationen, wonach eine Bande zuschlagen will.
+d11_staffalert_summary_gangdealer	Ein Dealer wurde entdeckt. Sie erhalten $500
+d11_staffalert_summary_TerritoryPlacement	Dieser Raum wird von einer Bande kontrolliert, er ist für unsere Arbeiter zu gefährlich. Vertreiben Sie die Bande aus dem Raum.
+crisisSector_CustomSearchArea	Benutzerdefinierter Suchbereich
+crisisSector_ScheduleSearch	Benutzerdefinierter Zeitplan
+schedulesearch_menu_TargettedArea	Zielbereich
+schedulesearch_menu_StartTime	Startzeit
+schedulesearch_menu_ExistingSchedule	Aktueller Zeitplan
+schedulesearch_menu_CurrentTime	Aktuelle Zeit
+schedulesearch_menu_CurrentFrequency	Aktuelle Häufigkeit
+crisisSector_UnlockedOnly	Nur freigeschaltet
+schedulesearch_menu_SaveSelection	Auswahl speichern
+reputation_Recruiter	Anwerber
+reputationtooltip_Recruiter	Wenn dieser Häftling einer Bande angehört, ist die Wahrscheinlichkeit hoch, dass er andere Häftlinge dazu bringt, sich seiner Bande anzuschließen.
+reputationtooltip_Resourceful	Dieser Häftling wird viel Zeit mit dem Lesen von Büchern verbringen, aber auch wissen, wo sich Schmuggelware befindet, um sie für seine Bande abfangen können.
+reputation_ExGangMember	Ex-Bandenmitglied
+reputationtooltip_ExGangMember	Dieser Häftling hat entschieden, dass das Bandenleben nichts für ihn ist, was wiederum die Bande nicht allzu glücklich macht.
+reputation_CunninglyBrutal	Gerissen und brutal
+reputationtooltip_CunninglyBrutal	Die Vipers werden versuchen, Ziele in den toten Winkeln der Sicherheit anzugreifen.
+reputation_SneakThief	Gelegenheitsdieb
+reputationtooltip_SneakThief	Alle Schakale, ungeachtet des Rufs, sind ausgezeichnete Taschendieb.
+reputation_BattleTendency	Tendenz zu Gewalt
+reputationtooltip_BattleTendency	Wenn mehr Schakale als Wärter in einem Gefängnisflügel anwesend sind, werden sie gegenüber dem Personal in diesem Trakt gewalttätiger sein.
+reputation_DisrepectSurroundings	Vandale
+reputationtooltip_DisrepectSurroundings	Die Knochenbrecher werden Einrichtungsgegenstände zerstören, wenn ihre Bedürfnisse nicht erfüllt werden.
+reputation_UnderCoverDon	Undercover-Boss
+reputationtooltip_UnderCoverDon	Der Anführer der Vipers wird sich als Bandenmitglied tarnen, und nur dann enthüllt werden, wenn er bestraft wird.
+reputation_Enforcer	Vollstrecker
+reputationtooltip_Enforcer	Dieser Häftling schüchtert andere Häftlinge ein, wenn sie nicht der gleichen Bande angehören, und ist auch sehr gut darin, Gebiete für Banden zu erobern.
+reputation_GymRat	Fitnessjunkie
+reputationtooltip_GymRat	Knochenbrecher werden ihre Freizeit im Sportsaal oder im Hof verbringen.
+reputation_Loyal	Loyal
+reputationtooltip_Loyal	Dieser Häftling wird eher in der Bande bleiben und sich aufregen, wenn sein Anführer bestraft wird.
+traits_violent	Gefährlich
+traits_lethal	Tödlich
+finance_cost_gangdealer	Aufgeflogener Bandendealer
+object_PrisonerLetter	Häftlingsbrief
+object_LoveLetter	Liebesbrief
+object_LoveLetterOpened	Liebesbrief (geöffnet)
+interface_prisonerWritingLetter	Briefe an die Liebsten
+interface_prisonerWritingLoveLetter	Brief an eine SEHR besondere Person
+warden_wardengangsjlocks_name	Captain J. Locks
+warden_wardengangsjlocks_desc	Personal unter Locks' Anleitung kann über seine Grenzen hinausgehen, während die Gefangenen zu vorbildlichen Häftlingen geformt werden \n\n- +30 % Personalausdauer (erfordert 10 % mehr Ruhezeit). \n- -10 % auf Rückfallquote von Häftlingen.
+warden_wardengangsjlocks_desc_short	Personal hat mehr Ausdauer.\n- Rückfallquote von Häftlingen fällt 10 % niedriger aus.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Dieser Herr kann jeden zu allem überreden. Er wird es schaffen, die besten Preise für Ihr Gefängnis auszuhandeln! \n\n- Lebensmittelkosten verringern sich um 25 %. \n- Kosten für Programme, die externe Dozenten erfordern, verringern sich um 20 %.
+warden_wardengangscook_desc_short	- Lebensmittelkosten verringern sich um 25 %. \n- Kosten für Programme, die externe Dozenten erfordern, verringern sich um 20 %.
+rapsheet_manualCellSwap_hint	Entscheiden Sie sich, dem Häftling eine einfache Aufwertung / Abwertung zu gewähren und einen neue verfügbare Zelle zu verlegen, oder wählen Sie manuell eine Zelle aus, in die er verlegt werden soll.
+rapsheet_cellUpgrade	Zelle aufwerten
+rapsheet_cellDowngrade	Zelle abwerten
+rapsheet_cellChoice	Neue Zelle auswählen
+rapsheet_ChangeCell	Zelle ändern
+ChangeCellUpgradeSuccessful	Sie haben *X erfolgreich in eine bessere Zelle verlegt.
+ChangeCellDowngradeSuccessful	Sie haben *X erfolgreich in eine schlechtere Zelle verlegt.
+ChangeCellNoAvailableRooms	Es sind keine Räume verfügbar, in die Sie *X verlegen können. Möchten Sie das benutzerdefinierte Raumtauschmenü verwenden?
+ChangeCellDowngradingGangLeader	Sie sind in Begriff, einen Bandenanführer in eine schlechtere Zelle zu verlegen, was seine Bande verärgern wird und Probleme im Gefängnis verursachen kann.
+freeCell_movePrisoner	Bringen Sie den Häftling mit einem Rechtsklick in seine Zelle.
+occupiedCell_movePrisoner	Tauschen Sie mit einem Rechtsklick den Insassen dieser Zelle durch einen Häftling aus.
+occupiedCell_selectablePrisoner	Wählen Sie diesen Häftling mit einem Rechtsklick aus, um zu entscheiden, wohin Sie ihn verlegen wollen.
+mutator_name_NoMinRoomSize	Keine Raumgröße
+mutator_tooltip_NoMinRoomSize	Keine Anforderungen mehr an die Raumgröße! Sie müssen aber immer noch die erforderlichen Gegenstände für den Raum besorgen, damit er funktioniert.
+action_GangBusiness	Bandengeschäfte
+action_GangRecruitment	Bandenrekrutierung
+action_GangPromotion	Bandenaufstieg
+action_ActionHerb	Pfusch
+action_LoadBaby	Baby tragen
+action_WarmUp	Aufwärmen
+action_GetSnack	Snack holen
+action_Drink	Getränk holen
+action_DoPullUps	Klimmzüge
+action_KneeRaises	Knieheben
+action_PushUps	Liegestütze
+reform_program_properties_RequiresAllStudentsPresent	Alle Teilnehmer müssen anwesend sein
+d11_tableClaim_title	Kontrolliert von *G
+d11_tableClaim_desc	Um sie von den Tischen zu verweisen, bewegen Sie sie oder bauen Sie sie ab.
+d11_tableClaim_desc_cont	Das wird sie allerdings wütend machen.
+schedulesearch_menu_ClearSchedule	Terminplan löschen

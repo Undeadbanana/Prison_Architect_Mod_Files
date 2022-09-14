@@ -413,6 +413,16 @@ END
 BEGIN Provider
 	Action	        Sit
 	ProviderType	Object
+	Object	        MetalStool
+	Slot	        0
+	PrimaryNeed	    StaffComfort
+	PrimaryRate	    -0.300000
+	ActionType	    Use
+END
+
+BEGIN Provider
+	Action	        Sit
+	ProviderType	Object
 	Object	        DinerBooth
 	Slot	        0
 	PrimaryNeed	    StaffComfort
@@ -594,10 +604,10 @@ BEGIN Provider
 	Action	        GetSnack
 	ProviderType	Object
 	Object	        SnackMachine
-	Slot            0
     PrimaryNeed	    StaffFood
 	PrimaryRate	    -10.000000
 	ActionType	    Use
+	Flags	        Shareable
 END
 
 BEGIN Provider
@@ -620,3 +630,12 @@ BEGIN Provider
 	ActionType	    Use
 END
 
+BEGIN Provider
+	Action	        Drink
+	ProviderType	Object
+	Object	        WaterCooler
+	Slot	        -1
+	PrimaryNeed	    StaffHydration
+	PrimaryRate	    -30.00000
+	ActionType	    Use
+END

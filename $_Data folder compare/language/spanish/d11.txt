@@ -4,9 +4,9 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Registro De Cambios Completo
+codex_viewchangelog	Registro completo de cambios
 codex_legal	Legal
-codex_privacy	política De Privacidad
+codex_privacy	Política De Privacidad
 codex_terms-of-use	Términos De Uso
 codex_eula	Contrato De Licencia De Usuario Final
 
@@ -71,7 +71,7 @@ quickbuild_workshop	Taller
 
 
 mm_updatenotes_Date	27 de junio de 2019
-mm_updatenotes_Header	Actualización de la trena
+mm_updatenotes_Header	Actualización "El trullo"
 mm_updatenotes_01	Hemos añadido 4 tipos de suelo y 4 de pared.
 mm_updatenotes_02	Hemos mejorado el rendimiento para reducir los tiempos de carga.
 mm_updatenotes_03	Hemos aumentado el número de capataces que puedes contratar para las prisiones grandes en las que los capataces también imparten programas.
@@ -672,7 +672,7 @@ interfacedeployment_insaneseczone	Solo prob. ment.
 interfacetopbar_PrisonerCells_insaneSecOnly	Capacidad para problemas mentales: *X
 
 roomgrading_PsychiatristOffice_info	Desbloquea y coloca más objetos en la oficina del psiquiatra para mejorar el trato que reciben los presos con problemas mentales.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	se desbloquean mediante los reclusos dementes que asisten a los programas de consulta psiquiátrica.
 roomgrading_PsychiatristOffice_Item	Objeto: *X
 roomgrading_PsychiatristOffice_Quality	Habilidad del psiquiatra: *Q
 roomgrading_PsychiatristOffice_Upgrade	Mejora la oficina del psiquiatra para aumentar su habilidad.
@@ -1204,7 +1204,7 @@ buildtoolbar_popup_obj_bambooDoor	Una puerta de bambú a juego con la valla. \nF
 buildtoolbar_popup_obj_canvas	Una forma creativa para que los prisioneros se expresen sin recurrir al apuñalamiento.
 buildtoolbar_popup_obj_PetBird	Un pequeño amigo que hace compañía a los prisioneros.\n -Atiende a las necesidades de familia, comodidad y lujo.
 buildtoolbar_popup_obj_SoftPillow	Mejora aún más la comodidad y la calidad de la cama de un preso con una almohada de plumas.\n -Atiende a las necesidades de comodidad y sueño.
-buildtoolbar_popup_obj_BoxingRing	No hay gimnasio de prisión que no tenga uno de estos. La mayoría de reclusos prefieren colorear este otro lienzo.\n -Atiende las necesidades de ejercicio y entretenimiento.
+buildtoolbar_popup_obj_BoxingRing	Ninguna prisión está completa sin un gimnasio. La mayoría de los reclusos prefieren pintar en este lienzo.
 buildtoolbar_popup_obj_DumbbellRack	Para los reclusos que quieren hacer músculos.\n -Atiende a la necesidad de ejercicio.
 buildtoolbar_popup_obj_Treadmill	Para que los prisioneros se mantengan en forma. Los prisioneros que hagan mucho ejercicio podrían correr más rápido.\n -Atiende a la necesidad de ejercicio.
 buildtoolbar_popup_obj_Fan	Un típico ventilador de pie para enfriar el aire un poco.
@@ -1341,7 +1341,7 @@ customSector_subtitle	Este sector permite acceso a:
 # =============================================================================
 
 roomgrading_messaging	Mejorar la sala aumentará el grado del sector de seguridad.
-roomGrading_prisonerTransfer	Las mejoras SOLO motivan a los prisioneros si tienes el DLC "Cleared for Transfer" y la opción "Transferencia de reclusos" está activa en los ajustes del mapa.
+roomGrading_prisonerTransfer	Las mejoras SOLO motivan a los prisioneros si tienes el DLC "Traslado autorizado" y la opción "Transferencia de reclusos" está activa en los ajustes del mapa.
 
 roomgrading_Cell_BadWalls	[*E] Estas paredes son deprimentes
 roomgrading_Cell_OutsideWindow_Large	[*E]*Y Ventana grande
@@ -1399,7 +1399,7 @@ sectorGrading_description	A continuación se detalla el grado del sector. Cuanto
 sectorGrading_encouragement	Cuanto mayor sea la diferencia de grado entre *X y aquí, más presos *X querrán reformarse y portarse bien por el posible traslado a este sector de menor seguridad.
 sectorGrading_discouragement	También podrías reducir el grado de *X retirando sus privilegios y comodidad para crear un efecto similar, pero te arriesgarías a que los presos se enfadaran.
 
-sectorGrading_transferNote	(NOTA: Las mejoras SOLO motivan a los prisioneros si tienes el DLC "Cleared for Transfer" y la opción "Transferencia de reclusos" está activa en los ajustes del mapa.).
+sectorGrading_transferNote	(NOTA: Las mejoras SOLO motivan a los prisioneros si tienes el DLC "Traslado autorizado" y la opción "Transferencia de reclusos" está activa en los ajustes del mapa.).
 
 sectorGrading_privilegesTitle	Privilegios de los presos
 sectorGrading_visitation	[+*X] Sala de visitas
@@ -1791,9 +1791,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Crea caminos para que los prisioneros
 buildtoolbar_popup_uts_ScannerMonitor	Un monitor que, acoplado a un escáner, permite a un guardia detectar el contrabando. La capacidad de un guardia de encontrar contrabando dependerá de su nivel de cansancio.
 buildtoolbar_popup_uts_ScannerMachine	Una máquina para las zonas de entrega y almacenes que permite escanear cajas de madera en busca de contrabando. Para que los guardias encuentren contrabando, tiene que estar conectado a un monitor. La capacidad de un guardia de encontrar contrabando dependerá de su nivel de cansancio.
 buildtoolbar_popup_obj_Checkpoint	Un punto de control para registrar a los prisioneros y visitantes que pasen. Los presos solo pueden cruzar en un sentido mientras haya un guardia.
-buildtoolbar_popup_mat_waterShallow	Crea zonas de agua poco profunda para que tus costas queden más bonitas añadiendo suelos de arena y agua. A diferencia del agua normal, por esta se puede pasar. -*A $ (solo exterior)
-buildtoolbar_popup_mat_waterLarge	Crea grandes zonas de agua, lagos y océanos. -*A $ (solo exterior)
-buildtoolbar_popup_mat_WoodenDockFloor	Un suelo de madera maciza perfecto para muelles. -*A $ (solo exterior)
+buildtoolbar_popup_mat_waterShallow	Crea zonas de agua poco profunda para que tus costas queden más bonitas añadiendo suelos de arena y agua. A diferencia del agua normal, por esta se puede pasar.
+buildtoolbar_popup_mat_waterLarge	Crea grandes zonas de agua, lagos y océanos.
+buildtoolbar_popup_mat_WoodenDockFloor	Un suelo de madera maciza perfecto para muelles.
 
 landscape_hint	(Se puede construir sobre agua)
 
@@ -3014,7 +3014,7 @@ interfacetopbar_budget_othermoneyin	Otros ingresos: *M $ / día
 interfacetopbar_budget_othermoneyout	Otros gastos: *M $ / día
 escapemode_info_board	Transbordador
 reports_ingredients_usageTitle	Relación de uso de ingredientes frescos / importados
-objective_HelpEnvironmentallyFriendly	Umweltfreundlich
+objective_HelpEnvironmentallyFriendly	Responsable con el medio ambiente
 object_OxStatue	Estatua de buey
 object_PaperDragonHead	Dragón (cabeza)
 object_PaperDragonBody	Dragón (cuerpo)
@@ -3115,19 +3115,19 @@ uniform_color_14	Salmón
 uniform_color_15	Terciopelo
 uniform_color_16	Morado
 uniform_color_17	Lima
-uniform_color_18	Rosa chillón
-uniform_color_19	Agua
+uniform_color_18	Fucsia
+uniform_color_19	Aguamarina
 uniform_color_20	Plomizo
 uniform_color_21	Arena
-uniform_color_22	Borgoña
-uniform_color_23	Agua sucia
+uniform_color_22	Burdeos
+uniform_color_23	Alcantarilla
 uniform_color_24	Ácido
 uniform_color_25	Tormenta
 uniform_color_26	Violeta
 uniform_color_27	Suciedad
 uniform_color_28	Acero
 uniform_color_29	Lila
-uniform_color_30	Cáscara de huevo
+uniform_color_30	Blanco roto
 uniform_color_31	Oceano
 object_TherapyAnimal	Animal de terapia
 object_TherapyAnimalContainer	Contenedor del animal de terapia
@@ -3282,7 +3282,7 @@ d11_reform_program_pass_rate	Tasa de aprobados del programa de reforma
 d11_reform_released_prisoners_design_info	Cuando un recluso es liberado de tu prisión, se te notificará de sus acciones posteriores, dependiendo de si reinciden o si han sido reformados y encontrado un trabajo. Se multará o recompensará a tu prisión respectivamente.
 d11_reform_prisoners_action_reformed	¡REFORMADO!
 d11_reform_prisoners_action_reoffended	¡REINCIDENTE!
-d11_reform_prisoners_action_reoffended_returned	ha vuelto a tu prisión.
+d11_reform_prisoners_action_reoffended_returned	*X ha vuelto a tu prisión.
 d11_reform_prisoners_outcome_reformed	Trabajo encontrado en el pueblo: *X.
 d11_reform_prisoners_outcome_reoffended	Han sido arrestados y volverán a la prisión.
 d11_reform_prisoners_outcome_reoffended_returned	Ten cuidado, ya que los reclusos se vuelven más peligrosos con periodos más largos.
@@ -3479,13 +3479,13 @@ interface_action_range	Rango
 objective_HelpCalamities_child_3	Ola de calor
 weather_CalamityHeatwave	Ola de calor
 d11_staffalert_title_CalamityHeatwave01	Ola de calor
-report_Coverage	COBERTURA
+report_Coverage	Cobertura
 d11_coverage_staff_only	Solo personal
 codex_new_weathertype_disabled	Desactivado
 d11_on	SÍ
 d11_off	NO
 interfacetopbar_timesincetransaction	[hace *X segundos]
-dlc_name_polly	Perfect Storm
+dlc_name_polly	La tormenta perfecta
 event_rollingblackout	Las tormentas están destrozando la red eléctrica local. Los generadores de emergencia son una buena medida de seguridad; es importante que la electricidad funcione en la prisión en todo momento.
 event_frozenpeople_cold	No creo que nadie deba estar ahí fuera con el frío que hace. Deberíamos enviarlos a todos dentro, porque la hipotermia puede ser letal.
 event_frozenpeople_die	Alguien ha muerto congelado fuera del edificio. Podríamos haber evitado esta tragedia. El bienestar de los reclusos y del personal de la prisión es tu responsabilidad. Nadie debería estar fuera con este tiempo.
@@ -3674,8 +3674,8 @@ d11_staffalert_title_granterror	Subvención por error
 d11_staffalert_details_granterror	¡Por un error administrativo, se ha duplicado nuestro bono de finalización!
 d11_staffalert_title_MysteryCrate	Se ha caído de alguna parte.
 d11_staffalert_details_MysteryCrate	Parece que se ha caído de un camión un objeto destinado a otras instalaciones, y, ya que les devolverán el dinero por el error, eso significa que puedes quedártelo sin miedo. ¿Qué habrá dentro?
-objectiveWindow_FilterButton_3_title	Sobre Perfect Storm
-objectiveWindow_FilterButton_3_tooltip	Una recolección de información que describe y explica las calamidades y otras características clave de Perfect Storm.
+objectiveWindow_FilterButton_3_title	Sobre La tormenta perfecta
+objectiveWindow_FilterButton_3_tooltip	Una recolección de información que describe y explica las calamidades y otras características clave de La tormenta perfecta.
 objective_HelpCalamities	Calamidades
 objective_HelpCalamities_child_1	Frío polar
 objective_HelpCalamities_child_1_Description	Con estas temperaturas heladas, muchas zonas de la prisión pueden helarse o congelarse por completo. Los reclusos también tendrán una mayor probabilidad de caer enfermos y, en casos extremos, quedar congelados. Siempre es buena idea tener contenedores de sal disponibles, los objetos importantes de la prisión bien aislados y apoyo médico a mano.
@@ -3710,10 +3710,11 @@ objective_grant_subsidence_description	Repara los daños que han sufrido los mur
 objective_grant_subsidence_hire	Contrata técnicos para arreglar los muros y las vallas dañados.
 objective_grant_utilityretrofit	Subvención de modernización de servicios
 objective_grant_utilityretrofit_description	Las infestaciones pueden reducir seriamente la producción de los negocios locales. Se ha creado una subvención para que los negocios locales puedan proteger sus servicios.
-objective_grant_utilityretrofit_build	Construye 50 casillas de cables eléctricos industriales.
+objective_grant_utilityretrofit_build	Construye 50 protectores de cableados.
 calamity_grants_onboarding	El clima se ha vuelto más errático en los últimos años. Esta vez hemos tenido suerte, pero la prisión debería estar preparada para todas las posibilidades. Después de un evento climatológico adverso, se ofrecen subvenciones para negocios locales. Confío en que las aprovecharás cuando estén disponibles.
 grant_category_CollapsedWallFence	Valla colapsada:
 grant_category_HasObject	Tiene:
+grant_category_EverHadObject	Tiene:
 grant_category_CalamityHappened	Calamidad sufrida:
 action_brewing	Destilando
 action_electricalsabotaging	Saboteando
@@ -3866,11 +3867,367 @@ d11_staffalert_details_CalamityHeatwave01	Pueden surgir distintos problemas dura
 d11_staffalert_hint_CalamityHeatwave01	Un incendio con mucho viento puede resultar en una catástrofe, por lo que debes hacer todo lo posible por prevenirlo y prepararte para lo peor.
 buildtoolbar_AutomatedEmergencyService	- Servicio automático
 weather_instrument_title	Pronóstico de:
-dlc_name_polly	Perfect Storm
+dlc_name_polly	La tormenta perfecta
 buildtoolbar_stayIndoorsCalamity	Calamidad
 buildtoolbar_popup_uts_WeatherMachine	La máquina del clima proporciona un pronóstico avanzado del tiempo. Informa sobre la duración, temperatura, precipitación, velocidad del viento y condiciones de visibilidad. Además, incluye una cuenta atrás para eventos climáticos preocupantes que se aproximen.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Una puerta doble para uso del personal.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	na puerta doble para uso del personal.
-codex_tooltip_startingSeason    Elige la estación inicial. El clima progresará con naturalidad a lo largo de las distintas estaciones.
+codex_tooltip_startingSeason	Elige la estación inicial. El clima progresará con naturalidad a lo largo de las distintas estaciones.
 object_AirPestControlHeli	Control de plagas aerotransportado
 
+codex_option_default	Por defecto
+dlc_name_kimber	Bandas
+quickbuild_Gymnasium	Gimnasio
+boilingpoint_Needs	Necesidades
+boilingpoint_ProgramCompletion	Programas completados
+boilingpoint_RoomQuality	Calidad de las estancias
+buildtoolbar_popup_help_BoilingPoint_3	^Consejos
+securitymenu_popup_recentMisconduct	Mala conducta reciente:
+securitymenu_PrisonerTypeDefault	Por defecto
+securitymenu_PrisonerTypeDangerous	Peligroso
+rapsheet_assignguard	Asignar guardias
+buildtoolbar_popup_help_securitymenu_4	^Consejos
+objective_HelpPrograms	Programas
+objective_grant_positiveEnergyGrant_yard	Construye un patio
+gang_green	Verde
+d11_gang_bonebreakers_goal	Destrucción
+d11_gang_misconduct	Mala conducta:
+d11_heatmap_deaths	Muertes:
+interface_action_CleanGraffiti	Limpieza
+schedulesearch_menu_Frequency	Frecuencia
+reputation_Resourceful	Habilidoso
+action_Withdrawal	En abstinencia
+action_ListenToRadio	Escuchando la radio
+codex_option_plotType	Tipo de argumento
+codex_tooltip_plotType	Esto te permitirá crear una trama de partida particular. La versión por defecto tiene tierra y hierba; la versión jungla se asemeja a una selva densa; la versión aislamiento en la nieve estará cubierta de nieve; la versión desierto será un desierto de arena; la versión lunar se asemeja a una superficie lunar; la versión isla estará rodeada de agua y dispondrá de un embarcadero en lugar de una carretera; y la versión isla conectada estará rodeada de agua con un puente unido a la carretera.
+survey_letter_1	A la dirección de la prisión,\n\n\nGracias por su participación probando las nuevas características y sistemas de la prisión.\n\nComo director general, es mi responsabilidad recoger las opiniones de todos los alcaides para mejorar aún más la experiencia.\n\nLe agradecería que se tomara unos minutos para rellenar la encuesta que he creado para usted.\n\nDirector general,\nCorporación de Arquitectos de Prisiones
+survey_letter_2	A la dirección de la prisión,\n\n\nGracias una vez más por su participación probando las nuevas características y sistemas de la prisión. \n\nCon más tiempo destinado a probar las nuevas características y sistemas, le agradecería una respuesta actualizada en esta encuesta.\n\nDirector general,\nCorporación de Arquitectos de Prisiones
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Más sabueso de comida que sabueso de ataque.
+object_Doberman	Doberman
+buildtoolbar_popup_obj_Doberman	Los doberman son los perros policía por excelencia.
+object_ChocolateLabrador	Labrador color chocolate
+buildtoolbar_popup_obj_ChocolateLabrador	Le encanta hacer nuevos amigos y es incluso más divertido cuando ese amigo huye.
+object_BlackShepherd	Pastor alemán negro
+buildtoolbar_popup_obj_BlackShepherd	Puede parecer adorable, pero masacra a cualquiera que se pone en su camino.
+object_TattooRemovalMachine	Máquina para eliminar tatuajes
+buildtoolbar_popup_obj_TattooRemovalMachine	Este artículo es indispensable para rehabilitar a un miembro de la banda. Eliminar sus tatuajes es un primer paso para su rehabilitación.
+object_MetalStool	Taburete de metal
+buildtoolbar_popup_obj_MetalStool	Un pequeño y bonito taburete de metal.
+equipment_TattooRemovalTool	Herramienta para eliminar tatuajes
+room_TheCage	La jaula
+buildtoolbar_popup_room_TheCage	Una unidad exterior para hacer ejercicio que solo puede ser usada por un recluso, manteniéndolo aislado de otros reclusos.
+quickbuild_TheCage	La jaula
+buildtoolbar_quickbuild_TheCage	Una unidad exterior para hacer ejercicio que solo puede ser usada por un recluso, manteniéndolo aislado de otros reclusos.
+material_CageFence	Jaula metálica
+buildtoolbar_popup_mat_CageFence	Una alambrada hecha para contener a los reclusos mientras hacen ejercicio.
+room_TattooRemovalRoom	Sala para eliminar tatuajes
+buildtoolbar_popup_room_TattooRemovalRoom	Donde tus reclusos pueden pasar por el doloroso y tedioso proceso de eliminar sus tatuajes relacionados con las bandas.
+quickbuild_TattooRemovalRoom	Sala para eliminar tatuajes
+buildtoolbar_quickbuild_TattooRemovalRoom	Donde tus reclusos pueden pasar por el doloroso y tedioso proceso de eliminar sus tatuajes relacionados con las bandas.
+object_PullUpBars	Barras para hacer dominadas
+buildtoolbar_popup_obj_PullUpBars	Una pieza barata de equipamiento de ejercicio popular entre los reclusos más fornidos.
+object_KneeRaise	Elevación de piernas en barra
+buildtoolbar_popup_obj_KneeRaise	Una pieza barata de equipamiento de ejercicio popular entre los reclusos más fornidos.
+object_PushUpStones	Piedras para hacer flexiones
+buildtoolbar_popup_obj_PushUpStones	Una pieza barata de equipamiento de ejercicio popular entre los reclusos más fornidos.
+object_GangGraffiti	Grafiti de la banda
+d11_hover_info_gang_graffiti_1	+15 % de fuerza en el territorio para los miembros de la banda.
+d11_hover_info_gang_graffiti_2	+15 % de resistencia en el territorio para los miembros de la banda.
+object_FightRing	Cuadrilátero de lucha
+buildtoolbar_popup_obj_FightRing	Si tus reclusos se pelean en el cuadrilátero, no lo harán a escondidas.\n -Sirve para cubrir las necesidades de ejercicio y entretenimiento.
+quickbuild_FightClubRoom	Sala del club de la lucha
+buildtoolbar_quickbuild_FightClubRoom	A efectos prácticos, esta habitación no existe.
+room_FightClubRoom	Sala del club de la lucha
+buildtoolbar_popup_room_FightClubRoom	A efectos prácticos, esta habitación no existe.
+object_CageGate	Puerta de la jaula
+buildtoolbar_popup_obj_CageGate	Una verja que queda genial en las cercas y funciona como una puerta normal.
+buildtoolbar_popup_obj_RemoteDoor	Esta puerta está diseñada para acceder mediante un servo de trabajo. Asegúrate de tener suficientes guardias para controlar la entrada y las salidas de este tipo de puertas o instala almohadillas de presión.
+object_RemoteDoorOrange	Puerta alejada (naranja)
+buildtoolbar_popup_obj_RemoteDoorOrange	Esta puerta está diseñada para acceder mediante un servo de trabajo. Asegúrate de tener suficientes guardias para controlar la entrada y las salidas de este tipo de puertas o instala almohadillas de presión.
+object_RemoteDoorRed	Puerta alejada (roja)
+buildtoolbar_popup_obj_RemoteDoorRed	Esta puerta está diseñada para acceder mediante un servo de trabajo. Asegúrate de tener suficientes guardias para controlar la entrada y las salidas de este tipo de puertas o instala almohadillas de presión.
+object_RemoteDoorYellow	Puerta alejada (amarilla)
+buildtoolbar_popup_obj_RemoteDoorYellow	Esta puerta está diseñada para acceder mediante un servo de trabajo. Asegúrate de tener suficientes guardias para controlar la entrada y las salidas de este tipo de puertas o instala almohadillas de presión.
+object_RemoteDoorWhite	Puerta alejada (blanca)
+buildtoolbar_popup_obj_RemoteDoorWhite	Esta puerta está diseñada para acceder mediante un servo de trabajo. Asegúrate de tener suficientes guardias para controlar la entrada y las salidas de este tipo de puertas o instala almohadillas de presión.
+object_GymInstructor	Instructor de gimnasio
+object_FilingCabinetFancy	Fichero (sofisticado)
+buildtoolbar_popup_obj_FilingCabinetFancy	Recompensa a tus empleados dándoles un sofisticado fichero.
+material_LongGrass	Hierba alta
+codex_tooltip_gangsEnhanced	Ahora puedes modificar el ingreso de reclusos para que se unan a tus bandas. Tener más miembros de bandas en tu prisión hará que el reclutamiento de bandas sea más rápido, tu prisión se volverá más caótica y peligrosa.\n\n  Legado: experimenta la dificultad bandas como antes (principiante) \n  "Baja" (por defecto): ideal para jugadores principiantes o intermedios \n  Media: jugadores experimentados \n  Alta: jugadores expertos que buscan un reto serio
+codex_tooltip_morelieutenants	Los tenientes desempeñan un papel importante en la conquista de nuevos territorios para su respectiva banda. Si quieres que las bandas sean más activas, plantéate reducir la cantidad de miembros necesarios por teniente. Si quieres un reto, elige solo números inferiores a 6.
+codex_option_morelieutenants	Más tenientes
+codex_tooltip_codex_option_morelieutenants	Los tenientes desempeñan un papel importante en la conquista de nuevos territorios para su respectiva banda. Si quieres que las bandas sean más activas, plantéate reducir la cantidad de miembros necesarios por teniente. Si quieres un reto, elige solo números inferiores a 6.
+codex_option_GangSpecialReputations	Reputaciones especiales de las bandas
+codex_tooltip_GangSpecialReputations	Las bandas reciben nuevos reconocimientos que modifican la forma en que los miembros se comportan en su prisión.
+codex_option_AllDogs	Todos los perros
+codex_tooltip_AllDogs	Al elegir esta opción, se habilitarán todos los perros disponibles y cada contratación será aleatoria.
+codex_tooltip_RandomWardens	Al elegir esta opción, se elegirá al azar un guardia para ti.
+interfacecontraband_BoilingPoint	Límite De Aguante
+buildtoolbar_contraband_BoilingPoint	Muestra zonas de mejora para los reclusos descontentos.
+boilingpoint_header	LÍMITE DE AGUANTE
+boilingpoint_OverallTemperature	Temperatura global
+boilingpoint_StatusEffects	Efectos de estado
+boilingpoint_OverallTemperature_popup	Hay algunas cosas que están fuera de nuestro control cuando se trata de hacer que nuestros reclusos estén felices y tranquilos, como su personalidad o el número de condenas que tienen. Cuanto más enfadado esté cada recluso, más alta será la tensión de la prisión, y más probabilidades habrá de que se porten mal.
+boilingpoint_Needs_popup	Actualmente tienes *X reclusos que no pueden satisfacer sus necesidades.\n\nPor favor, asegúrate de que tengan acceso a las habitaciones u objetos para poder satisfacer sus necesidades.
+boilingpoint_ProgramCompletion_popup	Actualmente tienes *X reclusos que no han completado ningún programa.\n\nCuantos más programas complete un recluso, más probabilidades habrá de que esté tranquilo. Asegúrate de que el régimen permite programas e incorpora varios. Algunos programas se pueden repetir.
+boilingpoint_StatusEffects_popup	Actualmente tienes *X reclusos que están sufriendo efectos negativos.\n\nPlantéate vigilar más de cerca el contrabando, especialmente de alcohol o narcóticos.\n\nCuando los reclusos tienen efectos positivos, es menos probable que se porten mal.
+boilingpoint_RoomQuality_popup	Actualmente tienes *X reclusos que tienen estancias de mala calidad.\n\nMejora la calidad de sus estancias para que estén más contentos y tranquilos. Algunos reclusos no cumplirán con los requisitos para poder acceder a las estancias de alta calidad. Puedes utilizar los Ajustes de condena para reducir los requisitos.
+buildtoolbar_popup_help_BoilingPoint_1	La vista del límite de aguante muestra la actual tensión de la prisión. Este menú resalta las áreas problemáticas de nuestra prisión, como la calidad de la celda, las necesidades, los efectos del estado y los niveles de participación en los programas.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Si sigues sin poder controlar a un recluso determinado, plantéate confinarlo o ponerlo en aislamiento para tranquilizarlo.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Asegúrate de que todos los reclusos tienen acceso a sus necesidades básicas.
+buildtoolbar_popup_help_BoilingPoint_5	- Invierte en reformas, terapia, programas de tratamiento y trabajo, y asegúrate de que su Régimen les permite participar en ellos.
+buildtoolbar_popup_help_BoilingPoint_6	- Los reclusos de baja seguridad tendrán una mayor tolerancia, ya que tienen condenas más cortas.
+boilingpoint_advisor_onboarding	Este recluso se está comportando mal y parece haber alcanzado su límite de aguante. Tal vez no estamos haciendo lo suficiente por nuestros reclusos. Asegúrate de que sus necesidades están satisfechas, mejora sus condiciones de vida, y dale algo que hacer. Consulta el menú de información del límite de aguante para más información.
+interfacecontraband_SecurityMenu	Menú de seguridad
+buildtoolbar_contraband_SecurityMenu	Consulta una lista de todos los reclusos considerados peligrosos o en peligro y aplica medidas de seguridad a aquellos que necesiten atención adicional.
+securitymenu_header	Menú de seguridad
+securitymenu_popup_prisonerSelect	Haz clic izquierdo para seleccionar al recluso
+securitymenu_popup_dangerousReputations	Reputaciones peligrosas:
+securitymenu_popup_dangerousTraits	Rasgos peligrosos:
+securitymenu_popup_crimesCommitted	Crímenes:
+securitymenu_PrisonerType	Tipo de recluso:
+securitymenu_PrisonerTypeVulnerable	Vulnerable
+securitymenu_MarkingTypeUnmarked	No marcado
+securitymenu_SelectArea	Seleccionar área
+securitymenu_SelectAreaCancel	Deseleccionar área
+securitymenu_RestrictAccess	Restringir el acceso:
+securitymenu_TransferPrisoners	Transferir recluso(s):
+securitymenu_transferSecurityLevel	Nivel de seguridad
+securitymenu_GuardAssignment	Asignación de guardias:
+securitymenu_MarkPrisoner	Señalar al recluso:
+securitymenu_RemovePrisoner	Eliminar recluso:
+securitymenu_RemovePrisonerButton	Eliminar recluso
+securitymenu_RemovedPrisoner	Eliminar recluso
+securitymenu_RemovePrisoner_message	Eliminar recluso\n\nEste es el último recurso para lidiar con los peores delincuentes. Por un precio considerable podrás enviar a este recluso a una instalación distinta. Esta acción solo se puede realizar cada 5 días.
+securitymenu_RestrictAccess_tooltip	Bloquea la entrada a zonas específicas, no permitiendo el acceso al recluso o reclusos seleccionados sin que los guardias intenten someterlos. Los miembros de la banda no pueden ser restringidos de sus propias áreas/territorios.
+securitymenu_TransferPrisoner_tooltip	Mover a los reclusos seleccionados a un sistema de seguridad específico para ayudar a su gestión.
+securitymenu_MarkPrisoner_tooltip	Fija una marca visual a los reclusos seleccionados, lo que te permitirá vigilar mejor a los individuos más peligrosos, o que, por el contrario, están en peligro.
+rapsheet_assignguard_end	Cancelar asignación de guardias
+job_PrisonerAssignment	Distribución de los reclusos
+assignment_confirm_message	¿Quieres asignar a un guardia?
+assignment_description_message	Si quieres vigilar a un recluso, deberías asignarle un guardia. Asegúrate de que tienes suficientes guardias disponibles.
+assignment_error_message	A este recluso no se le puede asignar un guardia en este momento. Inténtalo más tarde.\n\nO bien acaba de llegar, o lleva cadenas, o está en confinamiento.
+buildtoolbar_popup_help_securitymenu_1	El menú de seguridad registra a todos los miembros de la prisión que se consideran peligrosos o vulnerables dentro de la población reclusa. Mediante este menú se pueden aplicar determinadas acciones a los reclusos para proporcionarles un mayor apoyo y permitir una mejor gestión de estos.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Por defecto, tanto los reclusos peligrosos como los vulnerables están registrados juntos, pero la opción "tipo de recluso" te permite aplicar una acción a grupos específicos.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Se pueden aplicar algunas acciones a un grupo, mientras que otras solo pueden aplicarse a individuos seleccionados. Señala y haz clic izquierdo en un recluso para seleccionarlo.\n\n
+buildtoolbar_popup_help_securitymenu_5	- La opción de asignación de guardias ayudará a mantener a los reclusos a salvo de otros y vigilar a los demás para prevenir cualquier mal comportamiento. Los guardias no se quedarán al lado de un recluso durante su tiempo de privacidad como los períodos de sueño o de ducha.
+buildtoolbar_popup_help_securitymenu_6	- Si un recluso está causando demasiados problemas en tu prisión y es demasiado difícil lidiar con él, la opción Eliminar recluso lo expulsará. Esta acción tiene un tiempo de enfriamiento y no puede llevarse a cabo todos los días, además de tener un coste monetario.
+objectiveWindow_FilterButton_4_title	Sobre las bandas
+objectiveWindow_FilterButton_4_tooltip	Todo lo que necesitas saber sobre las bandas
+objective_HelpGangBehaviourAndType	Comportamiento de las bandas
+objective_HelpGangBehaviourAndType_Description	Se han presentado nuevas bandas que se comportan de forma ligeramente diferente entre sí.
+objective_HelpGangBehaviourAndType_child_1	Las Víboras
+objective_HelpGangBehaviourAndType_child_1_Description	Las Víboras son un grupo insidioso que se centra en infectar a sus prisiones con los narcóticos que controlan, mientras que ellos mismos son individualmente letales.
+objective_HelpGangBehaviourAndType_child_2	Los Rompehuesos
+objective_HelpGangBehaviourAndType_child_2_Description	Los Rompehuesos se consideran matones musculosos que se centran más en la violencia y la destrucción que en cualquier otra cosa.
+objective_HelpGangBehaviourAndType_child_3	Los Chacales
+objective_HelpGangBehaviourAndType_child_3_Description	Los Chacales son la banda más ingeniosa, ya que se centran en el control del territorio y la venta de contrabando para aumentar su poder financiero.
+objective_HelpGangActivities	Actividades de la banda
+objective_HelpGangActivities_Description	Las actividades de la banda abarcarán desde la administración y gestión de sus propios territorios, la realización de grandes jugadas contra miembros clave de la prisión, la realización de demandas al jugador, y otras acciones similares.
+objective_HelpGangActivities_child_1	Actividades especializadas
+objective_HelpGangActivities_child_1_Description	Cada banda participará en actividades especializadas en función de sus diferentes personalidades: las Víboras se centran en la producción y venta de narcóticos; los Rompehuesos en la lucha y la destrucción, y los Chacales se centran más en los territorios y en ganar dinero.
+objective_HelpGangActivities_child_2	Actividades territoriales
+objective_HelpGangActivities_child_2_Description	Con los nuevos territorios, llegan nuevos comportamientos. Las bandas ahora "vigilarán" las zonas que controlen, asegurándose de que los demás reclusos se comporten y paguen por utilizar cualquiera de los artículos que haya allí, incluso durante su tiempo de trabajo. Los miembros de las bandas también adquirirán grandes cantidades de contrabando en función de la sala que controlen, con "traficantes" que aparecerán para vencer estos artículos a otros reclusos.
+objective_HelpGangActivities_child_3	Demandas de la banda
+objective_HelpGangActivities_child_3_Description	Una vez que la banda adquiera suficiente poder y confianza dentro de la prisión, comenzará a hacer ciertas demandas. Estas demandas irán desde obtener nuevo equipamiento hasta más tiempo de patio o tiempo libre, teniendo el jugador una cierta cantidad de tiempo para atender esta(s) demanda(s). Si el jugador no cumple con estas demandas, las repercusiones comenzarán inmediatamente, y, habitualmente, la banda causará algún tipo de destrucción o violencia.
+objective_HelpCrookedGuards	Guardias corruptos
+objective_HelpCrookedGuards_Description	Aunque nos gustaría pensar que nuestro valiente personal es puro e indomable, desgraciadamente no siempre es así.
+objective_HelpCrookedGuards_child_1	Guardias sobornables
+objective_HelpCrookedGuards_child_1_Description	Todos los tipos de guardias pueden ser sobornados para hacer la vista gorda ante una determinada mala conducta durante 48 horas, dejando a los reclusos con contrabando incluso cuando lo encuentra y poniéndoles más fácil a las bandas hacerse con los territorios. Por suerte, utilizando informantes, los guardias sospechosos pueden ser detectados, dándole al jugador la oportunidad de despedir a los guardias corruptos.
+objective_HelpCrookedGuards_child_2	Guardias corruptos
+objective_HelpCrookedGuards_child_2_Description	Algunos guardias pueden corromperse si interactúan demasiado con los miembros de la banda, ya que les pagan para que realicen contrabando para las bandas. Los informantes pueden señalar a los guardias sospechosos, mientras que los detectores de contrabando y los perros guardianes también podrán encontrar este contrabando mientras aún lo tenga el guardia en cuestión.
+objective_HelpGangIntelligence	Información sobre las bandas
+objective_HelpGangIntelligence_Description	Con tanto potencial de mala conducta dentro de una prisión, informarte es siempre clave para mantener la seguridad dentro de tu instalación. El menú de información sobre bandas proporciona datos sobre cada banda dentro de tu prisión, enumerando el número de miembros que tiene cada una, sus fondos, y también un recuento básico de la mala conducta que han tenido mientras estaban encarcelados. También muestra cualquier movimiento o actividad en la que participa cualquier banda para ayudar a mostrar el nivel de peligro de cada una.
+objective_HelpSecurityOptions	Opciones de seguridad
+objective_HelpSecurityOptions_Description	En un nuevo menú se incluirá una lista de "prisioneros importantes", con todos los reclusos que se consideren en peligro por parte de otros o que sean un peligro para ellos mismos. Con este menú se pueden señalar los reclusos con los que se debe tener más cuidado para poder vigilarlos más fácilmente durante una partida normal, así como otras acciones, como restringir el acceso de un recluso a determinadas zonas, transferir grupos a niveles de seguridad específicos e incluso eliminar a los reclusos problemáticos enviándolos a otro centro, aunque para ello haya que pagar una cuantiosa multa.
+objective_HelpPrograms_Description	Para ayudar a asegurar y apoyar a tus reclusos, ahora los guardias pueden recibir un nuevo entrenamiento que les permitirá desarmar fácilmente a los reclusos armados. Los reclusos también tendrán nuevos programas a su disposición, con programas de entretenimiento para ayudar a su proceso de recuperación e intentar calmar a los prisioneros o permitirles aliviar el estrés, así como programas de rehabilitación que ayudarán a alejar a los prisioneros de la vida de las bandas y les permitirán completar sus sentencias de una manera más pacífica y constructiva.
+objective_grant_positiveEnergyGrant	Energía positiva
+objective_grant_positiveEnergyGrant_Description	Los miembros de las bandas deben concentrar su mente (y su energía) en el ejercicio y no en la violencia. Las investigaciones han demostrado que el ejercicio reduce este tipo de acciones. Coloca algún equipamiento para hacer ejercicio al aire libre en el patio.
+objective_grant_positiveEnergyGrant_bench	Incorpora un banco de musculación
+objective_grant_advancedProtectionGrant	Protección avanzada
+objective_grant_advancedProtectionGrant_Description	La protección del personal es primordial cuando se trata de bandas organizadas. Tenemos que asegurarnos de que nuestro personal está capacitado al más alto nivel por su seguridad.
+objective_grant_advancedProtectionGrant_training	Entrena con éxito a 20 guardias en la certificación de desarme.
+objective_grant_gangWelfareGrant	Bienestar de las bandas
+objective_grant_gangWelfareGrant_Description	Convertir la guerra de bandas en el bienestar de las mismas es una prioridad absoluta. Los miembros de las bandas tienen una gran oportunidad de reformarse si se les incluye en programas que les permiten salir de esa vida.
+objective_grant_gangWelfareGrant_exGangMembers	Reformar con éxito a 15 miembros de bandas para convertirlos en exmiembros.
+objective_grant_exGangProtectionGrant	Programa de protección de exmiembros de bandas
+objective_grant_exGangProtectionGrant_Description	El gobierno ofrece financiación para construir un ala de custodia protectora para proteger a los antiguos miembros de las bandas en su camino hacia la rehabilitación.
+objective_grant_protectionCells	Construye 10 celdas solo en un sector protegido
+objective_grant_protectionShower	Construye una sala de la ducha solo en un sector protegido
+objective_grant_protectionCanteen	Construye un comedor solo en un sector protegido
+objective_grant_protectionKitchen	Construye una cocina solo en un sector protegido
+objective_grant_protectionYard	Construye un patio solo en un sector protegido
+objective_grant_protectionGuards	Asigna a un guardia solo en un sector protegido
+objective_grant_protectionExGang	Asigna a un exmiembro de la banda al nivel de seguridad de custodia protectora
+grant_category_adminHired	Administrador contratado:
+reformprogram_TattooRemovalProgram	Programa para eliminar tatuajes
+reformprogram_TattooRemovalProgram_text	Si tus reclusos se arrepienten de haberse tatuado, puedes facilitarles su rehabilitación proporcionándoles sesiones de eliminación de tatuajes. Completar este programa les convertirá en un objetivo.
+reformprogram_HandToHandCombat	Certificación de desarme
+reformprogram_HandToHandCombat_text	Cuando las cosas se ponen difíciles, nos ponemos más duros. Entrena a tus guardias en técnicas avanzadas para desarmar a tus reclusos.
+reformprogram_GangRehabilitation	Rehabilitación de la banda
+reformprogram_GangRehabilitation_text	Si un miembro de la banda ha estado causando demasiados problemas en la prisión, intenta que complete este programa. Es el primer paso para que rompa los lazos con su banda y pase página. Completar este programa los convertirá en un objetivo. Tipo de referente: violencia y destrucción.
+reform_program_intake_ReferralGangViolenceDestruction	Referente: violencia y destrucción solo de bandas.
+reform_program_intake_GangOnly	Solo bandas
+reformprogram_FaithProgram	Programa de fe
+reformprogram_FaithProgram_text	Los reclusos que participen en este programa intensivo estarán más dispuestos a abandonar su pésimo estilo de vida y adoptar una vida mejor. Si han completado este programa, es posible que quieran cortar lazos con su banda.
+reformprogram_BreatheProgram	Terapia respiratoria
+reformprogram_BreatheProgram_text	Enseña a tus reclusos a respirar y relajarse. Después de cada clase, tus reclusos se sentirán mucho más tranquilos, incluso podrían considerar comportarse mejor.
+reformprogram_FightClub	Club de la lucha
+reformprogram_FightClub_text	Estas sesiones de entrenamiento están pensadas para canalizar la energía destructiva de tus reclusos hacia la lucha en un entorno controlado. Tal vez acaben demasiado cansados para luchar después. Espera, ¿cuál era la primera regla?
+reform_program_properties_TeacherUsesSameEquipment	El profesor necesita: *X
+reform_program_properties_GangMemberCanAttend	Los miembros de la banda pueden asistir
+gang_vipers	Las Víboras
+gang_bonebreakers	Los Rompehuesos
+gang_jackals	Los Chacales
+gang_red	Rojo
+gang_blue	Azul
+gang_yellow	Ex miembros de la banda
+objective_GangDemand	Demandas de la banda
+objective_GangDemand_description	Los líderes de las bandas envalentonados harán una serie de demandas para mejorar la calidad de vida en la prisión. El incumplimiento de estas demandas puede dar lugar a un motín. Asegúrate de que, si llega el caso, tu prisión está preparada.
+GangDemand_announcement	Los miembros de la banda causarán un montón de problemas si no cedemos a sus exigencias.
+objective_Gang_ContrabandToolsPunishment_child	*G - Reduce el castigo por encontrar herramientas a *X horas.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Reduce el castigo por encontrar herramientas a nada
+objective_Gang_MurderPunishment_child	*G - Reduce el castigo por asesinato a *X horas.
+objective_Gang_MurderPunishment_Escalated_child	*G - Reduce el castigo por asesinato a *X horas.
+objective_Gang_MoreYardTime_child	*G - Aumenta el régimen de tiempo de recreo *X horas.
+objective_Gang_MoreYardTime_Escalated_child	*G - Aumenta el régimen de tiempo de recreo *X horas.
+objective_Gang_PullUpBars_child	*G - Ten *X barras para hacer dominadas.
+objective_Gang_PullUpBars_Escalated_child	*G - Ten *X barras para hacer dominadas.
+objective_Gang_TyreApparatus_child	*G - Ten *X aparatos de neumáticos.
+objective_Gang_TyreApparatus_Escalated_child	*G - Ten *X aparatos de neumáticos.
+objective_Gang_PunchBag_child	*G - Ten *X sacos de boxeo.
+objective_Gang_PunchBag_Escalated_child	*G - Ten *X sacos de boxeo.
+objective_Gang_PushUpStones_child	*G - Ten *X piedras para hacer flexiones.
+objective_Gang_PushUpStones_Escalated_child	*G - Ten *X piedras para hacer flexiones.
+objective_Gang_RequireYard_child	*G - Ten: *X.
+objective_Gang_RequireYard_Escalated_child	*G - Ten: *X.
+objective_Gang_RequireLibrary_child	*G - Ten: *X.
+objective_Gang_RequireLibrary_Escalated_child	*G - Ten: *X.
+objective_Gang_RequireMailRoom_child	*G - Ten: *X.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Ten: *X.
+d11_gangdemand_success	Hemos recibido dinero por manejar esta situación.
+d11_gangdemand_fail	Asegúrate de que esta situación no se repite.
+d11_gangCompensation	Compensación de la banda
+d11_gang_goal	Objetivo de la banda:
+d11_gang_jackals_goal	Control de la prisión
+d11_gang_traits	Rasgos de la banda:
+d11_gang_officer	Oficiales de la banda:
+d11_gang_territories	Territorios:
+d11_gang_kills	Asesinatos de la banda:
+d11_heatmap_gang	Banda involucrada:
+d11_heatmap_day	Día en el que ocurrió:
+d11_heatmap_time	Hora en la que ocurrió:
+d11_gang_event_pr.gf	Pelea de bandas
+d11_gang_event_g.tc	Cambio de territorio
+gangSegregationMessage	Escoge qué bandas suelen tener permiso para entrar en determinadas zonas.
+interfacedeployment_GangSegregation	Segregación de la banda
+buildtoolbar_deployment_GangSegregation	Para proporcionar un nivel de control sobre la distribución de las bandas, estas pueden distribuirse en distintos espacios de vivienda, permitiéndoles estar alejadas unas de otras para evitar cualquier instigación innecesaria.
+research_StaffVetting	Investigación del personal
+researchtooltip_StaffVetting	Reduce la probabilidad de que los nuevos guardias se corrompan. Desbloquea la investigación de los guardias, lo que te permite descubrir a los guardias corruptos mediante los informantes confidenciales.
+buildtoolbar_GuardInvestigation	Investigación de guardias
+buildtoolbar_tooltip_GuardInvestigation	Trabaja con tu informante confidencial y tu jefe de seguridad para investigar a tus guardias y destapar la corrupción. Cuanta más información tenga tu informador confidencial activo, más guardias corruptos descubrirás. El jefe no debe ser anfitrión de un programa o asistir a una ejecución.
+buildtoolbar_CI_requirement	Al menos un informante confidencial
+guardinvestigation_underway	INVESTIGACIÓN DE GUARDIAS EN PROGRESO
+guardinvestigation_investigated	Guardias *A/*B investigados
+informant_investigating	Investigando
+crookedguard_fired_reward	Guardia corrupto despedido
+crookedguard_advisor_onboarding	Hemos descubierto a un guardia corrupto cooperando con una banda. Lo he indicado en la pestaña de Personal en tus Informes. Asegúrate de despedirlo.
+buildtoolbar_popup_staff_doghandler	Los adiestradores de perros y sus compañeros caninos pueden detectar el contrabando de los reclusos que pasan cerca.
+buildtoolbar_popup_staff_kimber_doghandler	Los adiestradores de perros y sus compañeros caninos pueden detectar el contrabando de los reclusos y de los guardias corruptos que pasan cerca.
+d11_prisoner_replacement	Reemplazo del recluso
+d11_prisoner_replacement_tooltip	El valor de la población reclusa se repondrá hasta el número deseado, manteniendo la proporción de los niveles de seguridad en la medida de lo posible. Cualquier excedente de presos se solicitará siguiendo el sistema estándar.
+job_cleanupobject	Limpiar: *X
+interfacetopbar_tension_angrygangmembersgraffiti	+*X MIEMBROS DE LA BANDA ESTÁN FURIOSOS (grafiti eliminado)
+interfacetopbar_tension_angrygangmembersleadercell	+*X MIEMBROS DE LA BANDA ESTÁN FURIOSOS (jefe transferido a una celda de peor calidad)
+research_CCTVImprovement	Mejora de la videovigilancia
+researchtooltip_CCTVImprovement	Mejora la utilización de tu equipo de videovigilancia. Te permite ver los conos de visión de videovigilancia y a los reclusos que se comportan mal en su campo de visión.
+d11_cctv_cone	Cono de videovigilancia
+d11_toggle_cctv_cone_detail	Alternar entre los monitores de las cámaras de seguridad.
+d11_left_click_to_clean	Haz clic izquierdo para limpiar
+d11_gang_graffiti_message	Las bandas marcan su territorio, lo que las hace más violentas a la hora de defenderlo. Envía a un conserje cuando sea seguro que se encargue del desorden. A las bandas no les gustará que se elimine su "arte", podrían tomar represalias.
+d11_gangBulkIntake_advisor_onboarding	La Comisión de Prisiones está trasladando a los reclusos problemáticos a otras cárceles con una gestión más competente. Confío en que podrás manejar estas nuevas incorporaciones con facilidad. Ahora las revisiones de los presos se llevarán a cabo semanalmente.
+d11_gangBulkIntake_staffAlert	Llega el autobús de admisión de miembros de la banda
+d11_gangdealer_advisor_onboarding	Hemos identificado a un traficante en el territorio de la banda. Se le ha confiscado una gran suma de dinero.
+d11_CI_advisor_onboarding	Coopera con tus informantes confidenciales para sacar a la luz a los guardias corruptos. Se les enviará a la oficina del jefe para que compartan la información que tengan. Asegúrate de tener informantes confidenciales reclutados, comprueba el icono (?) en el menú de información para obtener más datos.
+d11_LeaderAssassination_advisor_onboarding	Las bandas se están volviendo demasiado agresivas y están planeando asesinar al líder de otra banda. Si tienen éxito, esto afectará a sus territorios actuales.
+d11_GangTargetting_advisor_onboarding	Los miembros de la banda se alían porque tienen intereses similares. A veces también les desagradan determinados delitos y tratarán de atacar a estas personas.
+d11_staffalert_title_making_move	Una banda está actuando.
+d11_staffalert_summary_making_move	Tenemos información de que una banda está actuando.
+d11_staffalert_summary_gangdealer	Han descubierto a un traficante y te han recompensado con 500 dólares
+d11_staffalert_summary_TerritoryPlacement	Esta habitación ha sido ocupada por una banda y es demasiado peligrosa para nuestros trabajadores. Desalójalos de la habitación.
+crisisSector_CustomSearchArea	Área de búsqueda personalizada
+crisisSector_ScheduleSearch	Programación personalizada
+schedulesearch_menu_TargettedArea	Área objetivo
+schedulesearch_menu_StartTime	Hora de inicio
+schedulesearch_menu_ExistingSchedule	Programa existente
+schedulesearch_menu_CurrentTime	Hora actual
+schedulesearch_menu_CurrentFrequency	Frecuencia actual
+crisisSector_UnlockedOnly	Solo desbloqueado
+schedulesearch_menu_SaveSelection	Guardar selección
+reputation_Recruiter	Reclutador
+reputationtooltip_Recruiter	Si este recluso forma parte de una banda, tendrá más probabilidades de conseguir que otros reclusos se unan a su banda.
+reputationtooltip_Resourceful	Este recluso será más propenso a pasar el tiempo leyendo libros. También sabrá dónde estará el contrabando y podría interceptarlo para su banda.
+reputation_ExGangMember	Ex miembro de la banda
+reputationtooltip_ExGangMember	Este recluso decidió que la vida en la banda no era para él, pero sus miembros no están contentos con esto.
+reputation_CunninglyBrutal	Astutamente brutal
+reputationtooltip_CunninglyBrutal	Las Víboras tratarán de atacar a sus objetivos en los puntos ciegos de seguridad.
+reputation_SneakThief	Ratero
+reputationtooltip_SneakThief	Todos los Chacales tienen la habilidad para hurtar, independientemente de su reputación.
+reputation_BattleTendency	Tendencia a pelear
+reputationtooltip_BattleTendency	Si los chacales superan en número a los guardias en un ala de la prisión, serán más violentos con el personal de esa ala.
+reputation_DisrepectSurroundings	Vándalo
+reputationtooltip_DisrepectSurroundings	Los Rompehuesos estropearán los objetos cuando no se satisfagan algunas de sus necesidades.
+reputation_UnderCoverDon	Don Clandestino
+reputationtooltip_UnderCoverDon	El jefe de las Víboras está escondido como soldado de la banda y solo saldrá al descubierto cuando sea castigado.
+reputation_Enforcer	Sicario
+reputationtooltip_Enforcer	Este recluso intimidará a otros reclusos, a menos que pertenezcan a la misma banda. También son muy buenos a la hora de apoderarse de territorios para las bandas.
+reputation_GymRat	Adicto al gimnasio
+reputationtooltip_GymRat	Los Rompehuesos pasarán su periodo de tiempo libre en un gimnasio o patio.
+reputation_Loyal	Leal
+reputationtooltip_Loyal	Este recluso será más propenso a permanecer en la banda y a alborotarse si se castiga al líder de su banda
+traits_violent	Violento
+traits_lethal	Letal
+finance_cost_gangdealer	Traficante de la banda descubierto
+object_PrisonerLetter	Carta de recluso
+object_LoveLetter	Carta de amor
+object_LoveLetterOpened	Carta de amor (abierta)
+interface_prisonerWritingLetter	Escribiendo a los seres queridos
+interface_prisonerWritingLoveLetter	Escribiéndole a alguien MUY especial
+warden_wardengangsjlocks_name	Capitán J. Locks
+warden_wardengangsjlocks_desc	El personal bajo el mando de Locks es capaz de superar sus límites y los reclusos se convierten en reclusos modelo. \n\n- +30 % de resistencia del personal (requiere un 10 % más de descanso). \n- -10 % de posibilidad de reincidencia del recluso.
+warden_wardengangsjlocks_desc_short	- El personal tiene más resistencia.\n- Los reclusos tienen un 10 % menos de probabilidades de reincidir.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Este caballero se encargará de hablar con cualquiera y se las arreglará para conseguir los mejores precios para su prisión. ¡Será mejor que creas que usa cupones en el supermercado! \n\n- Los costes de alimentación se reducen en un 25 %. \n- Los programas que requieren profesores externos cuestan un 20 % menos.
+warden_wardengangscook_desc_short	- Los costes de alimentación se reducen en un 25 %.\n- Los programas que requieren profesores externos cuestan un 20 % menos.
+rapsheet_manualCellSwap_hint	Elige si quieres dar a este recluso una simple mejora/degradación con el traslado a una nueva celda disponible o elige manualmente a qué celda debe ser trasladado.
+rapsheet_cellUpgrade	Mejorar celda
+rapsheet_cellDowngrade	Degradar celda
+rapsheet_cellChoice	Elegir una nueva celda
+rapsheet_ChangeCell	Cambiar de celda
+ChangeCellUpgradeSuccessful	Has cambiado a *X a una mejor celda.
+ChangeCellDowngradeSuccessful	Has cambiado a *X a una peor celda.
+ChangeCellNoAvailableRooms	No hay estancias disponibles para cambiar a *X. ¿Quieres utilizar el menú de intercambio de estancias personalizado?
+ChangeCellDowngradingGangLeader	Vas a cambiar al líder de una banda a una celda de peor calidad, lo que cabreará a su banda y probablemente cause problemas en tu prisión.
+freeCell_movePrisoner	Haz clic derecho para mover al recluso a su celda.
+occupiedCell_movePrisoner	Haz clic con el botón derecho para intercambiar al recluso con el que ocupa esta celda.
+occupiedCell_selectablePrisoner	Haz clic con el botón derecho del ratón para seleccionar a este prisionero y elegir dónde quieres moverlo.
+mutator_name_NoMinRoomSize	No hay tamaño de estancia
+mutator_tooltip_NoMinRoomSize	¡Se acabaron los requisitos de tamaño de la estancia! Pero todavía necesitas conseguir los artículos necesarios para que la estancia funcione.
+action_GangBusiness	Actividades de la banda
+action_GangRecruitment	Reclutamiento de la banda
+action_GangPromotion	Ascenso de la banda
+action_ActionHerb	Manipulando
+action_LoadBaby	Llevando bebé
+action_WarmUp	Haciendo estiramientos
+action_GetSnack	Consiguiendo comida
+action_Drink	Consiguiendo bebida
+action_DoPullUps	Haciendo dominadas
+action_KneeRaises	Elevación de piernas en barra
+action_PushUps	Flexiones
+reform_program_properties_RequiresAllStudentsPresent	Requiere la presencia de todos los estudiantes
+d11_tableClaim_title	Controlada por *G
+d11_tableClaim_desc	Para retirarlos de sus mesas, muévelos o sepáralos.
+d11_tableClaim_desc_cont	Aunque esto provocará que se enfaden.
+schedulesearch_menu_ClearSchedule	Eliminar programación

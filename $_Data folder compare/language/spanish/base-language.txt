@@ -2611,7 +2611,7 @@ room_workshop	Taller
 room_security	Seguridad
 room_office	Oficina
 room_medicalward	Enfermería
-room_morgue	Deposito de cadáveres
+room_morgue	Depósito de cadáveres
 room_commonroom	Sala de estar
 room_laundry	Lavandería
 room_visitation	De visita

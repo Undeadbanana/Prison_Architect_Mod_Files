@@ -4,11 +4,11 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	Volledige changelog
-codex_legal	wettelijk
-codex_privacy	privacybeleid
+codex_viewchangelog	Lijst van wijzigingen
+codex_legal	Wettelijk
+codex_privacy	Privacybeleid
 codex_terms-of-use	Gebruiksvoorwaarden
-codex_eula	licentieovereenkomst voor eindgebruikers
+codex_eula	Licentieovereenkomst voor Eindgebruikers
 
 # =============================================================================
 # Interface Mode
@@ -71,7 +71,7 @@ quickbuild_workshop	Werkplaats
 
 
 mm_updatenotes_Date	27 juni 2019
-mm_updatenotes_Header	De bajesupdate
+mm_updatenotes_Header	Uppdateringen ”Kåken”
 mm_updatenotes_01	4 nieuwe vloertegels en 4 nieuwe muurtypen toegevoegd.
 mm_updatenotes_02	Prestatieverbeteringen voor kortere laadtijden.
 mm_updatenotes_03	Er kunnen meer opzichters worden aangesteld, handig voor grotere gevangenissen waar opzichters ook programma's onderwijzen.
@@ -675,7 +675,7 @@ interfacedeployment_insaneseczone	Alleen gestoorde bewaking
 interfacetopbar_PrisonerCells_insaneSecOnly	Capaciteit gestoorde criminelen: *X
 
 roomgrading_PsychiatristOffice_info	Ontgrendel en plaats extra objecten in het psychiaterskantoor om gestoorde criminelen beter te behandelen.\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	worden ontgrendeld via gestoorde criminelen die psychiatrische consultatieprogramma's volgen.
 roomgrading_PsychiatristOffice_Item	Item: *X
 roomgrading_PsychiatristOffice_Quality	Psychiatrische bekwaamheid: *Q
 roomgrading_PsychiatristOffice_Upgrade	Upgrade het psychiaterskantoor om hem meer bekwaamheid te geven.
@@ -1207,7 +1207,7 @@ buildtoolbar_popup_obj_bambooDoor	Een poort van bamboe die bij het bamboehek pas
 buildtoolbar_popup_obj_canvas	Een creatieve manier voor gevangenen om hun gevoelens te uiten, zonder elkaar neer te steken.
 buildtoolbar_popup_obj_PetBird	Een kleine vriend om je gevangenen gezelschap te houden.\n -Vervult de behoeften Familie, Comfort en Luxe.
 buildtoolbar_popup_obj_SoftPillow	Verbetert de kwaliteit en het comfort van een bed nog meer met een zacht donzen kussen.\n -Vervult de behoeften Comfort en Slaap.
-buildtoolbar_popup_obj_BoxingRing	Een fitnessruimte in een gevangenis kan niet zonder. De meeste gevangenen verven het liefst op dit canvas.\n -Vervult de behoeften Sport en Vermaak.
+buildtoolbar_popup_obj_BoxingRing	Een fitnessruimte in een gevangenis kan niet zonder. De meeste gevangenen verven het liefst op dit canvas.
 buildtoolbar_popup_obj_DumbbellRack	Voor gevangenen die gespierd willen worden.\n -Vervult de behoefte Sport.
 buildtoolbar_popup_obj_Treadmill	Om gevangenen mee fit te houden. Gevangenen die hard trainen, worden misschien zelfs snellere renners.\n -Vervult de behoefte Sport.
 buildtoolbar_popup_obj_Fan	Een ouderwetse staande ventilator die de lucht in de directe omgeving een beetje afkoelt.
@@ -1344,7 +1344,7 @@ customSector_subtitle	Deze beveiligingssector laat het volgende toe:
 # =============================================================================
 
 roomgrading_messaging	Het upgraden van deze ruimte verbetert ook het cijfer van deze beveiligingssector.
-roomGrading_prisonerTransfer	Upgrades motiveren gevangenen ALLEEN als de DLC “Cleared For Transfer” geïnstalleerd is en de optie “Gevangenen overplaatsen” is ingeschakeld in de kaartinstellingen.
+roomGrading_prisonerTransfer	Upgrades motiveren gevangenen ALLEEN als de DLC “Overplaatsing goedgekeurd” geïnstalleerd is en de optie “Gevangenen overplaatsen” is ingeschakeld in de kaartinstellingen.
 
 roomgrading_Cell_BadWalls	[*E] Omringd door deprimerende muren
 roomgrading_Cell_OutsideWindow_Large	[*E]*Y Groot raam
@@ -1402,7 +1402,7 @@ sectorGrading_description	Hieronder staat een overzicht van de beoordeling van d
 sectorGrading_encouragement	Hoe groter het verschil in cijfers tussen *X en deze sector, hoe eerder *X gevangenen bereid zijn om te hervormen en zich te gedragen om kans te maken op overplaatsing naar deze lagere beveiligingssector.
 sectorGrading_discouragement	Je kunt het cijfer van *X ook verlagen door privileges en comfort weg te halen voor een soortgelijke effect, maar daarmee loop je het risico om de gevangenen boos te maken.
 
-sectorGrading_transferNote	(OPMERKING: gevangenen die gemotiveerd zijn om overgeplaatst te worden, treden ALLEEN in werking als de DLC “Cleared For Transfer” geïnstalleerd is en de optie “Gevangenen overplaatsen” is ingeschakeld in de kaartinstellingen.)
+sectorGrading_transferNote	(OPMERKING: gevangenen die gemotiveerd zijn om overgeplaatst te worden, treden ALLEEN in werking als de DLC “Overplaatsing goedgekeurd” geïnstalleerd is en de optie “Gevangenen overplaatsen” is ingeschakeld in de kaartinstellingen.)
 
 sectorGrading_privilegesTitle	Privileges gevangenen
 sectorGrading_visitation	[+*X] Bezoek
@@ -1794,9 +1794,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	Maak paden waarmee gevangenen en pers
 buildtoolbar_popup_uts_ScannerMonitor	Een monitor waarmee een bewaker smokkelwaar kan bespeuren als deze is aangesloten op een scannermachine. Hoe goed een bewaker smokkelwaar kan bespeuren, hangt af van hoe vermoeid hij is.
 buildtoolbar_popup_uts_ScannerMachine	Een machine voor leveringszones en opslagruimtes die houten kisten scant op smokkelwaar. Moet aangesloten zijn op een scannermonitor voordat een bewaker smokkelwaar kan bespeuren. Hoe goed een bewaker smokkelwaar kan bespeuren, hangt af van hoe vermoeid hij is.
 buildtoolbar_popup_obj_Checkpoint	Een controlepuntstation om gevangenen en bezoekers te controleren die erdoorheen lopen. Gevangenen kunnen slechts vanaf één kant door het controlepunt, zolang er een bewaker aanwezig is.
-buildtoolbar_popup_mat_waterShallow	Maak ondiepe waterzones om mooiere oevers te maken tussen zand- en watervloeren. Je kunt over deze tegels lopen, in tegenstelling tot gewoon water. - $*A (alleen buiten)
-buildtoolbar_popup_mat_waterLarge	Maak grote waterzones, meren en oceanen. - $*A (alleen buiten)
-buildtoolbar_popup_mat_WoodenDockFloor	Een stevige houten vloer, ideaal voor een werf. - $*A (alleen buiten)
+buildtoolbar_popup_mat_waterShallow	Maak ondiepe waterzones om mooiere oevers te maken tussen zand- en watervloeren. Je kunt over deze tegels lopen, in tegenstelling tot gewoon water.
+buildtoolbar_popup_mat_waterLarge	Maak grote waterzones, meren en oceanen.
+buildtoolbar_popup_mat_WoodenDockFloor	Een stevige houten vloer, ideaal voor een werf.
 Zorgt	dat gevangenen en personeel land en water over kunnen steken.
 Zorgt	dat gevangenen en personeel land en water over kunnen steken.
 Zorgt	dat gevangenen en personeel land en water over kunnen steken.
@@ -2707,8 +2707,8 @@ d11_researchhint_l_farming	Dit onderzoek ontgrendelt verschillende landbouwfunct
 object_quickconnect	Snel verbinden
 objective_GoingGreenInfo_child_1	De belangrijkste kenmerken van 'Ga voor groen!' staan hieronder. Als je met je cursor op een ondertitel gaat staan, kun je een omschrijving en uitleg zien van elke functie.
 d11_cropDistributionHint	Klik met rechts: distributie beheren
-dlc_name_psychWard	Psych Ward
-dlc_name_prisonWing	Cleared For Transfer
+dlc_name_psychWard	Psychiatrische afdeling
+dlc_name_prisonWing	Overplaatsing goedgekeurd
 dlc_name_seaAirLand	Bajeseiland
 dlc_name_greenMachine	Ga voor groen!
 material_SellFlooring	Verkoop vloeren
@@ -2739,7 +2739,7 @@ objectiveWindow_FilterButton_1_title	Ga voor groen!
 objectiveWindow_FilterButton_0_tooltip	Lopende taken
 objectiveWindow_FilterButton_1_tooltip	Een verzameling informatie die de belangrijkste kenmerken van Ga voor groen beschrijft en uitlegt
 escapemode_info_board	Veerboot instappen
-objective_HelpEnvironmentallyFriendly	환경친화
+objective_HelpEnvironmentallyFriendly	Milieuvriendelijk
 object_OxStatue	Ossenstandbeeld
 object_PaperDragonHead	Draak (hoofd)
 object_PaperDragonBody	Draak (lichaam)
@@ -3075,19 +3075,19 @@ uniform_color_14	Zalmroze
 uniform_color_15	Lichtpaars
 uniform_color_16	Paars
 uniform_color_17	Limoengroen
-uniform_color_18	Hardroze
-uniform_color_19	Aqua
-uniform_color_20	Gun Metal
+uniform_color_18	Felroze
+uniform_color_19	Aquamarijn
+uniform_color_20	Metaalgrijs
 uniform_color_21	Zand
-uniform_color_22	Burgundy
-uniform_color_23	Spoeling
+uniform_color_22	Wijnrood
+uniform_color_23	Slijk
 uniform_color_24	Zuur
 uniform_color_25	Storm
-uniform_color_26	Paars
+uniform_color_26	Violet
 uniform_color_27	Vuil
 uniform_color_28	Staal
 uniform_color_29	Lila
-uniform_color_30	Egg Shell
+uniform_color_30	Gebroken wit
 uniform_color_31	Oceaan
 uniform_color_32	Pap
 object_TherapyAnimal	Therapiedier
@@ -3243,7 +3243,7 @@ d11_reform_program_pass_rate	Slagingspercentage hervormingsprogramma
 d11_reform_released_prisoners_design_info	Wanneer een gevangene wordt vrijgelaten uit de gevangenis, word je op de hoogte gehouden van zijn handelingen, afhankelijk van of hij is gerecidiveerd of hervormd en werk heeft gevonden. Op basis daarvan wordt je gevangenis respectievelijk beloond of beboet.
 d11_reform_prisoners_action_reformed	HERVORMD!
 d11_reform_prisoners_action_reoffended	GERECIDIVEERD!
-d11_reform_prisoners_action_reoffended_returned	is teruggestuurd naar je gevangenis.
+d11_reform_prisoners_action_reoffended_returned	*X is teruggestuurd naar je gevangenis.
 d11_reform_prisoners_outcome_reformed	Heeft werk gevonden in een *X in de stad.
 d11_reform_prisoners_outcome_reoffended	Is gearresteerd en wordt teruggestuurd naar de gevangenis.
 d11_reform_prisoners_outcome_reoffended_returned	Wees voorzichtig, want gevangenen worden gevaarlijker naarmate ze vaker gevangen zitten.
@@ -3439,7 +3439,7 @@ objective_HelpCalamities_child_3	Hittegolf
 object_BoomBoxRoundHouse	Boombox
 weather_CalamityHeatwave	Hittegolf
 d11_staffalert_title_CalamityHeatwave01	Hittegolf
-report_Coverage	DEKKING
+report_Coverage	Dekking
 d11_coverage_staff_only	Alleen personeel
 codex_new_weathertype_disabled	Uit
 d11_on	AAN
@@ -3671,10 +3671,11 @@ objective_grant_subsidence_description	Herstel alle schade die de gevangenis hee
 objective_grant_subsidence_hire	Huur de reparateurs in om beschadigde muren en omheiningen te repareren.
 objective_grant_utilityretrofit	Subsidie voor aanpassing van voorzieningen
 objective_grant_utilityretrofit_description	Een plaag kan leiden tot ernstige problemen voor de productiviteit van plaatselijke bedrijven. Er is een subsidie beschikbaar gesteld voor plaatselijke bedrijven om hun voorzieningen te beschermen.
-objective_grant_utilityretrofit_build	Bouw 50 tegels aan zware elektriciteitskabels.
+objective_grant_utilityretrofit_build	Bouw 50 tegels aan kabelbeschermers
 calamity_grants_onboarding	Het weer is de laatste jaren onvoorspelbaarder geworden. Deze keer hadden we geluk, maar de gevangenis moet op alles voorbereid zijn. Sommige subsidies worden na slecht weer aan plaatselijke bedrijven aangeboden. Ik vertrouw erop dat je er gebruik van zult maken als ze beschikbaar zijn.
 grant_category_CollapsedWallFence	Ingestort hek:
 grant_category_HasObject	Heeft:
+grant_category_EverHadObject	Heeft:
 grant_category_CalamityHappened	Calamiteit opgetreden:
 action_brewing	Aan het brouwen
 action_electricalsabotaging	Aan het saboteren
@@ -3832,6 +3833,362 @@ buildtoolbar_stayIndoorsCalamity	Calamiteit
 buildtoolbar_popup_uts_WeatherMachine	De weermachine biedt een geavanceerde weersvoorspelling. Hij voorspelt de duur, de temperatuur, de neerslag, de windsnelheid en de zichtbaarheid. Bovendien geeft hij een countdown voor elk verontrustend weersvoorval dat op komst kan zijn.
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	Een dubbele deur die door personeel gebruikt kan worden.
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	Een dubbele deur die door personeel gebruikt kan worden.
-codex_tooltip_startingSeason    Kies je startseizoen. Het weer zal zich op natuurlijke wijze in de loop van de seizoenen ontwikkelen.
-object_AirPestControlHeli					Luchtongediertebestrijding
+codex_tooltip_startingSeason	Kies je startseizoen. Het weer zal zich op natuurlijke wijze in de loop van de seizoenen ontwikkelen.
+object_AirPestControlHeli	Luchtongediertebestrijding
 
+codex_option_default	Standaard
+dlc_name_kimber	Bendes
+quickbuild_Gymnasium	Fitnessruimte
+boilingpoint_Needs	Behoeften
+boilingpoint_ProgramCompletion	Programma's voltooid
+boilingpoint_RoomQuality	Kamerkwaliteit
+buildtoolbar_popup_help_BoilingPoint_3	^Tips
+securitymenu_popup_recentMisconduct	Recent wangedrag:
+securitymenu_PrisonerTypeDefault	Standaard
+securitymenu_PrisonerTypeDangerous	Gevaarlijk
+rapsheet_assignguard	Bewaker toewijzen
+buildtoolbar_popup_help_securitymenu_4	^Tips
+objective_HelpPrograms	Programma's
+objective_grant_positiveEnergyGrant_yard	Bouw een luchtplaats
+gang_green	Groen
+d11_gang_bonebreakers_goal	Vandalisme
+d11_gang_misconduct	Wangedrag:
+d11_heatmap_deaths	Sterfgevallen:
+interface_action_CleanGraffiti	Schoonmaken
+schedulesearch_menu_Frequency	Frequentie
+reputation_Resourceful	Vindingrijk
+action_Withdrawal	Ontwenningsverschijnselen
+action_ListenToRadio	Luistert naar radio
+codex_option_plotType	Soort perceel
+codex_tooltip_plotType	Hiermee kun je een specifiek startperceel genereren. Standaard heeft aarde en gras, Jungle lijkt op een dichte jungle, Besneeuwd zal bedekt zijn met sneeuw, Woestijn zal een zandwoestijn zijn, Maan lijkt op een maanoppervlak, Eiland zal omgeven zijn door water en een aanlegplaats gebruiken in plaats van een weg, en Verbonden eiland zal omgeven zijn door water met een brug die verbonden is met de weg.
+survey_letter_1	Beste gevangenisdirecteur,\n\n\nBedankt voor uw deelname aan het testen van de nieuwe functies en systemen van de gevangenis.\n\nAls algemeen directeur is het mijn verantwoordelijkheid om feedback te verzamelen van alle gevangenisdirecteuren om de ervaring verder te verbeteren.\n\nIk zou het op prijs stellen als u een paar minuten de tijd zou willen nemen om de enquête in te vullen die ik voor u heb gemaakt.\n\nAlgemeen directeur,\nPrison Architects Corp.
+survey_letter_2	Geachte gevangenisdirecteur,\n\n\nNogmaals bedankt voor uw doorlopende deelname aan het testen van de nieuwe functies en systemen van de gevangenis.\n\nNu er meer tijd is voor het testen van de nieuwe functies en systemen, zou ik het op prijs stellen als u feedback geeft in deze enquête.\n\nAlgemeen directeur,\nPrison Architects Corp.
+object_Beagle	Beagle
+buildtoolbar_popup_obj_Beagle	Deze waakhonden houden wel van een hapje.
+object_Doberman	Dobermann
+buildtoolbar_popup_obj_Doberman	De dobermann is de ultieme politiehond.
+object_ChocolateLabrador	Bruine labrador
+buildtoolbar_popup_obj_ChocolateLabrador	Houdt ervan om nieuwe vrienden te maken, vooral als die vriend wegrent.
+object_BlackShepherd	Zwarte Duitse herder
+buildtoolbar_popup_obj_BlackShepherd	Ze lijken misschien schattig, maar ze roeien iedereen uit die in de weg staat.
+object_TattooRemovalMachine	Machine voor verwijdering tatoeages
+buildtoolbar_popup_obj_TattooRemovalMachine	Dit voorwerp is onmisbaar voor het hervormen van een bendelid. Het verwijderen van hun tatoeages is de eerste stap van hun hervorming.
+object_MetalStool	Metalen kruk
+buildtoolbar_popup_obj_MetalStool	Een mooi metalen krukje.
+equipment_TattooRemovalTool	Gereedschap voor verwijdering tatoeages
+room_TheCage	De kooi
+buildtoolbar_popup_room_TheCage	Een buitenapparaat dat door één gevangene gebruikt kan worden om te oefenen, afgezonderd van andere gevangenen.
+quickbuild_TheCage	De kooi
+buildtoolbar_quickbuild_TheCage	Een buitenapparaat dat door één gevangene gebruikt kan worden om te oefenen, afgezonderd van andere gevangenen.
+material_CageFence	Kooihek
+buildtoolbar_popup_mat_CageFence	Een hek dat bedoeld is om gevangenen tegen te houden terwijl ze oefeningen doen.
+room_TattooRemovalRoom	Tatoeageverwijderingsruimte
+buildtoolbar_popup_room_TattooRemovalRoom	Waar je gevangenen hun bendetatoeages op pijnlijke en vervelende wijze kunnen laten verwijderen.
+quickbuild_TattooRemovalRoom	Tatoeageverwijderingsruimte
+buildtoolbar_quickbuild_TattooRemovalRoom	Waar je gevangenen hun bendetatoeages op pijnlijke en vervelende wijze kunnen laten verwijderen.
+object_PullUpBars	Pull-up-stangen
+buildtoolbar_popup_obj_PullUpBars	Een goedkoop stuk fitnessapparatuur dat in trek is bij de meer geharde gevangenen.
+object_KneeRaise	Knie-oefening
+buildtoolbar_popup_obj_KneeRaise	Een goedkoop stuk fitnessapparatuur dat in trek is bij de meer geharde gevangenen.
+object_PushUpStones	Push-up-stenen
+buildtoolbar_popup_obj_PushUpStones	Een goedkoop stuk fitnessapparatuur dat in trek is bij de meer geharde gevangenen.
+object_GangGraffiti	Bendegraffiti
+d11_hover_info_gang_graffiti_1	Bendeleden zijn 15% sterker in territorium
+d11_hover_info_gang_graffiti_2	Bendeleden zijn 15% taaier in territorium
+object_FightRing	Vechtring
+buildtoolbar_popup_obj_FightRing	Als je gevangenen in de ring vechten, vechten ze niet in de gevangenis.\n -Vervult de behoeften Sport en Vermaak.
+quickbuild_FightClubRoom	Vechtclubruimte
+buildtoolbar_quickbuild_FightClubRoom	Deze kamer bestaat in feite niet.
+room_FightClubRoom	Vechtclubruimte
+buildtoolbar_popup_room_FightClubRoom	Deze kamer bestaat in feite niet.
+object_CageGate	Kooipoort
+buildtoolbar_popup_obj_CageGate	Een poort die goed werkt met hekken. Werkt hetzelfde als een deur.
+buildtoolbar_popup_obj_RemoteDoor	Deze deur is gemaakt voor gebruik met een werkende Servo. Zorg ervoor dat je voldoende bewakers hebt om de in- en uitgangen van dit soort deuren te controleren of installeer drukpads.
+object_RemoteDoorOrange	Op afstand bedienbare deur (oranje)
+buildtoolbar_popup_obj_RemoteDoorOrange	Deze deur is gemaakt voor gebruik met een werkende Servo. Zorg ervoor dat je voldoende bewakers hebt om de in- en uitgangen van dit soort deuren te controleren of installeer drukpads.
+object_RemoteDoorRed	Op afstand bedienbare deur (rood)
+buildtoolbar_popup_obj_RemoteDoorRed	Deze deur is gemaakt voor gebruik met een werkende Servo. Zorg ervoor dat je voldoende bewakers hebt om de in- en uitgangen van dit soort deuren te controleren of installeer drukpads.
+object_RemoteDoorYellow	Op afstand bedienbare deur (geel)
+buildtoolbar_popup_obj_RemoteDoorYellow	Deze deur is gemaakt voor gebruik met een werkende Servo. Zorg ervoor dat je voldoende bewakers hebt om de in- en uitgangen van dit soort deuren te controleren of installeer drukpads.
+object_RemoteDoorWhite	Op afstand bedienbare deur (wit)
+buildtoolbar_popup_obj_RemoteDoorWhite	Deze deur is gemaakt voor gebruik met een werkende Servo. Zorg ervoor dat je voldoende bewakers hebt om de in- en uitgangen van dit soort deuren te controleren of installeer drukpads.
+object_GymInstructor	Fitnessinstructeur
+object_FilingCabinetFancy	Archiefkast (luxe)
+buildtoolbar_popup_obj_FilingCabinetFancy	Beloon je personeelsleden door ze een luxe archiefkast te geven.
+material_LongGrass	Hoog gras
+codex_tooltip_gangsEnhanced	Je kunt nu bepalen of nieuwe gevangenen lid worden van bendes. Als je meer bendes in je gevangenis hebt, kunnen bendes sneller rekruteren en wordt je gevangenis chaotischer en gevaarlijker.\n\n Klassiek - Ervaar de moeilijkheidsgraad van bendes zoals die voorheen was (Beginner) \n 'Laag' (Standaard) - Ideaal voor beginnende of gemiddelde spelers \n Medium - Ervaren spelers \n Hoog - Zeer ervaren spelers die op zoek zijn naar een flinke uitdaging
+codex_tooltip_morelieutenants	Luitenants spelen een grote rol in het veroveren van nieuw territorium voor hun bende. Als je wilt dat bendes actiever worden, overweeg dan om het aantal leden per luitenant te verminderen. Kies alleen aantallen kleiner dan 6 als je een uitdaging wilt.
+codex_option_morelieutenants	Meer luitenants
+codex_tooltip_codex_option_morelieutenants	Luitenants spelen een grote rol in het veroveren van nieuw territorium voor hun bende. Als je wilt dat bendes actiever worden, overweeg dan om het aantal leden per luitenant te verminderen. Kies alleen aantallen kleiner dan 6 als je een uitdaging wilt.
+codex_option_GangSpecialReputations	Speciale bendereputaties
+codex_tooltip_GangSpecialReputations	Bendes krijgen nieuwe reputaties die de manier veranderen waarop leden zich gedragen in je gevangenis.
+codex_option_AllDogs	Alle honden
+codex_tooltip_AllDogs	Als je deze optie kiest worden alle beschikbare honden ingeschakeld en wordt personeel willekeurig aangenomen.
+codex_tooltip_RandomWardens	Als je deze optie kiest wordt er een willekeurige gevangenisdirecteur voor je gekozen.
+interfacecontraband_BoilingPoint	Kookpunt
+buildtoolbar_contraband_BoilingPoint	Toont verbeterpunten voor ontevreden gevangenen.
+boilingpoint_header	KOookpunt
+boilingpoint_OverallTemperature	Algemene temperatuur
+boilingpoint_StatusEffects	Status-effecten
+boilingpoint_OverallTemperature_popup	Er zijn een paar dingen die wij niet in de hand hebben rondom het tevreden houden van onze gevangenen, zoals hun persoonlijkheden of het aantal veroordelingen dat ze hebben. Hoe kwader elke gevangene wordt, hoe hoger de gevangenistemperatuur zal zijn, en hoe groter de kans dat ze zich zullen misdragen.
+boilingpoint_Needs_popup	Je hebt momenteel *X gevangenen die niet aan hun behoeften kunnen voldoen.\n\nZorg dat ze toegang hebben tot kamers of voorwerpen om hun behoeften te vervullen.
+boilingpoint_ProgramCompletion_popup	Je hebt momenteel *X gevangenen die geen enkel programma hebben voltooid.\n\nHoe meer programma's een gevangene heeft voltooid, hoe waarschijnlijker het is dat hij of zij rustig blijft. Voeg wat programma's toe zodat ze kunnen deelnemen, en zorg ervoor dat hun dagrooster het toelaat. Sommige programma's kunnen herhaald worden.
+boilingpoint_StatusEffects_popup	Je hebt momenteel *X gevangenen die last hebben van negatieve effecten.\n\nMisschien moet je smokkelwaar beter in de gaten houden, met name alcohol en drugs.\n\nAls gevangenen positieve effecten hebben, zullen ze zich minder snel misdragen.
+boilingpoint_RoomQuality_popup	Je hebt momenteel *X gevangenen met een slechte kamer.\n\nVerbeter de kwaliteit van hun kamers zodat ze gelukkiger en rustiger kunnen zijn. Sommige gevangenen komen niet in aanmerking voor kamers van hoge kwaliteit. Je kunt strafaanpassingen gebruiken om de eisen te verlagen.
+buildtoolbar_popup_help_BoilingPoint_1	De kookpuntweergave toont de huidige gevangenistemperatuur. Dit menu belicht problematische punten in onze gevangenis, zoals celkwaliteit, behoeften, status-effecten en de mate van programmadeelname.\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~Als je een bepaalde gevangene nog steeds niet onder controle kunt houden, kun je diegene in opsluiting of eenzame opsluiting plaatsen om af te koelen.\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- Zorg dat alle gevangenen toegang hebben tot hun basisbehoeften.
+buildtoolbar_popup_help_BoilingPoint_5	- Investeer in hervormings-, therapie-, behandelings- en werkprogramma's en zorg dat hun dagroosters hen toestaan om daaraan deel te nemen.
+buildtoolbar_popup_help_BoilingPoint_6	- Licht beveiligde gevangenen hebben een hogere tolerantie, aangezien ze kortere straffen hebben.
+boilingpoint_advisor_onboarding	Deze gevangene is opstandig en lijkt zijn kookpunt bereikt te hebben. Misschien doen we niet genoeg voor onze gevangenen. Zorg ervoor dat ze in hun behoeften worden voorzien, verbeter hun leefomstandigheden en geef ze iets te doen. Bekijk het kookpunt-inlichtingenmenu voor meer informatie.
+interfacecontraband_SecurityMenu	Beveiligingsmenu
+buildtoolbar_contraband_SecurityMenu	Bekijk een lijst van alle gevangenen die als gevaarlijk of bedreigd worden beschouwd en pas veiligheidsmaatregelen toe voor alle gevangenen die meer zorg nodig hebben.
+securitymenu_header	Beveiligingsmenu
+securitymenu_popup_prisonerSelect	Klik met links om gevangene te selecteren
+securitymenu_popup_dangerousReputations	Gevaarlijke reputaties:
+securitymenu_popup_dangerousTraits	Gevaarlijke eigenschappen:
+securitymenu_popup_crimesCommitted	Misdaden:
+securitymenu_PrisonerType	Soort gevangene:
+securitymenu_PrisonerTypeVulnerable	Kwetsbaar
+securitymenu_MarkingTypeUnmarked	Ongemarkeerd
+securitymenu_SelectArea	Gebied selecteren
+securitymenu_SelectAreaCancel	Selectie annuleren
+securitymenu_RestrictAccess	Toegang beperken:
+securitymenu_TransferPrisoners	Gevangene(n) overzetten:
+securitymenu_transferSecurityLevel	Beveiligingsniveau
+securitymenu_GuardAssignment	Toewijzing bewaker:
+securitymenu_MarkPrisoner	Gevangene markeren:
+securitymenu_RemovePrisoner	Gevangene verwijderen:
+securitymenu_RemovePrisonerButton	Gevangene verwijderen
+securitymenu_RemovedPrisoner	Gevangene verwijderd
+securitymenu_RemovePrisoner_message	Gevangene verwijderen\n\nDit is het laatste redmiddel om de ergste overtreders aan te pakken. Tegen een flinke vergoeding kun je deze gevangene naar een aparte instelling sturen. Deze actie kan slechts om de 5 dagen worden uitgevoerd.
+securitymenu_RestrictAccess_tooltip	Blokkeer de ingang naar bepaalde gebieden en sta niet toe dat geselecteerde gevangenen toegang krijgen zonder dat bewakers ze proberen te bedwingen. Bendeleden kunnen niet geweerd worden uit hun eigen gebieden/territorium.
+securitymenu_TransferPrisoner_tooltip	Verplaats geselecteerde gevangenen naar een specifiek beveiligingssysteem om ze beter te beheren.
+securitymenu_MarkPrisoner_tooltip	Voorzie geselecteerde gevangenen van een merkteken, zodat je personen die gevaarlijker zijn of die zelf in gevaar zijn, beter in het oog kunt houden.
+rapsheet_assignguard_end	Bewaker niet meer toewijzen
+job_PrisonerAssignment	Toewijzing gevangenen
+assignment_confirm_message	Wil je een bewaker toewijzen?
+assignment_description_message	Als je deze gevangene in de gaten wilt houden, kun je het beste een bewaker toewijzen. Zorg ervoor dat je genoeg bewakers beschikbaar hebt.
+assignment_error_message	De gevangene kan momenteel niet worden toegewezen aan een bewaker. Probeer het later opnieuw.\n\nDeze is net aangekomen, geboeid of in opsluiting.
+buildtoolbar_popup_help_securitymenu_1	In het beveiligingsmenu staan alle gevangenen die als gevaarlijk of kwetsbaar worden beschouwd. Via dit menu kunnen bepaalde acties op gevangenen worden toegepast om meer ondersteuning te bieden en een beter beheer van deze gevangenen mogelijk te maken.\n\n
+buildtoolbar_popup_help_securitymenu_2	~Standaard worden gevaarlijke en kwetsbare gevangenen samen in de lijst opgenomen, maar met de optie 'Soort gevangene' kun je acties toepassen op specifieke groepen.\n\n
+buildtoolbar_popup_help_securitymenu_3	~Sommige acties kunnen worden toegepast op een groep, terwijl andere alleen kunnen worden toegepast op bepaalde individuen. Markeer en klik met de linkermuisknop op een gevangene om die te selecteren.\n\n
+buildtoolbar_popup_help_securitymenu_5	- Het toewijzen van bewakers helpt om gevangenen te beschermen tegen andere. Tegelijkertijd houden ze een oogje in het zeil om wangedrag te voorkomen. Bewakers blijven niet bij de gevangene tijdens hun privétijd, zoals slaap- en doucheperioden.
+buildtoolbar_popup_help_securitymenu_6	- Als een gevangene te veel problemen veroorzaakt in je gevangenis en te moeilijk is om mee om te gaan, kun je die wegsturen met de optie 'Gevangene verwijderen'. Deze actie heeft een afkoelperiode en kan niet elke dag worden uitgevoerd, en kost daarnaast ook geld.
+objectiveWindow_FilterButton_4_title	Over bendes
+objectiveWindow_FilterButton_4_tooltip	Alles wat je moet weten over bendes
+objective_HelpGangBehaviourAndType	Bendegedrag
+objective_HelpGangBehaviourAndType_Description	Er zijn nieuwe bendes toegevoegd die zich elk net iets anders gedragen.
+objective_HelpGangBehaviourAndType_child_1	Adders
+objective_HelpGangBehaviourAndType_child_1_Description	De Adders zijn een verraderlijke bende die zich toelegt op het infecteren van hun gevangenissen met de drugs die zij beheersen, terwijl ze op individueel niveau ook levensgevaarlijk zijn.
+objective_HelpGangBehaviourAndType_child_2	Bottenkrakers
+objective_HelpGangBehaviourAndType_child_2_Description	De Bottenkrakers zijn een soort gespierde schurken die zich meer richten op geweld en vandalisme dan op iets anders.
+objective_HelpGangBehaviourAndType_child_3	Jakhalzen
+objective_HelpGangBehaviourAndType_child_3_Description	De Jakhalzen zijn de meest vindingrijke bende. Ze richten zich op territoriumcontrole en smokkelhandel om hun financiële macht te vergroten.
+objective_HelpGangActivities	Bendeactiviteiten
+objective_HelpGangActivities_Description	De activiteiten van de bende zijn onder andere het runnen en beheren van hun eigen territorium, het uitschakelen van belangrijke leden van de gevangenis, het stellen van eisen aan de speler, en soortgelijke acties.
+objective_HelpGangActivities_child_1	Gespecialiseerde activiteiten
+objective_HelpGangActivities_child_1_Description	Elke bende neemt deel aan gespecialiseerde activiteiten, afhankelijk van hun verschillende persoonlijkheden: de Adders concentreren zich op de productie en verkoop van drugs, de Bottenkrakers op gevechten en vandalisme, en de Jakhalzen meer op territorium en het vergaren van geld.
+objective_HelpGangActivities_child_2	Territoriumactiviteiten
+objective_HelpGangActivities_child_2_Description	Nieuwe territoriums brengen nieuw gedrag met zich mee. Bendes houden nu toezicht in de ruimtes die ze beheren, en zorgen ervoor dat de andere gevangenen zich gedragen en betalen voor het gebruik van de spullen binnen, zelfs onder werktijd. Bendeleden krijgen ook grote hoeveelheden smokkelwaar in handen, afhankelijk van de ruimte die ze beheren, met 'dealers' die deze spullen aan andere gevangenen verkopen.
+objective_HelpGangActivities_child_3	Bende-eisen
+objective_HelpGangActivities_child_3_Description	Zodra een bende genoeg macht en vertrouwen heeft in de gevangenis, zullen ze bepaalde eisen gaan stellen. Deze eisen zullen variëren van het verkrijgen van nieuwe uitrusting tot meer tijd in de luchtplaats of meer vrije tijd, waarbij de speler een bepaalde hoeveelheid tijd heeft om aan deze eisen te voldoen. Als de speler deze eisen niet inwilligt, zullen de represailles onmiddellijk beginnen, waarbij de bende meestal een vorm van vernieling of geweld zal veroorzaken.
+objective_HelpCrookedGuards	Corrupte bewakers
+objective_HelpCrookedGuards_Description	Hoewel we ons dappere personeel graag als zuiver en onwankelbaar beschouwen, is dat helaas niet altijd het geval.
+objective_HelpCrookedGuards_child_1	Omkoping van bewakers
+objective_HelpCrookedGuards_child_1_Description	Alle soorten bewakers kunnen worden omgekocht om 48 uur lang de andere kant op te kijken bij bepaald wangedrag, waardoor gevangenen zelfs hun smokkelwaar behouden als ze worden betrapt en het voor bendes makkelijker wordt om gebieden over te nemen. Gelukkig kan met behulp van informanten worden gewezen op verdachte bewakers, waardoor de speler de kans krijgt om corrupte bewakers te ontslaan.
+objective_HelpCrookedGuards_child_2	Corruptie van bewakers
+objective_HelpCrookedGuards_child_2_Description	Sommige bewakers kunnen corrupt worden door te veel interactie met bendeleden, waarbij ze betaald worden om smokkelwaar voor bendes binnen te smokkelen. Informanten kunnen verdachte bewakers voor je markeren, terwijl smokkelwaardetectors en waakhonden deze smokkelwaar ook kunnen vinden terwijl de bewakers die bij zich dragen.
+objective_HelpGangIntelligence	Bende-inlichtingen
+objective_HelpGangIntelligence_Description	Met zoveel potentieel voor wangedrag binnen een gevangenis, is informatie altijd de sleutel tot veiligheid binnen je instelling. Het bende-inlichtingenmenu biedt informatie over elke bende in je gevangenis, met een lijst van het aantal leden, hun fondsen en een lijst van hun wangedrag tijdens hun verblijf in de gevangenis. Het laat ook bewegingen of activiteiten zien waaraan elke bende deelneemt om het gevaarniveau van elke bende weer te geven.
+objective_HelpSecurityOptions	Beveiligingsopties
+objective_HelpSecurityOptions_Description	Er wordt een lijst van 'belangrijke gevangenen' weergegeven in een nieuw menu, met alle gevangenen die bedreigd worden door anderen of zelf een gevaar zijn voor anderen. Met dit menu kunnen gevangenen gemarkeerd worden die extra aandacht nodig hebben, zodat ze makkelijker te volgen zijn tijdens het spelen, of tijdens andere acties zoals het beperken van de toegang van een gevangene tot bepaalde gebieden, het overplaatsen van groepen naar specifieke beveiligingsniveaus, en zelfs het verwijderen van problematische gevangenen door ze naar een andere faciliteit te sturen, al moet je daarvoor wel een flinke boete betalen.
+objective_HelpPrograms_Description	Om je gevangenen te helpen beveiligen en ondersteunen, kunnen bewakers nu een nieuwe training volgen zodat ze gemakkelijk een gevangene kunnen ontwapenen. Gevangenen hebben ook nieuwe programma's tot hun beschikking, met recreatieprogramma's die helpen bij hun hervorming en hen anderszins proberen te kalmeren of hun stress te verlichten. Daarnaast zijn er ook rehabilitatieprogramma's die helpen gevangenen weg te leiden van het bendeleven en hun straf op een vreedzamere en constructievere manier te uit te zitten.
+objective_grant_positiveEnergyGrant	Positieve energie
+objective_grant_positiveEnergyGrant_Description	Bendeleden moeten hun geest (en hun energie) richten op lichaamsbeweging in plaats van geweld. Onderzoek heeft aangetoond dat lichaamsbeweging dergelijke acties vermindert. Zet buiten in de tuin een fitnessapparaat neer.
+objective_grant_positiveEnergyGrant_bench	Voeg een halterbank toe
+objective_grant_advancedProtectionGrant	Geavanceerde bescherming
+objective_grant_advancedProtectionGrant_Description	De bescherming van personeel is van cruciaal belang bij de aanpak van georganiseerde bendes. We moeten zorgen dat ons personeel optimaal is opgeleid voor hun eigen veiligheid.
+objective_grant_advancedProtectionGrant_training	Train 20 bewakers in Ontwapening.
+objective_grant_gangWelfareGrant	Bendevoorspoed
+objective_grant_gangWelfareGrant_Description	Bendeoorlogen omzetten in bendevoorspoed is een grote prioriteit. Bendeleden maken een goede kans op hervorming als ze programma's volgen waarin ze leren dat leven achter zich te laten.
+objective_grant_gangWelfareGrant_exGangMembers	Hervorm 15 bendeleden tot voormalige bendeleden.
+objective_grant_exGangProtectionGrant	Beschermingsprogramma voormalige bendeleden
+objective_grant_exGangProtectionGrant_Description	De overheid biedt aan om een afzonderingsvleugel te bouwen om voormalige bendeleden te beschermen tijdens hun rehabilitatie.
+objective_grant_protectionCells	Bouw 10 cellen in een Alleen beveiligd-sector
+objective_grant_protectionShower	Bouw een doucheruimte in een Alleen beveiligd-sector
+objective_grant_protectionCanteen	Bouw een kantine in een Alleen beveiligd-sector
+objective_grant_protectionKitchen	Bouw een keuken in een Alleen beveiligd-sector
+objective_grant_protectionYard	Bouw een luchtplaats in een Alleen beveiligd-sector
+objective_grant_protectionGuards	Wijs een bewaker toe aan een Alleen beveiligd-sector
+objective_grant_protectionExGang	Wijs 1 voormalig bendelid toe aan het beveiligingsniveau In afzondering
+grant_category_adminHired	Administrateur aangenomen:
+reformprogram_TattooRemovalProgram	Tatoeageverwijderingsprogramma
+reformprogram_TattooRemovalProgram_text	Als je gevangenen spijt hebben van hun bendetatoeages, kun je hun hervorming bevorderen met sessies voor het verwijderen van tatoeages. Als een gevangene dit programma voltooit, wordt deze een doelwit.
+reformprogram_HandToHandCombat	Certificaat voor ontwapening
+reformprogram_HandToHandCombat_text	Een goede verdediging is de beste aanval. Train je bewakers in gevorderde technieken voor het ontwapenen van je gevangenen.
+reformprogram_GangRehabilitation	Bendehervorming
+reformprogram_GangRehabilitation_text	Als een bendelid te veel problemen veroorzaakt in de gevangenis, probeer diegene dan dit programma te laten volgen. Het is de eerste stap om de banden met diens bende te verbreken en een nieuwe weg in te slaan. Als de gevangene dit programma voltooit, wordt deze een doelwit. Soort aanleiding: geweld en vandalisme.
+reform_program_intake_ReferralGangViolenceDestruction	Aanleiding: alleen geweld- en vandalismebendes
+reform_program_intake_GangOnly	Alleen bendes
+reformprogram_FaithProgram	Geloofsprogramma
+reformprogram_FaithProgram_text	Gevangenen die aan dit intensieve programma deelnemen, zullen eerder bereid zijn hun slechte levensstijl vaarwel te zeggen en een beter leven te omarmen. Als ze dit programma hebben voltooid, willen ze misschien hun banden met hun bende wel verbreken.
+reformprogram_BreatheProgram	Ademhalingstherapie
+reformprogram_BreatheProgram_text	Leer je gevangenen hoe ze moeten ademen en ontspannen. Na elke les zullen je gevangenen zich een stuk kalmer voelen. Misschien zullen ze zich zelfs beter gaan gedragen.
+reformprogram_FightClub	Vechtclub
+reformprogram_FightClub_text	Deze trainingssessies geven je gevangenen de mogelijkheid om hun destructieve energie af te reageren in gevechten binnen een gecontroleerde omgeving. Misschien zijn ze na afloop wel te moe om te vechten. Wacht, wat was de eerste regel ook alweer?
+reform_program_properties_TeacherUsesSameEquipment	Leraar vereist een *X
+reform_program_properties_GangMemberCanAttend	Bendeleden kunnen deelnemen
+gang_vipers	De Adders
+gang_bonebreakers	De Bottenkrakers
+gang_jackals	De Jakhalzen
+gang_red	Rood
+gang_blue	Blauw
+gang_yellow	Voormalige bendeleden
+objective_GangDemand	Bende-eisen
+objective_GangDemand_description	Bendeleiders die zich aangemoedigd voelen, zullen een aantal eisen stellen om de kwaliteit van het leven in de gevangenis te verbeteren. Als niet aan deze eisen wordt voldaan, kan dat uitlopen op een rel, dus zorg dat je gevangenis hierop is voorbereid.
+GangDemand_announcement	Bendeleden zullen veel problemen veroorzaken als we niet aan hun eisen voldoen.
+objective_Gang_ContrabandToolsPunishment_child	*G - Verminder de straf voor het vinden van hulpmiddelen naar *X uur.
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G - Verminder de straf voor het vinden van hulpmiddelen naar Geen
+objective_Gang_MurderPunishment_child	*G - Verminder de straf voor moord naar *X uur.
+objective_Gang_MurderPunishment_Escalated_child	*G - Verminder de straf voor moord naar *X uur.
+objective_Gang_MoreYardTime_child	*G - Verhoog de tijd in de luchtplaats naar *X uur.
+objective_Gang_MoreYardTime_Escalated_child	*G - Verhoog de tijd in de luchtplaats naar *X uur.
+objective_Gang_PullUpBars_child	*G - Zorg dat je *X pull-up-stangen hebt.
+objective_Gang_PullUpBars_Escalated_child	*G - Zorg dat je *X pull-up-stangen hebt.
+objective_Gang_TyreApparatus_child	*G - Zorg dat je *X bandtoestellen hebt.
+objective_Gang_TyreApparatus_Escalated_child	*G - Zorg dat je *X bandtoestellen hebt.
+objective_Gang_PunchBag_child	*G - Zorg dat je *X bokszakken hebt.
+objective_Gang_PunchBag_Escalated_child	*G - Zorg dat je *X bokszakken hebt.
+objective_Gang_PushUpStones_child	*G - Zorg dat je *X push-up-stenen hebt.
+objective_Gang_PushUpStones_Escalated_child	*G - Zorg dat je *X push-up-stenen hebt.
+objective_Gang_RequireYard_child	*G - Zorg dat je een *X hebt.
+objective_Gang_RequireYard_Escalated_child	*G - Zorg dat je een *X hebt.
+objective_Gang_RequireLibrary_child	*G - Zorg dat je een *X hebt.
+objective_Gang_RequireLibrary_Escalated_child	*G - Zorg dat je een *X hebt.
+objective_Gang_RequireMailRoom_child	*G - Zorg dat je een *X hebt.
+objective_Gang_RequireMailRoom_Escalated_child	*G - Zorg dat je een *X hebt.
+d11_gangdemand_success	We hebben wat geld ontvangen voor het afhandelen van deze situatie.
+d11_gangdemand_fail	Zorg dat deze situatie niet nog een keer voorkomt.
+d11_gangCompensation	Compensatie voor bende
+d11_gang_goal	Bendedoel:
+d11_gang_jackals_goal	Gevangeniscontrole
+d11_gang_traits	Bende-eigenschappen:
+d11_gang_officer	Bendeofficieren:
+d11_gang_territories	Territoriums:
+d11_gang_kills	Bendemoorden:
+d11_heatmap_gang	Betrokken bende:
+d11_heatmap_day	Dag van voorval:
+d11_heatmap_time	Tijd van voorval:
+d11_gang_event_pr.gf	Bendegevecht
+d11_gang_event_g.tc	Territoriumwijziging
+gangSegregationMessage	Kies welke bendes gewoonlijk toestemming hebben om bepaalde gebieden te betreden.
+interfacedeployment_GangSegregation	Bendescheiding
+buildtoolbar_deployment_GangSegregation	Om een zekere mate van controle te hebben over de toewijzing van bendes, kunnen bendes worden toegewezen aan verschillende woonruimten, zodat ze uit elkaars buurt kunnen worden gehouden om onnodige aanstoot te voorkomen.
+research_StaffVetting	Personeel doorlichten
+researchtooltip_StaffVetting	Verkleint de kans dat nieuwe bewakers corrupt worden. Ontgrendelt Bewakersonderzoek, zodat je corrupte bewakers kunt opsporen met behulp van informanten.
+buildtoolbar_GuardInvestigation	Bewakersonderzoek
+buildtoolbar_tooltip_GuardInvestigation	Werk samen met je informanten en hoofd beveiliging om je bewakers in de gaten te houden en corruptie op te sporen. Hoe meer dekking je actieve informanten hebben, hoe meer corrupte bewakers je zult vinden. Je hoofd beveiliging moet niet bezig zijn met een programma of executie.
+buildtoolbar_CI_requirement	Minstens één informant
+guardinvestigation_underway	BEWAKERSONDERZOEK AAN DE GANG
+guardinvestigation_investigated	*A/*B bewakers onderzocht
+informant_investigating	Bezig met onderzoek
+crookedguard_fired_reward	Corrupte bewaker ontslagen
+crookedguard_advisor_onboarding	We hebben ontdekt dat een corrupte bewaker samenwerkt met een bende. Ik heb diegene gemarkeerd in het tabblad Personeel in je Verslagen. Zorg dat je die bewaker ontslaat.
+buildtoolbar_popup_staff_doghandler	Hondentrainers en hun hondenvrienden kunnen smokkelwaar bespeuren op gevangenen in de buurt.
+buildtoolbar_popup_staff_kimber_doghandler	Hondentrainers en hun hondenvrienden kunnen smokkelwaar bespeuren op gevangenen en corrupte bewakers in de buurt.
+d11_prisoner_replacement	Vervanging gevangene
+d11_prisoner_replacement_tooltip	De gevangenenpopulatie zal worden aangevuld tot het gewenste aantal, waarbij de verhouding tussen de beveiligingsniveaus zoveel mogelijk gelijk zal worden gehouden. Een eventueel overschot aan gevangenen zal worden aangevraagd volgens het standaardsysteem
+job_cleanupobject	*X schoonmaken
+interfacetopbar_tension_angrygangmembersgraffiti	+ *X BENDELEDEN ZIJN BOOS (omdat graffiti wordt verwijderd)
+interfacetopbar_tension_angrygangmembersleadercell	+ *X BENDELEDEN ZIJN BOOS (omdat leider naar slechtere cel wordt verplaatst)
+research_CCTVImprovement	Verbetering bewakingscamera's
+researchtooltip_CCTVImprovement	Verbeter het gebruik van je bewakingscamera's. Stelt je in staat gezichtsvelden van bewakingscamera's te zien, evenals gevangenen die zich misdragen in die gezichtsvelden.
+d11_cctv_cone	Gezichtsveld bewakingscamera
+d11_toggle_cctv_cone_detail	Zet gezichtsveld bewakingscamera's aan/uit
+d11_left_click_to_clean	Klik met links om schoon te maken
+d11_gang_graffiti_message	Bendes markeren hun territorium waardoor ze feller zijn bij het verdedigen ervan. Stuur een schoonmaker als het veilig is om de rotzooi op te ruimen. De bendes zullen niet blij zijn dat hun 'kunst' wordt verwijderd - ze kunnen wraak nemen.
+d11_gangBulkIntake_advisor_onboarding	De gevangeniscommissie brengt problematische gevangenen over naar andere gevangenissen met beter management. Ik vertrouw erop dat jullie deze nieuwe aanwinsten makkelijk aankunnen. Beoordelingen van gevangenen worden nu wekelijks uitgevoerd.
+d11_gangBulkIntake_staffAlert	Er komt een bus met bendeleden aan
+d11_gangdealer_advisor_onboarding	We hebben een dealer geïdentificeerd in bendeterritorium. Er is een grote som geld van diegene geconfisqueerd.
+d11_CI_advisor_onboarding	Werk samen met je informanten om corrupte bewakers bloot te leggen. Ze worden naar het hoofd beveiliging gestuurd om eventuele informatie te delen. Zorg dat je informanten geworven hebt. Bekijk het ?-pictogram in het inlichtingenmenu voor meer informatie.
+d11_LeaderAssassination_advisor_onboarding	Bendes worden te agressief en zijn van plan de leider van een andere bende te vermoorden. Als ze daarin slagen, zal het effect hebben op hun huidige territorium.
+d11_GangTargetting_advisor_onboarding	Bendeleden werken samen omdat ze gedeelde interesses hebben. Soms hebben ze ook iets tegen bepaalde misdrijven en zullen ze zich richten op personen die zich daaraan schuldig hebben gemaakt.
+d11_staffalert_title_making_move	Bende slaat zijn slag.
+d11_staffalert_summary_making_move	We hebben vernomen dat een bende zijn slag gaat slaan.
+d11_staffalert_summary_gangdealer	Er is een dealer ontdekt en je hebt $500 ontvangen als beloning
+d11_staffalert_summary_TerritoryPlacement	Deze kamer is geclaimd door een bende en is te gevaarlijk voor onze bouwvakkers. Stuur ze de kamer uit.
+crisisSector_CustomSearchArea	Aangepast zoekgebied
+crisisSector_ScheduleSearch	Aangepast rooster
+schedulesearch_menu_TargettedArea	Doelgebied
+schedulesearch_menu_StartTime	Begintijd
+schedulesearch_menu_ExistingSchedule	Huidige rooster
+schedulesearch_menu_CurrentTime	Huidige tijd
+schedulesearch_menu_CurrentFrequency	Huidige frequentie
+crisisSector_UnlockedOnly	Alleen ontgrendeld
+schedulesearch_menu_SaveSelection	Selectie opslaan
+reputation_Recruiter	Werver
+reputationtooltip_Recruiter	Als deze gevangene deel uitmaakt van een bende, is de kans groter dat andere gevangenen zich bij zijn bende aansluiten.
+reputationtooltip_Resourceful	Deze gevangene zal meer tijd besteden aan het lezen van boeken. Ook zal hij weten waar smokkelwaar te vinden is en deze misschien onderscheppen voor zijn bende.
+reputation_ExGangMember	Voormalig bendelid
+reputationtooltip_ExGangMember	Deze gevangene heeft besloten dat het bendeleven niets voor hem of haar is, maar de bende is hier niet blij mee.
+reputation_CunninglyBrutal	Listig en bruut
+reputationtooltip_CunninglyBrutal	De Adders zullen proberen doelwitten aan te vallen in blinde hoeken van de beveiliging.
+reputation_SneakThief	Dief
+reputationtooltip_SneakThief	Alle Jakhalzen kunnen zakkenrollen, ongeacht hun reputatie.
+reputation_BattleTendency	Neiging tot vechten
+reputationtooltip_BattleTendency	Als er meer Jakhalzen dan bewakers zijn in een vleugel van de gevangenis, zullen ze gewelddadiger zijn jegens het personeel in die vleugel.
+reputation_DisrepectSurroundings	Vandaal
+reputationtooltip_DisrepectSurroundings	Bottenkrakers zullen voorwerpen beschadigen als er niet aan hun behoeften wordt voldaan.
+reputation_UnderCoverDon	Undercoverbaas
+reputationtooltip_UnderCoverDon	De leider van de Adders zal zich voordoen als bendesoldaat, en alleen onthuld worden als hij wordt gestraft.
+reputation_Enforcer	Handhaver
+reputationtooltip_Enforcer	Deze gevangene zal andere gevangenen intimideren, tenzij ze tot dezelfde bende behoren. Ze zijn ook erg goed in het overnemen van territoriums voor bendes.
+reputation_GymRat	Fitnessfanaat
+reputationtooltip_GymRat	Bottenkrakers zullen hun vrije tijd doorbrengen in een fitnessruimte of luchtplaats.
+reputation_Loyal	Trouw
+reputationtooltip_Loyal	Deze gevangene zal niet snel uit de bende stappen en zich opwinden als hun bendeleider gestraft wordt.
+traits_violent	Gewelddadig
+traits_lethal	Dodelijk
+finance_cost_gangdealer	Ontmaskerde bendedealer
+object_PrisonerLetter	Brief van gevangene
+object_LoveLetter	Liefdesbrief
+object_LoveLetterOpened	Liefdesbrief (geopend)
+interface_prisonerWritingLetter	Schrijft brief naar familie
+interface_prisonerWritingLoveLetter	Schrijft brief naar liefje
+warden_wardengangsjlocks_name	Kapitein J. Locks
+warden_wardengangsjlocks_desc	Personeel onder Locks' bevel is in staat hun grenzen te verleggen en gevangenen worden omgevormd tot modelgevangenen.\n\n- 30% meer uithoudingsvermogen van het personeel (vereist 10% meer rust).\n- 10% minder kans op recidive van gevangenen.
+warden_wardengangsjlocks_desc_short	- Personeel heeft meer uithoudingsvermogen.\n- Gevangenen maken 10% minder kans op recidive.
+warden_wardengangscook_name	Dylan Cook
+warden_wardengangscook_desc	Dit heerschap heeft gladde praatjes en zal de beste prijzen voor je gevangenis weten te krijgen. Reken maar dat hij kortingsbonnen gebruikt in de supermarkt!\n\n- Voedselkosten verlaagd met 25%.\n- Programma's die externe leraren vereisen kosten 20% minder.
+warden_wardengangscook_desc_short	- Voedselkosten verlaagd met 25%.\n- Programma's die externe leraren vereisen kosten 20% minder.
+rapsheet_manualCellSwap_hint	Kies er simpelweg voor om deze gevangene naar een betere/slechtere cel te verplaatsen, of kies zelf een nieuwe cel.
+rapsheet_cellUpgrade	Betere cel
+rapsheet_cellDowngrade	Slechtere cel
+rapsheet_cellChoice	Nieuwe cel kiezen
+rapsheet_ChangeCell	Cel veranderen
+ChangeCellUpgradeSuccessful	Je hebt *X gepromoveerd naar een betere cel.
+ChangeCellDowngradeSuccessful	Je hebt *X gedegradeerd naar een slechtere cel.
+ChangeCellNoAvailableRooms	Er zijn kamers beschikbaar om *X naartoe te verplaatsen. Wil je het ruilmenu voor gepersonaliseerde kamers gebruiken?
+ChangeCellDowngradingGangLeader	Je staat op het punt een bendeleider naar een cel van mindere kwaliteit te verplaatsen, wat zijn bende van streek zal maken en problemen in je gevangenis kan veroorzaken.
+freeCell_movePrisoner	Klik met rechts om de gevangene naar deze cel te verplaatsen.
+occupiedCell_movePrisoner	Klik met rechts om de gevangene te ruilen met de inzittende van deze cel.
+occupiedCell_selectablePrisoner	Klik met rechts om de gevangene te selecteren en te kiezen waar je deze naartoe wilt verplaatsen.
+mutator_name_NoMinRoomSize	Geen kamerformaat
+mutator_tooltip_NoMinRoomSize	Geen vereisten meer voor kamerformaat! Maar je hebt nog steeds de vereiste voorwerpen nodig om de kamer te laten werken.
+action_GangBusiness	Doet bendezaken
+action_GangRecruitment	Werft bendeleden
+action_GangPromotion	Promoot bende
+action_ActionHerb	Saboteert
+action_LoadBaby	Draagt baby
+action_WarmUp	Warmt op
+action_GetSnack	Haalt een snack
+action_Drink	Haalt een drankje
+action_DoPullUps	Doet pull-ups
+action_KneeRaises	Doet knie-oefeningen
+action_PushUps	Doet push-ups
+reform_program_properties_RequiresAllStudentsPresent	Vereist dat alle leerlingen aanwezig zijn
+d11_tableClaim_title	Beheerd door *G
+d11_tableClaim_desc	Verplaats of ontmantel ze om ze van hun tafels te verwijderen.
+d11_tableClaim_desc_cont	Hier zullen ze echter boos van worden.
+schedulesearch_menu_ClearSchedule	Rooster leegmaken

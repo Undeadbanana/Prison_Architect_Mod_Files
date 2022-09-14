@@ -4,8 +4,8 @@
 # Codex
 # =============================================================================
 
-codex_viewchangelog	全変更履歴
-codex_legal	法的
+codex_viewchangelog	変更履歴
+codex_legal	法務
 codex_privacy	個人情報保護方針
 codex_terms-of-use	利用規約
 codex_eula	エンドユーザーライセンス契約
@@ -71,7 +71,7 @@ quickbuild_workshop	ワークショップ
 
 
 mm_updatenotes_Date	2019年6月27日
-mm_updatenotes_Header	刑務所のアップデート
+mm_updatenotes_Header	「牢房」更新
 mm_updatenotes_01	4種の新しいフロアタイルと4種の新しい壁が新たに追加されました。
 mm_updatenotes_02	パフォーマンスを改善し、それに伴い読み込み時間を短縮しています。
 mm_updatenotes_03	看守がプログラムを教えることのできる大型の牢獄について、雇える看守の数を増やしました。
@@ -103,7 +103,7 @@ material_yutaniwall	壁（ユタニ）
 
 
 
-material_solacofloor	スラコ
+material_solacofloor	ソラコ
 material_gratefloor	格子
 
 # =============================================================================
@@ -437,7 +437,7 @@ material_grasscornerfloor	グラスコーナー
 material_grasscornerfloor1	グラスコーナー
 material_grasscornerfloor2	グラスコーナー
 material_grasscornerfloor3	グラスコーナー
-material_lunarfloor	月
+material_lunarfloor	ルナ
 
 # =============================================================================
 # Objects - Names
@@ -674,7 +674,7 @@ interfacedeployment_insaneseczone	精神障害区画のみ
 interfacetopbar_PrisonerCells_insaneSecOnly	触法精神障害者収容数: *X
 
 roomgrading_PsychiatristOffice_info	精神科医室にアンロックした追加のオブジェクトを配置すると、触法精神障害者の受刑者に対する治療を改善することができる。\n
-Items	are unlocked via criminally insane inmates attending Psychiatric Consultation Programs.
+Items	は、精神科の診察プログラムに通う精神異常犯罪者の囚人によりアンロックされている。
 roomgrading_PsychiatristOffice_Item	アイテム: *X
 roomgrading_PsychiatristOffice_Quality	精神科医のアビリティ: *Q
 roomgrading_PsychiatristOffice_Upgrade	精神科医のオフィスをアップグレードして、アビリティを強化することができる。
@@ -701,15 +701,15 @@ objective_readinsaneletter_description	触法精神障害者を刑務所に収�
 # Wardens
 # =============================================================================
 
-warden_wardeninsanehawk_name	ホーク・ハートマン
+warden_wardeninsanehawk_name	ホーク・ハートマン氏
 warden_wardeninsanehawk_desc	元保釈保証人（実態は脱走者ハンター）として、ハートマンは貴重なトレーニングテクニックをセキュリティスタッフに伝えることができる。\n\n- すべての看守がスタッフキーを落とす頻度が少なくなる\n- 看守のスタミナが収容時に補充される
 warden_wardeninsanehawk_desc_short	- 看守のスタミナは収容時に回復する。
 
-warden_wardeninsaneslugworth_name	スラグワース博士
+warden_wardeninsaneslugworth_name	スラッグワース先生
 warden_wardeninsaneslugworth_desc	他のすべての刑務所から拒絶された触法精神障害者であっても、スラグワースは彼らに対して扉を開き、自分なら助けることができると信じている。\n\n- 精神科医の治療は20％ポジティブになる\n- 触法精神障害者が贈られてくる確率がアップ！
 warden_wardeninsaneslugworth_desc_short	- より多くのサイコパシーな触法精神障害者を受け入れることができる。精神科医はより良い治療を提供することができる。
 
-warden_wardeninsanehudson_name	ハドソン博士
+warden_wardeninsanehudson_name	ハドソン先生
 warden_wardeninsanehudson_desc	ハドソン博士は、他の刑務所長にはできないことを行う備えがある…\n\n- 緊急サービスは20％速く動作し、より迅速に到着する\n -修理費用は10％削減される
 warden_wardeninsanehudson_desc_short	- 対応時間が短縮され、修理費用が削減される。
 
@@ -833,7 +833,7 @@ status_effect_sedated	鎮静状態
 orderly_description	病棟用務員は、触法精神障害受刑者への対応と鎮静（必要な場合）のために特別に訓練されています。
 pyschiatrist_description	すべての触法精神障害受刑者は、精神科医との定期的な一対一の精神科カウンセリングセッションが必要となります。[プログラム]メニューから精神科カウンセリングセッションを追加してください。
 
-insanetooltip_status	ステータス: *X
+insanetooltip_status	ステータス：*X
 insanetooltip_status_level0	平静
 insanetooltip_status_level1	興奮
 insanetooltip_status_level2	不安定
@@ -847,7 +847,7 @@ administrator_requiresoffice_psychiatrist	精神科医のオフィスが必要
 dlc_upsell	このセーブでは、『*D』エクスパンションの内容を利用しています。システムエクスパンションを検出できなかったため、一部の機能が無効になります。『*D』を購入して、Prison Architectのプレイ体験を最大限に拡張することをご検討ください。
 dlc_upsell_multiplayer	このマルチプレイヤーゲームのホストは、『*D』エクスパンションを購入しており、あなたもゲストとしてアクセスすることができます。お楽しみください！
 
-dlc_insane	精神病棟: 刑務所長エディション
+dlc_insane	精神病棟：刑務所長版
 dlc_seaandair	アイランドバウンド
 
 regime_work_pyscho	プログラム/自由時間
@@ -936,7 +936,7 @@ codex_option_doubleClick	ダブルクリックしてオブジェクトを移動
 # Clone Tool
 # =============================================================================
 
-BuildCost_CloneRoom	部屋を複製
+BuildCost_CloneRoom	クローン室
 
 # =============================================================================
 # Missing Strings
@@ -948,7 +948,7 @@ codex_joinonline	オンラインゲームに参加
 codex_join	ゲームに参加
 codex_usernamelabel	ユーザー名:
 codex_namelabel	ゲーム名:
-codex_passwordlabel	パスワード:
+codex_passwordlabel	パスワード：
 codex_passwordprotectedlabel	パスワードで保護しますか？
 codex_listedlabel	一般に公開しますか？
 codex_roomlistlabel	ゲームリスト:
@@ -957,7 +957,7 @@ codex_retrievingserverlistlabel	ゲームリストを取得中…
 codex_datausage	データ使用量: 送信 - *SkB/s, 受信 - *RkB/s
 codex_multiplayeroptions	プレイヤーを管理
 codex_playeroptions	プレイヤー
-codex_regionlabel	リージョン:
+codex_regionlabel	地域：
 
 multiplayer_chooseroomname	ゲーム名を選択してください
 multiplayer_chooseusername	ユーザー名を入力してください
@@ -978,16 +978,16 @@ multiplayer_modsdisabled	Modはオンラインプレイでは無効になって�
 multiplayer_mutatorsdisabled	ミューテーターはオンラインプレイでは無効になっています
 multiplayer_kicked	あなたはゲームからキックされました。
 multiplayer_kick	キック
-multiplayer_ban	追放
+multiplayer_ban	禁止
 
-multiplayer_host	ホスト:
+multiplayer_host	ホスト：
 
 multiplayer_welcomeanalytics	Prison Architectマルチプレイヤーへようこそ。\n\n私たちは、マルチプレイヤーでもPrison Architectの完全な体験を提供できるように取り組んでいます。Prison Architectは大規模なゲームであり、これほどのゲームをマルチプレイヤーを誰もが利用できるようにするのは我々としても今回が初めてなので、我々はプレイヤーが遭遇する可能性のある問題にフォーカスしています。\n\nこの取り組みを支援するために、匿名化された分析を提供いただくことで、皆さんがゲームで抱えている問題を解決することができるのです。これは、オプションメニューからいつでも無効にできます。metrics.txtで収集対象データを確認することができます\n\nPrison Architectをぜひお友達とプレイして楽しんでください。
 
 region_asia	アジア
 region_au	オーストラリア
 region_cae	カナダ、東部
-region_eu	ヨーロッパ
+region_eu	欧州
 region_in	インド
 region_jp	日本
 region_ru	ロシア
@@ -995,7 +995,7 @@ region_rue	ロシア、東部
 region_sa	南アメリカ
 region_kr	韓国
 region_us	アメリカ、東部
-region_usw	アメリカ、西部
+region_usw	アメリカ西部
 
 codex_options_disableattract	起動時画面を無効にする
 codex_option_escapeplans	脱出計画
@@ -1011,7 +1011,7 @@ graph_label_2	データ型2
 graph_label_day	日
 
 graph_axis_none	なし
-graph_axis_profit	利益
+graph_axis_profit	収益
 graph_axis_funds	資金
 graph_axis_prisonsize	刑務所サイズ（m²）
 graph_axis_numprisoners	受刑者数
@@ -1032,7 +1032,7 @@ graph_axis_reoffendingrate	再犯率
 graph_axis_prisonvalue	刑務所の価値
 graph_axis_prisonercapacity	受刑者収容人数
 graph_axis_numincidents	インシデント件数
-graph_axis_totalincidents	総インシデント数
+graph_axis_totalincidents	問題発生件数
 
 equipment_Photo	写真
 equipment_SubMachineGun	小型機関銃
@@ -1206,7 +1206,7 @@ buildtoolbar_popup_obj_bambooDoor	竹製のフェンスに合わせてある男�
 buildtoolbar_popup_obj_canvas	互いに刺し合うことなく、受刑者が自分の気持ちを表現する創造的な方法。
 buildtoolbar_popup_obj_PetBird	受刑者のグループを維持するためのちょっとした小道具。\n -「家族」、「快適性」、「贅沢」のニーズに応える。
 buildtoolbar_popup_obj_SoftPillow	ふわふわの羽毛枕が、受刑者のベッドの品質と快適さをさらに向上させてくれる。\n -「快適性」と「睡眠」のニーズに応える。
-buildtoolbar_popup_obj_BoxingRing	これなしに衛生的なジムは完成しない。ほとんどの受刑者は、このキャンバスに絵を描くことが好きだ。\n- 運動とレクリエーションのニーズに応える。
+buildtoolbar_popup_obj_BoxingRing	これなしに刑務所のジムは完成しない。ほとんどの囚人は、このキャンバスに絵を描くことが好きだ。
 buildtoolbar_popup_obj_DumbbellRack	肉体志向の受刑者向け。\n -「運動」のニーズに応える。
 buildtoolbar_popup_obj_Treadmill	スリムな体を保ちたい受刑者のために。一生懸命訓練すれば、受刑者だってより速く走れるようになる。\n- 安全性のニーズに応える。
 buildtoolbar_popup_obj_Fan	昔ながらのスタンド型送風機。周囲の空気を少しだけ冷却する。
@@ -1792,9 +1792,9 @@ buildtoolbar_popup_obj_SteppingStonePallet	囚人やスタッフが水を渡れ�
 buildtoolbar_popup_uts_ScannerMonitor	警備員が密輸を発見するためのモニターで、スキャナーマシンに配線をつないで使用します。警備員が密輸を発見する能力は、警備員の疲労度によって変わります。
 buildtoolbar_popup_uts_ScannerMachine	配達エリアと保管室で、密輸品が入った木箱をスキャンするマシンです。警備員が密輸品を発見するために使用するにはスキャナーモニターに接続する必要があります。警備員が密輸を発見する能力は、警備員の疲労度によって変わります。
 buildtoolbar_popup_obj_Checkpoint	通過する囚人や面会人を捜索するための検問所です。囚人は警備員がいる間、一方向にしか検問を通過できません。
-buildtoolbar_popup_mat_waterShallow	砂と水の地面の間に浅瀬のエリアを作って見栄えの良い海岸線を作成しましょう。これらのタイルは通常の水と違って歩行することが出来ます。- $*A (屋外のみ)
-buildtoolbar_popup_mat_waterLarge	水、湖、海の広いエリアを作成しましょう。- $*A (屋外のみ)
-buildtoolbar_popup_mat_WoodenDockFloor	硬い木材の床はドックヤードに最適です。- $*A (屋外のみ)
+buildtoolbar_popup_mat_waterShallow	砂と水の地面の間に浅瀬のエリアを作って見栄えの良い海岸線を作成しましょう。これらのタイルは通常の水と違って歩行することが出来ます。
+buildtoolbar_popup_mat_waterLarge	水、湖、海の広いエリアを作成しましょう。
+buildtoolbar_popup_mat_WoodenDockFloor	硬い木材の床はドックヤードに最適です。
 
 landscape_hint	（水の上に作成できます）
 
@@ -2945,15 +2945,15 @@ d11_researchhint_l_farming	この研究によって、様々な農作関連の�
 object_quickconnect	クイック接続
 objective_GoingGreenInfo_child_1	ゴーイング・グリーンの主要な特徴は以下の通りです：各小見出しにカーソルを合わせると、各特徴の概要と説明が表示されます。
 d11_cropDistributionHint	右クリック：供給の管理
-dlc_name_psychWard	Psych Ward
-dlc_name_prisonWing	Cleared For Transfer
+dlc_name_psychWard	精神病棟
+dlc_name_prisonWing	移送用に撤去済み
 dlc_name_seaAirLand	アイランドバウンド
 dlc_name_greenMachine	ゴーイング・グリーン
 interfacemode_objectType_filter_requiresWater	配管
 interfacemode_objectType_filter_requiresElectricity	電子工学
 interfacemode_objectType_filter_entertainment	娯楽
-interfacemode_objectType_filter_rest	rest
-interfacemode_objectType_filter_exercise	exercise
+interfacemode_objectType_filter_rest	休憩
+interfacemode_objectType_filter_exercise	運動
 interfacemode_objectType_filter_decoration	装飾
 interfacemode_objectType_filter_foliage	葉
 interfacemode_objectType_filter_signs	サイン
@@ -3075,7 +3075,8 @@ job_group_hovering_expand	クリックして類似の作業タイプを拡張す
 job_group_hovering_collapse	クリックして類似の作業タイプを折りたたむ
 
 buildtoolbar_popup_mat_grasscornerfloor	汚れた芝生のコーナー。角度がついた通路に役立つ。
-d11_farm_search_freq_caption	調査頻度d11_hover_quantity	x *X
+d11_farm_search_freq_caption	調査頻度
+d11_hover_quantity	x *X
 interfacemode_objectType_filter_all	アイテムの種類：全ての種類
 d11_farm_search_freq_option_never	なし
 objective_HelpGreenEnergy_child_1_description	発電所の代わりに使えるグリーン電力源には以下の3つの種類がある。\n\n風力タービン\n太陽光パネル\n太陽光で動作する風力タービン\n最初は太陽光パネルのみが使用可能となっている。\n\nグリーン電力源は、種類によってパワー出力などの性質が若干異なるが、発電所とは違い、最大50基まで直列接続することが可能。
@@ -3115,18 +3116,18 @@ uniform_color_15	ベルベット
 uniform_color_16	パープル
 uniform_color_17	ライム
 uniform_color_18	ホットピンク
-uniform_color_19	アクア
-uniform_color_20	ガンメタル
-uniform_color_21	砂
-uniform_color_22	ブルゴーニュ
-uniform_color_23	スロープ
-uniform_color_24	酸
-uniform_color_25	嵐
-uniform_color_26	バイオレット
+uniform_color_19	青緑
+uniform_color_20	青銅色
+uniform_color_21	砂色
+uniform_color_22	赤紫
+uniform_color_23	抹茶色
+uniform_color_24	カナリヤ色
+uniform_color_25	鼠色
+uniform_color_26	すみれ色
 uniform_color_27	泥
 uniform_color_28	鋼
 uniform_color_29	ライラック
-uniform_color_30	エッグシェル
+uniform_color_30	鳥の子色
 uniform_color_31	海洋
 object_TherapyAnimal	セラピー動物
 object_TherapyAnimalContainer	セラピー動物のコンテナ
@@ -3281,7 +3282,7 @@ d11_reform_program_pass_rate	更生プログラム合格率
 d11_reform_released_prisoners_design_info	刑務所から受刑者が出所すると、その後の受刑者の動向が報告される。受刑者が再犯に走ったか、更生して職を得たかにより、刑務所は罰金を課せられたり、報酬を獲得する。
 d11_reform_prisoners_action_reformed	更生した！
 d11_reform_prisoners_action_reoffended	再犯した！
-d11_reform_prisoners_action_reoffended_returned	が刑務所に戻された。
+d11_reform_prisoners_action_reoffended_returned	*X が刑務所に戻された。
 d11_reform_prisoners_outcome_reformed	町の*Xで仕事を見つけた。
 d11_reform_prisoners_outcome_reoffended	逮捕され、刑務所に戻る。
 d11_reform_prisoners_outcome_reoffended_returned	囚人は刑期が長くなるほど危険になるので気をつけること。
@@ -3708,10 +3709,11 @@ objective_grant_subsidence_description	政府の地盤沈下被害の支援金�
 objective_grant_subsidence_hire	修理工を雇って損傷した壁やフェンスを修理する。
 objective_grant_utilityretrofit	ユーティリティ改修支援金
 objective_grant_utilityretrofit_description	ネズミの発生は、地元企業の生産活動に深刻な影響を及ぼす可能性がある。地元企業のユーティリティ供給を保護するための支援金が利用可能になった。
-objective_grant_utilityretrofit_build	50枚の頑丈な電気ケーブルのタイルを作る
+objective_grant_utilityretrofit_build	50枚のケーブルプロテクターのタイルを作る
 calamity_grants_onboarding	近年、天候が不安定になっている。今回は運が良かったが、刑務所はあらゆる事態に備えるべきだ。悪天候の後には、地元企業にいくらかの支援金が渡される。その機会がやって来たら、ぜひ活用して欲しい。
 grant_category_CollapsedWallFence	フェンス崩壊：
 grant_category_HasObject	発生中：
+grant_category_EverHadObject	発生中：
 grant_category_CalamityHappened	災害発生：
 action_brewing	醸造
 action_electricalsabotaging	サボータージュ
@@ -3869,5 +3871,361 @@ buildtoolbar_stayIndoorsCalamity	災害
 buildtoolbar_popup_uts_WeatherMachine	気象観測装置は高度な天気予報を提供する。期間、気温、降水量、風速、そして視界を予測することができる。悪天候イベントの到来をカウントダウンで知らせる機能付き。
 buildtoolbar_popup_obj_DoubleStaffDoorBlue	職員用の両開きの扉。
 buildtoolbar_popup_obj_DoubleStaffDoorOrange	職員用の両開きの扉。
-codex_tooltip_startingSeason    開始シーズンを選択しよう。天候はシーズンに合わせて自然に移り変わる。
+codex_tooltip_startingSeason	開始シーズンを選択しよう。天候はシーズンに合わせて自然に移り変わる。
 object_AirPestControlHeli	害獣駆除（ヘリコプター）
+codex_option_default	デフォルト
+dlc_name_kimber	ギャング
+quickbuild_Gymnasium	ジム
+boilingpoint_Needs	ニーズ
+boilingpoint_ProgramCompletion	プログラム完了
+boilingpoint_RoomQuality	部屋のクオリティ
+buildtoolbar_popup_help_BoilingPoint_3	^ヒント
+securitymenu_popup_recentMisconduct	最近の不祥事：
+securitymenu_PrisonerTypeDefault	デフォルト
+securitymenu_PrisonerTypeDangerous	危険
+rapsheet_assignguard	看守を配置
+buildtoolbar_popup_help_securitymenu_4	^ヒント
+objective_HelpPrograms	プログラム
+objective_grant_positiveEnergyGrant_yard	運動場を建てる
+gang_green	緑
+d11_gang_bonebreakers_goal	破壊
+d11_gang_misconduct	不祥事：
+d11_heatmap_deaths	死亡者数：
+interface_action_CleanGraffiti	清掃
+schedulesearch_menu_Frequency	頻度
+reputation_Resourceful	臨機応変
+action_Withdrawal	脱離症状
+action_ListenToRadio	ラジオを聴く
+codex_option_plotType	プロットの種類
+codex_tooltip_plotType	これにより、特定のスタートプロットを生成できます。Defaultは土と草、Jungleは密林、Snowboundは雪、Desertは砂漠、Lunarは月面です。また、Islandは水に囲まれ、道路の代わりに船着場があり、Connected Islandは水に囲まれ、道路とつながった橋があります。
+survey_letter_1	刑務所長殿、\n\n\n刑務所の新機能やシステムのテストへの協力に感謝する。\n\nCEOとして、より良い体験を提供するために、すべての刑務所長からフィードバックを収集したいと思っている。\n\n私が作成したアンケートに回答するために、数分時間をいただけると大変ありがたい。\n\n\n刑務所設計士協会会長
+survey_letter_2	刑務所長殿、\n\n\n刑務所の新機能やシステムのテストに引き続き協力してくれたこと、改めて感謝する。\n\nフィードバックを収集したいと思っている。\n\n新機能やシステムのテストにさらに多くの時間を費やした。再度アンケートに回答して、最新のフィードバックを共有してもらえるとありがたい。\n刑務所設計士協会会長
+object_Beagle	ビーグル犬
+buildtoolbar_popup_obj_Beagle	攻撃上手よりもおやつ好きなハウンド。
+object_Doberman	ドーベルマン
+buildtoolbar_popup_obj_Doberman	ドーベルマンは究極の警察犬です。
+object_ChocolateLabrador	チョコレートラブラドール
+buildtoolbar_popup_obj_ChocolateLabrador	新しい友達を作るのが好きで、その友達が逃げ出しているのはもっと好きです。
+object_BlackShepherd	黒いジャーマンシェパード
+buildtoolbar_popup_obj_BlackShepherd	彼らは一見可愛いが、邪魔をする奴らには容赦しない。
+object_TattooRemovalMachine	タトゥー除去マシン
+buildtoolbar_popup_obj_TattooRemovalMachine	ギャングメンバーの更生に欠かせないアイテムです。刺青を消すことは、彼らの更生の第一歩です。
+object_MetalStool	金属製のスツール
+buildtoolbar_popup_obj_MetalStool	小さな金属製の素敵なスツールです。
+equipment_TattooRemovalTool	タトゥー除去ツール
+room_TheCage	監獄
+buildtoolbar_popup_room_TheCage	他の囚人から隔離された状態で、一人の囚人が運動するために使用する屋外ユニットです。
+quickbuild_TheCage	監獄
+buildtoolbar_quickbuild_TheCage	他の囚人から隔離された状態で、一人の囚人が運動するために使用する屋外ユニットです。
+material_CageFence	檻の柵
+buildtoolbar_popup_mat_CageFence	運動中の囚人に制限を課すための金網フェンス。
+room_TattooRemovalRoom	タトゥー除去室
+buildtoolbar_popup_room_TattooRemovalRoom	囚人たちがギャングとしての刺青を除去するという痛くて退屈なプロセスを経験する場所です。
+quickbuild_TattooRemovalRoom	タトゥー除去室
+buildtoolbar_quickbuild_TattooRemovalRoom	囚人たちがギャングとしての刺青を除去するという痛くて退屈なプロセスを経験する場所です。
+object_PullUpBars	懸垂バー
+buildtoolbar_popup_obj_PullUpBars	より硬派な囚人に人気のある安価な運動器具です。
+object_KneeRaise	ニーレイズ
+buildtoolbar_popup_obj_KneeRaise	より硬派な囚人に人気のある安価な運動器具です。
+object_PushUpStones	腕立て伏せ用の石
+buildtoolbar_popup_obj_PushUpStones	より硬派な囚人に人気のある安価な運動器具です。
+object_GangGraffiti	ギャングによる落書き
+d11_hover_info_gang_graffiti_1	ギャングメンバーの縄張りの強さが15%アップ
+d11_hover_info_gang_graffiti_2	ギャングメンバーの縄張りの耐性が15%アップ
+object_FightRing	ファイトリング
+buildtoolbar_popup_obj_FightRing	リングで格闘をする囚人は、棟で暴れることはないだろう。\n -エクササイズとレクリエーションのニーズに応えます。
+quickbuild_FightClubRoom	格闘クラブ室
+buildtoolbar_quickbuild_FightClubRoom	どう見てもこの部屋は存在しません。
+room_FightClubRoom	格闘クラブ室
+buildtoolbar_popup_room_FightClubRoom	どう見てもこの部屋は存在しません。
+object_CageGate	ケージゲート
+buildtoolbar_popup_obj_CageGate	フェンスと相性の良いゲートです。ドアと同じように機能します。
+buildtoolbar_popup_obj_RemoteDoor	このドアは、動作するサーボを使用してアクセスするように設計されています。このようなタイプのドアには、出入りを管理するための十分な看守を配置するか、圧力パッドを設置するようにしましょう。
+object_RemoteDoorOrange	遠隔ドア（オレンジ）
+buildtoolbar_popup_obj_RemoteDoorOrange	このドアは、動作するサーボを使用してアクセスするように設計されています。このようなタイプのドアには、出入りを管理するための十分な看守を配置するか、圧力パッドを設置するようにしましょう。
+object_RemoteDoorRed	遠隔ドア（赤）
+buildtoolbar_popup_obj_RemoteDoorRed	このドアは、動作するサーボを使用してアクセスするように設計されています。このようなタイプのドアには、出入りを管理するための十分な看守を配置するか、圧力パッドを設置するようにしましょう。
+object_RemoteDoorYellow	遠隔ドア（黄）
+buildtoolbar_popup_obj_RemoteDoorYellow	このドアは、動作するサーボを使用してアクセスするように設計されています。このようなタイプのドアには、出入りを管理するための十分な看守を配置するか、圧力パッドを設置するようにしましょう。
+object_RemoteDoorWhite	遠隔ドア（白）
+buildtoolbar_popup_obj_RemoteDoorWhite	このドアは、動作するサーボを使用してアクセスするように設計されています。このようなタイプのドアには、出入りを管理するための十分な看守を配置するか、圧力パッドを設置するようにしましょう。
+object_GymInstructor	ジムインストラクター
+object_FilingCabinetFancy	書類棚（おしゃれ）
+buildtoolbar_popup_obj_FilingCabinetFancy	スタッフへのご褒美として、おしゃれなファイルキャビネットをプレゼントしましょう。
+material_LongGrass	野草
+codex_tooltip_gangsEnhanced	ギャングに参加させる囚人の人数を変更できるようになりました。より多くのギャングを収容することで、ギャングの勧誘が早くなり、刑務所がより混沌とした危険な状態になります。\n\n  レガシー - ギャングの難易度を以前と同じように体験できる（初心者） \n  「ロー」（初期設定）- 初心者、中級者に最適 \n  ミディアム - 経験者向け \n  ハイ - 本格的なチャレンジを求める上級者向け
+codex_tooltip_morelieutenants	副官は、各ギャングの新しい縄張りを征服するために大きな役割を果たします。もしギャングをよりアクティブにしたいのであれば、副官1人につき必要なメンバーの数を減らすことを検討してみてください。チャレンジしたい方は6人以下の人数を選んでみてください。
+codex_option_morelieutenants	追加の副官
+codex_tooltip_codex_option_morelieutenants	副官は、各ギャングの新しい縄張りを征服するために大きな役割を果たします。もしギャングをよりアクティブにしたいのであれば、副官1人につき必要なメンバーの数を減らすことを検討してみてください。チャレンジしたい方は6人以下の人数を選んでみてください。
+codex_option_GangSpecialReputations	ギャング・スペシャル・レピュテーション
+codex_tooltip_GangSpecialReputations	ギャングには新しい評判が与えられ、メンバーが刑務所内でどのように行動するかを変更することができます。
+codex_option_AllDogs	すべての警察犬
+codex_tooltip_AllDogs	このオプションを選択すると、利用可能なすべての警察犬が有効になり、各レンタルがランダムに行われます。
+codex_tooltip_RandomWardens	このオプションを選択すると、刑務所長がランダムに選ばれます。
+interfacecontraband_BoilingPoint	沸点
+buildtoolbar_contraband_BoilingPoint	不満な囚人に改善の成果を見せる
+boilingpoint_header	沸点
+boilingpoint_OverallTemperature	天気と気温
+boilingpoint_StatusEffects	ステータス効果
+boilingpoint_OverallTemperature_popup	囚人を機嫌よく穏やかにする上で、受刑者の性格や前科の数など、私たちの手には負えないこともあります。受刑者が怒るほど、刑務所の気温が高まり、彼らが悪さをしやすくなります。
+boilingpoint_Needs_popup	現在、*X人の囚人が自分のニーズを満たせていません。\n\n彼らがニーズを満たすことができるよう、必要な部屋やアイテムへのアクセスを確保しよう。
+boilingpoint_ProgramCompletion_popup	現在、*X人の囚人がいずれのプログラムも完了していません。\n\n終了したプログラムが多いほど、囚人はより穏やかになります。囚人が参加できるよう、彼らのスケジュール合うプログラムをいくつか追加しましょう。一部のプログラムは繰り返し受講可です。
+boilingpoint_StatusEffects_popup	現在、*X人の囚人が悪影響を及ぼしています。\n\n禁制品、特にアルコールや麻薬をより厳しく監視することを検討しましょう。\n\n囚人がポジティブな効果を持っていると、悪さをする可能性は低くなります。
+boilingpoint_RoomQuality_popup	現在、*X人の囚人が環境の悪い部屋にいます。\n\n囚人が気持ちよく穏やかに過ごせるよう、部屋のクオリティを改善しましょう。一部の囚人はクオリティの高い部屋を持つ資格を持っていません。刑期調整を利用することで条件を減らすことができます。
+buildtoolbar_popup_help_BoilingPoint_1	沸点ビューは現在の刑務所の気温を示します。このメニューは、独房の質、ニーズ、ステータス効果、プログラム参加レベルなど、私たちの刑務所の問題点を示しています。\n\n
+buildtoolbar_popup_help_BoilingPoint_2	~それでも特定の囚人をコントロールできない場合は、「ロックダウン」や「独房」に入れて頭を冷やさせることを検討してください。\n\n
+buildtoolbar_popup_help_BoilingPoint_4	- すべての囚人が基本的ニーズを満たすことができるようにしましょう。
+buildtoolbar_popup_help_BoilingPoint_5	- 更生、心理療法、治療、作業プログラムに投資し、これらへの囚人の参加に管理体制上の問題がないようにしましょう。
+buildtoolbar_popup_help_BoilingPoint_6	- 低セキュリティーの囚人は、刑期が短いので、より高い耐性を持つことになります。
+boilingpoint_advisor_onboarding	囚人達がかんしゃくを起こしています。どうやら沸点に達したようです。囚人達の欲求を満たし、生活環境を整え、何かすることを与えてみましょう。詳しくは「沸点刑務所運営メニュー」を確認してください。
+interfacecontraband_SecurityMenu	セキュリティメニュー
+buildtoolbar_contraband_SecurityMenu	自分や他人にとって危険とみなされた囚人全員のリストを表示し、さらなる管理が必要な囚人にはセキュリティ対策を適用します。
+securitymenu_header	セキュリティメニュー
+securitymenu_popup_prisonerSelect	左クリックで囚人を選択
+securitymenu_popup_dangerousReputations	危険な評判：
+securitymenu_popup_dangerousTraits	危険な特徴：
+securitymenu_popup_crimesCommitted	犯罪：
+securitymenu_PrisonerType	囚人タイプ：
+securitymenu_PrisonerTypeVulnerable	無防備
+securitymenu_MarkingTypeUnmarked	マークなし
+securitymenu_SelectArea	エリアを選択
+securitymenu_SelectAreaCancel	エリアの選択を解除
+securitymenu_RestrictAccess	アクセスを制限：
+securitymenu_TransferPrisoners	囚人を移送：
+securitymenu_transferSecurityLevel	セキュリティレベル
+securitymenu_GuardAssignment	看守の配置：
+securitymenu_MarkPrisoner	囚人をマーク：
+securitymenu_RemovePrisoner	囚人を除外：
+securitymenu_RemovePrisonerButton	囚人を除外
+securitymenu_RemovedPrisoner	除外された囚人
+securitymenu_RemovePrisoner_message	囚人を除外\n\nこれは、凶悪犯罪者に対処するための最終手段で、高額な料金を払うことでこの囚人を別の施設に移送することができる。これを行えるのは、5日に一回のみ。
+securitymenu_RestrictAccess_tooltip	特定のエリアへの入口をブロックし、看守が取り押さえようとしなくとも、特定の囚人の出入りを禁止できる。ギャングのメンバーは、自分のエリアやテリトリーを制限されることはない。
+securitymenu_TransferPrisoner_tooltip	選択した囚人を特定のセキュリティシステムに移動させ、管理を楽にする。
+securitymenu_MarkPrisoner_tooltip	選択された囚人にビジュアルマークを付けて、より危険な個人、または危険な目に会っている個人を監視しやすくする。
+rapsheet_assignguard_end	看守の配置を解除
+job_PrisonerAssignment	囚人の割り当て
+assignment_confirm_message	看守を配置しますか？
+assignment_description_message	この囚人を見張っておきたい場合、看守を配置するといいでしょう。配置可能な看守の数が十分かを確認してください。
+assignment_error_message	この囚人には現在、看守を配置できません。後ほど再度、試してみましょう。\n\n到着したばかりか、手錠がかけられているか、独房入りしています。
+buildtoolbar_popup_help_securitymenu_1	セキュリティメニューには、囚人の中で危険または脆弱とみなされるメンバーがすべてリストアップされています。このメニューを利用することで、囚人に対して、より適切な支援や管理を行うことができます。\n\n
+buildtoolbar_popup_help_securitymenu_2	~デフォルトでは、危険な囚人と脆弱な囚人が一緒に表示されますが、「囚人タイプ」オプションにより、特定のグループにアクションを適用することができます。\n\n
+buildtoolbar_popup_help_securitymenu_3	~グループに対して適用できるアクションと、選択した個人に対してのみ適用できるアクションがありますので、囚人をハイライトして左クリックし、選択してください。\n\n
+buildtoolbar_popup_help_securitymenu_5	- 看守配置オプションは、囚人を他の囚人から守るだけでなく、他の囚人から目を離さないことで、不正行為を未然に防ぐのに役立ちます。睡眠時間やシャワー時間などのプライベートな時間には、看守は囚人のそばにはいません。
+buildtoolbar_popup_help_securitymenu_6	- 囚人が問題を起こし、対処が困難な場合、「囚人を除外」オプションを使用することで、囚人を追い出すことができます。このアクションにはクールダウンがあり、毎日実行することはできません。また、金銭的なコストもかかります。
+objectiveWindow_FilterButton_4_title	ギャングについて
+objectiveWindow_FilterButton_4_tooltip	ギャングについてのすべて
+objective_HelpGangBehaviourAndType	ギャングの行動
+objective_HelpGangBehaviourAndType_Description	新しいギャングが登場し、それぞれが微妙に異なる行動をとるようになりました。
+objective_HelpGangBehaviourAndType_child_1	バイパー
+objective_HelpGangBehaviourAndType_child_1_Description	バイパーは、自分たちが管理する麻薬を刑務所に浸透させることに重点を置く陰湿な集団であり、個別でも破壊力が大きい。
+objective_HelpGangBehaviourAndType_child_2	ボーンブレーカー
+objective_HelpGangBehaviourAndType_child_2_Description	ボーンブレイカーは、筋肉隆々のチンピラです。暴力と破壊に重点を置いています。
+objective_HelpGangBehaviourAndType_child_3	ジャッカル
+objective_HelpGangBehaviourAndType_child_3_Description	ジャッカルはギャングの中で最も機知に富んでおり、縄張りの支配と密輸品の販売に重点を置き、経済力を高めている。
+objective_HelpGangActivities	ギャング活動
+objective_HelpGangActivities_Description	ギャングの活動は、自分たちの縄張りを運営・管理したり、刑務所の主要メンバーに対して大活躍したり、プレイヤーに要求したりと、さまざまなアクションを起こします。
+objective_HelpGangActivities_child_1	特殊なアクティビティ
+objective_HelpGangActivities_child_1_Description	ギャングはそれぞれ、「バイパー」が麻薬の生産と販売、「ボーンブレイカー」が戦闘と破壊、「ジャッカル」が縄張りと金儲けに特化しており、それぞれの性格に応じた活動を行います。
+objective_HelpGangActivities_child_2	縄張り活動
+objective_HelpGangActivities_child_2_Description	新しい縄張りでは、新しい行動が生まれます。ギャングたちは、自分たちが支配する場所を「警察」し、他の囚人たちにマナーを守らせ、仕事中であってもお金を払って中のアイテムを使わせるようになります。また、ギャングのメンバーは、自分が支配する部屋から大量の密輸品を入手し、「ディーラー」が現れて他の囚人に販売します。
+objective_HelpGangActivities_child_3	ギャングの要望
+objective_HelpGangActivities_child_3_Description	一旦、ギャングが刑務所内で十分な権力と信頼を得ると、彼らはある種の要求を出し始めます。これらの要求は、新しい装備の獲得から運動場での時間やフリータイムの延長まで幅広く、プレイヤーはこれらの要求に対応するために一定の時間を与えられます。もし、プレイヤーがこれらの要求を満たせなかった場合、すぐに反撃が始まり、ギャングは通常、何らかの破壊や暴力を引き起こします。
+objective_HelpCrookedGuards	不良看守
+objective_HelpCrookedGuards_Description	勇敢なスタッフは純粋で不屈の精神を持っていると思いたいところですが、悲しいかな、必ずしもそうとは限りません。
+objective_HelpCrookedGuards_child_1	看守への賄賂
+objective_HelpCrookedGuards_child_1_Description	すべての看守は、48時間の間、特定の不正行為に対して見て見ぬふりをするように買収でき、囚人が禁制品を見つけた場合でも放置し、ギャングに縄張りを乗っ取りやすくします。また、情報提供者を利用することで、不審な看守を指摘し、堕落した看守をクビにすることも可能です。
+objective_HelpCrookedGuards_child_2	看守の汚職
+objective_HelpCrookedGuards_child_2_Description	ある種の看守は、ギャングのメンバーと交流することで腐敗し、ギャングのために密輸品を密輸するよう買収されることがあります。密輸探知機や番犬も密輸品を発見できますが、情報提供者は疑わしい看守をマークすることができます。
+objective_HelpGangIntelligence	ギャングのインテリジェンス
+objective_HelpGangIntelligence_Description	刑務所内では、多くの不正行為が行われる可能性があるため、常に諜報活動が施設内の安全を確保するための鍵となります。ギャング諜報メニューは、刑務所内の各ギャングに関する情報を提供し、各ギャングのメンバー数、資金、投獄中に行った違法行為の基本的なカウントをリストアップします。また、各ギャングの危険度を表示するために、各ギャングが参加している運動や活動も表示されます。
+objective_HelpSecurityOptions	セキュリティ対策
+objective_HelpSecurityOptions_Description	新メニューには「重要な囚人」のリストが表示され、他者から危険な目にあっている囚人、または他者から危険視されている囚人が表示されます。このメニューでは、特に注意を払うべき囚人にマークを付け、通常のゲームプレイ中でも簡単に監視することができます。また、囚人の特定のエリアへの立ち入りを制限したり、グループを特定のセキュリティレベルに移動させたり、問題のある囚人を別の施設に移動させることも可能ですが、その場合は高額な罰金を支払わなければなりません。
+objective_HelpPrograms_Description	囚人の安全を確保し、サポートするために、看守は囚人の武装を解除するための新たな訓練を受けることができるようになりました。また、囚人には新しいプログラムが用意され、囚人の更生を助けるレクリエーションプログラムや、囚人を落ち着かせストレスを解消させる試み、さらに囚人をギャングから遠ざけ、より平和で建設的な方法で刑期を終えることを可能にする更生プログラムも用意されています。
+objective_grant_positiveEnergyGrant	正のエネルギー
+objective_grant_positiveEnergyGrant_Description	ギャングメンバーは精神（そしてエネルギー）を暴力よりも運動に集中させる必要がある。研究結果によると、運動は暴力などの行動を減少させる効果があるそうだ。外の運動場に運動器具を設置しよう。
+objective_grant_positiveEnergyGrant_bench	ウェイトベンチを追加
+objective_grant_advancedProtectionGrant	高度な保護
+objective_grant_advancedProtectionGrant_Description	組織化されたギャングを相手にする際は、職員の保護が最優先だ。そのため、職員は必ず最高レベルの訓練を受けている必要がある。
+objective_grant_advancedProtectionGrant_training	20人の看守に武装解除の訓練を受けさせ、認定資格に合格させる。
+objective_grant_gangWelfareGrant	ギャング福祉
+objective_grant_gangWelfareGrant_Description	ギャング闘争をギャング福祉に変換させることは最重要課題だ。ギャング人生から足を洗えるようなプログラムに参加できれば、彼らが更生できる可能性は高い。
+objective_grant_gangWelfareGrant_exGangMembers	15人のギャングメンバーの更生に成功する。
+objective_grant_exGangProtectionGrant	元ギャングメンバー保護プログラム
+objective_grant_exGangProtectionGrant_Description	政府は、更生に取り組む元ギャングメンバーを保護するため、保護拘置棟の建設資金を提供している。
+objective_grant_protectionCells	保護拘置の囚人のみのセクターに独房を10部屋建てる
+objective_grant_protectionShower	保護拘置の囚人のみのセクターにシャワー室を建てる
+objective_grant_protectionCanteen	保護拘置の囚人のみのセクターに食堂を建てる
+objective_grant_protectionKitchen	保護拘置の囚人のみのセクターに厨房を建てる
+objective_grant_protectionYard	保護拘置の囚人のみのセクターに運動場を建てる
+objective_grant_protectionGuards	保護拘置の囚人のみのセクターに看守を1人配置
+objective_grant_protectionExGang	元ギャングメンバー1人に保護拘置の囚人としてのセキュリティレベルを割り当てる
+grant_category_adminHired	雇われた管理職員：
+reformprogram_TattooRemovalProgram	タトゥー除去プログラム
+reformprogram_TattooRemovalProgram_text	ギャングのタトゥーを入れたことを後悔している囚人がいたら、タトゥー除去プログラムに参加するよう案内して、更生を促進しよう。ただし、このプログラムを終了すると標的にされてしまう。
+reformprogram_HandToHandCombat	武装解除の認定訓練
+reformprogram_HandToHandCombat_text	状況が厳しくなればなるほど、我々はより強くなる。看守を訓練させ、囚人を武装解除させられる高度な技術を身に付けさせよう。
+reformprogram_GangRehabilitation	ギャングの更生
+reformprogram_GangRehabilitation_text	問題を起こしてばかりいるギャングのメンバーが刑務所にいる場合は、このプログラムを完了させるようにするといいだろう。ギャングとの縁を断ち、新たな人生を歩き始める第一歩となるだろう。ただし、このプログラムを終了すると標的とされてしまう。紹介タイプ：暴力と破壊。
+reform_program_intake_ReferralGangViolenceDestruction	紹介理由：暴力および破壊ギャングのみ。
+reform_program_intake_GangOnly	ギャングのみ
+reformprogram_FaithProgram	信仰プログラム
+reformprogram_FaithProgram_text	この集中プログラムに参加している囚人は、悪い生活習慣と決別し、良い人生を歩み出すことに前向きになる。このプログラムを修了した囚人は、ギャングとの縁を断ち切りたくなるかもしれない。
+reformprogram_BreatheProgram	呼吸療法
+reformprogram_BreatheProgram_text	囚人たちに呼吸法とリラックス法を教える。クラスが終わるたびに、囚人たちは気持ちがとても落ち着き、行動を改善することまで考えるようになる可能性がある。
+reformprogram_FightClub	格闘クラブ
+reformprogram_FightClub_text	これらの訓練セッションは、管理された環境下で囚人たちの破壊的なエネルギーを格闘に向けさせることを目的としている。訓練後は疲れて暴動を起こすこともないだろう。待てよ、最初のルールは確か...？
+reform_program_properties_TeacherUsesSameEquipment	教師は*Xが必要
+reform_program_properties_GangMemberCanAttend	ギャングメンバー参加可
+gang_vipers	バイパー
+gang_bonebreakers	ボーンブレイカー
+gang_jackals	ジャッカル
+gang_red	赤
+gang_blue	青
+gang_yellow	旧ギャングメンバー
+objective_GangDemand	ギャングの要望
+objective_GangDemand_description	勢いづいた暴力団幹部は、刑務所内の生活の質を向上させるために、さまざまな要求を出してきます。これらの要求に応じないと暴動に発展する可能性があるので、いざというときのために、刑務所の準備は万全にしておきましょう。
+GangDemand_announcement	要求が通らなければ、ギャングは多くのトラブルを引き起こすでしょう。
+objective_Gang_ContrabandToolsPunishment_child	*G - 検索ツールの罰を *X 時間に減らす
+objective_Gang_ContrabandToolsPunishment_Escalated_child	*G -検索ツールの罰をゼロに減らす
+objective_Gang_MurderPunishment_child	*G -殺人罪の罰を *X 時間に減らします。.
+objective_Gang_MurderPunishment_Escalated_child	*G -殺人罪の罰を *X 時間に減らします。.
+objective_Gang_MoreYardTime_child	*G -運動場での時間を *X 時間に増やします。
+objective_Gang_MoreYardTime_Escalated_child	*G -運動場での時間を *X 時間に増やします。
+objective_Gang_PullUpBars_child	*G - には *X の懸垂バーがあります。
+objective_Gang_PullUpBars_Escalated_child	*G - には *X の懸垂バーがあります。
+objective_Gang_TyreApparatus_child	*G - には *X つのタイヤ器具があります。
+objective_Gang_TyreApparatus_Escalated_child	*G - には *X つのタイヤ器具があります。
+objective_Gang_PunchBag_child	*G - には *X つのパンチバックがあります。.
+objective_Gang_PunchBag_Escalated_child	*G - には *X つのパンチバックがあります。.
+objective_Gang_PushUpStones_child	*G - には*Xつの腕立て伏せ用の石があります。
+objective_Gang_PushUpStones_Escalated_child	*G - には*Xつの腕立て伏せ用の石があります。
+objective_Gang_RequireYard_child	*G -*Xを所有する。
+objective_Gang_RequireYard_Escalated_child	*G -*Xを所有する。
+objective_Gang_RequireLibrary_child	*G -*Xを所有する。
+objective_Gang_RequireLibrary_Escalated_child	*G -*Xを所有する。
+objective_Gang_RequireMailRoom_child	*G -*Xを所有する。
+objective_Gang_RequireMailRoom_Escalated_child	*G -*Xを所有する。
+d11_gangdemand_success	状況に対応したことで少量の金銭を得ました。
+d11_gangdemand_fail	こうした状況が二度と起きないようにしてください。
+d11_gangCompensation	死刑執行報酬
+d11_gang_goal	ギャングの目的：
+d11_gang_jackals_goal	刑務所の支配
+d11_gang_traits	ギャングの特徴：
+d11_gang_officer	保護観察官：
+d11_gang_territories	縄張り：
+d11_gang_kills	ギャングソルジャー：
+d11_heatmap_gang	関与したギャング：
+d11_heatmap_day	発生日：
+d11_heatmap_time	時間：
+d11_gang_event_pr.gf	ギャングのケンカ
+d11_gang_event_g.tc	縄張りの変更
+gangSegregationMessage	どのギャングに特定のエリアに入ることを通常許すか選んでください。
+interfacedeployment_GangSegregation	ギャングの分断
+buildtoolbar_deployment_GangSegregation	また、ギャングの配置をコントロールするために、居住空間を分け、ギャング同士を遠ざけ、無用な扇動を避けることができます。
+research_StaffVetting	職員の調査
+researchtooltip_StaffVetting	新米看守が堕落する可能性が低くなる。看守調査をアンロックすると、密告人を使用して不良看守を嗅ぎつけることができるようになる。
+buildtoolbar_GuardInvestigation	看守調査
+buildtoolbar_tooltip_GuardInvestigation	密告者やセキュリティチーフと協力して、看守を調査し、腐敗を嗅ぎつけましょう。密告者が活躍すればするほど、より多くの不良看守を摘発することができます。チーフは、プログラムの実施や処刑への出席を自ら行ってはなりません。
+buildtoolbar_CI_requirement	最低1人の密告者
+guardinvestigation_underway	看守に対する捜査を実施中
+guardinvestigation_investigated	看守のうち *A/*B は調査済み
+informant_investigating	調査中
+crookedguard_fired_reward	不正な看守たちが解雇されます
+crookedguard_advisor_onboarding	ギャングに協力する不正な看守を発見しました。レポートのスタッフタブにマークしておきました。必ず解雇してください。
+buildtoolbar_popup_staff_doghandler	ドッグハンドラーとその同伴する犬は、近くを通りかかった囚人の禁制品を検知できます。
+buildtoolbar_popup_staff_kimber_doghandler	ドッグハンドラーとその同伴する犬は、囚人の禁制品や、近くを通る不良看守を察知できます。
+d11_prisoner_replacement	囚人の移転
+d11_prisoner_replacement_tooltip	囚人数は、可能な限りセキュリティレベルの比率を維持したまま、希望する数まで補充されます。余剰囚人数は、標準的なシステムに従って要求されます。
+job_cleanupobject	清掃*X
+interfacetopbar_tension_angrygangmembersgraffiti	+ *Xギャングメンバーが憤慨している（落書きが消された）
+interfacetopbar_tension_angrygangmembersleadercell	+ *Xギャングメンバーが憤慨している（リーダーがより低品質の独房に移動させられた）
+research_CCTVImprovement	監視カメラの改善
+researchtooltip_CCTVImprovement	監視カメラ機器の利用を改善しよう。態度の悪い囚人をカメラでとらえて監視できるようになる。
+d11_cctv_cone	監視カメラ用モニター
+d11_toggle_cctv_cone_detail	監視カメラ用映像モニターを操作しましょう
+d11_left_click_to_clean	左クリックでクリーン
+d11_gang_graffiti_message	暴力団は縄張りを守るために、より激しいマーキングをします。安全なときに清掃員を派遣して、惨状を処理します。ギャングたちは自分たちの「アート」が取り除かれることを快く思っておらず、仕返しをしてくるかもしれません。
+d11_gangBulkIntake_advisor_onboarding	刑務所委員会は、問題のある囚人をより有能な管理者のいる他の刑務所に移送します。あなたなら、これらの新しい囚人を容易に扱えると信じています。囚人レビューは現在、毎週行われています。
+d11_gangBulkIntake_staffAlert	ギャングメンバー受け入れバスが到着します
+d11_gangdealer_advisor_onboarding	ギャングの縄張りにディーラーの存在を特定しました。彼らから大金を押収しました。
+d11_CI_advisor_onboarding	腐敗した看守を発掘するため、秘密情報提供者と協力してください。彼らはチーフオフィスに派遣され、持っている情報を共有します。情報提供者は必ず募集してください。詳細は情報提供者メニューの(?)アイコンを確認してください。
+d11_LeaderAssassination_advisor_onboarding	ギャングたちは攻撃的になりすぎて、他のギャングのリーダーを暗殺しようと計画しています。もし成功すれば、現在の縄張りに影響が出るでしょう。
+d11_GangTargetting_advisor_onboarding	同じ目的を持つギャングのメンバー達が手を組むことがある。時には特定の犯罪を犯した人間を嫌い、標的にすることも。
+d11_staffalert_title_making_move	ギャングが動き出しました。
+d11_staffalert_summary_making_move	あるギャングが動き出したという情報が入ってきました。
+d11_staffalert_summary_gangdealer	ディーラーが発見され、あなたに500ドルが贈られました。
+d11_staffalert_summary_TerritoryPlacement	この部屋はギャングに占拠されており、作業員には危険すぎます。彼らを部屋から追い出してください。
+crisisSector_CustomSearchArea	カスタムサーチエリア
+crisisSector_ScheduleSearch	時間割りを編集
+schedulesearch_menu_TargettedArea	標的とされるエリア
+schedulesearch_menu_StartTime	開始時間
+schedulesearch_menu_ExistingSchedule	既存スケジュール
+schedulesearch_menu_CurrentTime	現在の時刻
+schedulesearch_menu_CurrentFrequency	現在の頻度
+crisisSector_UnlockedOnly	アンロック済み
+schedulesearch_menu_SaveSelection	選択を保存
+reputation_Recruiter	リクルーター
+reputationtooltip_Recruiter	この囚人は、ギャングの一員である場合、他の囚人を自分のギャングに参加させる可能性が高い。
+reputationtooltip_Resourceful	この囚人は、本を読んで過ごすことが多い。また、禁制品の場所も知っており、ギャングのために横取りする可能性がある。
+reputation_ExGangMember	元ギャングメンバー
+reputationtooltip_ExGangMember	この囚人は、自分がギャングに向いてないと悟っており、他のギャングはこれを快く思っていない。
+reputation_CunninglyBrutal	ずる賢く残忍
+reputationtooltip_CunninglyBrutal	バイパーたちはセキュリティの死角となる場所で標的を攻撃しようとする。
+reputation_SneakThief	こそ泥
+reputationtooltip_SneakThief	すべてのお先棒担ぎは、評判に関係なく、スリの能力を持っている。
+reputation_BattleTendency	戦闘傾向
+reputationtooltip_BattleTendency	棟にお先棒担ぎが看守よりも多くいる場合、彼らは職員に対してより暴力的になる。
+reputation_DisrepectSurroundings	破壊者
+reputationtooltip_DisrepectSurroundings	ボーンブレイカーは、自分の欲求が満たされないと、物に八つ当たりする。
+reputation_UnderCoverDon	覆面マフィアのドン
+reputationtooltip_UnderCoverDon	バイパーたちのリーダーは、ギャングの兵士として隠されており、罰を受けたときだけ姿を現す。
+reputation_Enforcer	殺し屋
+reputationtooltip_Enforcer	この囚人は、自分と同じギャングに属していない他の囚人を威嚇し、ギャングの縄張りを奪うことにも長けている。
+reputation_GymRat	ジム狂い
+reputationtooltip_GymRat	ボーンブレイカーは、自由時間をジムや運動場で過ごす。
+reputation_Loyal	忠実
+reputationtooltip_Loyal	この囚人は、ギャングにとどまる可能性が高く、ギャングリーダーが罰せられると激怒する。
+traits_violent	暴力的
+traits_lethal	致命的
+finance_cost_gangdealer	発見されたギャングディーラー
+object_PrisonerLetter	囚人の手紙
+object_LoveLetter	ラブレター
+object_LoveLetterOpened	ラブレター（開封済み）
+interface_prisonerWritingLetter	大切な人たちに手紙を書く
+interface_prisonerWritingLoveLetter	とても大切な誰かに手紙を書く
+warden_wardengangsjlocks_name	J.ロックス隊長
+warden_wardengangsjlocks_desc	ロックス隊長が指揮する職員は自分の限界を超えることができ、囚人は模範囚になる。\n\n職員のスタミナが30%増加（休憩は10%追加で必要となる）。\n- 囚人の再犯確率が10%減少する。
+warden_wardengangsjlocks_desc_short	- 職員のスタミナが増加。\n- 囚人の再犯確率が10%減少する。
+warden_wardengangscook_name	ディラン・コック
+warden_wardengangscook_desc	この紳士は誰とでもうまく話し、刑務所にとって最善の価格をどうにかして実現してくれる。スーパーマーケットではクーポンを使う派だと思ったほうがいい！\n\n- 食費が25％削減。\n- 外部講師を必要とするプログラムの費用が20％削減。
+warden_wardengangscook_desc_short	- 食費が25%削減。\n- 外部講師を必要とするプログラムの費用が20％削減。
+rapsheet_manualCellSwap_hint	この囚人に対して、シンプルなアップグレード/ダウングレードで空いている新しいセルに移動させるか、または移動させるセルを手動で選択する。
+rapsheet_cellUpgrade	独房のクオリティを上げる
+rapsheet_cellDowngrade	独房のクオリティを下げる
+rapsheet_cellChoice	新しい独房を選択
+rapsheet_ChangeCell	独房を変更
+ChangeCellUpgradeSuccessful	*X質の高い監房へのアップグレードが完了しました。
+ChangeCellDowngradeSuccessful	*X質の悪い監房へのダウングレードが完了しました。
+ChangeCellNoAvailableRooms	移動できる*X空室がありません。カスタムルームスワップメニューを使用しますか？
+ChangeCellDowngradingGangLeader	ギャングのリーダーをより質の低い監房に移動させようとしています。この移動はギャングを動揺させ、刑務所内で問題が生じる可能性があります。
+freeCell_movePrisoner	囚人をこの独房に移動させるには右クリックしてください。
+occupiedCell_movePrisoner	右クリックで、この独房の住人と囚人を入れ替える。
+occupiedCell_selectablePrisoner	右クリックでこの囚人を選択し、移動させたい場所を選択する。
+mutator_name_NoMinRoomSize	部屋サイズなし
+mutator_tooltip_NoMinRoomSize	部屋のサイズ条件はもういりません！しかし、部屋に必要なアイテムを揃えないと機能しない点は変わりません。
+action_GangBusiness	ギャングビジネス
+action_GangRecruitment	ギャングにスカウト
+action_GangPromotion	ギャングを昇進させる
+action_ActionHerb	買収する
+action_LoadBaby	赤ちゃんを運ぶ
+action_WarmUp	準備運動
+action_GetSnack	軽食を与える
+action_Drink	酒を与える
+action_DoPullUps	懸垂
+action_KneeRaises	ニーレイズ
+action_PushUps	腕立て伏せ
+reform_program_properties_RequiresAllStudentsPresent	全生徒の出席が必要です
+d11_tableClaim_title	*Gによる管理
+d11_tableClaim_desc	彼らをテーブルから立ち退かせるには、移動または解体を行ってください。
+d11_tableClaim_desc_cont	ただし、これを行うと彼らの怒りを買うことになります。
+schedulesearch_menu_ClearSchedule	スケジュールを削除する

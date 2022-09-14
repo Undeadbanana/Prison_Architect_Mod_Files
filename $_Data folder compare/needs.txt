@@ -833,6 +833,7 @@ BEGIN Provider
 	PrimaryNeed	    Exercise
 	PrimaryRate	    -3.00000
 	ActionType	    Use
+	Flags	        RequireNotShackled
 END
 
 BEGIN Provider

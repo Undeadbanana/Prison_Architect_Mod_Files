@@ -368,13 +368,13 @@ BEGIN Custom
     CAPTION     policy_cell_quality
     XPOS        Scaled          1221
     YPOS        Scaled          19000
-    WIDTH       Scaled          2555
+    WIDTH       Scaled          3700
     HEIGHT      Scaled          333
 END
 
 BEGIN CheckBox
     NAME        UseCellQuality
-    XPOS        Scaled          4665
+    XPOS        Scaled          4950
     YPOS        Scaled          19000
     WIDTH       Scaled          444
     HEIGHT      Scaled          333

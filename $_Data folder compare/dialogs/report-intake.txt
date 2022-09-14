@@ -211,3 +211,20 @@ BEGIN CheckBox
     WIDTH       Scaled          444
     HEIGHT      Scaled          333
 END
+
+BEGIN Custom
+    NAME        PrisonerReplacementCaption
+    CAPTION     d11_prisoner_replacement
+    XPOS        Scaled          1125
+    YPOS        Scaled          5763
+    WIDTH       Scaled          7222
+    HEIGHT      Scaled          333
+END
+
+BEGIN CheckBox
+    NAME        PrisonerReplacement
+    XPOS        Scaled          8347
+    YPOS        Scaled          5763
+    WIDTH       Scaled          444
+    HEIGHT      Scaled          333
+END
