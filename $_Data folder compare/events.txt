@@ -4,6 +4,7 @@ BEGIN Event
     Advisor         Warden
     ExtremeChance   0.05
     ObjectId        PowerStation
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type GeneratorLoad Value 0.8 END
@@ -23,6 +24,7 @@ BEGIN Event
     ExtremeChance   0.33
     ObjectId        PowerStation
     Value           0.8
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type GeneratorLoad Value 0.95 END
@@ -41,6 +43,7 @@ BEGIN Event
     Advisor         Warden
     ObjectId        Cooker
     RoomId          Kitchen
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Cooker RoomId Kitchen END
@@ -56,7 +59,9 @@ BEGIN Event
     Action          PipeBurst
     Advisor         Warden
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
+	BEGIN PreReq Type NotInEscapeMode END
     BEGIN PreReq Type CalamitiesDisabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type WaterSystem END
@@ -68,6 +73,7 @@ BEGIN Event
     Action          BulkIntake
     Advisor         Mayor
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 100 END
@@ -82,6 +88,7 @@ BEGIN Event
     ObjectId        Prisoner
     RoomId          Workshop
     Targets         1
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Doctor END
@@ -94,6 +101,7 @@ BEGIN Event
     Action          WallCollapse
     Advisor         Warden
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type SectorsExist END
@@ -108,6 +116,7 @@ BEGIN Event
     ObjectId        Prisoner
     Targets         3
     ExtremeChance   0.1
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 100 END
@@ -122,6 +131,7 @@ BEGIN Event
     Action          CreateAssassinations
     Advisor         Warden
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 150 END
@@ -140,6 +150,7 @@ BEGIN Event
     ObjectId        Tv
     RoomId          CommonRoom
     Pool            PoliticianDemand
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Tv RoomId CommonRoom END
@@ -158,6 +169,7 @@ BEGIN Event
     ObjectId        WeightsBench
     RoomId          Yard
     Pool            PoliticianDemand
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId WeightsBench RoomId Yard END
@@ -173,6 +185,7 @@ BEGIN Event
     Action          PoliticianDemand
     Advisor         Ceo
     Pool            PoliticianDemand
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type FoodQuantity Value 2 END
@@ -192,6 +205,7 @@ BEGIN Event
     Advisor         Mayor
     RoomId          Visitation
     Pool            PoliticianDemand
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Room RoomId Visitation END
@@ -208,6 +222,7 @@ BEGIN Event
     Advisor         Warden
     Pool            PrisonerDemand
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Regime RegimeType Work Value 7 END
@@ -224,6 +239,7 @@ BEGIN Event
     Advisor         Warden
     Pool            PrisonerDemand
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Regime RegimeType Sleep Value 6 Modifier -1 END
@@ -240,6 +256,7 @@ BEGIN Event
     Advisor         Warden
     Pool            PrisonerDemand
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Regime RegimeType FreeTime Value 2 Modifier -1 END
@@ -254,6 +271,7 @@ BEGIN Event
     Name            TorrentialRain
     Action          SetWeather
     Pool            Weather
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type WeatherEnabled END
@@ -266,6 +284,7 @@ BEGIN Event
     Name            Heatwave
     Action          SetWeather
     Pool            Weather
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type WeatherEnabled END
@@ -279,6 +298,7 @@ BEGIN Event
     Action          ContrabandSurge
     Advisor         Chief
     ObjectId        Teacher
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 50 END
@@ -293,6 +313,7 @@ BEGIN Event
     ObjectId        Tree
     RoomId          Forestry
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type WeatherEnabled END
@@ -311,6 +332,7 @@ BEGIN Event
     Advisor         Doctor
     ObjectId        Prisoner
     Targets         20
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 100 END
@@ -326,6 +348,7 @@ BEGIN Event
     Advisor         Chief
     ObjectId        Radio
     ExtremeChance   0.05
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Radio Value 1 END
@@ -338,6 +361,7 @@ BEGIN Event
     Name            CIListLeak
     Action          AddReputation
     Advisor         Chief
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type ConfidentialInformants Value 6 END
@@ -351,6 +375,7 @@ BEGIN Event
     Action          AddReputation
     Advisor         Chief
     Targets         1
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 50 END
@@ -362,6 +387,7 @@ END
 BEGIN Event
     Name            MassTunneling
     Action          MassTunneling
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 100 END
@@ -373,6 +399,7 @@ BEGIN Event
     Action          AddReputation
     Advisor         Warden
     Targets         1
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 100 END
@@ -384,6 +411,7 @@ BEGIN Event
     Action          TeacherEffect
     Advisor         Chief
     ObjectId        SpiritualLeader
+    CooldownFromLastEvent 84
     BEGIN PreReq Type EventsEnabled END
     BEGIN PreReq Type NoDeathOrEscapeRecently END
     BEGIN PreReq Type Object ObjectId Prisoner Value 50 END

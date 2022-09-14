@@ -8002,7 +8002,6 @@ BEGIN Object
         Sprite           d_PestControl1
     END
     Properties           Entity
-    Properties           Staff
 	Properties           DoesNotTire
     SpriteVariants       4
     Equipment		 PoisonWand

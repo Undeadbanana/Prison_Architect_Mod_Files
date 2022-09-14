@@ -135,6 +135,7 @@ Ross "Bobbiest Ross" Scott
 Dave "RTFM" Saville
 Daniel "Innocent" Schwendener
 Rob "The Penguin" Doughty
+Ben "The Diplomat" Hitchinson
 Steph "Teacake" McStea
 
 <h2>QA Team
@@ -145,7 +146,6 @@ Callum “Jellybeans” Giles
 Joe "Silent Wispa" Rybak
 Danielle "Enabler" Sinclair
 Rob "The Penguin" Doughty 
-Ben "The Diplomat" Hitchinson
 Andy "Kickpuncher" Nisbet
 John "Shifty" Barker-Challenor
 Kalem "Soap Dropper" Frost
@@ -322,8 +322,36 @@ Kateryna Nikitina
 Evgeniy Bilitskiy
 Aleksey Ivanickiy
 
-<h2>Localisation
-The Most Games
+<h2>Localisation by The Most Games
+<h2>Project Manager
+Ekaterina Dyakonenko
+Valentina Krylova
+Alexander Loktionov
+
+<h2>Translator
+Jakob Kandel
+Frederic Brunet
+Pedro Cortázar
+Alba Salgado
+Lorenzo Bertolucci
+Barbara Monti
+Matteo Scarabelli
+Yuko Kasahara
+Tomoko Takahashi
+Kim Ye Ji
+Lee  Jong Min
+Choi Yu Hyeon
+Wojciech Brudziński
+Karolina Todorska
+Asia Mleczak
+Thiago Araujo
+Alexander Sukhanov
+Dmitry Kulchitsky
+Anna Noskova
+Elif Ozkaya
+Kim Jin
+Miller Mei
+Yiching Chou
 
 
 <h1>Paradox Interactive

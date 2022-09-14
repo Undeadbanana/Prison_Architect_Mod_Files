@@ -288,6 +288,7 @@ BEGIN Event
 	Properties      DisableMessageInEscapeMode
     CooldownFromLastEvent 1
     BEGIN PreReq Type CalamitiesEnabled END
+	BEGIN PreReq Type NotInEscapeMode END
 	BEGIN PreReq Type WaterPipeFlow Value 2 END
     BEGIN PreReq Type ChanceWithWeatherLevel WeatherType DeepFreeze Value 0.10 Value2 0.20 Value3 0.30 END
 	BEGIN Data Name IsCalamity Boolean true END
@@ -303,6 +304,7 @@ BEGIN Event
 	Properties      DisableMessageInEscapeMode
     CooldownFromLastEvent 1
     BEGIN PreReq Type CalamitiesEnabled END
+	BEGIN PreReq Type NotInEscapeMode END
 	BEGIN PreReq Type WaterPipeFlow Value 2 END
 	BEGIN PreReq Type ChanceWithWeatherLevel WeatherType LightningStorm Value 0.10 Value2 0.20 Value3 0.30 END
 	BEGIN Data Name IsCalamity Boolean true END

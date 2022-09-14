@@ -67,6 +67,7 @@ BEGIN Plan
 		IslandEmergencyServiceEnum	AirDrainageSpecialists
 		EmergencyServiceTriggerEnum Flooding		
 		DefaultTriggerValue			4
+		DisabledInEscapeMode		true
 	END
 END
 
