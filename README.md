@@ -1,4 +1,4 @@
-# Prison_Architect_Mod_Files
+# Prison Architect Mod Files
 This is the main.dat file unpacked from the Prison Architect game. These are the files the devs have made available for modding. The reason for uploading the files here is to keep track of changes between patches, because as we all know not all changes make it into the patch notes.
 
 I don't really mod, so this isn't the place for questions about it. I spent a lot of time learning and really dislike changes that aren't in patch notes so I decided to upload the files here to keep track of changes myself.
